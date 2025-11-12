@@ -1,0 +1,842 @@
+[
+	{
+		"id": "MUSC001",
+		"category": "Música",
+		"level": "easy",
+		"question": "Qual banda britânica, conhecida como os \"Fab Four\", é famosa por álbuns como \"Abbey Road\" e \"Sgt. Pepper's Lonely Hearts Club Band\"?",
+		"options": [
+			{ "description": "The Rolling Stones", "isCorrect": false },
+			{ "description": "The Beatles", "isCorrect": true },
+			{ "description": "Queen", "isCorrect": false },
+			{ "description": "Led Zeppelin", "isCorrect": false }
+		],
+		"source_explanation": "A biografia oficial da banda no Rock & Roll Hall of Fame detalha sua discografia e impacto cultural como os \"Fab Four\".",
+		"source_abnt": "ROCK & ROLL HALL OF FAME. *The Beatles*. Cleveland, OH: Rock & Roll Hall of Fame, 1988. Disponível em: https://www.rockhall.com/inductees/beatles. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC002",
+		"category": "Música",
+		"level": "easy",
+		"question": "Quem é amplamente conhecido como o \"Rei do Pop\"?",
+		"options": [
+			{ "description": "Elvis Presley", "isCorrect": false },
+			{ "description": "Prince", "isCorrect": false },
+			{ "description": "Michael Jackson", "isCorrect": true },
+			{ "description": "Stevie Wonder", "isCorrect": false }
+		],
+		"source_explanation": "O Guinness World Records e outras fontes oficiais atestam o título de \"Rei do Pop\" a Michael Jackson, citando-o como o artista de maior sucesso de todos os tempos.",
+		"source_abnt": "GUINNESS WORLD RECORDS. *Most successful entertainer of all time*. Londres: Guinness World Records, [s.d.]. Disponível em: https://www.guinnessworldrecords.com/world-records/most-successful-entertainer-of-all-time. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC003",
+		"category": "Música",
+		"level": "easy",
+		"question": "Qual é o nome do álbum de Michael Jackson de 1982 que se tornou o álbum mais vendido de todos os tempos?",
+		"options": [
+			{ "description": "Bad", "isCorrect": false },
+			{ "description": "Dangerous", "isCorrect": false },
+			{ "description": "Off the Wall", "isCorrect": false },
+			{ "description": "Thriller", "isCorrect": true }
+		],
+		"source_explanation": "A RIAA (Associação da Indústria de Gravação da América) certifica \"Thriller\" como um dos álbuns mais vendidos na história dos EUA, com mais de 34 milhões de unidades.",
+		"source_abnt": "RECORDING INDUSTRY ASSOCIATION OF AMERICA (RIAA). *Top 100 Albums*. Washington, D.C.: RIAA, [s.d.]. Disponível em: https://www.riaa.com/gold-platinum/top-100-albums/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC004",
+		"category": "Música",
+		"level": "easy",
+		"question": "Qual artista é conhecido como o \"Rei do Rock and Roll\"?",
+		"options": [
+			{ "description": "Chuck Berry", "isCorrect": false },
+			{ "description": "Little Richard", "isCorrect": false },
+			{ "description": "Elvis Presley", "isCorrect": true },
+			{ "description": "Johnny Cash", "isCorrect": false }
+		],
+		"source_explanation": "A biografia oficial de Elvis Presley no Hall da Fama do Rock o cita como o \"indiscutível Rei do Rock and Roll\".",
+		"source_abnt": "ROCK & ROLL HALL OF FAME. *Elvis Presley*. Cleveland, OH: Rock & Roll Hall ofame, 1986. Disponível em: https://www.rockhall.com/inductees/elvis-presley. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC005",
+		"category": "Música",
+		"level": "easy",
+		"question": "Qual compositor clássico, que ficou surdo no final da vida, é famoso por sua 5ª Sinfonia (com o famoso motivo \"tá-tá-tá-TÃ\")?",
+		"options": [
+			{ "description": "Wolfgang Amadeus Mozart", "isCorrect": false },
+			{ "description": "Johann Sebastian Bach", "isCorrect": false },
+			{ "description": "Ludwig van Beethoven", "isCorrect": true },
+			{ "description": "Frédéric Chopin", "isCorrect": false }
+		],
+		"source_explanation": "Biografia enciclopédica que detalha a vida de Beethoven, suas principais obras (incluindo a 5ª Sinfonia) e a progressão de sua surdez.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Ludwig van Beethoven. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/biography/Ludwig-van-Beethoven. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC006",
+		"category": "Música",
+		"level": "easy",
+		"question": "Freddie Mercury foi o icônico vocalista de qual banda de rock britânica?",
+		"options": [
+			{ "description": "Pink Floyd", "isCorrect": false },
+			{ "description": "Queen", "isCorrect": true },
+			{ "description": "The Who", "isCorrect": false },
+			{ "description": "Black Sabbath", "isCorrect": false }
+		],
+		"source_explanation": "A biografia oficial da banda no Rock & Roll Hall of Fame identifica Freddie Mercury como o vocalista principal e frontman.",
+		"source_abnt": "ROCK & ROLL HALL OF FAME. *Queen*. Cleveland, OH: Rock & Roll Hall of Fame, 2001. Disponível em: https://www.rockhall.com/inductees/queen. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC007",
+		"category": "Música",
+		"level": "easy",
+		"question": "\"Bohemian Rhapsody\" é uma das canções mais famosas de qual banda?",
+		"options": [
+			{ "description": "The Beatles", "isCorrect": false },
+			{ "description": "Led Zeppelin", "isCorrect": false },
+			{ "description": "Queen", "isCorrect": true },
+			{ "description": "Eagles", "isCorrect": false }
+		],
+		"source_explanation": "A faixa \"Bohemian Rhapsody\" é a peça central do álbum \"A Night at the Opera\" da banda Queen, lançado em 1975.",
+		"source_abnt": "QUEEN. *A Night at the Opera*. [LP]. EMI Records, 1975."
+	},
+	{
+		"id": "MUSC008",
+		"category": "Música",
+		"level": "easy",
+		"question": "Qual artista jamaicano é considerado o pioneiro e maior ícone do Reggae?",
+		"options": [
+			{ "description": "Bob Marley", "isCorrect": true },
+			{ "description": "Jimi Hendrix", "isCorrect": false },
+			{ "description": "Tupac Shakur", "isCorrect": false },
+			{ "description": "James Brown", "isCorrect": false }
+		],
+		"source_explanation": "A biografia oficial de Bob Marley no Hall da Fama do Rock o credita por popularizar o reggae globalmente e como a primeira superestrela do Terceiro Mundo.",
+		"source_abnt": "ROCK & ROLL HALL OF FAME. *Bob Marley*. Cleveland, OH: Rock & Roll Hall of Fame, 1994. Disponível em: https://www.rockhall.com/inductees/bob-marley. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC009",
+		"category": "Música",
+		"level": "easy",
+		"question": "Qual é o nome da artista pop conhecida como a \"Rainha do Pop\", famosa por hits como \"Like a Virgin\" e \"Vogue\"?",
+		"options": [
+			{ "description": "Cher", "isCorrect": false },
+			{ "description": "Madonna", "isCorrect": true },
+			{ "description": "Cyndi Lauper", "isCorrect": false },
+			{ "description": "Whitney Houston", "isCorrect": false }
+		],
+		"source_explanation": "O Guinness World Records reconhece Madonna como a artista feminina com o maior número de vendas de todos os tempos, um fato que solidifica seu título de \"Rainha do Pop\".",
+		"source_abnt": "GUINNESS WORLD RECORDS. *Best-selling female recording artist*. Londres: Guinness World Records, [s.d.]. Disponível em: https://www.guinnessworldrecords.com/world-records/best-selling-female-recording-artist. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC010",
+		"category": "Música",
+		"level": "easy",
+		"question": "A banda Nirvana, liderada por Kurt Cobain, foi a pioneira de qual gênero de rock nos anos 90?",
+		"options": [
+			{ "description": "Heavy Metal", "isCorrect": false },
+			{ "description": "Grunge", "isCorrect": true },
+			{ "description": "Punk Rock", "isCorrect": false },
+			{ "description": "Rock Progressivo", "isCorrect": false }
+		],
+		"source_explanation": "Artigos da revista Rolling Stone e outras fontes de crítica musical definem o Nirvana e o álbum \"Nevermind\" (1991) como o ponto de explosão do gênero grunge, originário de Seattle.",
+		"source_abnt": "AZERRAD, Michael. *Come as You Are: The Story of Nirvana*. Nova York: Doubleday, 1993."
+	},
+	{
+		"id": "MUSC011",
+		"category": "Música",
+		"level": "easy",
+		"question": "Qual álbum da banda Pink Floyd, com uma capa icônica de prisma, é um dos álbuns mais vendidos de todos os tempos?",
+		"options": [
+			{ "description": "The Wall", "isCorrect": false },
+			{ "description": "Wish You Were Here", "isCorrect": false },
+			{ "description": "The Dark Side of the Moon", "isCorrect": true },
+			{ "description": "Animals", "isCorrect": false }
+		],
+		"source_explanation": "O álbum \"The Dark Side of the Moon\" (1973) é famoso por sua longevidade recorde (mais de 900 semanas) na parada Billboard 200.",
+		"source_abnt": "BILLBOARD. *Greatest of All Time Billboard 200 Albums*. Nova York: Billboard, [s.d.]. Disponível em: https://www.billboard.com/charts/greatest-billboard-200-albums/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC012",
+		"category": "Música",
+		"level": "easy",
+		"question": "Qual grupo pop sueco dos anos 70 é famoso por sucessos como \"Dancing Queen\" e \"Mamma Mia\"?",
+		"options": [
+			{ "description": "Fleetwood Mac", "isCorrect": false },
+			{ "description": "ABBA", "isCorrect": true },
+			{ "description": "Bee Gees", "isCorrect": false },
+			{ "description": "Roxette", "isCorrect": false }
+		],
+		"source_explanation": "A biografia oficial do ABBA no Rock & Roll Hall of Fame lista seus maiores sucessos, incluindo \"Dancing Queen\" (1976).",
+		"source_abnt": "ROCK & ROLL HALL OF FAME. *ABBA*. Cleveland, OH: Rock & Roll Hall of Fame, 2010. Disponível em: https://www.rockhall.com/inductees/abba. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC013",
+		"category": "Música",
+		"level": "easy",
+		"question": "Qual compositor austríaco foi um prodígio que começou a compor aos cinco anos e escreveu \"A Flauta Mágica\"?",
+		"options": [
+			{ "description": "Beethoven", "isCorrect": false },
+			{ "description": "Vivaldi", "isCorrect": false },
+			{ "description": "Bach", "isCorrect": false },
+			{ "description": "Wolfgang Amadeus Mozart", "isCorrect": true }
+		],
+		"source_explanation": "A biografia de Mozart documenta seu status de prodígio (compondo minuetos aos 5 anos) e suas principais óperas, incluindo \"A Flauta Mágica\" (1791).",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Wolfgang Amadeus Mozart. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC014",
+		"category": "Música",
+		"level": "easy",
+		"question": "Qual é o nome da famosa guitarra do lendário artista de blues B.B. King?",
+		"options": [
+			{ "description": "Lucille", "isCorrect": true },
+			{ "description": "Fender Stratocaster", "isCorrect": false },
+			{ "description": "Blackie", "isCorrect": false },
+			{ "description": "Trigger", "isCorrect": false }
+		],
+		"source_explanation": "A coleção oficial do B.B. King Museum conta a história de como sua guitarra Gibson ES-355 recebeu o nome de \"Lucille\" após um incêndio em um show.",
+		"source_abnt": "B.B. KING MUSEUM. *Lucille: The Story of B.B. King's Guitar*. Indianola, MS: B.B. King Museum, [s.d.]. Disponível em: https://bbkingmuseum.org/lucille/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC015",
+		"category": "Música",
+		"level": "easy",
+		"question": "Bono é o vocalista principal de qual banda de rock irlandesa?",
+		"options": [
+			{ "description": "The Cranberries", "isCorrect": false },
+			{ "description": "U2", "isCorrect": true },
+			{ "description": "Thin Lizzy", "isCorrect": false },
+			{ "description": "Snow Patrol", "isCorrect": false }
+		],
+		"source_explanation": "A biografia oficial do U2 no Hall da Fama do Rock identifica Bono (Paul Hewson) como o vocalista e letrista principal.",
+		"source_abnt": "ROCK & ROLL HALL OF FAME. *U2*. Cleveland, OH: Rock & Roll Hall of Fame, 2005. Disponível em: https://www.rockhall.com/inductees/u2. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC016",
+		"category": "Música",
+		"level": "easy",
+		"question": "Qual cantor e compositor americano, cego de nascença, é um gênio do soul e R&B conhecido por hits como \"Superstition\" e \"I Just Called to Say I Love You\"?",
+		"options": [
+			{ "description": "Ray Charles", "isCorrect": false },
+			{ "description": "Stevie Wonder", "isCorrect": true },
+			{ "description": "James Brown", "isCorrect": false },
+			{ "description": "Marvin Gaye", "isCorrect": false }
+		],
+		"source_explanation": "A biografia do artista no museu da Motown detalha seu impacto na gravadora (começando como \"Little Stevie Wonder\") e sua carreira premiada.",
+		"source_abnt": "MOTOWN MUSEUM. *Stevie Wonder*. Detroit, MI: Motown Museum, [s.d.]. Disponível em: https://motownmuseum.org/artist/stevie-wonder/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC017",
+		"category": "Música",
+		"level": "easy",
+		"question": "Qual artista pop contemporânea começou sua carreira no grupo Destiny's Child antes de se tornar um ícone global solo?",
+		"options": [
+			{ "description": "Rihanna", "isCorrect": false },
+			{ "description": "Lady Gaga", "isCorrect": false },
+			{ "description": "Beyoncé", "isCorrect": true },
+			{ "description": "Alicia Keys", "isCorrect": false }
+		],
+		"source_explanation": "O perfil oficial de Beyoncé na Recording Academy (Grammy) documenta sua carreira, começando como vocalista principal do grupo Destiny's Child.",
+		"source_abnt": "GRAMMY AWARDS. *Beyoncé*. Santa Monica, CA: The Recording Academy, [s.d.]. Disponível em: https://www.grammy.com/artists/beyonce/14196. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC018",
+		"category": "Música",
+		"level": "easy",
+		"question": "O álbum \"Rumours\", conhecido por ter sido gravado durante um período de grande conflito interno da banda, pertence a qual grupo?",
+		"options": [
+			{ "description": "Eagles", "isCorrect": false },
+			{ "description": "Fleetwood Mac", "isCorrect": true },
+			{ "description": "The Doors", "isCorrect": false },
+			{ "description": "ABBA", "isCorrect": false }
+		],
+		"source_explanation": "A análise da revista Rolling Stone sobre o álbum \"Rumours\" (1977) detalha os conflitos interpessoais (divórcios, separações) que alimentaram o álbum.",
+		"source_abnt": "ROLLING STONE. *500 Greatest Albums of All Time*: Fleetwood Mac, 'Rumours'. Nova York: Penske Media, 2020. Disponível em: https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/fleetwood-mac-rumours-3-1063197/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC019",
+		"category": "Música",
+		"level": "easy",
+		"question": "O gênero musical \"Hip Hop\" surgiu nos anos 1970 em qual cidade americana?",
+		"options": [
+			{ "description": "Los Angeles", "isCorrect": false },
+			{ "description": "Chicago", "isCorrect": false },
+			{ "description": "Detroit", "isCorrect": false },
+			{ "description": "Nova York (especificamente no Bronx)", "isCorrect": true }
+		],
+		"source_explanation": "Artigos enciclopédicos identificam o bairro do Bronx, em Nova York, na década de 1970 (especialmente festas de Kool Herc) como o berço da cultura Hip Hop.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Hip-hop. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/art/hip-hop. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC020",
+		"category": "Música",
+		"level": "easy",
+		"question": "Qual é o nome do festival de música de 1969 que se tornou o evento mais icônico da contracultura hippie?",
+		"options": [
+			{ "description": "Woodstock", "isCorrect": true },
+			{ "description": "Lollapalooza", "isCorrect": false },
+			{ "description": "Glastonbury", "isCorrect": false },
+			{ "description": "Rock in Rio", "isCorrect": false }
+		],
+		"source_explanation": "O museu oficial localizado no local do festival documenta o evento de 1969 como um momento crucial (três dias de paz e música) da cultura dos anos 60.",
+		"source_abnt": "BETHEL WOODS CENTER FOR THE ARTS. *The 1969 Woodstock Festival*. Bethel, NY: Bethel Woods Center, [s.d.]. Disponível em: https://www.bethelwoodscenter.org/the-museum/1969-woodstock-festival. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC021",
+		"category": "Música",
+		"level": "medium",
+		"question": "O álbum \"Pet Sounds\" (1966), conhecido por sua produção complexa e harmonias vocais, é uma obra-prima de qual banda americana?",
+		"options": [
+			{ "description": "The Beatles", "isCorrect": false },
+			{ "description": "The Beach Boys", "isCorrect": true },
+			{ "description": "The Doors", "isCorrect": false },
+			{ "description": "The Byrds", "isCorrect": false }
+		],
+		"source_explanation": "O álbum é consistentemente classificado pela crítica (incluindo a Rolling Stone) como um dos mais influentes, inspirando diretamente o \"Sgt. Pepper's\" dos Beatles.",
+		"source_abnt": "THE BEACH BOYS. *Pet Sounds*. [LP]. Capitol Records, 1966."
+	},
+	{
+		"id": "MUSC022",
+		"category": "Música",
+		"level": "medium",
+		"question": "Qual é o nome do influente álbum duplo da banda The Clash (1979) que misturou punk rock com reggae, ska, funk e pop?",
+		"options": [
+			{ "description": "Never Mind the Bollocks", "isCorrect": false },
+			{ "description": "Ramones", "isCorrect": false },
+			{ "description": "London Calling", "isCorrect": true },
+			{ "description": "The Great Rock 'n' Roll Swindle", "isCorrect": false }
+		],
+		"source_explanation": "A biografia da banda no Rock & Roll Hall of Fame destaca o álbum \"London Calling\" por sua fusão eclética de gêneros, indo além do punk rock tradicional.",
+		"source_abnt": "ROCK & ROLL HALL OF FAME. *The Clash*. Cleveland, OH: Rock & Roll Hall of Fame, 2003. Disponível em: https://www.rockhall.com/inductees/clash. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC023",
+		"category": "Música",
+		"level": "medium",
+		"question": "Qual destes álbuns é frequentemente citado como o marco zero do \"Rock Progressivo\", conhecido por suas suítes longas e uso do Mellotron?",
+		"options": [
+			{ "description": "In the Court of the Crimson King (King Crimson)", "isCorrect": true },
+			{ "description": "Led Zeppelin IV (Led Zeppelin)", "isCorrect": false },
+			{ "description": "Paranoid (Black Sabbath)", "isCorrect": false },
+			{ "description": "Tommy (The Who)", "isCorrect": false }
+		],
+		"source_explanation": "O álbum de 1969 é definido por historiadores da música como o modelo do gênero, estabelecendo as convenções do rock progressivo.",
+		"source_abnt": "MARTIN, Bill. *Listening to the Future: The Time of Progressive Rock, 1968-1978*. Chicago: Open Court, 1998."
+	},
+	{
+		"id": "MUSC024",
+		"category": "Música",
+		"level": "medium",
+		"question": "O compositor clássico Antonio Vivaldi é mais famoso por qual conjunto de concertos para violino que retratam as estações do ano?",
+		"options": [
+			{ "description": "Os Concertos de Brandemburgo", "isCorrect": false },
+			{ "description": "As Quatro Estações", "isCorrect": true },
+			{ "description": "A Nona Sinfonia", "isCorrect": false },
+			{ "description": "O Cravo Bem Temperado", "isCorrect": false }
+		],
+		"source_explanation": "Fontes enciclopédicas identificam \"Le quattro stagioni\" (As Quatro Estações), parte de sua obra \"Il cimento dell'armonia e dell'inventione\" (1725), como sua obra mais célebre.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Antonio Vivaldi. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/biography/Antonio-Vivaldi. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC025",
+		"category": "Música",
+		"level": "medium",
+		"question": "Qual guitarrista inovador, conhecido por popularizar o \"feedback\" e o pedal \"wah\", liderou a banda The Jimi Hendrix Experience?",
+		"options": [
+			{ "description": "Eric Clapton", "isCorrect": false },
+			{ "description": "Jimmy Page", "isCorrect": false },
+			{ "description": "Jimi Hendrix", "isCorrect": true },
+			{ "description": "Jeff Beck", "isCorrect": false }
+		],
+		"source_explanation": "A biografia de Jimi Hendrix no Hall da Fama do Rock detalha suas técnicas inovadoras, incluindo o uso pioneiro de feedback e efeitos de guitarra.",
+		"source_abnt": "ROCK & ROLL HALL OF FAME. *Jimi Hendrix*. Cleveland, OH: Rock & Roll Hall of Fame, 1992. Disponível em: https://www.rockhall.com/inductees/jimi-hendrix. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC026",
+		"category": "Música",
+		"level": "medium",
+		"question": "O álbum \"Kind of Blue\" (1959) de Miles Davis é considerado um marco fundamental em qual subgênero do Jazz?",
+		"options": [
+			{ "description": "Jazz Modal", "isCorrect": true },
+			{ "description": "Bebop", "isCorrect": false },
+			{ "description": "Swing", "isCorrect": false },
+			{ "description": "Jazz Fusion", "isCorrect": false }
+		],
+		"source_explanation": "O Smithsonian descreve o álbum como o exemplo definitivo e mais popular do jazz modal, que usa escalas (modos) em vez de progressões de acordes.",
+		"source_abnt": "NATIONAL MUSEUM OF AMERICAN HISTORY (SMITHSONIAN). *Miles Davis: 'Kind of Blue'*. Washington, D.C.: Smithsonian, [s.d.]. Disponível em: https://americanhistory.si.edu/explore/collection/miles-davis-kind-blue. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC027",
+		"category": "Música",
+		"level": "medium",
+		"question": "Qual banda alemã é considerada pioneira da música eletrônica (Krautrock), influenciando o synth-pop, techno e hip hop com álbuns como \"Autobahn\"?",
+		"options": [
+			{ "description": "Scorpions", "isCorrect": false },
+			{ "description": "Rammstein", "isCorrect": false },
+			{ "description": "Kraftwerk", "isCorrect": true },
+			{ "description": "Can", "isCorrect": false }
+		],
+		"source_explanation": "A biografia do Kraftwerk no Hall da Fama do Rock os posiciona como os \"pais da música eletrônica\" por seu trabalho pioneiro com sintetizadores e vocoders.",
+		"source_abnt": "ROCK & ROLL HALL OF FAME. *Kraftwerk*. Cleveland, OH: Rock & Roll Hall of Fame, 2021. Disponível em: https://www.rockhall.com/inductees/kraftwerk. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC028",
+		"category": "Música",
+		"level": "medium",
+		"question": "A banda Led Zeppelin foi fortemente influenciada por qual gênero musical americano, chegando a ser acusada de plagiar canções?",
+		"options": [
+			{ "description": "Blues (especialmente o Delta Blues)", "isCorrect": true },
+			{ "description": "Country (Música de Nashville)", "isCorrect": false },
+			{ "description": "Jazz (Bebop)", "isCorrect": false },
+			{ "description": "Soul (Motown)", "isCorrect": false }
+		],
+		"source_explanation": "O livro documenta as raízes do blues em canções do Led Zeppelin (ex: \"Whole Lotta Love\" e \"You Need Love\" de Willie Dixon) e as subsequentes disputas legais.",
+		"source_abnt": "LEWIS, Dave. *Led Zeppelin: The Complete Guide to Their Music*. Londres: Omnibus Press, 2010."
+	},
+	{
+		"id": "MUSC029",
+		"category": "Música",
+		"level": "medium",
+		"question": "Qual artista feminina, ícone do folk dos anos 70, escreveu e gravou o álbum seminal \"Blue\" (1971)?",
+		"options": [
+			{ "description": "Carole King", "isCorrect": false },
+			{ "description": "Janis Joplin", "isCorrect": false },
+			{ "description": "Stevie Nicks", "isCorrect": false },
+			{ "description": "Joni Mitchell", "isCorrect": true }
+		],
+		"source_explanation": "O Registro Nacional de Gravações da Biblioteca do Congresso dos EUA destaca a importância lírica e a honestidade confessional do álbum \"Blue\".",
+		"source_abnt": "LIBRARY OF CONGRESS (EUA). *National Recording Registry*: 'Blue' — Joni Mitchell (1971). Washington, D.C.: Library of Congress. Disponível em: https://www.loc.gov/static/programs/national-recording-preservation-board/documents/Blue-JoniMitchell.pdf. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC030",
+		"category": "Música",
+		"level": "medium",
+		"question": "O \"Rock de Ópera\" (Opera Rock) é um subgênero exemplificado por qual álbum conceitual da banda The Who?",
+		"options": [
+			{ "description": "The Dark Side of the Moon", "isCorrect": false },
+			{ "description": "Tommy", "isCorrect": true },
+			{ "description": "A Night at the Opera", "isCorrect": false },
+			{ "description": "The Wall", "isCorrect": false }
+		],
+		"source_explanation": "A biografia oficial da banda no Hall da Fama do Rock identifica o álbum \"Tommy\" (1969) como a primeira e mais famosa \"ópera rock\".",
+		"source_abnt": "ROCK & ROLL HALL OF FAME. *The Who*. Cleveland, OH: Rock & Roll Hall of Fame, 1990. Disponível em: https://www.rockhall.com/inductees/who. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC031",
+		"category": "Música",
+		"level": "medium",
+		"question": "David Bowie adotou várias personas ao longo de sua carreira. Qual persona ele usou para o álbum \"The Rise and Fall of Ziggy Stardust and the Spiders from Mars\"?",
+		"options": [
+			{ "description": "O Duque Branco Magro (The Thin White Duke)", "isCorrect": false },
+			{ "description": "Major Tom", "isCorrect": false },
+			{ "description": "Ziggy Stardust", "isCorrect": true },
+			{ "description": "Aladdin Sane", "isCorrect": false }
+		],
+		"source_explanation": "O álbum conceitual de 1972 e a turnê subsequente foram construídos em torno da persona do alienígena rockstar Ziggy Stardust.",
+		"source_abnt": "BOWIE, David. *The Rise and Fall of Ziggy Stardust and the Spiders from Mars*. [LP]. RCA Records, 1972."
+	},
+	{
+		"id": "MUSC032",
+		"category": "Música",
+		"level": "medium",
+		"question": "Qual compositor do período Romântico era famoso por suas óperas épicas baseadas na mitologia nórdica, como \"O Anel do Nibelungo\"?",
+		"options": [
+			{ "description": "Giuseppe Verdi", "isCorrect": false },
+			{ "description": "Richard Wagner", "isCorrect": true },
+			{ "description": "Pyotr Tchaikovsky", "isCorrect": false },
+			{ "description": "Giacomo Puccini", "isCorrect": false }
+		],
+		"source_explanation": "Fontes enciclopédicas detalham o ciclo de quatro óperas de Wagner, \"Der Ring des Nibelungen\", como sua obra-prima baseada em sagas nórdicas.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Richard Wagner. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/biography/Richard-Wagner. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC033",
+		"category": "Música",
+		"level": "medium",
+		"question": "O \"show no telhado\" (Rooftop Concert) em 1969 foi a última apresentação pública de qual banda?",
+		"options": [
+			{ "description": "The Rolling Stones", "isCorrect": false },
+			{ "description": "The Kinks", "isCorrect": false },
+			{ "description": "The Beatles", "isCorrect": true },
+			{ "description": "The Doors", "isCorrect": false }
+		],
+		"source_explanation": "O documentário \"Get Back\" (2021) e o filme original \"Let It Be\" (1970) capturam a apresentação de 30 de janeiro de 1969 no telhado da Apple Corps, a última aparição pública dos Beatles.",
+		"source_abnt": "THE BEATLES. *Get Back*. [Documentário]. Direção: Peter Jackson. Apple Corps/Disney+, 2021."
+	},
+	{
+		"id": "MUSC034",
+		"category": "Música",
+		"level": "medium",
+		"question": "Qual artista é conhecido como o \"Padrinho do Soul\" e foi pioneiro do gênero Funk?",
+		"options": [
+			{ "description": "Sam Cooke", "isCorrect": false },
+			{ "description": "James Brown", "isCorrect": true },
+			{ "description": "Otis Redding", "isCorrect": false },
+			{ "description": "Marvin Gaye", "isCorrect": false }
+		],
+		"source_explanation": "A biografia de James Brown no Hall da Fama do Rock o credita como o \"Padrinho do Soul\" e o principal inovador do gênero funk.",
+		"source_abnt": "ROCK & ROLL HALL OF FAME. *James Brown*. Cleveland, OH: Rock & Roll Hall of Fame, 1986. Disponível em: https://www.rockhall.com/inductees/james-brown. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC035",
+		"category": "Música",
+		"level": "medium",
+		"question": "A banda de rock U2 é conhecida pelo som de guitarra distinto, atmosférico e com uso pesado de \"delay\" (eco). Quem é o guitarrista?",
+		"options": [
+			{ "description": "Edge (The Edge)", "isCorrect": true },
+			{ "description": "Slash", "isCorrect": false },
+			{ "description": "Jonny Greenwood", "isCorrect": false },
+			{ "description": "Jack White", "isCorrect": false }
+		],
+		"source_explanation": "O perfil de The Edge na lista de \"100 Maiores Guitarristas\" da Rolling Stone discute seu som característico, baseado em texturas e no uso rítmico de efeitos, especialmente o delay.",
+		"source_abnt": "ROLLING STONE. *100 Greatest Guitarists*: The Edge. Nova York: Penske Media, 2011. Disponível em: https://www.rollingstone.com/music/music-lists/100-greatest-guitarists-153675/the-edge-5-44287/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC036",
+		"category": "Música",
+		"level": "medium",
+		"question": "Qual artista country, conhecido como \"O Homem de Preto\", gravou um famoso álbum ao vivo na Prisão de Folsom?",
+		"options": [
+			{ "description": "Willie Nelson", "isCorrect": false },
+			{ "description": "Hank Williams", "isCorrect": false },
+			{ "description": "Johnny Cash", "isCorrect": true },
+			{ "description": "Merle Haggard", "isCorrect": false }
+		],
+		"source_explanation": "O álbum \"At Folsom Prison\" (1968) foi gravado ao vivo na prisão, tornando-se um marco na carreira de Johnny Cash.",
+		"source_abnt": "CASH, Johnny. *At Folsom Prison*. [LP]. Columbia Records, 1968."
+	},
+	{
+		"id": "MUSC037",
+		"category": "Música",
+		"level": "medium",
+		"question": "A banda R.E.M., com o vocalista Michael Stipe, foi uma pioneira do \"Rock Alternativo\" nos anos 80, vindo de qual cidade universitária dos EUA?",
+		"options": [
+			{ "description": "Seattle, Washington", "isCorrect": false },
+			{ "description": "Austin, Texas", "isCorrect": false },
+			{ "description": "Athens, Geórgia", "isCorrect": true },
+			{ "description": "Boston, Massachusetts", "isCorrect": false }
+		],
+		"source_explanation": "Artigos da época documentam a origem da cena musical de Athens, Geórgia (associada à Universidade da Geórgia), como o berço do R.E.M. e do rock alternativo.",
+		"source_abnt": "FLETCHER, Tony. *R.E.M. | Perfect Circle: A biografia*. Tradução de Heloísa Mourão. Rio de Janeiro: Record, 2004."
+	},
+	{
+		"id": "MUSC038",
+		"category": "Música",
+		"level": "medium",
+		"question": "O que foi a \"Invasão Britânica\" (British Invasion) na música dos anos 60?",
+		"options": [
+			{ "description": "Um festival de música britânica realizado na Califórnia.", "isCorrect": false },
+			{ "description": "Um fenômeno cultural onde artistas de rock e pop do Reino Unido (como The Beatles e The Rolling Stones) se tornaram imensamente populares nos EUA.", "isCorrect": true },
+			{ "description": "Uma turnê de ópera britânica pelos Estados Unidos.", "isCorrect": false },
+			{ "description": "A proibição de música americana nas rádios do Reino Unido.", "isCorrect": false }
+		],
+		"source_explanation": "Fontes enciclopédicas definem o fenômeno cultural que começou por volta de 1964, com a chegada dos Beatles aos EUA.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. British Invasion. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/event/British-Invasion. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC039",
+		"category": "Música",
+		"level": "medium",
+		"question": "Johann Sebastian Bach, um mestre do período Barroco, era mais famoso em sua época por sua habilidade em qual instrumento?",
+		"options": [
+			{ "description": "Violino", "isCorrect": false },
+			{ "description": "Piano (o pianoforte era novo)", "isCorrect": false },
+			{ "description": "Órgão (e cravo)", "isCorrect": true },
+			{ "description": "Violoncelo", "isCorrect": false }
+		],
+		"source_explanation": "Esta biografia de referência destaca a reputação de Bach (em vida) como um virtuose incomparável do órgão e mestre do contraponto.",
+		"source_abnt": "WOLFF, Christoph. *Johann Sebastian Bach: o músico erudito*. Tradução de Sonia Coutinho. São Paulo: Companhia das Letras, 2001."
+	},
+	{
+		"id": "MUSC040",
+		"category": "Música",
+		"level": "medium",
+		"question": "O álbum \"What's Going On\" (1971), de Marvin Gaye, foi revolucionário na Motown por quê?",
+		"options": [
+			{ "description": "Foi o primeiro álbum da Motown a usar guitarras elétricas.", "isCorrect": false },
+			{ "description": "Foi um álbum conceitual com forte consciência social e política, abordando temas como guerra, pobreza e meio ambiente.", "isCorrect": true },
+			{ "description": "Foi gravado inteiramente em dueto com Tammi Terrell.", "isCorrect": false },
+			{ "description": "Foi um álbum de disco music, antecipando o gênero.", "isCorrect": false }
+		],
+		"source_explanation": "A história da Motown descreve a luta de Marvin Gaye com o chefe da gravadora, Berry Gordy, para lançar este álbum politicamente engajado, que era atípico para a gravadora.",
+		"source_abnt": "MOTOWN MUSEUM. *Marvin Gaye - What's Going On*. Detroit, MI: Motown Museum, [s.d.]. Disponível em: https://motownmuseum.org/artist/marvin-gaye/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC041",
+		"category": "Música",
+		"level": "hard",
+		"question": "O álbum \"The Velvet Underground & Nico\" (1967) é frequentemente citado como uma influência seminal no \"Proto-Punk\" devido a quê?",
+		"options": [
+			{ "description": "Seu sucesso comercial massivo e airplay nas rádios.", "isCorrect": false },
+			{ "description": "Uso de orquestras sinfônicas em todas as faixas.", "isCorrect": false },
+			{ "description": "Suas harmonias vocais complexas e produção limpa (clean).", "isCorrect": false },
+			{ "description": "Suas letras sobre temas tabus (drogas, sexualidade) e o uso de dissonância, drones e feedback.", "isCorrect": true }
+		],
+		"source_explanation": "Este livro (uma \"história oral\" do punk) traça as origens do punk, identificando o Velvet Underground e sua estética \"anti-hippie\" como o ponto de partida.",
+		"source_abnt": "MCNEIL, Legs; MCCAIN, Gillian. *Mate-me, Por Favor: uma história sem censura do punk*. Tradução de Heloísa Goldschmidt. São Paulo: L&PM, 2006."
+	},
+	{
+		"id": "MUSC042",
+		"category": "Música",
+		"level": "hard",
+		"question": "A \"Segunda Escola Vienense\" de compositores (Schoenberg, Berg, Webern) é mais famosa por desenvolver qual técnica composicional?",
+		"options": [
+			{ "description": "O Minimalismo (repetição de frases curtas).", "isCorrect": false },
+			{ "description": "O Dodecafonismo (ou \"técnica de doze tons\"), abandonando a tonalidade tradicional.", "isCorrect": true },
+			{ "description": "O Nacionalismo Romântico (uso de temas folclóricos).", "isCorrect": false },
+			{ "description": "A Polifonia Contrapontística (como em Bach).", "isCorrect": false }
+		],
+		"source_explanation": "Uma análise da obra de Arnold Schoenberg e seus alunos (Berg e Webern), detalhando o desenvolvimento da atonalidade livre para o serialismo de doze tons (Dodecafonismo).",
+		"source_abnt": "ROSEN, Charles. *Schoenberg*. Tradução de Rubens Figli. São Paulo: Editora UNESP, 1997."
+	},
+	{
+		"id": "MUSC043",
+		"category": "Música",
+		"level": "hard",
+		"question": "Qual produtor musical é creditado pela criação da técnica de produção \"Wall of Sound\" (Muralha de Som) nos anos 60?",
+		"options": [
+			{ "description": "George Martin (produtor dos Beatles)", "isCorrect": false },
+			{ "description": "Phil Spector", "isCorrect": true },
+			{ "description": "Brian Eno", "isCorrect": false },
+			{ "description": "Rick Rubin", "isCorrect": false }
+		],
+		"source_explanation": "A biografia de Phil Spector no Hall da Fama do Rock detalha sua inovação do \"Wall of Sound\" (Muralha de Som), usando camadas densas de instrumentação e eco de câmara.",
+		"source_abnt": "ROCK & ROLL HALL OF FAME. *Phil Spector*. Cleveland, OH: Rock & Roll Hall of Fame, 1989. Disponível em: https://www.rockhall.com/inductees/phil-spector. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC044",
+		"category": "Música",
+		"level": "hard",
+		"question": "O álbum \"The Shape of Jazz to Come\" (1959), de Ornette Coleman, foi fundamental para o nascimento de qual subgênero do Jazz?",
+		"options": [
+			{ "description": "Swing Big Band", "isCorrect": false },
+			{ "description": "Cool Jazz", "isCorrect": false },
+			{ "description": "Hard Bop", "isCorrect": false },
+			{ "description": "Free Jazz (devido à sua abordagem radical da improvisação sem estruturas de acordes predefinidas).", "isCorrect": true }
+		],
+		"source_explanation": "O próprio título do álbum e suas notas de encarte o definem como o início de um novo movimento, o \"Free Jazz\", que abandona as progressões de acordes (changes) tradicionais.",
+		"source_abnt": "COLEMAN, Ornette. *The Shape of Jazz to Come*. [LP]. Atlantic Records, 1959."
+	},
+	{
+		"id": "MUSC045",
+		"category": "Música",
+		"level": "hard",
+		"question": "O que é o \"Leitmotif\", uma técnica composicional mais associada às óperas de Richard Wagner?",
+		"options": [
+			{ "description": "Um tema musical recorrente associado a uma pessoa, lugar ou ideia específica dentro da obra.", "isCorrect": true },
+			{ "description": "Uma passagem de canto extremamente rápida e tecnicamente difícil (coloratura).", "isCorrect": false },
+			{ "description": "O uso de dois ou mais ritmos conflitantes simultaneamente (polirritmia).", "isCorrect": false },
+			{ "description": "Uma composição para um único instrumento sem acompanhamento.", "isCorrect": false }
+		],
+		"source_explanation": "Define o termo e o atribui proeminentemente a Wagner e ao uso extensivo da técnica em seu ciclo de óperas \"O Anel do Nibelungo\".",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Leitmotif. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/art/leitmotif. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC046",
+		"category": "Música",
+		"level": "hard",
+		"question": "O álbum \"Trout Mask Replica\" (1969), de Captain Beefheart, é notório na vanguarda do rock por quê?",
+		"options": [
+			{ "description": "Foi o primeiro álbum de rock a vender 10 milhões de cópias.", "isCorrect": false },
+			{ "description": "Seu uso de dissonância extrema, polirritmias complexas e estruturas de música aparentemente caóticas.", "isCorrect": true },
+			{ "description": "Foi gravado inteiramente debaixo d'água para efeitos acústicos.", "isCorrect": false },
+			{ "description": "É um álbum solo de violão clássico de 4 horas.", "isCorrect": false }
+		],
+		"source_explanation": "A análise da revista Rolling Stone sobre \"Trout Mask Replica\" (produzido por Frank Zappa) o descreve como um clássico de vanguarda, \"dissonante e brilhante\".",
+		"source_abnt": "ROLLING STONE. *500 Greatest Albums of All Time*: Captain Beefheart, 'Trout Mask Replica'. Nova York: Penske Media, 2020. Disponível em: https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/captain-beefheart-and-his-magic-band-trout-mask-replica-3-1063165/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC047",
+		"category": "Música",
+		"level": "hard",
+		"question": "Na música eletrônica, a \"Roland TR-808\" é uma máquina de ritmo icônica. Qual é sua característica sonora mais famosa?",
+		"options": [
+			{ "description": "Seus sons de bateria realistas e orgânicos, indistinguíveis de um baterista ao vivo.", "isCorrect": false },
+			{ "description": "Seu bumbo (bass drum) profundo, sibilante e com longo \"decay\", que se tornou a base do Hip Hop e do Techno.", "isCorrect": true },
+			{ "description": "Seus sons de piano elétrico (como o Fender Rhodes).", "isCorrect": false },
+			{ "description": "A capacidade de gravar e reproduzir vocais (sampling).", "isCorrect": false }
+		],
+		"source_explanation": "O documentário \"808\" (2015) explora o impacto cultural e sonoro da máquina de ritmo, focando especificamente em seu bumbo (bass drum) analógico e seu chimbal (hi-hat).",
+		"source_abnt": "*808*. [Documentário]. Direção: Alexander Dunn. Atlantic Films, 2015."
+	},
+	{
+		"id": "MUSC048",
+		"category": "Música",
+		"level": "hard",
+		"question": "Brian Eno é creditado por cunhar o termo e definir o gênero \"Ambient Music\" com qual álbum de 1978?",
+		"options": [
+			{ "description": "Here Come the Warm Jets", "isCorrect": false },
+			{ "description": "Another Green World", "isCorrect": false },
+			{ "description": "Ambient 1: Music for Airports", "isCorrect": true },
+			{ "description": "Remain in Light (do Talking Heads, que ele produziu)", "isCorrect": false }
+		],
+		"source_explanation": "O próprio encarte do álbum \"Ambient 1\" define o propósito da música ambiente como algo \"tão ignorável quanto interessante\", criando uma atmosfera.",
+		"source_abnt": "ENO, Brian. *Ambient 1: Music for Airports*. [LP]. Polydor Records, 1978. (Notas do Encarte)."
+	},
+	{
+		"id": "MUSC049",
+		"category": "Música",
+		"level": "hard",
+		"question": "Qual é a característica definidora do gênero \"Shoegaze\" (início dos anos 90), exemplificado por bandas como My Bloody Valentine?",
+		"options": [
+			{ "description": "Letras politizadas e ritmo de ska (como o The Specials).", "isCorrect": false },
+			{ "description": "O uso pesado de pedais de efeito de guitarra (distorção, reverb, delay) para criar paisagens sonoras etéreas, com vocais submersos na mixagem.", "isCorrect": true },
+			{ "description": "Foco total no virtuosismo técnico da guitarra solo (como Yngwie Malmsteen).", "isCorrect": false },
+			{ "description": "A ausência total de guitarras, usando apenas sintetizadores.", "isCorrect": false }
+		],
+		"source_explanation": "O livro analisa o álbum \"Loveless\" do My Bloody Valentine e a estética shoegaze (olhar para os sapatos), nomeada pela tendência dos guitarristas de olharem para seus pedais de efeito.",
+		"source_abnt": "MCGONIGAL, Mike. *Loveless (33 1/3)*. Nova York: Continuum, 2007."
+	},
+	{
+		"id": "MUSC050",
+		"category": "Música",
+		"level": "hard",
+		"question": "A faixa de jazz \"Giant Steps\" (1959), de John Coltrane, é famosa e temida por músicos por quê?",
+		"options": [
+			{ "description": "Sua progressão de acordes extremamente rápida e complexa, que modula rapidamente por centros tonais distantes (\"Coltrane Changes\").", "isCorrect": true },
+			{ "description": "É a primeira gravação de jazz a usar um sintetizador.", "isCorrect": false },
+			{ "description": "É um solo de bateria de 15 minutos.", "isCorrect": false },
+			{ "description": "É tocada em um compasso de 21/8.", "isCorrect": false }
+		],
+		"source_explanation": "A obra é o exemplo máximo das \"Coltrane Changes\", uma progressão harmônica que se move rapidamente por terças maiores, tornando-a um desafio técnico para improvisadores.",
+		"source_abnt": "COLTRANE, John. *Giant Steps*. [LP]. Atlantic Records, 1960."
+	},
+	{
+		"id": "MUSC051",
+		"category": "Música",
+		"level": "hard",
+		"question": "Na música clássica, \"contraponto\" refere-se a quê?",
+		"options": [
+			{ "description": "A prática de escrever música para um instrumento que não existe.", "isCorrect": false },
+			{ "description": "Um andamento extremamente lento e melancólico.", "isCorrect": false },
+			{ "description": "A relação entre duas ou more linhas melódicas independentes tocadas simultaneamente (como nas Fugas de Bach).", "isCorrect": true },
+			{ "description": "Um acorde dissonante que resolve em um acorde consoante.", "isCorrect": false }
+		],
+		"source_explanation": "O \"Grove\" (referência padrão em musicologia) define o contraponto como a base da polifonia ocidental, onde múltiplas melodias independentes coexistem.",
+		"source_abnt": "GROVE, George. *Grove Dictionary of Music and Musicians*. 6. ed. Londres: Macmillan, 1980. (Verbete: Counterpoint)."
+	},
+	{
+		"id": "MUSC052",
+		"category": "Música",
+		"level": "hard",
+		"question": "O produtor de hip hop J Dilla era reverenciado por seu \"feel\" rítmico. Isso se devia, em parte, à sua habilidade de...",
+		"options": [
+			{ "description": "Usar apenas instrumentos ao vivo, recusando-se a usar samples.", "isCorrect": false },
+			{ "description": "Gravar vocais perfeitamente afinados (autotune).", "isCorrect": false },
+			{ "description": "Programar batidas em seu sampler (MPC) sem quantização, criando um groove \"bêbado\" ou \"atrás do tempo\" (unquantized swing).", "isCorrect": true },
+			{ "description": "Fazer batidas em compassos de 7/8.", "isCorrect": false }
+		],
+		"source_explanation": "Este livro analisa extensivamente a técnica rítmica de J Dilla (Time-stretching), que consistia em colocar batidas intencionalmente fora da grade (quantização) do sampler.",
+		"source_abnt": "CHARNAS, Dan. *Dilla Time: The Life and Afterlife of J Dilla, the Hip-Hop Producer Who Reinvented Rhythm*. Nova York: MCD, 2022."
+	},
+	{
+		"id": "MUSC053",
+		"category": "Música",
+		"level": "hard",
+		"question": "Qual compositor é considerado o pioneiro do \"Minimalismo\" na música clássica americana, com peças como \"In C\" (1964)?",
+		"options": [
+			{ "description": "John Cage", "isCorrect": false },
+			{ "description": "Aaron Copland", "isCorrect": false },
+			{ "description": "Terry Riley", "isCorrect": true },
+			{ "description": "Leonard Bernstein", "isCorrect": false }
+		],
+		"source_explanation": "Este livro identifica a peça \"In C\" (1964) de Terry Riley, com suas 53 frases curtas e repetitivas, como a obra seminal do minimalismo.",
+		"source_abnt": "STRICKLAND, Edward. *Minimalism: Origins*. Bloomington: Indiana University Press, 1993."
+	},
+	{
+		"id": "MUSC054",
+		"category": "Música",
+		"level": "hard",
+		"question": "O \"Som de Filadélfia\" (Philly Soul) dos anos 70, de produtores como Gamble e Huff, se distinguia do Som da Motown por...",
+		"options": [
+			{ "description": "Ser mais cru, focado no blues e sem arranjos.", "isCorrect": false },
+			{ "description": "Usar arranjos de cordas exuberantes, linhas de baixo funk e uma produção mais suave e orquestral.", "isCorrect": true },
+			{ "description": "Ser exclusivamente instrumental, sem vocais.", "isCorrect": false },
+			{ "description": "Usar batidas de rock pesado e guitarras distorcidas.", "isCorrect": false }
+		],
+		"source_explanation": "O \"Philly Sound\", associado à gravadora Philadelphia International Records (Gamble e Huff), é definido por seus arranjos orquestrais exuberantes e linhas de baixo funk (ex: The O'Jays).",
+		"source_abnt": "JACKSON, John A. *A House on Fire: The Rise and Fall of Philadelphia Soul*. Nova York: Oxford University Press, 2004."
+	},
+	{
+		"id": "MUSC055",
+		"category": "Música",
+		"level": "hard",
+		"question": "O movimento \"Post-Rock\", de bandas como Slint e Talk Talk (em sua fase final), é caracterizado por...",
+		"options": [
+			{ "description": "Usar a estrutura tradicional do rock (verso-refrão-verso) com letras mais agressivas.", "isCorrect": false },
+			{ "description": "Usar instrumentação do rock (guitarra, baixo, bateria) para criar texturas e dinâmicas, em vez de focar em canções e vocais.", "isCorrect": true },
+			{ "description": "Um retorno ao rockabilly dos anos 50.", "isCorrect": false },
+			{ "description": "A fusão do rock com o rap (Rap Rock).", "isCorrect": false }
+		],
+		"source_explanation": "O crítico Simon Reynolds cunhou o termo em 1994 para descrever essa música que \"usa instrumentos de rock para propósitos não-rock\", focando em dinâmica e textura (ex: o álbum \"Spiderland\" do Slint).",
+		"source_abnt": "REYNOLDS, Simon. Post-Rock. *The Wire*, Londres, n. 123, p. 26-30, maio 1994."
+	},
+	{
+		"id": "MUSC056",
+		"category": "Música",
+		"level": "hard",
+		"question": "A \"Loudness War\" (Guerra do Volume) é um termo pejorativo que descreve qual tendência na produção musical moderna?",
+		"options": [
+			{ "description": "A competição entre bandas para tocar mais alto em shows ao vivo.", "isCorrect": false },
+			{ "description": "O aumento do nível médio de volume (RMS) das gravações através do uso de compressão e limitação, reduzindo a faixa dinâmica.", "isCorrect": true },
+			{ "description": "O uso de letras com palavrões para chocar o público.", "isCorrect": false },
+			{ "description": "A popularidade do heavy metal em relação ao pop.", "isCorrect": false }
+		],
+		"source_explanation": "A AES (Sociedade de Engenharia de Áudio) publicou vários artigos técnicos que analisam o fenômeno da \"Loudness War\", medindo a compressão da faixa dinâmica na masterização.",
+		"source_abnt": "AUDIO ENGINEERING SOCIETY (AES). *AES Technical Council*: The Loudness War. Nova York: AES, [s.d.]. Disponível em: https://www.aes.org/technical/documentDownloads.cfm?docID=65. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC057",
+		"category": "Música",
+		"level": "hard",
+		"question": "O produtor Martin Hannett foi crucial para definir o som da banda Joy Division (e do Pós-Punk de Manchester) ao...",
+		"options": [
+			{ "description": "Fazer a banda soar mais agressiva e alta, como os Sex Pistols.", "isCorrect": false },
+			{ "description": "Usar eco, reverb digital e aplicar silêncio e \"espaço\" na mixagem, separando os instrumentos e criando uma atmosfera sombria.", "isCorrect": true },
+			{ "description": "Adicionar arranjos de cordas e metais em todas as músicas.", "isCorrect": false },
+			{ "description": "Gravar o álbum \"Unknown Pleasures\" ao vivo em um único take.", "isCorrect": false }
+		],
+		"source_explanation": "O livro documenta os métodos de produção de Martin Hannett, incluindo seu uso inovador do delay digital AMS 15-80 para criar o som espacial e frio de \"Unknown Pleasures\".",
+		"source_abnt": "HEWITT, Paolo. *Factory Records: The Inside Story*. Londres: Aurum Press, 2010."
+	},
+	{
+		"id": "MUSC058",
+		"category": "Música",
+		"level": "hard",
+		"question": "O álbum \"Selected Ambient Works 85-92\" de Aphex Twin é considerado uma obra-prima de qual gênero eletrônico?",
+		"options": [
+			{ "description": "House (Chicago House)", "isCorrect": false },
+			{ "description": "Drum and Bass", "isCorrect": false },
+			{ "description": "Intelligent Dance Music (IDM) ou Ambient Techno.", "isCorrect": true },
+			{ "description": "Dubstep", "isCorrect": false }
+		],
+		"source_explanation": "A crítica musical (ex: Pitchfork) lista \"SAW 85-92\" (1992) como o álbum definidor do gênero \"IDM\" (Intelligent Dance Music), combinando techno ambiente com texturas complexas.",
+		"source_abnt": "PITCHFORK. *The 50 Best IDM Albums of All Time*. Chicago: Pitchfork Media, 2017. Disponível em: https://pitchfork.com/features/lists-and-guides/the-50-best-idm-albums-of-all-time/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUSC059",
+		"category": "Música",
+		"level": "hard",
+		"question": "O compositor John Cage chocou o mundo da música em 1952 com a peça \"4'33\"\". Qual é a sua \"composição\"?",
+		"options": [
+			{ "description": "Quatro minutos e 33 segundos de silêncio do(s) intérprete(s), forçando o público a ouvir os sons ambientes do local.", "isCorrect": true },
+			{ "description": "Uma peça onde o pianista deve destruir o piano com um martelo.", "isCorrect": false },
+			{ "description": "Uma gravação de 4 minutos e 33 segundos de ruído branco.", "isCorrect": false },
+			{ "description": "Uma sonata para piano que só pode ser tocada por 33 segundos.", "isCorrect": false }
+		],
+		"source_explanation": "O próprio Cage discute a filosofia por trás de 4'33\" (Quatro minutos e trinta e três segundos), argumentando que o \"silêncio\" (sons não intencionais) é uma forma válida de música.",
+		"source_abnt": "CAGE, John. *Silêncio: conferências e escritos*. Tradução de Rogério Duprat. São Paulo: Editora Hucitec, 1985."
+	},
+	{
+		"id": "MUSC060",
+		"category": "Música",
+		"level": "hard",
+		"question": "Na música clássica, a \"Tensão entre Classicismo e Romantismo\" é personificada no debate do século XIX entre quais dois compositores/filósofos?",
+		"options": [
+			{ "description": "Bach vs. Vivaldi (Período Barroco).", "isCorrect": false },
+			{ "description": "Brahms (visto como o classicista) vs. Wagner (visto como o romântico da \"Música do Futuro\").", "isCorrect": true },
+			{ "description": "Mozart vs. Salieri (Período Clássico).", "isCorrect": false },
+			{ "description": "Stravinsky vs. Schoenberg (Século XX).", "isCorrect": false }
+		],
+		"source_explanation": "O crítico musical Eduard Hanslick, em sua obra, foi um famoso proponente de Brahms (música absoluta) contra a \"música de programa\" de Wagner, definindo a \"Guerra dos Românticos\".",
+		"source_abnt": "HANSLICK, Eduard. *Do Belo Musical*. Tradução de Artur Morão. Lisboa: Edições 70, 1994. (Publicado originalmente em 1854)."
+	}
+]

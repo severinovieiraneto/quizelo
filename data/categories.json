@@ -1,0 +1,97 @@
+[
+	{
+		"id": "FILO",
+		"name": "Filosofia",
+		"description": "Teste seu conhecimento sobre os grandes pensadores, teorias éticas, metafísicas e os maiores dilemas da humanidade."
+	},
+	{
+		"id": "HIST",
+		"name": "História",
+		"description": "Desafie-se com eventos, civilizações, períodos e figuras importantes que moldaram o mundo como o conhecemos."
+	},
+	{
+		"id": "GEOP",
+		"name": "Geopolítica",
+		"description": "Explore as relações internacionais, conflitos globais, organizações e as dinâmicas de poder que definem nosso mundo."
+	},
+	{
+		"id": "MUSC",
+		"name": "Música",
+		"description": "Do clássico ao pop e rock, teste seus ouvidos sobre artistas, bandas, álbuns icônicos e os gêneros que marcaram época."
+	},
+	{
+		"id": "CITV",
+		"name": "Cinema e TV",
+		"description": "Luzes, câmera, ação! Perguntas sobre filmes clássicos, séries de sucesso, diretores lendários e atores inesquecíveis."
+	},
+	{
+		"id": "ESPO",
+		"name": "Esportes",
+		"description": "Mostre seu conhecimento sobre lendas do futebol, basquete, F1, tênis e lutas, além de regras e competições."
+	},
+	{
+		"id": "CTEC",
+		"name": "Ciência e Tecnologia",
+		"description": "De inovações revolucionárias à física, química e biologia, explore as descobertas que movem o mundo."
+	},
+	{
+		"id": "LITE",
+		"name": "Literatura",
+		"description": "Viaje por páginas famosas, conheça autores clássicos, personagens imortais e os movimentos literários que definiram a escrita."
+	},
+	{
+		"id": "ARTA",
+		"name": "Arte e Arquitetura",
+		"description": "Teste seu olhar sobre pintores renascentistas, estilos arquitetônicos (do Gótico ao Moderno), esculturas famosas e obras-primas."
+	},
+	{
+		"id": "VIAG",
+		"name": "Viagens e Geografia",
+		"description": "Gire o globo e responda sobre países, capitais, pontos turísticos, culturas e as maravilhas do nosso planeta."
+	},
+	{
+		"id": "ENTR",
+		"name": "Entretenimento",
+		"description": "Prepare o controle! Perguntas sobre o universo dos videogames, jogos de tabuleiro, quadrinhos (HQs) e animes."
+	},
+	{
+		"id": "MITO",
+		"name": "Mitologia",
+		"description": "Dos deuses do Olimpo (Zeus) a Asgard (Odin), Egito (Rá) e Índia (Krishna), explore os mitos e lendas das culturas antigas."
+	},
+	{
+		"id": "ECON",
+		"name": "Negócios e Economia",
+		"description": "Entenda o mercado com perguntas sobre empresas famosas (Apple, Google), conceitos econômicos (PIB, inflação) e grandes empreendedores."
+	},
+	{
+		"id": "MUNA",
+		"name": "Mundo Natural",
+		"description": "Explore a biodiversidade com perguntas fascinantes sobre zoologia (animais), botânica (plantas) e ecologia (ecossistemas)."
+	},
+	{
+		"id": "SAUD",
+		"name": "Saúde e Medicina",
+		"description": "Teste seu conhecimento sobre o funcionamento do corpo humano, nutrição (vitaminas), história da medicina e termos de saúde."
+	},
+	{
+		"id": "PSIC",
+		"name": "Psicologia",
+		"description": "Mergulhe na mente humana com perguntas sobre teorias (Freud, Jung), experimentos clássicos (Milgram) e vieses cognitivos."
+	},
+	{
+		"id": "ASTR",
+		"name": "Astrofísica",
+		"description": "Olhe para as estrelas! Perguntas sobre buracos negros, galáxias distantes, a origem do universo e os mistérios do cosmos."
+	},
+	{
+		"id": "CULT",
+		"name": "Cultura",
+		"description": "Uma viagem pelo Brasil e pelo mundo, abordando festivais (Carnaval, Festa Junina), culinária (Feijoada) e ícones culturais."
+	},
+	{
+		"id": "CURI",
+		"name": "Curiosidades e Conhecimentos Gerais",
+		"description": "A categoria \"você sabia?\". Teste seu conhecimento aleatório sobre fatos surpreendentes, recordes, invenções e origens de palavras."
+	}
+]

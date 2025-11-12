@@ -1,0 +1,842 @@
+[
+	{
+		"id": "LITE001",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "Quem escreveu a famosa tragédia \"Romeu e Julieta\"?",
+		"options": [
+			{ "description": "Charles Dickens", "isCorrect": false },
+			{ "description": "William Shakespeare", "isCorrect": true },
+			{ "description": "Dante Alighieri", "isCorrect": false },
+			{ "description": "Victor Hugo", "isCorrect": false }
+		],
+		"source_explanation": "A tragédia \"Romeu e Julieta\" (c. 1597) é uma das obras mais famosas do dramaturgo inglês William Shakespeare.",
+		"source_abnt": "SHAKESPEARE, William. *Romeu e Julieta*. Tradução de Beatriz Viégas-Faria. Porto Alegre: L&PM, 2007."
+	},
+	{
+		"id": "LITE002",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "Qual é o nome do cavaleiro sonhador que luta contra moinhos de vento no romance de Miguel de Cervantes?",
+		"options": [
+			{ "description": "Sancho Pança", "isCorrect": false },
+			{ "description": "Dom Juan", "isCorrect": false },
+			{ "description": "Dom Casmurro", "isCorrect": false },
+			{ "description": "Dom Quixote", "isCorrect": true }
+		],
+		"source_explanation": "O romance \"O Engenhoso Fidalgo Dom Quixote de la Mancha\" (1605) narra as aventuras de Alonso Quixano, que adota o nome de Dom Quixote.",
+		"source_abnt": "CERVANTES SAAVEDRA, Miguel de. *O Engenhoso Fidalgo Dom Quixote de la Mancha*. Tradução de Sérgio Molina. São Paulo: Editora 34, 2010."
+	},
+	{
+		"id": "LITE003",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "Qual é o nome do jovem bruxo protagonista da série de livros de J.K. Rowling?",
+		"options": [
+			{ "description": "Rony Weasley", "isCorrect": false },
+			{ "description": "Harry Potter", "isCorrect": true },
+			{ "description": "Draco Malfoy", "isCorrect": false },
+			{ "description": "Alvo Dumbledore", "isCorrect": false }
+		],
+		"source_explanation": "Harry Potter é o personagem-título e protagonista do primeiro livro da série, \"Harry Potter e a Pedra Filosofal\" (1997).",
+		"source_abnt": "ROWLING, J.K. *Harry Potter e a Pedra Filosofal*. Tradução de Lia Wyler. Rio de Janeiro: Rocco, 2000."
+	},
+	{
+		"id": "LITE004",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "Quem escreveu a saga de fantasia épica \"O Senhor dos Anéis\"?",
+		"options": [
+			{ "description": "C.S. Lewis", "isCorrect": false },
+			{ "description": "George R. R. Martin", "isCorrect": false },
+			{ "description": "J.R.R. Tolkien", "isCorrect": true },
+			{ "description": "J.K. Rowling", "isCorrect": false }
+		],
+		"source_explanation": "A saga, que começa com \"A Sociedade do Anel\" (1954), foi escrita pelo filólogo e professor britânico J.R.R. Tolkien.",
+		"source_abnt": "TOLKIEN, J.R.R. *A Sociedade do Anel*. Tradução de Lenita Maria Rímoli Esteves. São Paulo: Martins Fontes, 1994."
+	},
+	{
+		"id": "LITE005",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "O romance distópico \"1984\", que introduziu o conceito de \"Big Brother\", foi escrito por qual autor?",
+		"options": [
+			{ "description": "Aldous Huxley", "isCorrect": false },
+			{ "description": "Ray Bradbury", "isCorrect": false },
+			{ "description": "George Orwell", "isCorrect": true },
+			{ "description": "Philip K. Dick", "isCorrect": false }
+		],
+		"source_explanation": "O romance \"1984\" (publicado em 1949), de George Orwell, introduz o conceito do \"Grande Irmão\" (Big Brother) como o líder de um estado totalitário.",
+		"source_abnt": "ORWELL, George. *1984*. Tradução de Heloisa Jahn e Alexandre Hubner. São Paulo: Companhia das Letras, 2009."
+	},
+	{
+		"id": "LITE006",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "Quem escreveu o romance \"Orgulho e Preconceito\"?",
+		"options": [
+			{ "description": "Jane Austen", "isCorrect": true },
+			{ "description": "Irmãs Brontë", "isCorrect": false },
+			{ "description": "Mary Shelley", "isCorrect": false },
+			{ "description": "Virginia Woolf", "isCorrect": false }
+		],
+		"source_explanation": "O romance de 1813, que narra a história de Elizabeth Bennet e Mr. Darcy, foi escrito pela autora inglesa Jane Austen.",
+		"source_abnt": "AUSTEN, Jane. *Orgulho e Preconceito*. Tradução de Alexandre Barbosa de Souza. São Paulo: Penguin Classics Companhia das Letras, 2011."
+	},
+	{
+		"id": "LITE007",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "Qual é o nome do cientista que cria um monstro em \"Frankenstein\", de Mary Shelley?",
+		"options": [
+			{ "description": "Dr. Jekyll", "isCorrect": false },
+			{ "description": "Professor Challenger", "isCorrect": false },
+			{ "description": "Capitão Nemo", "isCorrect": false },
+			{ "description": "Victor Frankenstein", "isCorrect": true }
+		],
+		"source_explanation": "No romance de 1818, Victor Frankenstein é o estudante de ciências que cria a \"criatura\" ou \"monstro\".",
+		"source_abnt": "SHELLEY, Mary. *Frankenstein: ou, O Prometeu Moderno*. Tradução de Christian Schwartz. São Paulo: Penguin Classics Companhia das Letras, 2015."
+	},
+	{
+		"id": "LITE008",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "Quem é o famoso vampiro protagonista do romance gótico de Bram Stoker de 1897?",
+		"options": [
+			{ "description": "Conde Drácula", "isCorrect": true },
+			{ "description": "Lestat", "isCorrect": false },
+			{ "description": "Carmilla", "isCorrect": false },
+			{ "description": "Edward Cullen", "isCorrect": false }
+		],
+		"source_explanation": "O romance epistolar \"Drácula\" (1897) tem o Conde Drácula como seu antagonista titular.",
+		"source_abnt": "STOKER, Bram. *Drácula*. Tradução de Adriana Lisboa. São Paulo: Penguin Classics Companhia das Letras, 2018."
+	},
+	{
+		"id": "LITE009",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "A \"Odisseia\", um poema épico sobre a longa jornada de Odisseu (Ulisses) para casa, é atribuída a qual poeta grego antigo?",
+		"options": [
+			{ "description": "Sófocles", "isCorrect": false },
+			{ "description": "Homero", "isCorrect": true },
+			{ "description": "Virgílio", "isCorrect": false },
+			{ "description": "Aristóteles", "isCorrect": false }
+		],
+		"source_explanation": "A \"Odisseia\" (c. século VIII a.C.) é um dos dois principais poemas épicos gregos atribuídos a Homero.",
+		"source_abnt": "HOMERO. *Odisseia*. Tradução de Manuel Odorico Mendes. São Paulo: Editora 34, 2011."
+	},
+	{
+		"id": "LITE010",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "Quem escreveu \"A Divina Comédia\", um poema épico que descreve uma jornada pelo Inferno, Purgatório e Paraíso?",
+		"options": [
+			{ "description": "Dante Alighieri", "isCorrect": true },
+			{ "description": "Boccaccio", "isCorrect": false },
+			{ "description": "Petrarca", "isCorrect": false },
+			{ "description": "Maquiavel", "isCorrect": false }
+		],
+		"source_explanation": "O poema épico \"A Comédia\" (mais tarde chamada \"Divina\"), escrito por Dante Alighieri no século XIV, narra sua jornada pelos três reinos da vida após a morte.",
+		"source_abnt": "ALIGHIERI, Dante. *A Divina Comédia*. Tradução de Italo Eugenio Mauro. 3. ed. São Paulo: Editora 34, 2008."
+	},
+	{
+		"id": "LITE011",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "Agatha Christie é mundialmente famosa por escrever qual gênero de romances?",
+		"options": [
+			{ "description": "Ficção científica", "isCorrect": false },
+			{ "description": "Romances históricos", "isCorrect": false },
+			{ "description": "Mistério e investigação (detetive)", "isCorrect": true },
+			{ "description": "Fantasia épica", "isCorrect": false }
+		],
+		"source_explanation": "O Guinness World Records lista Agatha Christie como a romancista mais vendida de todos os tempos, famosa por seus romances de mistério (ex: Hercule Poirot, Miss Marple).",
+		"source_abnt": "GUINNESS WORLD RECORDS. *Best-selling author, fiction*. Londres: Guinness World Records, [s.d.]. Disponível em: https://www.guinnessworldrecords.com/world-records/best-selling-author-fiction. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "LITE012",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "Qual poema narrativo de Edgar Allan Poe repete famosamente a frase \"Nunca mais\" (Nevermore)?",
+		"options": [
+			{ "description": "O Corvo", "isCorrect": true },
+			{ "description": "Annabel Lee", "isCorrect": false },
+			{ "description": "O Gato Preto", "isCorrect": false },
+			{ "description": "A Queda da Casa de Usher", "isCorrect": false }
+		],
+		"source_explanation": "O poema \"O Corvo\" (1845) é famoso pelo refrão \"Quoth the Raven, 'Nevermore'\".",
+		"source_abnt": "POE, Edgar Allan. *O Corvo*. Tradução de Fernando Pessoa. São Paulo: Editora Landmark, 2009."
+	},
+	{
+		"id": "LITE013",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "Quem é o autor americano que criou os personagens Tom Sawyer e Huckleberry Finn?",
+		"options": [
+			{ "description": "Herman Melville", "isCorrect": false },
+			{ "description": "Mark Twain", "isCorrect": true },
+			{ "description": "Nathaniel Hawthorne", "isCorrect": false },
+			{ "description": "Walt Whitman", "isCorrect": false }
+		],
+		"source_explanation": "Mark Twain (pseudônimo de Samuel Clemens) é o autor de \"As Aventuras de Tom Sawyer\" (1876) e \"As Aventuras de Huckleberry Finn\" (1884).",
+		"source_abnt": "TWAIN, Mark. *As Aventuras de Tom Sawyer*. Tradução de José Bento. Rio de Janeiro: Zahar, 2013."
+	},
+	{
+		"id": "LITE014",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "Qual autor escreveu a série de livros \"As Crônicas de Nárnia\"?",
+		"options": [
+			{ "description": "J.R.R. Tolkien", "isCorrect": false },
+			{ "description": "Lewis Carroll", "isCorrect": false },
+			{ "description": "C.S. Lewis", "isCorrect": true },
+			{ "description": "Philip Pullman", "isCorrect": false }
+		],
+		"source_explanation": "C.S. Lewis, amigo de J.R.R. Tolkien, é o autor da série de fantasia \"As Crônicas de Nárnia\", que começa com \"O Leão, a Feiticeira e o Guarda-Roupa\" (1950).",
+		"source_abnt": "LEWIS, C.S. *O Leão, a Feiticeira e o Guarda-Roupa*. Tradução de Paulo Mendes Campos. São Paulo: WMF Martins Fontes, 2005."
+	},
+	{
+		"id": "LITE015",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "Quem é o autor de \"O Pequeno Príncipe\", um dos livros mais traduzidos do mundo?",
+		"options": [
+			{ "description": "Antoine de Saint-Exupéry", "isCorrect": true },
+			{ "description": "Victor Hugo", "isCorrect": false },
+			{ "description": "Júlio Verne", "isCorrect": false },
+			{ "description": "Albert Camus", "isCorrect": false }
+		],
+		"source_explanation": "A novela poética \"O Pequeno Príncipe\" (1943) foi escrita e ilustrada pelo aviador francês Antoine de Saint-Exupéry.",
+		"source_abnt": "SAINT-EXUPÉRY, Antoine de. *O Pequeno Príncipe*. Tradução de Dom Marcos Barbosa. 48. ed. Rio de Janeiro: Agir, 2009."
+	},
+	{
+		"id": "LITE016",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "Em \"Dom Casmurro\", de Machado de Assis, o narrador Bentinho acredita ter sido traído por sua esposa, Capitu. Qual é o melhor amigo dele?",
+		"options": [
+			{ "description": "José Dias", "isCorrect": false },
+			{ "description": "Escobar", "isCorrect": true },
+			{ "description": "Brás Cubas", "isCorrect": false },
+			{ "description": "Quincas Borba", "isCorrect": false }
+		],
+		"source_explanation": "No romance de 1899, Bentinho (\"Dom Casmurro\") suspeita que seu melhor amigo, Escobar, é o pai de seu filho Ezequiel.",
+		"source_abnt": "ASSIS, Machado de. *Dom Casmurro*. 2. ed. São Paulo: Penguin Classics Companhia das Letras, 2013."
+	},
+	{
+		"id": "LITE017",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "Qual livro de George Orwell usa uma fazenda e seus animais para satirizar a Revolução Russa e o Stalinismo?",
+		"options": [
+			{ "description": "1984", "isCorrect": false },
+			{ "description": "A Revolução dos Bichos (Animal Farm)", "isCorrect": true },
+			{ "description": "Lutando na Espanha", "isCorrect": false },
+			{ "description": "Burmese Days", "isCorrect": false }
+		],
+		"source_explanation": "A novela alegórica \"A Revolução dos Bichos\" (1945) usa os animais de uma fazenda para representar figuras da Revolução Russa.",
+		"source_abnt": "ORWELL, George. *A Revolução dos Bichos*. Tradução de Heitor Aquino Ferreira. São Paulo: Companhia das Letras, 2006."
+	},
+	{
+		"id": "LITE018",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "O detetive Sherlock Holmes, criado por Sir Arthur Conan Doyle, vive em qual famoso endereço em Londres?",
+		"options": [
+			{ "description": "10 Downing Street", "isCorrect": false },
+			{ "description": "30 St Mary Axe", "isCorrect": false },
+			{ "description": "221B Baker Street", "isCorrect": true },
+			{ "description": "Abbey Road", "isCorrect": false }
+		],
+		"source_explanation": "O endereço 221B Baker Street é introduzido como a residência de Sherlock Holmes na primeira história, \"Um Estudo em Vermelho\" (1887).",
+		"source_abnt": "DOYLE, Arthur Conan. *Um Estudo em Vermelho*. Tradução de Maria Luiza X. de A. Borges. Rio de Janeiro: Zahar, 2011."
+	},
+	{
+		"id": "LITE019",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "\"Odisseu\" (Ulisses) é o herói principal de qual dos seguintes poemas épicos?",
+		"options": [
+			{ "description": "A Ilíada", "isCorrect": false },
+			{ "description": "A Odisseia", "isCorrect": true },
+			{ "description": "Eneida", "isCorrect": false },
+			{ "description": "Metamorfoses", "isCorrect": false }
+		],
+		"source_explanation": "A \"Odisseia\", atribuída a Homero, narra o retorno de Odisseu (Ulisses) da Guerra de Troia para Ítaca. (A \"Ilíada\" foca em Aquiles durante a guerra).",
+		"source_abnt": "HOMERO. *Odisseia*. Tradução de Manuel Odorico Mendes. São Paulo: Editora 34, 2011."
+	},
+	{
+		"id": "LITE020",
+		"category": "Literatura",
+		"level": "easy",
+		"question": "Qual é o nome do capitão obcecado em caçar a baleia branca Moby Dick?",
+		"options": [
+			{ "description": "Capitão Ahab", "isCorrect": true },
+			{ "description": "Capitão Nemo", "isCorrect": false },
+			{ "description": "Capitão Gancho", "isCorrect": false },
+			{ "description": "Capitão Smollett", "isCorrect": false }
+		],
+		"source_explanation": "O Capitão Ahab é o protagonista monomaníaco do romance \"Moby Dick\" (1851), de Herman Melville.",
+		"source_abnt": "MELVILLE, Herman. *Moby Dick*. Tradução de Irene Hirsch e Alexandre Barbosa de Souza. São Paulo: Penguin Classics Companhia das Letras, 2017."
+	},
+	{
+		"id": "LITE021",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "Qual movimento literário do século XIX, que incluiu Goethe e Lord Byron, enfatizava a emoção, o individualismo e a beleza sublime da natureza?",
+		"options": [
+			{ "description": "Realismo", "isCorrect": false },
+			{ "description": "Romantismo", "isCorrect": true },
+			{ "description": "Iluminismo", "isCorrect": false },
+			{ "description": "Modernismo", "isCorrect": false }
+		],
+		"source_explanation": "O Romantismo (final do séc. XVIII - meados do séc. XIX) é definido como uma reação ao Iluminismo, focando na emoção, no indivíduo e no sublime.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Romanticism. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/art/Romanticism. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "LITE022",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "No romance \"O Grande Gatsby\", o que simboliza a luz verde que Gatsby observa do outro lado da baía?",
+		"options": [
+			{ "description": "A riqueza e o status social.", "isCorrect": false },
+			{ "description": "A presença da polícia.", "isCorrect": false },
+			{ "description": "Seu desejo inalcançável por Daisy e o sonho americano.", "isCorrect": true },
+			{ "description": "Um farol para os barcos.", "isCorrect": false }
+		],
+		"source_explanation": "A luz verde no cais de Daisy Buchanan é o símbolo central do romance, representando o \"futuro orgástico\" e o desejo inatingível de Gatsby.",
+		"source_abnt": "FITZGERALD, F. Scott. *O Grande Gatsby*. Tradução de Vanessa Rodrigues. Rio de Janeiro: Zahar, 2011."
+	},
+	{
+		"id": "LITE023",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "Qual autor russo escreveu os romances \"Crime e Castigo\" e \"Os Irmãos Karamázov\"?",
+		"options": [
+			{ "description": "Liev Tolstói", "isCorrect": false },
+			{ "description": "Fiódor Dostoiévski", "isCorrect": true },
+			{ "description": "Anton Tchekhov", "isCorrect": false },
+			{ "description": "Ivan Turguêniev", "isCorrect": false }
+		],
+		"source_explanation": "Estas são duas das obras-primas do romancista russo Fiódor Dostoiévski, conhecido por sua exploração psicológica e filosófica.",
+		"source_abnt": "DOSTOIÉVSKI, Fiódor. *Crime e Castigo*. Tradução de Paulo Bezerra. São Paulo: Editora 34, 2001."
+	},
+	{
+		"id": "LITE024",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "\"A Metamorfose\", de Franz Kafka, começa com o protagonista Gregor Samsa acordando e descobrindo que se transformou em quê?",
+		"options": [
+			{ "description": "Um rato gigante", "isCorrect": false },
+			{ "description": "Um pássaro", "isCorrect": false },
+			{ "description": "Um inseto monstruoso", "isCorrect": true },
+			{ "description": "Um cachorro", "isCorrect": false }
+		],
+		"source_explanation": "A famosa frase de abertura da novela (publicada em 1915) descreve Gregor Samsa acordando transformado em um \"ungeheures Ungeziefer\" (inseto monstruoso).",
+		"source_abnt": "KAFKA, Franz. *A Metamorfose*. Tradução de Modesto Carone. São Paulo: Companhia das Letras, 1997."
+	},
+	{
+		"id": "LITE025",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "Qual destes romances distópicos NÃO foi escrito por George Orwell?",
+		"options": [
+			{ "description": "1984", "isCorrect": false },
+			{ "description": "A Revolução dos Bichos", "isCorrect": false },
+			{ "description": "Admirável Mundo Novo", "isCorrect": true },
+			{ "description": "Lutando na Espanha (Nota: é não-ficção)", "isCorrect": false }
+		],
+		"source_explanation": "\"Admirável Mundo Novo\" (1932) é um romance distópico de Aldous Huxley, frequentemente comparado com as obras de Orwell.",
+		"source_abnt": "HUXLEY, Aldous. *Admirável Mundo Novo*. Tradução de Lino Vallandro e Vidal Serrano. São Paulo: Biblioteca Azul, 2014."
+	},
+	{
+		"id": "LITE026",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "O \"Realismo Mágico\" é um estilo literário proeminente associado a qual autor colombiano, vencedor do Nobel, e seu livro \"Cem Anos de Solidão\"?",
+		"options": [
+			{ "description": "Jorge Luis Borges", "isCorrect": false },
+			{ "description": "Gabriel García Márquez", "isCorrect": true },
+			{ "description": "Mario Vargas Llosa", "isCorrect": false },
+			{ "description": "Isabel Allende", "isCorrect": false }
+		],
+		"source_explanation": "A citação do Prêmio Nobel de 1982 para García Márquez destaca sua mistura de elementos fantásticos e reais (Realismo Mágico) em \"Cem Anos de Solidão\".",
+		"source_abnt": "GARCÍA MÁRQUEZ, Gabriel. *Cem Anos de Solidão*. Tradução de Eric Nepomuceno. 50. ed. Rio de Janeiro: Record, 2017."
+	},
+	{
+		"id": "LITE027",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "A \"Geração Beat\" foi um movimento literário dos anos 1950. Qual livro de Jack Kerouac é considerado o manifesto desse movimento?",
+		"options": [
+			{ "description": "Almoço Nu (Naked Lunch)", "isCorrect": false },
+			{ "description": "Uivo (Howl)", "isCorrect": false },
+			{ "description": "On the Road (Pé na Estrada)", "isCorrect": true },
+			{ "description": "O Apanhador no Campo de Centeio", "isCorrect": false }
+		],
+		"source_explanation": "O romance \"On the Road\" (1957), baseado nas viagens de Kerouac, definiu o estilo espontâneo e a filosofia anti-establishment da Geração Beat.",
+		"source_abnt": "KEROUAC, Jack. *On the Road: Pé na Estrada*. Tradução de Eduardo Bueno. São Paulo: L&PM, 2004."
+	},
+	{
+		"id": "LITE028",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "O poema épico nacional de Portugal, \"Os Lusíadas\", escrito por Luís de Camões, celebra qual evento histórico?",
+		"options": [
+			{ "description": "A fundação de Lisboa.", "isCorrect": false },
+			{ "description": "A vitória na guerra contra a Espanha.", "isCorrect": false },
+			{ "description": "A descoberta do caminho marítimo para a Índia por Vasco da Gama.", "isCorrect": true },
+			{ "description": "A colonização do Brasil.", "isCorrect": false }
+		],
+		"source_explanation": "Publicado em 1572, o poema épico de Camões narra a história de Portugal, com foco central na viagem de Vasco da Gama à Índia.",
+		"source_abnt": "CAMÕES, Luís de. *Os Lusíadas*. Edição de Frank Pierce. Oxford: Oxford University Press, 1973."
+	},
+	{
+		"id": "LITE029",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "Virginia Woolf foi uma figura central do \"Modernismo\" e pioneira de qual técnica narrativa que busca capturar os pensamentos do personagem em tempo real?",
+		"options": [
+			{ "description": "Fluxo de Consciência", "isCorrect": true },
+			{ "description": "Narrador Onisciente", "isCorrect": false },
+			{ "description": "Diálogo Socrático", "isCorrect": false },
+			{ "description": "Narrativa Epistolar", "isCorrect": false }
+		],
+		"source_explanation": "Obras como \"Mrs. Dalloway\" (1925) e \"Ao Farol\" (1927) são exemplos seminais do uso da técnica de fluxo de consciência por Virginia Woolf.",
+		"source_abnt": "WOOLF, Virginia. *Mrs. Dalloway*. Tradução de Mário Quintana. São Paulo: Autêntica, 2017."
+	},
+	{
+		"id": "LITE030",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "Em \"O Apanhador no Campo de Centeio\", qual é o nome do protagonista adolescente cínico e desiludido?",
+		"options": [
+			{ "description": "Jay Gatsby", "isCorrect": false },
+			{ "description": "Holden Caulfield", "isCorrect": true },
+			{ "description": "Atticus Finch", "isCorrect": false },
+			{ "description": "Ponyboy Curtis", "isCorrect": false }
+		],
+		"source_explanation": "Holden Caulfield é o narrador e protagonista do romance \"O Apanhador no Campo de Centeio\" (1951), de J.D. Salinger.",
+		"source_abnt": "SALINGER, J.D. *O Apanhador no Campo de Centeio*. Tradução de Jorio Dauster. São Paulo: Editora do Autor, 2019."
+	},
+	{
+		"id": "LITE031",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "O \"Teatro do Absurdo\", de dramaturgos como Samuel Beckett, lida com quais temas?",
+		"options": [
+			{ "description": "Histórias de amor trágicas e destino inevitável.", "isCorrect": false },
+			{ "description": "A falta de sentido da existência humana e a falha da comunicação.", "isCorrect": true },
+			{ "description": "Críticas sociais diretas à aristocracia.", "isCorrect": false },
+			{ "description": "Aventuras épicas de heróis mitológicos.", "isCorrect": false }
+		],
+		"source_explanation": "O livro do crítico Martin Esslin (1961) definiu o \"Teatro do Absurdo\" (Beckett, Ionesco) como um movimento que lida com a falta de sentido (absurdo) da condição humana.",
+		"source_abnt": "ESSLIN, Martin. *O Teatro do Absurdo*. Tradução de Gilda G. de Mello e Souza. São Paulo: Zahar Editores, 1968."
+	},
+	{
+		"id": "LITE032",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "Em \"O Estrangeiro\" de Albert Camus, o protagonista Meursault é condenado à morte não apenas por seu crime, mas por...",
+		"options": [
+			{ "description": "Ser um espião inimigo.", "isCorrect": false },
+			{ "description": "Seu ateísmo e sua recusa em chorar no funeral da mãe (indiferença social).", "isCorrect": true },
+			{ "description": "Roubar dinheiro do seu chefe.", "isCorrect": false },
+			{ "description": "Mentir sob juramento sobre sua identidade.", "isCorrect": false }
+		],
+		"source_explanation": "O romance (1942) explora o absurdo da indiferença de Meursault perante as expectativas sociais, o que choca o tribunal mais do que o assassinato.",
+		"source_abnt": "CAMUS, Albert. *O Estrangeiro*. Tradução de Valerie Rumjanek. 40. ed. Rio de Janeiro: Record, 2011."
+	},
+	{
+		"id": "LITE033",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "O \"Realismo\", como movimento literário de Gustave Flaubert (\"Madame Bovary\"), buscava...",
+		"options": [
+			{ "description": "Retratar a vida cotidiana e a sociedade de forma objetiva e, muitas vezes, crítica.", "isCorrect": true },
+			{ "description": "Idealizar o passado medieval.", "isCorrect": false },
+			{ "description": "Focar nos sentimentos extremos do indivíduo.", "isCorrect": false },
+			{ "description": "Usar eventos sobrenaturais para explicar a realidade.", "isCorrect": false }
+		],
+		"source_explanation": "A obra \"Madame Bovary\" (1856) é um marco do Realismo por sua descrição detalhada e crítica da burguesia provincial, rompendo com o Romantismo.",
+		"source_abnt": "FLAUBERT, Gustave. *Madame Bovary*. Tradução de Fúlvia M. L. Moretto. São Paulo: Penguin Classics Companhia das Letras, 2010."
+	},
+	{
+		"id": "LITE034",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "Quem é o autor de \"O Velho e o Mar\", conhecido por seu estilo de escrita \"iceberg\" (minimalista)?",
+		"options": [
+			{ "description": "F. Scott Fitzgerald", "isCorrect": false },
+			{ "description": "Ernest Hemingway", "isCorrect": true },
+			{ "description": "William Faulkner", "isCorrect": false },
+			{ "description": "John Steinbeck", "isCorrect": false }
+		],
+		"source_explanation": "A citação do Prêmio Nobel de 1954 para Hemingway menciona sua \"maestria da arte da narrativa\", exemplificada em \"O Velho e o Mar\", e seu estilo minimalista (teoria do iceberg).",
+		"source_abnt": "HEMINGWAY, Ernest. *O Velho e o Mar*. Tradução de Fernando de Castro Ferro. 45. ed. Rio de Janeiro: Bertrand Brasil, 2011."
+	},
+	{
+		"id": "LITE035",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "Qual poeta português é famoso por escrever sob múltiplos \"heterônimos\", como Alberto Caeiro, Álvaro de Campos e Ricardo Reis?",
+		"options": [
+			{ "description": "Luís de Camões", "isCorrect": false },
+			{ "description": "Eça de Queirós", "isCorrect": false },
+			{ "description": "José Saramago", "isCorrect": false },
+			{ "description": "Fernando Pessoa", "isCorrect": true }
+		],
+		"source_explanation": "A criação dos heterônimos (diferentes \"eus\" poéticos com biografias e estilos próprios) é a característica central e definidora da obra de Fernando Pessoa.",
+		"source_abnt": "PESSOA, Fernando. *Obra Poética*. Organização de Maria Aliete Galhoz. 3. ed. Rio de Janeiro: Nova Aguilar, 1997."
+	},
+	{
+		"id": "LITE036",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "O \"Transcendentalismo\" foi um movimento americano (Emerson, Thoreau) que acreditava em quê?",
+		"options": [
+			{ "description": "Na superioridade da intuição e da consciência individual sobre o empirismo e as instituições.", "isCorrect": true },
+			{ "description": "Na submissão total à doutrina religiosa estabelecida.", "isCorrect": false },
+			{ "description": "No progresso industrial acima de tudo.", "isCorrect": false },
+			{ "description": "Na lógica pura como o único caminho para a verdade.", "isCorrect": false }
+		],
+		"source_explanation": "O ensaio \"Nature\" (1836) de Emerson é o texto fundamental do movimento Transcendentalista Americano, focado na intuição e na natureza.",
+		"source_abnt": "EMERSON, Ralph Waldo. *Natureza*. Tradução de Ana Luiza Borges. São Paulo: Editora Landmark, 2008."
+	},
+	{
+		"id": "LITE037",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "Em \"Hamlet\" de Shakespeare, qual é a causa da loucura de Ofélia?",
+		"options": [
+			{ "description": "Ela é envenenada pela Rainha Gertrudes.", "isCorrect": false },
+			{ "description": "O luto pela morte de seu pai, Polônio, assassinado por Hamlet.", "isCorrect": true },
+			{ "description": "Seu amor não correspondido por Horácio.", "isCorrect": false },
+			{ "description": "Ela vê o fantasma do Rei Hamlet.", "isCorrect": false }
+		],
+		"source_explanation": "No Ato IV da peça, a loucura e o subsequente afogamento de Ofélia ocorrem após Hamlet, seu amante, assassinar seu pai, Polônio.",
+		"source_abnt": "SHAKESPEARE, William. *Hamlet*. Tradução de Millôr Fernandes. Porto Alegre: L&PM, 2008. (Ato IV)."
+	},
+	{
+		"id": "LITE038",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "O romance \"Fahrenheit 451\", de Ray Bradbury, descreve uma sociedade onde...",
+		"options": [
+			{ "description": "A temperatura nunca sobe acima de zero.", "isCorrect": false },
+			{ "description": "Os livros são proibidos e queimados pelos \"bombeiros\".", "isCorrect": true },
+			{ "description": "As pessoas vivem em realidade virtual.", "isCorrect": false },
+			{ "description": "Todos são geneticamente modificados.", "isCorrect": false }
+		],
+		"source_explanation": "O romance distópico de 1953 é ambientado em uma sociedade onde os bombeiros queimam livros. O título refere-se à temperatura em que o papel queima.",
+		"source_abnt": "BRADBURY, Ray. *Fahrenheit 451*. Tradução de Cid Knipel. São Paulo: Biblioteca Azul, 2012."
+	},
+	{
+		"id": "LITE039",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "O que é um \"narrador onisciente\"?",
+		"options": [
+			{ "description": "Um narrador que é o protagonista da história (primeira pessoa).", "isCorrect": false },
+			{ "description": "Um narrador que sabe tudo: os eventos, os pensamentos e sentimentos de todos os personagens.", "isCorrect": true },
+			{ "description": "Um narrador que só sabe o que um personagem sabe (terceira pessoa limitada).", "isCorrect": false },
+			{ "description": "Um narrador que mente para o leitor (não confiável).", "isCorrect": false }
+		],
+		"source_explanation": "O glossário de M.H. Abrams define o \"narrador onisciente\" (omniscient narrator) como um narrador em terceira pessoa que tem conhecimento ilimitado sobre os eventos e pensamentos.",
+		"source_abnt": "ABRAMS, M.H.; HARPHAM, Geoffrey Galt. *A Glossary of Literary Terms*. 11. ed. Boston: Cengage Learning, 2015."
+	},
+	{
+		"id": "LITE040",
+		"category": "Literatura",
+		"level": "medium",
+		"question": "O poema épico \"Paraíso Perdido\", de John Milton, reconta qual história bíblica do ponto de vista de Satanás?",
+		"options": [
+			{ "description": "O Dilúvio de Noé.", "isCorrect": false },
+			{ "description": "A Queda do Homem (Adão e Eva) e a rebelião no Céu.", "isCorrect": true },
+			{ "description": "O Êxodo do Egito.", "isCorrect": false },
+			{ "description": "O Apocalipse.", "isCorrect": false }
+		],
+		"source_explanation": "O poema épico de 1667 é famoso por sua caracterização complexa de Satanás como um protagonista trágico, narrando sua rebelião e a Queda de Adão e Eva.",
+		"source_abnt": "MILTON, John. *Paraíso Perdido*. Tradução de Daniel Jonas. São Paulo: Editora 34, 2015."
+	},
+	{
+		"id": "LITE041",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "O romance \"Ulysses\" (1922), de James Joyce, é estruturado como uma paródia moderna de qual obra clássica?",
+		"options": [
+			{ "description": "A \"Odisseia\" de Homero.", "isCorrect": true },
+			{ "description": "A \"Divina Comédia\" de Dante.", "isCorrect": false },
+			{ "description": "O \"Inferno\" de Milton.", "isCorrect": false },
+			{ "description": "As \"Metamorfoses\" de Ovídio.", "isCorrect": false }
+		],
+		"source_explanation": "A estrutura de 18 episódios de \"Ulysses\", seus capítulos e os personagens (Leopold Bloom como Odisseu, Stephen Dedalus como Telêmaco) são paralelos diretos à Odisseia.",
+		"source_abnt": "JOYCE, James. *Ulysses*. Tradução de Bernardina da Silveira Pinheiro. Rio de Janeiro: Objetiva, 2012."
+	},
+	{
+		"id": "LITE042",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "O que é um \"narrador não confiável\" (unreliable narrator), exemplificado por Humbert Humbert em \"Lolita\"?",
+		"options": [
+			{ "description": "Um narrador que esquece detalhes importantes da trama.", "isCorrect": false },
+			{ "description": "Um narrador cuja credibilidade é comprometida (por insanidade, mentira, viés), forçando o leitor a questionar a veracidade da história.", "isCorrect": true },
+			{ "description": "Um narrador que conta a história em ordem cronológica reversa.", "isCorrect": false },
+			{ "description": "Dois ou mais narradores que contam a mesma história.", "isCorrect": false }
+		],
+		"source_explanation": "O livro de Wayne Booth popularizou o termo \"narrador não confiável\". Humbert Humbert, o protagonista pedófilo de \"Lolita\", é um exemplo clássico.",
+		"source_abnt": "BOOTH, Wayne C. *The Rhetoric of Fiction*. 2. ed. Chicago: University of Chicago Press, 1983."
+	},
+	{
+		"id": "LITE043",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "O \"Pós-modernismo\" na literatura (Thomas Pynchon, David Foster Wallace) é caracterizado por quais técnicas?",
+		"options": [
+			{ "description": "Simplicidade, narrativa linear e otimismo no progresso humano.", "isCorrect": false },
+			{ "description": "Ironia, pastiche, fragmentação, meta-ficção e ceticismo em relação às \"grandes narrativas\".", "isCorrect": true },
+			{ "description": "Foco na natureza sublime e na emoção pura (Romantismo).", "isCorrect": false },
+			{ "description": "Observação objetiva da classe trabalhadora (Realismo).", "isCorrect": false }
+		],
+		"source_explanation": "A obra filosófica de Lyotard (1979) define o pós-modernismo como a \"incredulidade perante as metanarrativas\" (grandes narrativas), o que se reflete na literatura como ironia e fragmentação.",
+		"source_abnt": "LYOTARD, Jean-François. *A Condição Pós-Moderna*. Tradução de Ricardo Corrêa Barbosa. 15. ed. Rio de Janeiro: José Olympio, 2009."
+	},
+	{
+		"id": "LITE044",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "O romance \"Em Busca do Tempo Perdido\", de Marcel Proust, é desencadeado por qual famoso exemplo de \"memória involuntária\"?",
+		"options": [
+			{ "description": "O narrador vê uma foto antiga de sua mãe.", "isCorrect": false },
+			{ "description": "O narrador mergulha um biscoito \"madeleine\" no chá, e o sabor evoca memórias de infância.", "isCorrect": true },
+			{ "description": "O narrador ouve uma canção de ninar.", "isCorrect": false },
+			{ "description": "O narrador tropeça em uma pedra solta no pavimento.", "isCorrect": false }
+		],
+		"source_explanation": "O \"episódio da madeleine\", no primeiro volume \"No Caminho de Swann\", é a cena mais famosa da obra, onde o sabor do biscoito no chá desencadeia a memória involuntária.",
+		"source_abnt": "PROUST, Marcel. *No Caminho de Swann*. Tradução de Mario Quintana. São Paulo: Globo, 2006. (Em Busca do Tempo Perdido, v. 1)."
+	},
+	{
+		"id": "LITE045",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "O que é a \"Desconstrução\", abordagem de Jacques Derrida à teoria literária?",
+		"options": [
+			{ "description": "Uma análise que busca o \"significado verdadeiro\" e unificado de um texto.", "isCorrect": false },
+			{ "description": "Uma análise que mostra como um texto se contradiz, expondo a instabilidade da linguagem e as oposições binárias (ex: fala vs. escrita).", "isCorrect": true },
+			{ "description": "Uma análise marxista que foca na luta de classes dentro do texto.", "isCorrect": false },
+			{ "description": "Uma análise freudiana que busca o subconsciente do autor.", "isCorrect": false }
+		],
+		"source_explanation": "Obra fundadora da Desconstrução (1967), onde Derrida critica o logocentrismo e as oposições binárias da filosofia ocidental.",
+		"source_abnt": "DERRIDA, Jacques. *Da Gramatologia*. Tradução de Miriam Schnaiderman e Renato J. Ribeiro. São Paulo: Perspectiva, 1973."
+	},
+	{
+		"id": "LITE046",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "Qual é a característica narrativa central de \"O Som e a Fúria\", de William Faulkner?",
+		"options": [
+			{ "description": "Uma narrativa linear e otimista sobre a ascensão de uma família no sul dos EUA.", "isCorrect": false },
+			{ "description": "O uso de múltiplos narradores (incluindo Benjy, com deficiência intelectual) e uma cronologia severamente fragmentada.", "isCorrect": true },
+			{ "description": "É escrito inteiramente em forma de cartas (epistolar).", "isCorrect": false },
+			{ "description": "É contado por um único narrador onisciente e confiável.", "isCorrect": false }
+		],
+		"source_explanation": "O romance modernista de Faulkner (1929) é famoso por sua estrutura complexa, dividida em quatro seções com diferentes narradores e fluxos de consciência.",
+		"source_abnt": "FAULKNER, William. *O Som e a Fúria*. Tradução de Paulo Henriques Britto. São Paulo: Cosac Naify, 2012."
+	},
+	{
+		"id": "LITE047",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "Em \"Esperando Godot\", de Samuel Beckett, o que acontece com os protagonistas Vladimir e Estragon no final da peça?",
+		"options": [
+			{ "description": "Godot finalmente chega e responde suas perguntas.", "isCorrect": false },
+			{ "description": "Eles decidem ir embora e não esperar mais.", "isCorrect": false },
+			{ "description": "Eles continuam esperando; Godot não chega e nada é resolvido.", "isCorrect": true },
+			{ "description": "Eles percebem que um deles é Godot.", "isCorrect": false }
+		],
+		"source_explanation": "A peça (1953), um marco do Teatro do Absurdo, termina com os protagonistas incapazes de sair, apesar de Godot não chegar, simbolizando a espera existencial.",
+		"source_abnt": "BECKETT, Samuel. *Esperando Godot*. Tradução de Fábio de Souza Andrade. São Paulo: Cosac Naify, 2006."
+	},
+	{
+		"id": "LITE048",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "O poema \"A Terra Desolada\" (The Waste Land), de T.S. Eliot, é uma obra-prima modernista conhecida por sua...",
+		"options": [
+			{ "description": "Linguagem simples e celebração otimista da natureza.", "isCorrect": false },
+			{ "description": "Estrutura fragmentada, uso de múltiplas línguas e alusões complexas à mitologia e à literatura mundial.", "isCorrect": true },
+			{ "description": "Forma de soneto rigorosa e rimas perfeitas.", "isCorrect": false },
+			{ "description": "Narrativa épica sobre um único herói de guerra.", "isCorrect": false }
+		],
+		"source_explanation": "O poema (1922) é um pilar do Modernismo por sua complexidade, pessimismo pós-guerra e uso de alusões e fragmentação.",
+		"source_abnt": "ELIOT, T.S. *A Terra Desolada*. Tradução de Caetano W. Galindo. São Paulo: Companhia das Letras, 2018."
+	},
+	{
+		"id": "LITE049",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "No romance \"Grande Sertão: Veredas\", de Guimarães Rosa, qual é a característica mais marcante da narrativa de Riobaldo?",
+		"options": [
+			{ "description": "A linguagem (neologismos, arcaísmos) e o fluxo de consciência que questiona a existência do diabo e a natureza de Diadorim.", "isCorrect": true },
+			{ "description": "A descrição objetiva e realista da política do Rio de Janeiro.", "isCorrect": false },
+			{ "description": "É escrito inteiramente em versos de poema épico.", "isCorrect": false },
+			{ "description": "A história é contada por um narrador em terceira pessoa (onisciente).", "isCorrect": false }
+		],
+		"source_explanation": "A obra-prima de Guimarães Rosa (1956) é celebrada mundialmente por sua inovação linguística radical (neologismos, sintaxe) e sua narrativa em fluxo de consciência.",
+		"source_abnt": "ROSA, João Guimarães. *Grande Sertão: Veredas*. 19. ed. Rio de Janeiro: Nova Fronteira, 2001."
+	},
+	{
+		"id": "LITE050",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "O que é \"Intertextualidade\", termo cunhado por Julia Kristeva?",
+		"options": [
+			{ "description": "O estudo da gramática e da sintaxe de um texto.", "isCorrect": false },
+			{ "description": "A ideia de que todo texto é um \"mosaico de citações\" e que o significado é formado pela relação entre um texto e outros textos.", "isCorrect": true },
+			{ "description": "A tradução de um livro para várias línguas.", "isCorrect": false },
+			{ "description": "A análise da biografia do autor para entender o livro.", "isCorrect": false }
+		],
+		"source_explanation": "No ensaio de 1966, Kristeva introduz o conceito de \"intertextualidade\", argumentando que todo texto absorve e transforma outros textos.",
+		"source_abnt": "KRISTEVA, Julia. Word, Dialogue and Novel. In: MOI, Toril (ed.). *The Kristeva Reader*. Nova York: Columbia University Press, 1986. p. 34-61."
+	},
+	{
+		"id": "LITE051",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "Qual autor argentino é famoso por seus contos (como \"Ficções\" e \"O Aleph\") que exploram temas como labirintos, espelhos, bibliotecas e o infinito?",
+		"options": [
+			{ "description": "Julio Cortázar", "isCorrect": false },
+			{ "description": "Gabriel García Márquez", "isCorrect": false },
+			{ "description": "Jorge Luis Borges", "isCorrect": true },
+			{ "description": "Roberto Bolaño", "isCorrect": false }
+		],
+		"source_explanation": "A obra de Borges é definida por esses temas filosóficos e fantásticos, como visto em contos como \"A Biblioteca de Babel\" (em \"Ficções\") e \"O Aleph\".",
+		"source_abnt": "BORGES, Jorge Luis. *Ficções*. Tradução de Davi Arrigucci Jr. São Paulo: Companhia das Letras, 2007."
+	},
+	{
+		"id": "LITE052",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "O poema \"As Flores do Mal\" (Les Fleurs du mal), de Charles Baudelaire, foi processado por \"insulto à moral pública\" por quê?",
+		"options": [
+			{ "description": "Por sua crítica direta ao Imperador Napoleão III.", "isCorrect": false },
+			{ "description": "Por sua exploração franca do erotismo (ex: lesbianismo), decadência urbana, e a beleza encontrada no mórbido (Spleen).", "isCorrect": true },
+			{ "description": "Por sua defesa aberta do ateísmo.", "isCorrect": false },
+			{ "description": "Por usar verso livre, quebrando as regras da poesia francesa.", "isCorrect": false }
+		],
+		"source_explanation": "O julgamento de 1857 e a subsequente censura de seis poemas do livro (por \"ultraje à moral\") são fatos históricos que definem a obra.",
+		"source_abnt": "BAUDELAIRE, Charles. *As Flores do Mal*. Edição bilíngue. Tradução de Ivan Junqueira. Rio de Janeiro: Nova Fronteira, 2010."
+	},
+	{
+		"id": "LITE053",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "O que é \"Metaficção\"?",
+		"options": [
+			{ "description": "Ficção sobre o futuro da tecnologia (Ficção Científica).", "isCorrect": false },
+			{ "description": "Ficção que se refere à ficção escrita por outros autores (Fanfiction).", "isCorrect": false },
+			{ "description": "Um dispositivo narrativo onde a ficção se torna consciente de si mesma, quebrando a \"quarta parede\" ou comentando sobre sua própria construção.", "isCorrect": true },
+			{ "description": "Ficção baseada em eventos históricos reais.", "isCorrect": false }
+		],
+		"source_explanation": "O livro de Patricia Waugh define o termo \"Metaficção\" como \"ficção que reflete autoconscientemente sobre sua própria natureza como artefato literário\".",
+		"source_abnt": "WAUGH, Patricia. *Metafiction: The Theory and Practice of Self-Conscious Fiction*. Londres: Methuen, 1984."
+	},
+	{
+		"id": "LITE054",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "Qual romance de Clarice Lispector narra a crise existencial de uma mulher, G.H., após ela esmagar uma barata no armário?",
+		"options": [
+			{ "description": "A Hora da Estrela", "isCorrect": false },
+			{ "description": "A Paixão segundo G.H.", "isCorrect": true },
+			{ "description": "Perto do Coração Selvagem", "isCorrect": false },
+			{ "description": "Laços de Família", "isCorrect": false }
+		],
+		"source_explanation": "O romance de 1964 é um monólogo filosófico intenso de G.H., desencadeado pelo evento da barata no quarto de empregada.",
+		"source_abnt": "LISPECTOR, Clarice. *A Paixão segundo G.H.*. Rio de Janeiro: Rocco, 1998."
+	},
+	{
+		"id": "LITE055",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "O romance \"O Arco-Íris da Gravidade\" (Gravity's Rainbow), de Thomas Pynchon, é um exemplo notório de Pós-modernismo. Qual é seu tema central?",
+		"options": [
+			{ "description": "A busca pela entropia (desordem e morte) em meio ao caos da Segunda Guerra Mundial, centrada no foguete V-2.", "isCorrect": true },
+			{ "description": "Uma história de amor linear entre um soldado americano e uma enfermeira britânica.", "isCorrect": false },
+			{ "description": "A vida de Isaac Newton e a descoberta da gravidade.", "isCorrect": false },
+			{ "description": "Uma sátira sobre a indústria da música pop nos anos 60.", "isCorrect": false }
+		],
+		"source_explanation": "O romance de Pynchon (1973) é famoso por sua complexidade, paranoia e o tema da entropia (morte térmica), simbolizado pelo foguete V-2.",
+		"source_abnt": "PYNCHON, Thomas. *O Arco-Íris da Gravidade*. Tradução de Paulo Henriques Britto. São Paulo: Companhia das Letras, 2012."
+	},
+	{
+		"id": "LITE056",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "O que é o \"Novo Jornalismo\" (New Journalism) dos anos 60/70, praticado por Tom Wolfe e Truman Capote?",
+		"options": [
+			{ "description": "A prática de reportagem objetiva e imparcial, sem qualquer estilo literário.", "isCorrect": false },
+			{ "description": "O uso de técnicas literárias (cenas, diálogos, fluxo de consciência) para contar histórias de não-ficção (jornalismo).", "isCorrect": true },
+			{ "description": "A invenção de notícias (fake news) para entretenimento.", "isCorrect": false },
+			{ "description": "Jornalismo escrito inteiramente em formato de poesia.", "isCorrect": false }
+		],
+		"source_explanation": "A antologia de Tom Wolfe (1973) define o movimento, exemplificado por obras como \"A Sangue Frio\" de Capote, que usam técnicas de romance para reportagens.",
+		"source_abnt": "WOLFE, Tom (ed.). *The New Journalism*. Nova York: Harper & Row, 1973."
+	},
+	{
+		"id": "LITE057",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "A \"Época Dourada\" da ficção científica (décadas de 1940-50) foi dominada por qual \"Três Grandes\" autores?",
+		"options": [
+			{ "description": "Júlio Verne, H.G. Wells e Mary Shelley.", "isCorrect": false },
+			{ "description": "Isaac Asimov, Arthur C. Clarke e Robert Heinlein.", "isCorrect": true },
+			{ "description": "Philip K. Dick, Ursula K. Le Guin e Frank Herbert.", "isCorrect": false },
+			{ "description": "Orwell, Huxley e Bradbury.", "isCorrect": false }
+		],
+		"source_explanation": "Antologias e estudos críticos da ficção científica (como os de James Gunn) definem os \"Três Grandes\" (Big Three) da Época Dourada como Asimov, Clarke e Heinlein.",
+		"source_abnt": "GUNN, James. *The Road to Science Fiction, Vol. 3: From Heinlein to Here*. Lanham, MD: Scarecrow Press, 2002."
+	},
+	{
+		"id": "LITE058",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "No romance \"Finnegans Wake\", de James Joyce, o autor utiliza qual técnica linguística extrema?",
+		"options": [
+			{ "description": "Escrever o livro inteiro sem pontuação.", "isCorrect": false },
+			{ "description": "Uma linguagem \"onírica\" (de sonho) que funde múltiplas línguas em jogos de palavras (portmanteaus) complexos.", "isCorrect": true },
+			{ "description": "Usar apenas palavras monossilábicas.", "isCorrect": false },
+			{ "description": "Escrever o livro em latim arcaico.", "isCorrect": false }
+		],
+		"source_explanation": "A obra de Joyce (1939) é infame por sua linguagem experimental, que mistura dezenas de línguas em \"portmanteaus\" (palavras-valise) para criar uma lógica de sonho.",
+		"source_abnt": "JOYCE, James. *Finnegans Wake*. Londres: Faber & Faber, 1939."
+	},
+	{
+		"id": "LITE059",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "Qual é o conceito central do \"Estruturalismo\" na teoria literária (baseado em Saussure)?",
+		"options": [
+			{ "description": "Que o significado de um texto vem da biografia e da intenção do autor.", "isCorrect": false },
+			{ "description": "Que o significado é criado por sistemas de signos (linguagem) e suas relações estruturais (oposições binárias), não pelo objeto em si.", "isCorrect": true },
+			{ "description": "Que a literatura deve refletir a estrutura econômica (base e superestrutura) da sociedade.", "isCorrect": false },
+			{ "description": "Que a resposta emocional do leitor é a parte mais importante do texto.", "isCorrect": false }
+		],
+		"source_explanation": "A obra de Saussure (publicada postumamente em 1916) funda o estruturalismo ao focar na \"langue\" (língua) como um sistema de signos arbitrários.",
+		"source_abnt": "SAUSSURE, Ferdinand de. *Curso de Linguística Geral*. Tradução de A. Chelini, J. P. Paes e I. Blikstein. São Paulo: Cultrix, 1969."
+	},
+	{
+		"id": "LITE060",
+		"category": "Literatura",
+		"level": "hard",
+		"question": "Em \"Moby Dick\", a baleia branca é frequentemente interpretada como um símbolo de quê?",
+		"options": [
+			{ "description": "A beleza pura e intocada da natureza.", "isCorrect": false },
+			{ "description": "O mal indomável, o absurdo do universo ou a própria imagem de Deus (ambivalência).", "isCorrect": true },
+			{ "description": "O progresso industrial e a ganância humana.", "isCorrect": false },
+			{ "description": "A figura materna perdida.", "isCorrect": false }
+		],
+		"source_explanation": "O Capítulo 42 do romance, \"A Brancura da Baleia\", explora o terror simbólico e a ambivalência da cor branca, sugerindo que a baleia representa um mal ou um vazio divino.",
+		"source_abnt": "MELVILLE, Herman. *Moby Dick*. Tradução de Irene Hirsch e Alexandre Barbosa de Souza. São Paulo: Penguin Classics Companhia das Letras, 2017. (Capítulo 42)."
+	}
+]

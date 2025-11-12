@@ -1,0 +1,1 @@
+- Nome da aplicação: Quizelo (uma simplificação das palavras "Quiz" e "Dédalo")

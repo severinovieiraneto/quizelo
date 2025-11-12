@@ -1,0 +1,842 @@
+[
+	{
+		"id": "CURI001",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "Qual é a estrutura artificial mais longa do mundo?",
+		"options": [
+			{ "description": "A Grande Muralha da China", "isCorrect": true },
+			{ "description": "O Canal de Suez", "isCorrect": false },
+			{ "description": "A Ferrovia Transiberiana", "isCorrect": false },
+			{ "description": "O Burj Khalifa", "isCorrect": false }
+		],
+		"source_explanation": "A Grande Muralha da China é uma série de fortificações que se estende por milhares de quilômetros, sendo a estrutura mais longa já construída pelo homem.",
+		"source_abnt": "UNESCO. *World Heritage List*. The Great Wall. Paris: UNESCO, 1987. Disponível em: https://whc.unesco.org/en/list/438. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI002",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "Qual é o único mamífero que não pode pular?",
+		"options": [
+			{ "description": "Hipopótamo", "isCorrect": false },
+			{ "description": "Elefante", "isCorrect": true },
+			{ "description": "Rinoceronte", "isCorrect": false },
+			{ "description": "Baleia", "isCorrect": false }
+		],
+		"source_explanation": "Devido à sua enorme massa e à estrutura de suas pernas, os elefantes são o único mamífero que não consegue tirar as quatro patas do chão ao mesmo tempo (pular).",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Elephant (mammal). *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/animal/elephant-mammal. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI003",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "Qual é a cor da \"caixa-preta\" (gravador de voo) de um avião?",
+		"options": [
+			{ "description": "Ela é literalmente preta.", "isCorrect": false },
+			{ "description": "Ela é laranja-fluorescente.", "isCorrect": true },
+			{ "description": "Ela é cinza-metálico.", "isCorrect": false },
+			{ "description": "Ela é amarela.", "isCorrect": false }
+		],
+		"source_explanation": "Os gravadores de voo (caixas-pretas) são pintados de laranja-fluorescente (\"international orange\") para serem facilmente localizados nos destroços de um acidente.",
+		"source_abnt": "FAA (FEDERAL AVIATION ADMINISTRATION). *Cockpit Voice Recorders and Flight Data Recorders*. Washington, D.C.: FAA, [s.d.]. Disponível em: https://www.faa.gov/about/history/cvr-fdr-history. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI004",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "Qual é o menor país do mundo?",
+		"options": [
+			{ "description": "Mônaco", "isCorrect": false },
+			{ "description": "Nauru", "isCorrect": false },
+			{ "description": "Cidade do Vaticano", "isCorrect": true },
+			{ "description": "San Marino", "isCorrect": false }
+		],
+		"source_explanation": "A Cidade do Vaticano, sede da Igreja Católica em Roma, é o menor estado soberano do mundo, tanto em área (0,44 km²) quanto em população.",
+		"source_abnt": "GUINNESS WORLD RECORDS. *Smallest country*. Londres: Guinness World Records, [s.d.]. Disponível em: https://www.guinnessworldrecords.com/world-records/smallest-country. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI005",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "Qual animal é o \"Rei da Selva\"?",
+		"options": [
+			{ "description": "Leão", "isCorrect": true },
+			{ "description": "Tigre", "isCorrect": false },
+			{ "description": "Elefante", "isCorrect": false },
+			{ "description": "Gorila", "isCorrect": false }
+		],
+		"source_explanation": "O leão é culturalmente conhecido como o \"Rei da Selva\", apesar de viver predominantemente em savanas, não em selvas.",
+		"source_abnt": "OXFORD REFERENCE. *A Dictionary of Phrase and Fable*: King of the Beasts. Oxford: Oxford University Press, 2006."
+	},
+	{
+		"id": "CURI006",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "Quantos continentes existem (no modelo mais comum)?",
+		"options": [
+			{ "description": "Cinco", "isCorrect": false },
+			{ "description": "Seis", "isCorrect": false },
+			{ "description": "Sete", "isCorrect": true },
+			{ "description": "Oito", "isCorrect": false }
+		],
+		"source_explanation": "O modelo de sete continentes (África, Antártida, Ásia, Austrália, Europa, América do Norte e América do Sul) é o mais ensinado nos Estados Unidos e em muitas partes do mundo.",
+		"source_abnt": "NATIONAL GEOGRAPHIC. *Continents*. Washington, D.C.: National Geographic, [s.d.]. Disponível em: https://education.nationalgeographic.org/resource/continent/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI007",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "Qual é o único alimento que nunca estraga (apodrece)?",
+		"options": [
+			{ "description": "Arroz", "isCorrect": false },
+			{ "description": "Mel", "isCorrect": true },
+			{ "description": "Açúcar", "isCorrect": false },
+			{ "description": "Sal", "isCorrect": false }
+		],
+		"source_explanation": "Devido ao seu baixo teor de água e alta acidez (baixo pH), o mel é um ambiente inóspito para bactérias e microrganismos, permitindo que dure indefinidamente.",
+		"source_abnt": "SMITHSONIAN MAGAZINE. *The Science Behind Honey’s Eternal Shelf Life*. Washington, D.C.: Smithsonian, 2013. Disponível em: https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI008",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "Qual é o nome do medo irracional de aranhas?",
+		"options": [
+			{ "description": "Agorafobia", "isCorrect": false },
+			{ "description": "Claustrofobia", "isCorrect": false },
+			{ "description": "Aracnofobia", "isCorrect": true },
+			{ "description": "Acrofobia", "isCorrect": false }
+		],
+		"source_explanation": "Aracnofobia (medo de aracnídeos) é uma das fobias específicas mais comuns, classificada como um transtorno de ansiedade.",
+		"source_abnt": "AMERICAN PSYCHIATRIC ASSOCIATION (APA). *DSM-5: Manual Diagnóstico e Estatístico de Transtornos Mentais*. 5. ed. Porto Alegre: Artmed, 2014. (Seção: Fobia Específica)."
+	},
+	{
+		"id": "CURI009",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "Qual animal tem impressões digitais quase idênticas às humanas?",
+		"options": [
+			{ "description": "Chimpanzé", "isCorrect": false },
+			{ "description": "Coala", "isCorrect": true },
+			{ "description": "Golfinho", "isCorrect": false },
+			{ "description": "Rato", "isCorrect": false }
+		],
+		"source_explanation": "Os coalas (Phascolarctos cinereus) possuem impressões digitais (cristas dermopapilares) que são notavelmente semelhantes às humanas, a ponto de confundir análises forenses.",
+		"source_abnt": "HENNEBERG, M.; LAMBERT, K. M.; LEIGH, C. M. Fingerprint homoplasy: koalas and humans. *Natural Science*, v. 1, p. 89-95, 1997."
+	},
+	{
+		"id": "CURI010",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "O que significa a sigla \"www\" na internet?",
+		"options": [
+			{ "description": "World Wide Web (Rede de Alcance Mundial)", "isCorrect": true },
+			{ "description": "World Web Wide", "isCorrect": false },
+			{ "description": "Western World Web", "isCorrect": false },
+			{ "description": "World Wire Web", "isCorrect": false }
+		],
+		"source_explanation": "A World Wide Web (WWW) é o sistema de hipertexto (sites) que opera sobre a infraestrutura da Internet, inventado por Tim Berners-Lee.",
+		"source_abnt": "WORLD WIDE WEB CONSORTIUM (W3C). *About the World Wide Web*. [S.l.]: W3C, [s.d.]. Disponível em: https://www.w3.org/Consortium/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI011",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "Qual animal está no logotipo da Porsche?",
+		"options": [
+			{ "description": "Touro", "isCorrect": false },
+			{ "description": "Leão", "isCorrect": false },
+			{ "description": "Cavalo", "isCorrect": true },
+			{ "description": "Jaguar", "isCorrect": false }
+		],
+		"source_explanation": "O logotipo da Porsche apresenta um cavalo empinado no centro, que é o brasão da cidade de Stuttgart, sede da empresa. (O da Lamborghini é um touro).",
+		"source_abnt": "PORSCHE. *The Porsche Crest*. Stuttgart: Porsche AG, [s.d.]. Disponível em: https://www.porsche.com/international/aboutporsche/christophorusmagazine/archive/344/article06/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI012",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "Quantos lados tem um hexágono?",
+		"options": [
+			{ "description": "Cinco", "isCorrect": false },
+			{ "description": "Seis", "isCorrect": true },
+			{ "description": "Sete", "isCorrect": false },
+			{ "description": "Oito", "isCorrect": false }
+		],
+		"source_explanation": "Na geometria, um hexágono (do grego *héx*, \"seis\") é um polígono de seis lados e seis ângulos.",
+		"source_abnt": "OXFORD ENGLISH DICTIONARY. *Hexagon*. Oxford: Oxford University Press, [s.d.]. (Definição de termo)."
+	},
+	{
+		"id": "CURI013",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "Qual é a principal língua falada no Egito?",
+		"options": [
+			{ "description": "Hieróglifos", "isCorrect": false },
+			{ "description": "Árabe", "isCorrect": true },
+			{ "description": "Francês", "isCorrect": false },
+			{ "description": "Inglês", "isCorrect": false }
+		],
+		"source_explanation": "A língua oficial do Egito é o Árabe Padrão Moderno, e a língua falada pela maioria da população é o Árabe Egípcio.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Egypt: Languages. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/place/Egypt/Languages. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI014",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "O que o \"P\" significa na sigla \"GPS\"?",
+		"options": [
+			{ "description": "Posicionamento (Positioning)", "isCorrect": true },
+			{ "description": "Pessoas (People)", "isCorrect": false },
+			{ "description": "Privado (Private)", "isCorrect": false },
+			{ "description": "Protocolo (Protocol)", "isCorrect": false }
+		],
+		"source_explanation": "GPS é a sigla para \"Global Positioning System\" (Sistema de Posicionamento Global), um sistema de navegação por satélite dos EUA.",
+		"source_abnt": "U.S. SPACE FORCE. *Global Positioning System*. Washington, D.C.: U.S. Government, [s.d.]. Disponível em: https://www.gps.gov/systems/gps/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI015",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "Quantos segundos há em um minuto?",
+		"options": [
+			{ "description": "60", "isCorrect": true },
+			{ "description": "100", "isCorrect": false },
+			{ "description": "120", "isCorrect": false },
+			{ "description": "30", "isCorrect": false }
+		],
+		"source_explanation": "A definição padrão de tempo (baseada no Sistema Internacional de Unidades, SI) define 1 minuto como igual a 60 segundos.",
+		"source_abnt": "BIPM (BUREAU INTERNATIONAL DES POIDS ET MESURES). *SI Brochure: The International System of Units*. 9. ed. Sèvres: BIPM, 2019. (Capítulo 2.3.1: Unidade de tempo)."
+	},
+	{
+		"id": "CURI016",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "Qual empresa de fast-food usa o slogan \"I'm lovin' it\"?",
+		"options": [
+			{ "description": "Burger King", "isCorrect": false },
+			{ "description": "McDonald's", "isCorrect": true },
+			{ "description": "Subway", "isCorrect": false },
+			{ "description": "KFC", "isCorrect": false }
+		],
+		"source_explanation": "O slogan \"I'm lovin' it\" (Amo muito tudo isso) foi lançado pelo McDonald's em 2003 e é sua campanha de marketing mais duradoura.",
+		"source_abnt": "MCDONALD'S CORPORATION. *Our History*. Chicago: McDonald's, [s.d.]. Disponível em: https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-history.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI017",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "Quantos anéis há na bandeira olímpica?",
+		"options": [
+			{ "description": "Quatro", "isCorrect": false },
+			{ "description": "Cinco", "isCorrect": true },
+			{ "description": "Seis", "isCorrect": false },
+			{ "description": "Sete", "isCorrect": false }
+		],
+		"source_explanation": "O símbolo olímpico (Bandeira Olímpica) consiste em cinco anéis entrelaçados (azul, amarelo, preto, verde, vermelho), representando os cinco continentes habitados.",
+		"source_abnt": "COMITÊ OLÍMPICO INTERNACIONAL (COI). *The Olympic Rings*. Lausanne: COI, [s.d.]. Disponível em: https://olympics.com/ioc/olympic-rings. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI018",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "O que comemora o \"Dia da Bastilha\" (14 de julho) na França?",
+		"options": [
+			{ "description": "O fim da Segunda Guerra Mundial.", "isCorrect": false },
+			{ "description": "O início da Revolução Francesa.", "isCorrect": true },
+			{ "description": "O aniversário de Napoleão.", "isCorrect": false },
+			{ "description": "A unificação do país.", "isCorrect": false }
+		],
+		"source_explanation": "O feriado nacional francês (Fête Nationale) comemora a Tomada da Bastilha em 14 de julho de 1789, um evento simbólico do início da Revolução Francesa.",
+		"source_abnt": "GOVERNO DA FRANÇA. *A Fête Nationale de 14 de julho*. Paris: Gouvernement.fr, [s.d.]. Disponível em: https://www.gouvernement.fr/la-fete-nationale-du-14-juillet. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI019",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "Em que país a pizza foi inventada (em sua forma moderna)?",
+		"options": [
+			{ "description": "Estados Unidos", "isCorrect": false },
+			{ "description": "França", "isCorrect": false },
+			{ "description": "Grécia", "isCorrect": false },
+			{ "description": "Itália (Nápoles)", "isCorrect": true }
+		],
+		"source_explanation": "A pizza moderna (com tomate e queijo) foi inventada em Nápoles, Itália. A \"Arte do Pizzaiolo Napolitano\" é Patrimônio Imaterial da UNESCO.",
+		"source_abnt": "UNESCO. *Patrimônio Cultural Imaterial*. Art of Neapolitan ‘Pizzaiuolo’. Paris: UNESCO, 2017. Disponível em: https://ich.unesco.org/en/RL/art-of-neapolitan-pizzaiuolo-00722. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI020",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "easy",
+		"question": "Qual empresa de carros elétricos é dirigida por Elon Musk?",
+		"options": [
+			{ "description": "Rivian", "isCorrect": false },
+			{ "description": "Tesla", "isCorrect": true },
+			{ "description": "Ford", "isCorrect": false },
+			{ "description": "Lucid", "isCorrect": false }
+		],
+		"source_explanation": "Elon Musk é o CEO, arquiteto de produtos e (como ele se autodenomina) \"Technoking\" da Tesla, Inc.",
+		"source_abnt": "TESLA. *Elon Musk, CEO*. Palo Alto, CA: Tesla, [s.d.]. Disponível em: https://www.tesla.com/elon-musk. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI021",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "A palavra \"avocado\" (abacate) vem da língua Nahuatl (asteca), onde \"ahuacatl\" também significava...",
+		"options": [
+			{ "description": "Manteiga da floresta", "isCorrect": false },
+			{ "description": "Testículo", "isCorrect": true },
+			{ "description": "Fruta verde", "isCorrect": false },
+			{ "description": "Água doce", "isCorrect": false }
+		],
+		"source_explanation": "O Dicionário Oxford de Etimologia traça \"avocado\" até a palavra Nahuatl (asteca) \"ahuacatl\", que significava \"testículo\", provavelmente devido à sua forma.",
+		"source_abnt": "OXFORD ENGLISH DICTIONARY. *Avocado*. Oxford: Oxford University Press, [s.d.]. (Definição de termo)."
+	},
+	{
+		"id": "CURI022",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "Qual foi o propósito original do plástico-bolha (bubble wrap)?",
+		"options": [
+			{ "description": "Isolamento de estufas", "isCorrect": false },
+			{ "description": "Papel de parede texturizado 3D", "isCorrect": true },
+			{ "description": "Curativo médico", "isCorrect": false },
+			{ "description": "Embalagem de computadores", "isCorrect": false }
+		],
+		"source_explanation": "O plástico-bolha foi inventado em 1957 por Alfred Fielding e Marc Chavannes, que tentavam criar um papel de parede de plástico texturizado. A tentativa falhou, mas eles perceberam seu potencial de embalagem.",
+		"source_abnt": "SEALED AIR. *Our History*. Charlotte, NC: Sealed Air, [s.d.]. Disponível em: https://www.sealedair.com/company/our-history. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI023",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "A palavra \"malária\" vem do italiano medieval \"mala aria\", que significa...",
+		"options": [
+			{ "description": "Febre alta", "isCorrect": false },
+			{ "description": "Picada de mosquito", "isCorrect": false },
+			{ "description": "Ar ruim (mau ar)", "isCorrect": true },
+			{ "description": "Água parada", "isCorrect": false }
+		],
+		"source_explanation": "A etimologia da palavra \"malária\" (mala aria) reflete a antiga crença (Teoria Miasmática) de que a doença era causada pelo \"mau ar\" vindo dos pântanos.",
+		"source_abnt": "OXFORD ENGLISH DICTIONARY. *Malaria*. Oxford: Oxford University Press, [s.d.]. (Definição de termo)."
+	},
+	{
+		"id": "CURI024",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "Qual é a única letra do alfabeto que não aparece no nome de nenhum estado dos EUA?",
+		"options": [
+			{ "description": "Z", "isCorrect": false },
+			{ "description": "J", "isCorrect": false },
+			{ "description": "Q", "isCorrect": true },
+			{ "description": "X", "isCorrect": false }
+		],
+		"source_explanation": "Uma verificação dos 50 nomes de estados dos EUA revela que a letra 'Z' aparece (Arizona) e 'J' aparece (New Jersey), mas 'Q' não aparece em nenhum.",
+		"source_abnt": "U.S. GEOLOGICAL SURVEY (USGS). *Names of the 50 US States*. Reston, VA: USGS, [s.d.]. (Verificação factual)."
+	},
+	{
+		"id": "CURI025",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "Quantos corações tem um polvo?",
+		"options": [
+			{ "description": "Um", "isCorrect": false },
+			{ "description": "Dois", "isCorrect": false },
+			{ "description": "Três", "isCorrect": true },
+			{ "description": "Oito", "isCorrect": false }
+		],
+		"source_explanation": "A fisiologia dos polvos (cefalópodes) inclui três corações: um coração sistêmico (principal) e dois corações branquiais (que bombeiam sangue para as brânquias).",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Octopus (mollusk). *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/animal/octopus-mollusk. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI026",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "O \"Chapéu-Panamá\" (Panama Hat) é, na verdade, originário de qual país?",
+		"options": [
+			{ "description": "Panamá", "isCorrect": false },
+			{ "description": "Equador", "isCorrect": true },
+			{ "description": "Colômbia", "isCorrect": false },
+			{ "description": "México", "isCorrect": false }
+		],
+		"source_explanation": "O chapéu de palha toquilla é tradicionalmente feito em Cuenca e Montecristi, no Equador. A UNESCO lista a tecelagem equatoriana como Patrimônio Imaterial.",
+		"source_abnt": "UNESCO. *Patrimônio Cultural Imaterial*. Traditional weaving of the Ecuadorian toquilla straw hat. Paris: UNESCO, 2012. Disponível em: https://ich.unesco.org/en/RL/traditional-weaving-of-the-ecuadorian-toquilla-straw-hat-00729. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI027",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "O que é uma \"dúzia de padeiro\" (baker's dozen)?",
+		"options": [
+			{ "description": "10", "isCorrect": false },
+			{ "description": "11", "isCorrect": false },
+			{ "description": "12", "isCorrect": false },
+			{ "description": "13", "isCorrect": true }
+		],
+		"source_explanation": "O termo \"dúzia de padeiro\" (13) originou-se na Inglaterra medieval, onde leis severas puniam padeiros por pães com peso inferior. Eles adicionavam uma 13ª unidade para garantir que não estavam violando a lei.",
+		"source_abnt": "OXFORD ENGLISH DICTIONARY. *Baker's dozen*. Oxford: Oxford University Press, [s.d.]. (Definição de termo)."
+	},
+	{
+		"id": "CURI028",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "Qual é a cor do pôr do sol em Marte?",
+		"options": [
+			{ "description": "Vermelho", "isCorrect": false },
+			{ "description": "Laranja", "isCorrect": false },
+			{ "description": "Azul", "isCorrect": true },
+			{ "description": "Verde", "isCorrect": false }
+		],
+		"source_explanation": "Fotos dos rovers da NASA (como o Spirit e o Curiosity) mostram que, enquanto o céu de Marte é avermelhado de dia, o pôr do sol aparece em tons de azul. Isso se deve à poeira fina que espalha a luz azul de forma mais eficiente no ângulo do crepúsculo.",
+		"source_abnt": "NASA. *Blue Sunset on Mars*. Washington, D.C.: NASA, 2015. Disponível em: https://science.nasa.gov/image-detail/blue-sunset-on-mars/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI029",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "O Ketchup foi vendido na década de 1830 como...",
+		"options": [
+			{ "description": "Graxa de sapato", "isCorrect": false },
+			{ "description": "Remédio (para indigestão)", "isCorrect": true },
+			{ "description": "Tinta", "isCorrect": false },
+			{ "description": "Limpador de metal", "isCorrect": false }
+		],
+		"source_explanation": "Em 1834, o Dr. John Cooke Bennet começou a vender Ketchup (ainda à base de tomate) em pílulas como um remédio patenteado para indigestão e diarreia.",
+		"source_abnt": "SMITH, Andrew F. *Pure Ketchup: A History of America's National Condiment*. Columbia, SC: University of South Carolina Press, 1996."
+	},
+	{
+		"id": "CURI030",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "Qual empresa de jogos de videogame foi fundada primeiro: Nintendo ou Sega?",
+		"options": [
+			{ "description": "Sega (1960)", "isCorrect": false },
+			{ "description": "Nintendo (1889)", "isCorrect": true },
+			{ "description": "Foram fundadas no mesmo ano.", "isCorrect": false },
+			{ "description": "Sony (1946)", "isCorrect": false }
+		],
+		"source_explanation": "A Nintendo (Nintendo Koppai) foi fundada por Fusajiro Yamauchi em 1889, em Quioto, para produzir cartas de baralho \"hanafuda\", muito antes de entrar no mercado de videogames.",
+		"source_abnt": "NINTENDO. *Company History*. Kyoto: Nintendo, [s.d.]. Disponível em: https://www.nintendo.co.jp/corporate/en/history/index.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI031",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "A palavra \"assassino\" (assassin) tem origem em \"Hashishin\", um termo árabe que significa...",
+		"options": [
+			{ "description": "Guerreiros da noite", "isCorrect": false },
+			{ "description": "Usuários de haxixe", "isCorrect": true },
+			{ "description": "Homens da montanha", "isCorrect": false },
+			{ "description": "A lâmina oculta", "isCorrect": false }
+		],
+		"source_explanation": "A etimologia de \"assassino\" vem do árabe \"Hashishin\" (usuários de haxixe), um apelido dado aos membros da seita Nizari Ismaili, com base em relatos (provavelmente fictícios) de que usavam a droga antes de cometer assassinatos.",
+		"source_abnt": "OXFORD ENGLISH DICTIONARY. *Assassin*. Oxford: Oxford University Press, [s.d.]. (Definição de termo)."
+	},
+	{
+		"id": "CURI032",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "Um grupo de corvos é chamado de...",
+		"options": [
+			{ "description": "Um bando", "isCorrect": false },
+			{ "description": "Uma revoada", "isCorrect": false },
+			{ "description": "Um assassinato (A murder)", "isCorrect": true },
+			{ "description": "Uma alcateia", "isCorrect": false }
+		],
+		"source_explanation": "Em inglês, o substantivo coletivo para um grupo de corvos é \"a murder\" (um assassinato), um termo de venery (caça) do século XV.",
+		"source_abnt": "OXFORD ENGLISH DICTIONARY. *Murder (noun)*. Oxford: Oxford University Press, [s.d.]. (Definição 4b: A flock of crows)."
+	},
+	{
+		"id": "CURI033",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "Qual é o único país do mundo que começa com a letra \"Q\" em inglês (e português)?",
+		"options": [
+			{ "description": "Quênia", "isCorrect": false },
+			{ "description": "Catar (Qatar)", "isCorrect": true },
+			{ "description": "Quirguistão", "isCorrect": false },
+			{ "description": "Não existe", "isCorrect": false }
+		],
+		"source_explanation": "Verificando a lista de estados-membros da ONU, o Catar (Qatar) é o único país cujo nome em inglês começa com a letra Q. (Quênia = Kenya; Quirguistão = Kyrgyzstan).",
+		"source_abnt": "ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU). *Lista de Estados-Membros*. Nova York: ONU, [s.d.]. Disponível em: https://www.un.org/en/about-us/member-states. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI034",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "Por que os flamingos são cor-de-rosa?",
+		"options": [
+			{ "description": "É uma camuflagem para o pôr do sol.", "isCorrect": false },
+			{ "description": "Devido à sua dieta rica em camarões e algas (carotenoides).", "isCorrect": true },
+			{ "description": "Eles nascem rosa.", "isCorrect": false },
+			{ "description": "Para atrair parceiros.", "isCorrect": false }
+		],
+		"source_explanation": "Os flamingos nascem brancos ou cinzas. A cor rosa-choque vem da sua dieta rica em pigmentos carotenoides, encontrados nas algas e crustáceos que comem.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Flamingo. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/animal/flamingo. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI035",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "O clipe de papel (paperclip) foi inventado por um norueguês, mas também se tornou um símbolo de...",
+		"options": [
+			{ "description": "Paz mundial", "isCorrect": false },
+			{ "description": "Resistência Norueguesa contra os Nazistas na 2ª Guerra.", "isCorrect": true },
+			{ "description": "O movimento pelos direitos civis.", "isCorrect": false },
+			{ "description": "A revolução digital.", "isCorrect": false }
+		],
+		"source_explanation": "Durante a ocupação nazista na Segunda Guerra Mundial, os noruegueses usavam clipes de papel na lapela como um símbolo silencioso de resistência e unidade nacional.",
+		"source_abnt": "NORWAY. *Symbols of Resistance: The Paperclip*. Oslo: Norway.org (Site oficial da Embaixada da Noruega), [s.d.]. Disponível em: https://www.norway.org/about-norway/history/world-war-ii/symbols-of-resistance/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI036",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "A palavra \"quarentena\" (quarantine) vem da palavra italiana \"quaranta giorni\", que significa...",
+		"options": [
+			{ "description": "Quatro meses", "isCorrect": false },
+			{ "description": "Quarenta dias", "isCorrect": true },
+			{ "description": "Quatorze dias", "isCorrect": false },
+			{ "description": "Doença rápida", "isCorrect": false }
+		],
+		"source_explanation": "A etimologia de \"quarentena\" vem da prática de Veneza (séc. XIV) de isolar navios por \"quaranta giorni\" (quarenta dias) para prevenir a Peste Negra.",
+		"source_abnt": "CENTERS FOR DISEASE CONTROL AND PREVENTION (CDC). *History of Quarantine*. Atlanta, GA: CDC, [s.d.]. Disponível em: https://www.cdc.gov/quarantine/history/index.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI037",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "Qual é a cidade mais populosa do mundo (área metropolitana)?",
+		"options": [
+			{ "description": "São Paulo", "isCorrect": false },
+			{ "description": "Xangai", "isCorrect": false },
+			{ "description": "Tóquio", "isCorrect": true },
+			{ "description": "Delhi", "isCorrect": false }
+		],
+		"source_explanation": "Os relatórios de urbanização da ONU consistentemente listam a Área Metropolitana de Tóquio, Japão, como a mais populosa do mundo (mais de 37 milhões de habitantes).",
+		"source_abnt": "ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU). Departamento de Assuntos Econômicos e Sociais. *World Urbanization Prospects 2018*. Nova York: ONU, 2018. Disponível em: https://population.un.org/wup/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI038",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "Qual empresa era a maior fabricante de pneus do mundo em 2014, segundo o Guinness Book?",
+		"options": [
+			{ "description": "Michelin", "isCorrect": false },
+			{ "description": "Goodyear", "isCorrect": false },
+			{ "description": "Lego", "isCorrect": true },
+			{ "description": "Bridgestone", "isCorrect": false }
+		],
+		"source_explanation": "O Guinness World Records reconheceu o Grupo Lego como o maior fabricante de pneus do mundo (em número de unidades), produzindo mais de 300 milhões de pneus de brinquedo por ano.",
+		"source_abnt": "GUINNESS WORLD RECORDS. *Largest tyre manufacturer per annum*. Londres: Guinness World Records, 2014. Disponível em: https://www.guinnessworldrecords.com/world-records/largest-tyre-manufacturer-per-annum. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI039",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "O que a palavra \"uísque\" (whiskey) significa literally em gaélico (uisce beatha)?",
+		"options": [
+			{ "description": "Água de fogo", "isCorrect": false },
+			{ "description": "Suco de grão", "isCorrect": false },
+			{ "description": "Água da vida", "isCorrect": true },
+			{ "description": "Bebida do diabo", "isCorrect": false }
+		],
+		"source_explanation": "A palavra \"uísque\" é uma anglicização da frase gaélica (irlandesa/escocesa) \"uisce beatha\" (ou \"uisge beatha\"), que significa \"água da vida\".",
+		"source_abnt": "OXFORD ENGLISH DICTIONARY. *Whiskey*. Oxford: Oxford University Press, [s.d.]. (Definição de termo)."
+	},
+	{
+		"id": "CURI040",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "medium",
+		"question": "Qual é o nome do criador da World Wide Web (WWW)?",
+		"options": [
+			{ "description": "Bill Gates", "isCorrect": false },
+			{ "description": "Vint Cerf", "isCorrect": false },
+			{ "description": "Tim Berners-Lee", "isCorrect": true },
+			{ "description": "Steve Jobs", "isCorrect": false }
+		],
+		"source_explanation": "Tim Berners-Lee, um cientista britânico do CERN, inventou a World Wide Web (WWW) em 1989. (Vint Cerf é o \"pai da Internet\", o protocolo TCP/IP).",
+		"source_abnt": "WORLD WIDE WEB CONSORTIUM (W3C). *Sir Timothy Berners-Lee*. [S.l.]: W3C, [s.d.]. Disponível em: https://www.w3.org/People/Berners-Lee/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI041",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "A palavra \"goodbye\" (adeus) é uma contração de qual frase em inglês arcaico?",
+		"options": [
+			{ "description": "Good day, be you well\" (Bom dia, esteja bem)", "isCorrect": false },
+			{ "description": "God be with ye\" (Deus esteja convosco)", "isCorrect": true },
+			{ "description": "A good way to buy\" (Um bom caminho a seguir)", "isCorrect": false },
+			{ "description": "Go on, be well\" (Siga, fique bem)", "isCorrect": false }
+		],
+		"source_explanation": "O Dicionário Oxford de Etimologia explica que \"goodbye\" é uma contração da frase do inglês arcaico \"God be with ye\" (Deus esteja convosco/contigo).",
+		"source_abnt": "OXFORD ENGLISH DICTIONARY. *Goodbye*. Oxford: Oxford University Press, [s.d.]. (Definição de termo)."
+	},
+	{
+		"id": "CURI042",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "O que é o \"Efeito Mpemba\"?",
+		"options": [
+			{ "description": "O fenômeno físico onde a água quente, sob certas condições, pode congelar mais rápido que a água fria.", "isCorrect": true },
+			{ "description": "A ilusão de ótica de que a Lua é maior no horizonte.", "isCorrect": false },
+			{ "description": "A tendência de lembrar apenas do primeiro e do último item de uma lista.", "isCorrect": false },
+			{ "description": "O brilho azulado da radiação Cherenkov.", "isCorrect": false }
+		],
+		"source_explanation": "O Efeito Mpemba (nomeado após Erasto Mpemba, 1963) é o fenômeno contraintuitivo (embora contestado) onde a água quente congela mais rapidamente que a água fria.",
+		"source_abnt": "MPEMBA, Erasto B.; OSBORNE, Denis G. Cool?. *Physics Education*, v. 4, n. 3, p. 172-175, 1969."
+	},
+	{
+		"id": "CURI043",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "A palavra \"hipoteca\" (mortgage) vem do francês antigo e significa literalmente...",
+		"options": [
+			{ "description": "Grande dívida", "isCorrect": false },
+			{ "description": "Voto morto (Dead pledge)", "isCorrect": true },
+			{ "description": "Prender a casa", "isCorrect": false },
+			{ "description": "Contrato de longo prazo", "isCorrect": false }
+		],
+		"source_explanation": "Etimologia de \"Mortgage\" (Hipoteca): do francês antigo \"mort\" (morto) e \"gage\" (penhor, voto). Refere-se a um \"voto morto\" porque o negócio morre (acaba) quando a dívida é paga.",
+		"source_abnt": "OXFORD ENGLISH DICTIONARY. *Mortgage*. Oxford: Oxford University Press, [s.d.]. (Definição de termo)."
+	},
+	{
+		"id": "CURI044",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "O \"Vazio de Boötes\" (Boötes Void) é uma região do espaço famosa por ser...",
+		"options": [
+			{ "description": "O local de nascimento de novas estrelas.", "isCorrect": false },
+			{ "description": "Onde se acredita existir um buraco de minhoca.", "isCorrect": false },
+			{ "description": "Uma região esférica e vasta do espaço com uma densidade de galáxias extremamente baixa (um \"supervazio\").", "isCorrect": true },
+			{ "description": "Repleta de matéria escura.", "isCorrect": false }
+		],
+		"source_explanation": "O Vazio de Boötes (descoberto em 1981) é um \"supervazio\" no universo, com cerca de 330 milhões de anos-luz de diâmetro, notável pela sua extrema falta de galáxias.",
+		"source_abnt": "KIRSHNER, Robert P. [et al.]. A million cubic megaparsec void in Boötes?. *The Astrophysical Journal*, v. 248, p. L57-L60, 15 set. 1981."
+	},
+	{
+		"id": "CURI045",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "A palavra \"pista\" (em inglês, \"clue\") vem da palavra \"clew\", que se referia a quê na mitologia?",
+		"options": [
+			{ "description": "Ao novelo de lã que Teseu usou para sair do labirinto.", "isCorrect": true },
+			{ "description": "À pena de Ma'at usada para pesar o coração.", "isCorrect": false },
+			{ "description": "Ao oráculo de Delfos.", "isCorrect": false },
+			{ "description": "À maçã dourada da discórdia.", "isCorrect": false }
+		],
+		"source_explanation": "A etimologia de \"clue\" (pista) vem de \"clew\" (novelo de linha), uma referência direta ao mito de Teseu, que usou um novelo dado por Ariadne para encontrar o caminho de volta no Labirinto.",
+		"source_abnt": "OXFORD ENGLISH DICTIONARY. *Clue (noun)*. Oxford: Oxford University Press, [s.d.]. (Definição de termo)."
+	},
+	{
+		"id": "CURI046",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "Qual era o nome original do mecanismo de busca do Google?",
+		"options": [
+			{ "description": "Googol", "isCorrect": false },
+			{ "description": "Backrub", "isCorrect": true },
+			{ "description": "WebCrawler", "isCorrect": false },
+			{ "description": "PageSearch", "isCorrect": false }
+		],
+		"source_explanation": "Antes de se tornar Google, o mecanismo de busca criado por Larry Page e Sergey Brin em Stanford (1996) chamava-se \"Backrub\", uma referência à sua análise de \"backlinks\" (links de retorno).",
+		"source_abnt": "GOOGLE. *Nossa história*. Mountain View, CA: Google, [s.d.]. Disponível em: https://about.google/intl/pt-BR/our-story/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI047",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "O \"Efeito Leidenfrost\" é o fenômeno que explica por que...",
+		"options": [
+			{ "description": "O gelo é escorregadio.", "isCorrect": false },
+			{ "description": "Gotas de água \"dançam\" em uma frigideira muito quente (uma camada de vapor as isola).", "isCorrect": true },
+			{ "description": "O céu é azul.", "isCorrect": false },
+			{ "description": "Os metais se expandem com o calor.", "isCorrect": false }
+		],
+		"source_explanation": "O Efeito Leidenfrost (1756) ocorre quando um líquido entra em contato com uma superfície significativamente mais quente que seu ponto de ebulição, criando uma camada de vapor isolante.",
+		"source_abnt": "LEIDENFROST, Johann Gottlob. *De Aquae Communis Nonnullis Qualitatibus Tractatus*. 1756. (Tratado sobre algumas qualidades da água comum)."
+	},
+	{
+		"id": "CURI048",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "O inventor do forno de micro-ondas, Percy Spencer, percebeu seu potencial quando uma barra de chocolate derreteu em seu bolso enquanto ele testava um...",
+		"options": [
+			{ "description": "Radar", "isCorrect": false },
+			{ "description": "Magnetron (tubo de radar)", "isCorrect": true },
+			{ "description": "Transmissor de rádio", "isCorrect": false },
+			{ "description": "Raio-X", "isCorrect": false }
+		],
+		"source_explanation": "Enquanto trabalhava na Raytheon (1945), Percy Spencer estava testando um magnetron (o tubo que gera micro-ondas para radar) quando notou que uma barra de chocolate em seu bolso havia derretido.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Percy Spencer. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/biography/Percy-Spencer. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI049",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "De qual animal é o \"leite\" de cor rosa?",
+		"options": [
+			{ "description": "Flamingo", "isCorrect": false },
+			{ "description": "Hipopótamo", "isCorrect": true },
+			{ "description": "Baleia", "isCorrect": false },
+			{ "description": "Porco", "isCorrect": false }
+		],
+		"source_explanation": "O leite do hipopótamo contém dois ácidos (ácido hiposudórico e nor-hiposudórico) que atuam como protetor solar e antibiótico. A mistura desses pigmentos vermelhos com o leite branco resulta em uma cor rosa.",
+		"source_abnt": "HASHIMOTO, K.; SAHARA, Y.; SUGIMOTO, Y. Properties of the red pigment in the skin secretion of Hippopotamus amphibius. *Pure and Applied Chemistry*, v. 79, n. 4, p. 523-529, 2007."
+	},
+	{
+		"id": "CURI050",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "A \"Radiação Cherenkov\" é o brilho azulado visível em reatores nucleares. Ela é causada por...",
+		"options": [
+			{ "description": "A fissão nuclear em si.", "isCorrect": false },
+			{ "description": "O urânio brilhando no escuro.", "isCorrect": false },
+			{ "description": "Partículas (elétrons) viajando mais rápido que a velocidade da luz *naquele meio* (água).", "isCorrect": true },
+			{ "description": "O calor extremo da água.", "isCorrect": false }
+		],
+		"source_explanation": "A Radiação Cherenkov (Pavel Cherenkov, Prêmio Nobel de 1958) é um \"boom sônico\" eletromagnético, emitido quando uma partícula carregada (elétron) passa por um dielétrico (água) mais rápido que a velocidade de fase da luz *nesse meio*.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Cherenkov radiation. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/Cerenkov-radiation. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI051",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "Stephanie Kwolek, química da DuPont, inventou acidentalmente qual fibra sintética, cinco vezes mais forte que o aço?",
+		"options": [
+			{ "description": "Nylon", "isCorrect": false },
+			{ "description": "Kevlar", "isCorrect": true },
+			{ "description": "Poliéster", "isCorrect": false },
+			{ "description": "Lycra", "isCorrect": false }
+		],
+		"source_explanation": "Enquanto buscava uma fibra leve para pneus em 1965, Stephanie Kwolek (DuPont) descobriu a poliamida líquida-cristalina, que se tornou o Kevlar, usado em coletes à prova de balas.",
+		"source_abnt": "NATIONAL INVENTORS HALL OF FAME. *Stephanie Kwolek: Kevlar*. Akron, OH: NIHF, [s.d.]. Disponível em: https://www.invent.org/inductees/stephanie-kwolek. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI052",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "O que é o \"Sinal Wow!\" (Wow! Signal)?",
+		"options": [
+			{ "description": "O primeiro som gravado de um terremoto.", "isCorrect": false },
+			{ "description": "Um forte sinal de rádio de banda estreita detectado em 1977, cuja origem é desconhecida e é candidato a SETI.", "isCorrect": true },
+			{ "description": "O som que as baleias-azuis emitem.", "isCorrect": false },
+			{ "description": "O primeiro sinal de internet enviado.", "isCorrect": false }
+		],
+		"source_explanation": "Detectado pelo radiotelescópio \"Big Ear\" em 1977, o \"Sinal Wow!\" foi um sinal anômalo que durou 72 segundos e se encaixava nas expectativas de uma transmissão extraterrestre.",
+		"source_abnt": "BIG EAR RADIO OBSERVATORY. *The \"Wow!\" Signal*. Delaware, OH: Ohio State University, [s.d.]. Disponível em: http://www.bigear.org/wowmenu.htm. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI053",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "Em que país é ilegal, por lei, \"morrer\" na cidade de Longyearbyen (Svalbard)?",
+		"options": [
+			{ "description": "Islândia", "isCorrect": false },
+			{ "description": "Noruega", "isCorrect": true },
+			{ "description": "Finlândia", "isCorrect": false },
+			{ "description": "Rússia", "isCorrect": false }
+		],
+		"source_explanation": "Longyearbyen, em Svalbard (Noruega), proíbe enterros (e, por extensão, \"morrer\" lá) porque o permafrost impede a decomposição dos corpos, que podem atrair ursos polares.",
+		"source_abnt": "THE GUARDIAN. *The Norwegian town where you're not allowed to die*. Londres: The Guardian, 16 out. 2017. Disponível em: https://www.theguardian.com/world/2017/oct/16/the-norwegian-town-where-youre-not-allowed-to-die-svalbard-longyearbyen. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI054",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "A palavra \"deadline\" (prazo final) originou-se...",
+		"options": [
+			{ "description": "Da indústria de jornais.", "isCorrect": false },
+			{ "description": "De campos de prisioneiros da Guerra Civil (uma linha que, se cruzada, resultava em tiro).", "isCorrect": true },
+			{ "description": "De corridas de cavalos.", "isCorrect": false },
+			{ "description": "De contratos de construção medievais.", "isCorrect": false }
+		],
+		"source_explanation": "A etimologia de \"deadline\" (linha da morte) vem de campos de prisioneiros da Guerra Civil Americana, onde era a linha limite que os prisioneiros não podiam cruzar sem serem alvejados.",
+		"source_abnt": "OXFORD ENGLISH DICTIONARY. *Deadline (noun)*. Oxford: Oxford University Press, [s.d.]. (Definição de termo)."
+	},
+	{
+		"id": "CURI055",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "O que é \"parestesia\"?",
+		"options": [
+			{ "description": "A sensação de \"borboletas no estômago\".", "isCorrect": false },
+			{ "description": "A sensação de \"formigamento\" ou \"alfinetadas\" (ex: quando o pé \"dorme\").", "isCorrect": true },
+			{ "description": "O zumbido no ouvido (tinnitus).", "isCorrect": false },
+			{ "description": "A sensação de \"déjà vu\".", "isCorrect": false }
+		],
+		"source_explanation": "Parestesia é o termo médico para a sensação anormal de formigamento, picada ou dormência na pele (ex: quando um membro \"dorme\").",
+		"source_abnt": "NATIONAL INSTITUTE OF NEUROLOGICAL DISORDERS AND STROKE (NINDS). *Paresthesia*. Bethesda, MD: NIH, [s.d.]. Disponível em: https://www.ninds.nih.gov/health-information/disorders/paresthesia. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI056",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "O primeiro \"emoticon\" :-) foi proposto em 1982 por qual cientista da computação?",
+		"options": [
+			{ "description": "Ray Tomlinson (inventor do e-mail)", "isCorrect": false },
+			{ "description": "Scott Fahlman", "isCorrect": true },
+			{ "description": "Tim Berners-Lee (inventor da WWW)", "isCorrect": false },
+			{ "description": "Vint Cerf (\"pai\" da Internet)", "isCorrect": false }
+		],
+		"source_explanation": "Em 19 de setembro de 1982, o professor Scott Fahlman, da Carnegie Mellon, propôs o uso de :-) e :-( em um fórum online para indicar tom (piada ou seriedade).",
+		"source_abnt": "FAHLMAN, Scott E. *Original Bboard Thread in which :-) was proposed*. Pittsburgh, PA: Carnegie Mellon University, 19 set. 1982. Disponível em: https://www.cs.cmu.edu/~sef/OrigArt.htm. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI057",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "O que é a \"Hipótese de Kármán\" (Linha de Kármán)?",
+		"options": [
+			{ "description": "O limite de velocidade que um veículo terrestre pode atingir.", "isCorrect": false },
+			{ "description": "A altitude (100 km) comumente aceita como a fronteira entre a atmosfera da Terra e o espaço sideral.", "isCorrect": true },
+			{ "description": "O ponto em que a gravidade da Terra e da Lua se anulam.", "isCorrect": false },
+			{ "description": "A profundidade máxima de uma trincheira oceânica.", "isCorrect": false }
+		],
+		"source_explanation": "A Linha de Kármán (nomeada após Theodore von Kármán) é a altitude (100 km acima do nível do mar) definida pela FAI (Federação Aeronáutica Internacional) como a fronteira entre a aeronáutica e a astronáutica.",
+		"source_abnt": "FAI (FÉDÉRATION AÉRONAUTIQUE INTERNATIONALE). *The 100km boundary for astronautics*. Lausanne: FAI, [s.d.]. Disponível em: https://www.fai.org/page/karman-line. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CURI058",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "A \"Teoria do Macaco Bêbado\" (Drunken Monkey Hypothesis) tenta explicar...",
+		"options": [
+			{ "description": "A evolução da inteligência humana.", "isCorrect": false },
+			{ "description": "A afinidade dos humanos (e primatas) pelo etanol (álcool) encontrado em frutas fermentadas.", "isCorrect": true },
+			{ "description": "O comportamento social dos chimpanzés.", "isCorrect": false },
+			{ "description": "Por que os humanos perderam o pelo corporal.", "isCorrect": false }
+		],
+		"source_explanation": "A hipótese, proposta pelo biólogo Robert Dudley, sugere que a atração dos primatas pelo etanol (álcool) em frutas maduras (fermentadas) foi uma vantagem evolutiva para encontrar comida.",
+		"source_abnt": "DUDLEY, Robert. The Drunken Monkey Hypothesis. *Annual Review of Anthropology*, v. 33, p. 1-19, 2004."
+	},
+	{
+		"id": "CURI059",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "O que é um \"Cavalo de Hans\" (Clever Hans)?",
+		"options": [
+			{ "description": "O cavalo que venceu a Tríplice Coroa em 1973 (Secretariat).", "isCorrect": false },
+			{ "description": "Um cavalo (no início de 1900) que se acreditava realizar aritmética, mas que na verdade estava respondendo a pistas involuntárias de seu treinador.", "isCorrect": true },
+			{ "description": "O cavalo de Alexandre, o Grande (Bucéfalo).", "isCorrect": false },
+			{ "description": "Um cavalo de balanço usado em experimentos de psicologia.", "isCorrect": false }
+		],
+		"source_explanation": "\"Clever Hans\" (Hans Esperto) foi um cavalo que, no início do século XX na Alemanha, parecia responder a perguntas. O psicólogo Oskar Pfungst demonstrou que o cavalo estava, na verdade, reagindo a pistas comportamentais involuntárias do treinador.",
+		"source_abnt": "PFUNGST, Oskar. *Clever Hans (The Horse of Mr. Von Osten): A Contribution to Experimental Animal and Human Psychology*. Tradução de C. L. Rahn. Nova York: Henry Holt, 1911."
+	},
+	{
+		"id": "CURI060",
+		"category": "Curiosidades e Conhecimentos Gerais",
+		"level": "hard",
+		"question": "Por que é impossível arrotar no espaço?",
+		"options": [
+			{ "description": "Porque os trajes espaciais são pressurizados.", "isCorrect": false },
+			{ "description": "Porque a falta de gravidade impede que o gás (ar) se separe do líquido no estômago.", "isCorrect": true },
+			{ "description": "Porque a comida dos astronautas não produz gás.", "isCorrect": false },
+			{ "description": "Porque o dióxido de carbono é filtrado do ar.", "isCorrect": false }
+		],
+		"source_explanation": "Na ausência de gravidade (microgravidade), o gás (ar) e o líquido no estômago não se separam. Tentar arrotar geralmente resulta em uma \"regurgitação úmida\".",
+		"source_abnt": "NASA. *Living in Space: Eating*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://www.nasa.gov/audience/forstudents/postsecondary/features/F_Living_in_Space_Eating.html. Acesso em: 6 nov. 2025."
+	}
+]
