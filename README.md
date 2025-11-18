@@ -153,19 +153,19 @@ Para a elaboração destas ilustrações, foi utilizado a ferramenta de intelig�
 A imagem abaixo ilustra a página inicial (descrita nos casos de uso 1 de 2, no capítulo 3 deste documento), onde o usuário é recebido e pode selecionar uma das 19 categorias ou optar pelo “Desafio Aleatório”.
 
 Figura 6.1: Mockup da página inicial  
-<img src="docs/images/6-1.jpg" width="400">  
+<img src="docs/mockups/6-1.jpg" width="400">  
 Fonte: Elaborado pelo autor (2025).
 
 A imagem abaixo ilustra a página do quiz, validando os requisitos visuais da jornada do usuário, como a barra de progresso e o feedback imediato de acertos e erros, assim como um botão para a próxima pergunta.  
 
 Figura 6.2: Mockup da página do quiz  
-<img src="docs/images/6-2.jpg" width="400">  
+<img src="docs/mockups/6-2.jpg" width="400">  
 Fonte: Elaborado pelo autor (2025).
 
 A imagem abaixo ilustra a página de resultado, atendendo ao requisito de apresentar um resumo do desempenho geral e o detalhamento da performance por categoria, fechando o ciclo de feedback para o usuário.
 
 Figura 6.3: Mockup da página de resultado  
-<img src="docs/images/6-3.jpg" width="400">  
+<img src="docs/mockups/6-3.jpg" width="400">  
 Fonte: Elaborado pelo autor (2025).
 ## <a id="capitulo-7">7. Arquitetura de Software</a>
 O Quizelo foi projetado como uma Single Page Application (SPA). Esta arquitetura é definida por carregar a estrutura principal da aplicação uma única vez.
@@ -183,7 +183,7 @@ A arquitetura segue o modelo "Component-Based", separando a lógica em dois dire
 O diagrama a seguir, desenvolvido através do aplicativo web Lucidchart, apresenta o fluxo de dados e a hierarquia dos componentes.
 
 Figura 7.1: Diagrama da arquitetura de componentes  
-<img src="docs/images/7-1.jpg" width="400">  
+<img src="docs/diagrams/7-1.jpg" width="400">  
 Fonte: Elaborado pelo autor (2025).
 
 O fluxo de integração é controlado pelo App.jsx, que utiliza o react-router-dom para renderizar uma das três páginas principais:
