@@ -7,16 +7,18 @@ function HomePage() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('/data/categories.json')
-      .then(res => res.json())
+    // CORREÇÃO AQUI:
+    // Removemos a barra inicial de '/data' e usamos a variável BASE_URL
+    // O resultado será algo como: "/quizelo/data/categories.json"
+    fetch(`${import.meta.env.BASE_URL}data/categories.json`)
+      .then(res => {
+        if (!res.ok) throw new Error("Falha ao carregar categorias");
+        return res.json();
+      })
       .then(data => {
-        // --- NOVA LÓGICA DE ORDENAÇÃO (A-Z) ---
-        // Usamos 'localeCompare' com 'pt-BR' para garantir que acentos 
-        // sejam ignorados na ordenação (ex: 'Á' vem junto com 'A', não no final)
         const sortedData = data.sort((a, b) => 
           a.name.localeCompare(b.name, 'pt-BR')
         );
-        
         setCategories(sortedData);
         setLoading(false);
       })
@@ -31,9 +33,7 @@ function HomePage() {
   return (
     <div className="home-page w-full flex flex-col items-center pb-10 animate-fade-in px-4">
       
-      {/* Cabeçalho da Seção */}
       <div className="text-center mb-12 max-w-2xl">
-        
         <h2 className="text-3xl md:text-4xl font-bold text-brand-text mb-4 tracking-tight transition-colors duration-300">
           Escolha seu Desafio
         </h2>
@@ -41,13 +41,9 @@ function HomePage() {
         <p className="text-brand-text-muted text-lg leading-relaxed transition-colors duration-300">
           Explore as <strong className="text-brand-purple">{categories.length} categorias</strong> de conhecimento ou teste sua sorte na Miscelânea.
         </p>
-        
       </div>
       
-      {/* Grid de Cartões */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 w-full max-w-6xl">
-        
-        {/* --- 1. CARTÃO CORINGA (SEMPRE O PRIMEIRO) --- */}
         <CategoryCard 
           id="random" 
           name="🎲 Miscelânea" 
@@ -55,7 +51,6 @@ function HomePage() {
           isFeatured={true} 
         />
         
-        {/* --- 2. CARTÕES DAS CATEGORIAS (ORDEM ALFABÉTICA) --- */}
         {categories.map(category => (
           <CategoryCard 
             key={category.id}
