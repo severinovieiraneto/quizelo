@@ -8,62 +8,56 @@ function QuestionOptions({ question, onAnswerSelect }) {
   const levelInfo = DIFFICULTY_LEVELS[question.level] || { label: 'Geral' };
 
   const handleOptionClick = (option) => {
-    if (isAnswered) return;
+    if (isAnswered) return; // Trava de segurança
+
     setSelectedOption(option);
-    setIsAnswered(true);
+    setIsAnswered(true); // Trava visual (pointer-events-none e opacidade)
+
+    // AQUI ESTÁ A CORREÇÃO:
     setTimeout(() => {
+      // Apenas avisamos o pai que acabou.
       onAnswerSelect(question, option);
-      setIsAnswered(false);
-      setSelectedOption(null);
+      
+      // REMOVIDO: setIsAnswered(false);
+      // REMOVIDO: setSelectedOption(null);
+      
+      // Por que? Porque o componente pai (QuizPage) vai mudar a 'key' deste componente.
+      // Isso força o React a destruir esta instância (que fica travada até morrer)
+      // e montar uma nova instância fresca para a próxima pergunta.
     }, 1500);
   };
 
   const getButtonStyles = (option) => {
-    // Base: Layout e borda
     const base = "w-full p-4 rounded-lg border-2 transition-all duration-200 font-medium text-left flex justify-between items-center shadow-sm ";
     
     if (!isAnswered) {
-      // ESTADO NORMAL (Não respondido)
       return base + 
-        // Light: Branco com texto quase preto
-        "bg-white text-gray-900 border-gray-200 hover:bg-gray-50 hover:border-brand-purple/50 hover:shadow-md " +
-        // Dark: Cinza escuro com texto claro
+        "bg-white text-gray-900 border-gray-200 hover:bg-gray-50 hover:border-brand-purple/50 hover:shadow-md cursor-pointer " +
         "dark:bg-gray-800 dark:text-gray-100 dark:border-gray-700 dark:hover:bg-gray-700 dark:hover:border-gray-500";
     }
 
-    // --- ESTADO DE FEEDBACK (AQUI ESTÁ A CORREÇÃO) ---
+    // --- ESTADO TRAVADO ---
     
     if (option.isCorrect) {
-      // CORRETO (VERDE)
       return base + 
-        // Light: Fundo verde claro, mas TEXTO VERDE ESCURO (quase preto) para leitura
         "bg-green-100 border-green-600 text-green-900 font-bold " +
-        // Dark: Mantém o padrão anterior (fundo escuro, texto claro)
         "dark:bg-green-900/40 dark:text-green-100 dark:border-green-500";
     }
     
     if (selectedOption === option && !option.isCorrect) {
-      // ERRADO (VERMELHO)
       return base + 
-        // Light: Fundo vermelho claro, TEXTO VERMELHO ESCURO
         "bg-red-100 border-red-600 text-red-900 font-bold " +
-        // Dark: Fundo escuro, texto claro
         "dark:bg-red-900/40 dark:text-red-100 dark:border-red-500";
     }
 
-    // OUTRAS OPÇÕES (APAGADAS)
     return base + 
-      // Light: Texto cinza médio
-      "bg-white border-transparent text-gray-400 opacity-50 " +
-      // Dark: Texto cinza escuro
+      "bg-white border-transparent text-gray-400 opacity-40 " +
       "dark:bg-gray-900 dark:text-gray-600 dark:border-transparent cursor-not-allowed";
   };
 
   return (
     <div className="w-full">
-      
-      {/* CARTÃO DA PERGUNTA */}
-      <div className="p-6 md:p-8 rounded-2xl shadow-xl transition-colors duration-300 
+      <div className="bg-brand-card p-6 md:p-8 rounded-2xl shadow-xl transition-colors duration-300 
                       bg-white border border-gray-200
                       dark:bg-brand-card dark:border-brand-purple/20">
         
@@ -80,7 +74,8 @@ function QuestionOptions({ question, onAnswerSelect }) {
           {question.question}
         </h2>
 
-        <div className="flex flex-col space-y-3">
+        {/* Mantemos o pointer-events-none para garantir que o clique físico seja impossível */}
+        <div className={`flex flex-col space-y-3 ${isAnswered ? 'pointer-events-none' : ''}`}>
           {question.options.map((option, index) => (
             <button
               key={index}
@@ -89,7 +84,6 @@ function QuestionOptions({ question, onAnswerSelect }) {
               className={getButtonStyles(option)}
             >
               <span>{option.description}</span>
-              {/* Ícones de Feedback */}
               {isAnswered && option.isCorrect && <span className="text-xl">✓</span>}
               {isAnswered && selectedOption === option && !option.isCorrect && <span className="text-xl">✕</span>}
             </button>
