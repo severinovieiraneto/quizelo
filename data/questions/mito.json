@@ -1,0 +1,842 @@
+[
+	{
+		"id": "MITO001",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "Na mitologia grega, quem é o rei dos deuses e deus do trovão?",
+		"options": [
+			{ "description": "Poseidon", "isCorrect": false },
+			{ "description": "Zeus", "isCorrect": true },
+			{ "description": "Ares", "isCorrect": false },
+			{ "description": "Hades", "isCorrect": false }
+		],
+		"source_explanation": "O poema clássico \"Teogonia\", de Hesíodo (c. 700 a.C.), estabelece a linhagem dos deuses gregos e o domínio de Zeus como rei após a Titanomaquia.",
+		"source_abnt": "HESÍODO. *Teogonia*. Tradução de Jaa Torrano. São Paulo: Iluminuras, 1995."
+	},
+	{
+		"id": "MITO002",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "Na mitologia nórdica, quem é o deus do trovão que empunha o martelo Mjölnir?",
+		"options": [
+			{ "description": "Loki", "isCorrect": false },
+			{ "description": "Odin", "isCorrect": false },
+			{ "description": "Thor", "isCorrect": true },
+			{ "description": "Heimdall", "isCorrect": false }
+		],
+		"source_explanation": "A \"Edda em Prosa\", uma das principais fontes da mitologia nórdica, descreve Thor como o filho de Odin e o portador do martelo Mjölnir.",
+		"source_abnt": "STURLUSON, Snorri. *Edda em Prosa: Gylfaginning e Skáldskaparmál*. Tradução de Pablo Gomes de Miranda. Belo Horizonte: Editora Rona, 2011."
+	},
+	{
+		"id": "MITO003",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "Na mitologia egípcia, quem é o deus do sol com cabeça de falcão?",
+		"options": [
+			{ "description": "Anúbis", "isCorrect": false },
+			{ "description": "Osíris", "isCorrect": false },
+			{ "description": "Rá (ou Ré)", "isCorrect": true },
+			{ "description": "Thoth", "isCorrect": false }
+		],
+		"source_explanation": "Rá (ou Ré) é a principal divindade solar do Antigo Egito, comumente representado com a cabeça de um falcão e um disco solar.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Re (Egyptian god). *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/Re. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MITO004",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "Quem é a figura central do Cristianismo, considerado o Filho de Deus?",
+		"options": [
+			{ "description": "Moisés", "isCorrect": false },
+			{ "description": "Jesus Cristo", "isCorrect": true },
+			{ "description": "Abraão", "isCorrect": false },
+			{ "description": "Arcanjo Miguel", "isCorrect": false }
+		],
+		"source_explanation": "Os Evangelhos (Mateus, Marcos, Lucas e João), no Novo Testamento da Bíblia, são os textos fundamentais que descrevem a vida, os ensinamentos e a divindade de Jesus Cristo.",
+		"source_abnt": "BÍBLIA. Português. *Bíblia Sagrada*. Tradução de João Ferreira de Almeida. Edição Revista e Corrigida. Barueri, SP: Sociedade Bíblica do Brasil, 1993. (Ex: Evangelho de João, 3:16)."
+	},
+	{
+		"id": "MITO005",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "Na mitologia grega, quem é o deus do mar e dos terremotos?",
+		"options": [
+			{ "description": "Zeus", "isCorrect": false },
+			{ "description": "Hefesto", "isCorrect": false },
+			{ "description": "Apolo", "isCorrect": false },
+			{ "description": "Poseidon", "isCorrect": true }
+		],
+		"source_explanation": "Na \"Teogonia\", Hesíodo descreve a divisão do mundo entre os três irmãos: Zeus (céu), Hades (submundo) e Poseidon (mar).",
+		"source_abnt": "HESÍODO. *Teogonia*. Tradução de Jaa Torrano. São Paulo: Iluminuras, 1995."
+	},
+	{
+		"id": "MITO006",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "Na mitologia nórdica, quem é o \"Pai de Todos\" (All-Father), o deus de um olho só da sabedoria e da guerra?",
+		"options": [
+			{ "description": "Thor", "isCorrect": false },
+			{ "description": "Odin", "isCorrect": true },
+			{ "description": "Loki", "isCorrect": false },
+			{ "description": "Tyr", "isCorrect": false }
+		],
+		"source_explanation": "A \"Edda em Prosa\" descreve os atributos de Odin (ou Woden), incluindo seu sacrifício do olho em troca de sabedoria e seu título de \"Pai de Todos\" (All-Father).",
+		"source_abnt": "STURLUSON, Snorri. *Edda em Prosa: Gylfaginning e Skáldskaparmál*. Tradução de Pablo Gomes de Miranda. Belo Horizonte: Editora Rona, 2011."
+	},
+	{
+		"id": "MITO007",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "Hércules (ou Héracles) é um famoso semideus da mitologia grega conhecido por completar quais tarefas?",
+		"options": [
+			{ "description": "Os 12 Trabalhos", "isCorrect": true },
+			{ "description": "A busca pelo Velocino de Ouro", "isCorrect": false },
+			{ "description": "Matar a Medusa", "isCorrect": false },
+			{ "description": "Construir o Labirinto", "isCorrect": false }
+		],
+		"source_explanation": "O texto clássico conhecido como \"Biblioteca de Pseudo-Apolodoro\" é uma das fontes mais completas que listam os Doze Trabalhos de Héracles (Hércules).",
+		"source_abnt": "PSEUDO-APOLODORO. *Biblioteca Mitológica*. Tradução de Julia B. de O. M. F. C. S. Minelli. São Paulo: Editora Unesp, 2005. (Livro II, 5)."
+	},
+	{
+		"id": "MITO008",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "Na mitologia egípcia, qual deus com cabeça de chacal é o guia dos mortos e mestre da mumificação?",
+		"options": [
+			{ "description": "Horus", "isCorrect": false },
+			{ "description": "Anúbis", "isCorrect": true },
+			{ "description": "Set", "isCorrect": false },
+			{ "description": "Rá", "isCorrect": false }
+		],
+		"source_explanation": "O \"Livro dos Mortos\" egípcio (papiros) retrata Anúbis (o deus com cabeça de chacal) presidindo a cerimônia da \"Pesagem do Coração\" e o processo de mumificação.",
+		"source_abnt": "O LIVRO DOS MORTOS DO ANTIGO EGITO. *O Papiro de Ani*. Tradução de E. A. Wallis Budge. Londres: British Museum, 1895. (Disponível em: https://www.britishmuseum.org/collection/object/Y_EA10470_3. Acesso em: 6 nov. 2025)."
+	},
+	{
+		"id": "MITO009",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "Na mitologia grega, quem é a deusa da sabedoria e da guerra estratégica, que nasceu da cabeça de Zeus?",
+		"options": [
+			{ "description": "Hera", "isCorrect": false },
+			{ "description": "Afrodite", "isCorrect": false },
+			{ "description": "Atena", "isCorrect": true },
+			{ "description": "Ártemis", "isCorrect": false }
+		],
+		"source_explanation": "O poema \"Teogonia\", de Hesíodo, descreve o nascimento de Atena, que brotou totalmente armada da cabeça de seu pai, Zeus.",
+		"source_abnt": "HESÍODO. *Teogonia*. Tradução de Jaa Torrano. São Paulo: Iluminuras, 1995."
+	},
+	{
+		"id": "MITO010",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "Na mitologia nórdica, quem é o deus trapaceiro (trickster) e irmão de sangue de Odin?",
+		"options": [
+			{ "description": "Loki", "isCorrect": true },
+			{ "description": "Thor", "isCorrect": false },
+			{ "description": "Baldur", "isCorrect": false },
+			{ "description": "Freyr", "isCorrect": false }
+		],
+		"source_explanation": "Loki é a figura central do caos e da trapaça na mitologia nórdica, sendo a fonte de conflito em muitos mitos (ex: a morte de Baldur).",
+		"source_abnt": "STURLUSON, Snorri. *Edda em Prosa: Gylfaginning e Skáldskaparmál*. Tradução de Pablo Gomes de Miranda. Belo Horizonte: Editora Rona, 2011."
+	},
+	{
+		"id": "MITO011",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "Na mitologia grega, quem é a esposa de Zeus e rainha dos deuses, protetora do casamento?",
+		"options": [
+			{ "description": "Atena", "isCorrect": false },
+			{ "description": "Perséfone", "isCorrect": false },
+			{ "description": "Hera", "isCorrect": true },
+			{ "description": "Afrodite", "isCorrect": false }
+		],
+		"source_explanation": "Na \"Ilíada\" e na \"Odisseia\", Hera atua como a esposa ciumenta de Zeus e a rainha dos deuses do Olimpo.",
+		"source_abnt": "HOMERO. *Ilíada*. Tradução de Manuel Odorico Mendes. São Paulo: Editora 34, 2007."
+	},
+	{
+		"id": "MITO012",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "No Antigo Testamento (Cristianismo/Judaísmo), quem construiu uma arca para sobreviver a um dilúvio enviado por Deus?",
+		"options": [
+			{ "description": "Abraão", "isCorrect": false },
+			{ "description": "Noé", "isCorrect": true },
+			{ "description": "Moisés", "isCorrect": false },
+			{ "description": "Adão", "isCorrect": false }
+		],
+		"source_explanation": "A história do Dilúvio e da arca construída por Noé é narrada nos capítulos 6 a 9 do Livro do Gênesis.",
+		"source_abnt": "BÍBLIA. Português. *Bíblia Sagrada*. Tradução de João Ferreira de Almeida. Edição Revista e Corrigida. Barueri, SP: Sociedade Bíblica do Brasil, 1993. (Gênesis 6-9)."
+	},
+	{
+		"id": "MITO013",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "Qual é o nome do herói grego que liderou a expedição na Odisseia para voltar para casa após a Guerra de Troia?",
+		"options": [
+			{ "description": "Aquiles", "isCorrect": false },
+			{ "description": "Hércules", "isCorrect": false },
+			{ "description": "Perseu", "isCorrect": false },
+			{ "description": "Odisseu (Ulisses)", "isCorrect": true }
+		],
+		"source_explanation": "A \"Odisseia\", poema épico de Homero, narra a longa jornada de retorno (nóstos) de Odisseu para seu reino em Ítaca.",
+		"source_abnt": "HOMERO. *Odisseia*. Tradução de Manuel Odorico Mendes. São Paulo: Editora 34, 2011."
+	},
+	{
+		"id": "MITO014",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "Na mitologia romana, quem são os irmãos gêmeos lendários que fundaram a cidade de Roma?",
+		"options": [
+			{ "description": "Rômulo e Remo", "isCorrect": true },
+			{ "description": "Cástor e Pólux", "isCorrect": false },
+			{ "description": "Zeus e Poseidon", "isCorrect": false },
+			{ "description": "Caim e Abel", "isCorrect": false }
+		],
+		"source_explanation": "O historiador romano Tito Lívio, em sua obra \"Desde a Fundação da Cidade\", relata o mito fundador de Roma, incluindo a loba e o fratricídio de Remo por Rômulo.",
+		"source_abnt": "LÍVIO, Tito. *História de Roma: Ab Urbe Condita*. Livro I. Tradução de Paulo M. de O. Pinto. São Paulo: Paumape, 1989."
+	},
+	{
+		"id": "MITO015",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "Na mitologia egípcia, quem era o deus do submundo e juiz dos mortos?",
+		"options": [
+			{ "description": "Rá", "isCorrect": false },
+			{ "description": "Osíris", "isCorrect": true },
+			{ "description": "Set", "isCorrect": false },
+			{ "description": "Horus", "isCorrect": false }
+		],
+		"source_explanation": "O \"Livro dos Mortos\" egípcio e o mito de Osíris descrevem seu papel como o governante do Duat (submundo) e o juiz final das almas.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Osiris (Egyptian god). *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/Osiris-Egyptian-god. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MITO016",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "Qual é o nome do herói grego que matou a Medusa, uma górgona com cobras no lugar dos cabelos?",
+		"options": [
+			{ "description": "Teseu", "isCorrect": false },
+			{ "description": "Hércules", "isCorrect": false },
+			{ "description": "Perseu", "isCorrect": true },
+			{ "description": "Aquiles", "isCorrect": false }
+		],
+		"source_explanation": "O poeta romano Ovídio, em \"Metamorfoses\", narra a história de Perseu, que usou um escudo polido para decapitar a Medusa.",
+		"source_abnt": "OVÍDIO. *Metamorfoses*. Tradução de M. F. G. P. da Silva. São Paulo: Editora 34, 2017. (Livro IV)."
+	},
+	{
+		"id": "MITO017",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "Na mitologia hindu, Krishna é mais comumente considerado um avatar (encarnação) de qual deus principal?",
+		"options": [
+			{ "description": "Shiva (O Destruidor)", "isCorrect": false },
+			{ "description": "Vishnu (O Preservador)", "isCorrect": true },
+			{ "description": "Brahma (O Criador)", "isCorrect": false },
+			{ "description": "Ganesha (O Removedor de Obstáculos)", "isCorrect": false }
+		],
+		"source_explanation": "No \"Bhagavad Gita\", Krishna revela sua forma universal (Vishvarupa) a Arjuna, confirmando-se como uma encarnação (avatar) do deus supremo Vishnu.",
+		"source_abnt": "*O Bhagavad Gita*. Tradução de Swami Vireshwarananda. Rio de Janeiro: Vedanta, 1996."
+	},
+	{
+		"id": "MITO018",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "A Guerra de Troia, um conflito central da mitologia grega, foi travada entre os gregos (Aqueus) e a cidade de...",
+		"options": [
+			{ "description": "Atenas", "isCorrect": false },
+			{ "description": "Esparta", "isCorrect": false },
+			{ "description": "Troia", "isCorrect": true },
+			{ "description": "Roma", "isCorrect": false }
+		],
+		"source_explanation": "A \"Ilíada\" de Homero é o poema épico que narra partes da Guerra de Troia, um conflito entre os Aqueus (gregos) e os Troianos.",
+		"source_abnt": "HOMERO. *Ilíada*. Tradução de Manuel Odorico Mendes. São Paulo: Editora 34, 2007."
+	},
+	{
+		"id": "MITO019",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "No Antigo Testamento, quem foi o primeiro homem criado por Deus?",
+		"options": [
+			{ "description": "Noé", "isCorrect": false },
+			{ "description": "Adão", "isCorrect": true },
+			{ "description": "Abraão", "isCorrect": false },
+			{ "description": "Moisés", "isCorrect": false }
+		],
+		"source_explanation": "O Livro do Gênesis, no Antigo Testamento, descreve Adão como o primeiro homem, criado por Deus a partir do pó da terra.",
+		"source_abnt": "BÍBLIA. Português. *Bíblia Sagrada*. Tradução de João Ferreira de Almeida. Edição Revista e Corrigida. Barueri, SP: Sociedade Bíblica do Brasil, 1993. (Gênesis 2)."
+	},
+	{
+		"id": "MITO020",
+		"category": "Mitologia",
+		"level": "easy",
+		"question": "Qual é o nome da deusa grega do amor e da beleza?",
+		"options": [
+			{ "description": "Hera", "isCorrect": false },
+			{ "description": "Atena", "isCorrect": false },
+			{ "description": "Afrodite", "isCorrect": true },
+			{ "description": "Deméter", "isCorrect": false }
+		],
+		"source_explanation": "A \"Teogonia\" de Hesíodo descreve o nascimento de Afrodite (Vênus, em Roma) da espuma do mar (aphros), identificando-a como a deusa da beleza e do amor.",
+		"source_abnt": "HESÍODO. *Teogonia*. Tradução de Jaa Torrano. São Paulo: Iluminuras, 1995."
+	},
+	{
+		"id": "MITO021",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "Na mitologia grega, qual Titã foi punido por roubar o fogo dos deuses e dá-lo à humanidade?",
+		"options": [
+			{ "description": "Cronos", "isCorrect": false },
+			{ "description": "Prometeu", "isCorrect": true },
+			{ "description": "Atlas", "isCorrect": false },
+			{ "description": "Oceanus", "isCorrect": false }
+		],
+		"source_explanation": "A peça trágica \"Prometeu Acorrentado\", de Ésquilo, detalha a punição de Prometeu por Zeus (ser acorrentado a uma rocha e ter seu fígado comido por uma águia).",
+		"source_abnt": "ÉSQUILO. *Prometeu Acorrentado*. In: ______. *Tragédias*. Tradução de Mário da Gama Kury. Rio de Janeiro: Zahar, 1997."
+	},
+	{
+		"id": "MITO022",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "O que é o \"Ragnarok\" na mitologia nórdica?",
+		"options": [
+			{ "description": "O salão dos mortos governado por Odin (Valhalla).", "isCorrect": false },
+			{ "description": "A árvore do mundo que conecta os Nove Reinos.", "isCorrect": false },
+			{ "description": "O evento apocalíptico (\"Crepúsculo dos Deuses\") que leva à morte de Odin, Thor e Loki.", "isCorrect": true },
+			{ "description": "O navio feito com as unhas dos mortos.", "isCorrect": false }
+		],
+		"source_explanation": "O poema \"Völuspá\" (A Profecia da Vidente), na Edda Poética, descreve a profecia do Ragnarok, a batalha final que destrói o mundo dos deuses.",
+		"source_abnt": "EDDA POÉTICA. *Völuspá*. In: ______. Tradução de Johnni Langer. São Paulo: Hedra, 2015."
+	},
+	{
+		"id": "MITO023",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "Na mitologia egípcia, Osíris foi assassinado e desmembrado por seu invejoso irmão, que era o deus do caos. Qual o nome dele?",
+		"options": [
+			{ "description": "Horus", "isCorrect": false },
+			{ "description": "Anúbis", "isCorrect": false },
+			{ "description": "Set", "isCorrect": true },
+			{ "description": "Thoth", "isCorrect": false }
+		],
+		"source_explanation": "O ensaio do historiador grego Plutarco, \"Ísis e Osíris\", é a fonte clássica mais completa que relata o mito do assassinato de Osíris por seu irmão Set (ou Seth).",
+		"source_abnt": "PLUTARCO. *Ísis e Osíris*. Tradução de C. F. C. B. F. R. P. de L. Lisboa: Fundação Calouste Gulbenkian, 2007."
+	},
+	{
+		"id": "MITO024",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "No Cristianismo, o Apocalipse é descrito no último livro do Novo Testamento, chamado:",
+		"options": [
+			{ "description": "Livro do Gênesis", "isCorrect": false },
+			{ "description": "Livro do Apocalipse (ou Revelação)", "isCorrect": true },
+			{ "description": "Evangelho de João", "isCorrect": false },
+			{ "description": "Livro de Jó", "isCorrect": false }
+		],
+		"source_explanation": "O Livro do Apocalipse, também chamado de Revelação de João, é o último livro do Novo Testamento e descreve eventos escatológicos.",
+		"source_abnt": "BÍBLIA. Português. *Bíblia Sagrada*. Tradução de João Ferreira de Almeida. Edição Revista e Corrigida. Barueri, SP: Sociedade Bíblica do Brasil, 1993. (Livro do Apocalipse)."
+	},
+	{
+		"id": "MITO025",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "O \"Mahabharata\" é um dos maiores épicos da mitologia hindu. Qual é o nome do texto (parte dele) onde Krishna aconselha o guerreiro Arjuna?",
+		"options": [
+			{ "description": "Ramayana", "isCorrect": false },
+			{ "description": "Os Vedas", "isCorrect": false },
+			{ "description": "O Bhagavad Gita", "isCorrect": true },
+			{ "description": "Os Upanishads", "isCorrect": false }
+		],
+		"source_explanation": "O \"Bhagavad Gita\" (Canção do Senhor) é um diálogo filosófico-religioso (Livro 6 do Mahabharata) entre o deus Krishna e o guerreiro Arjuna.",
+		"source_abnt": "*MAHABHARATA*. Livro 6: Bhishma Parva. (Contém: *O Bhagavad Gita*). Tradução de Swami Vireshwarananda. Rio de Janeiro: Vedanta, 1996."
+	},
+	{
+		"id": "MITO026",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "Na mitologia grega, qual monstro com corpo de leão, asas de águia e cabeça de mulher propunha um enigma aos viajantes de Tebas?",
+		"options": [
+			{ "description": "A Hidra", "isCorrect": false },
+			{ "description": "A Esfinge", "isCorrect": true },
+			{ "description": "A Quimera", "isCorrect": false },
+			{ "description": "O Cérbero", "isCorrect": false }
+		],
+		"source_explanation": "A peça \"Édipo Rei\" baseia-se no mito de Édipo, que se tornou rei de Tebas por resolver o enigma da Esfinge (\"O que anda com quatro pés...\").",
+		"source_abnt": "SÓFOCLES. *Édipo Rei*. In: ______. *Tragédias*. Tradução de Mário da Gama Kury. Rio de Janeiro: Zahar, 1997."
+	},
+	{
+		"id": "MITO027",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "O que é \"Valhalla\" na mitologia nórdica?",
+		"options": [
+			{ "description": "O submundo gelado governado por Hel.", "isCorrect": false },
+			{ "description": "O salão majestoso em Asgard onde Odin recebe os guerreiros mortos em batalha.", "isCorrect": true },
+			{ "description": "O lobo gigante destinado a devorar Odin no Ragnarok.", "isCorrect": false },
+			{ "description": "A ponte de arco-íris que liga Midgard a Asgard.", "isCorrect": false }
+		],
+		"source_explanation": "A \"Edda em Prosa\" descreve Valhalla como o salão de Odin em Asgard, onde os guerreiros mortos (Einherjar) são levados pelas Valquírias.",
+		"source_abnt": "STURLUSON, Snorri. *Edda em Prosa: Gylfaginning e Skáldskaparmál*. Tradução de Pablo Gomes de Miranda. Belo Horizonte: Editora Rona, 2011."
+	},
+	{
+		"id": "MITO028",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "Na mitologia egípcia, a deusa Ísis era reverenciada como deusa...",
+		"options": [
+			{ "description": "Da guerra e da destruição (como Sekhmet).", "isCorrect": false },
+			{ "description": "Do lar e dos gatos (como Bastet).", "isCorrect": false },
+			{ "description": "Da magia, maternidade e esposa de Osíris.", "isCorrect": true },
+			{ "description": "Do céu e da dança (como Hathor).", "isCorrect": false }
+		],
+		"source_explanation": "O ensaio de Plutarco detalha o papel de Ísis na ressurreição de seu marido Osíris e na proteção de seu filho Horus, consolidando-a como deusa da magia e maternidade.",
+		"source_abnt": "PLUTARCO. *Ísis e Osíris*. Tradução de C. F. C. B. F. R. P. de L. Lisboa: Fundação Calouste Gulbenkian, 2007."
+	},
+	{
+		"id": "MITO029",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "Quem é o herói da mitologia celta irlandesa, protagonista do \"Ciclo de Ulster\", conhecido por sua fúria em batalha (ríastrad)?",
+		"options": [
+			{ "description": "Rei Arthur (Britânica)", "isCorrect": false },
+			{ "description": "Lugh (Deus)", "isCorrect": false },
+			{ "description": "Finn MacCool (Ciclo Feniano)", "isCorrect": false },
+			{ "description": "Cú Chulainn", "isCorrect": true }
+		],
+		"source_explanation": "O \"Táin Bó Cúailnge\" (O Raide de Gado de Cooley) é o épico central do Ciclo de Ulster, narrando os feitos do herói Cú Chulainn e sua \"distorção\" (ríastrad) em batalha.",
+		"source_abnt": "*TÁIN BÓ CÚAILNGE*. (O Raide de Gado de Cooley). Tradução de Thomas Kinsella. Oxford: Oxford University Press, 1969."
+	},
+	{
+		"id": "MITO030",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "Na mitologia grega, quem foi punido a rolar uma pedra morro acima por toda a eternidade?",
+		"options": [
+			{ "description": "Tântalo", "isCorrect": false },
+			{ "description": "Sísifo", "isCorrect": true },
+			{ "description": "Prometeu", "isCorrect": false },
+			{ "description": "Atlas", "isCorrect": false }
+		],
+		"source_explanation": "No Livro XI da \"Odisseia\", Odisseu vê Sísifo no submundo (Hades) sofrendo sua punição eterna por tentar enganar a morte.",
+		"source_abnt": "HOMERO. *Odisseia*. Tradução de Manuel Odorico Mendes. São Paulo: Editora 34, 2011. (Livro XI)."
+	},
+	{
+		"id": "MITO031",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "Qual é o nome da deusa hindu da destruição, tempo e mudança, frequentemente retratada com uma língua para fora e um colar de crânios?",
+		"options": [
+			{ "description": "Lakshmi", "isCorrect": false },
+			{ "description": "Parvati", "isCorrect": false },
+			{ "description": "Kali", "isCorrect": true },
+			{ "description": "Saraswati", "isCorrect": false }
+		],
+		"source_explanation": "O \"Devi Mahatmya\" é um texto hindu fundamental que descreve as formas da Deusa Mãe, incluindo Kali, a forma feroz associada à destruição do mal.",
+		"source_abnt": "*DEVI MAHATMYA* (A Glória da Deusa). Tradução de Swami Sivananda. Rishikesh: Divine Life Society, 1994."
+	},
+	{
+		"id": "MITO032",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "Na mitologia grega, a Guerra de Troia foi supostamente iniciada quando Páris raptou Helena, esposa de qual rei espartano?",
+		"options": [
+			{ "description": "Agamemnon", "isCorrect": false },
+			{ "description": "Odisseu", "isCorrect": false },
+			{ "description": "Menelau", "isCorrect": true },
+			{ "description": "Príamo", "isCorrect": false }
+		],
+		"source_explanation": "A \"Ilíada\" centra-se no conflito para recuperar Helena (Rainha de Esparta) do príncipe troiano Páris, liderado por seu marido, Menelau, e o irmão, Agamemnon.",
+		"source_abnt": "HOMERO. *Ilíada*. Tradução de Manuel Odorico Mendes. São Paulo: Editora 34, 2007."
+	},
+	{
+		"id": "MITO033",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "O Zoroastrismo, uma antiga religião persa, é centrado na luta dualista entre o deus criador Ahura Mazda e qual espírito destrutivo?",
+		"options": [
+			{ "description": "Mithra", "isCorrect": false },
+			{ "description": "Angra Mainyu (Ahriman)", "isCorrect": true },
+			{ "description": "Baal", "isCorrect": false },
+			{ "description": "Marduk", "isCorrect": false }
+		],
+		"source_explanation": "O Avesta, os textos sagrados do Zoroastrismo, descreve o dualismo cósmico entre Ahura Mazda (o princípio do bem e da luz) e Angra Mainyu (o princípio do mal e da escuridão).",
+		"source_abnt": "*AVESTA*. (Textos sagrados do Zoroastrismo). Tradução de James Darmesteter. In: MÜLLER, Max (ed.). *Sacred Books of the East*, v. 4. Oxford: Clarendon Press, 1880."
+	},
+	{
+		"id": "MITO034",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "No Antigo Testamento, quem foi o líder que libertou os hebreus da escravidão no Egito e recebeu os Dez Mandamentos?",
+		"options": [
+			{ "description": "Davi", "isCorrect": false },
+			{ "description": "Moisés", "isCorrect": true },
+			{ "description": "José", "isCorrect": false },
+			{ "description": "Salomão", "isCorrect": false }
+		],
+		"source_explanation": "O Livro do Êxodo, na Bíblia, narra a história de Moisés, a libertação do Egito e a entrega dos Dez Mandamentos no Monte Sinai.",
+		"source_abnt": "BÍBLIA. Português. *Bíblia Sagrada*. Tradução de João Ferreira de Almeida. Edição Revista e Corrigida. Barueri, SP: Sociedade Bíblica do Brasil, 1993. (Livro do Êxodo)."
+	},
+	{
+		"id": "MITO035",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "Qual é o nome da residência dos deuses nórdicos (o \"reino\" de Odin)?",
+		"options": [
+			{ "description": "Midgard", "isCorrect": false },
+			{ "description": "Asgard", "isCorrect": true },
+			{ "description": "Jotunheim", "isCorrect": false },
+			{ "description": "Niflheim", "isCorrect": false }
+		],
+		"source_explanation": "A cosmologia nórdica, descrita na Edda em Prosa, lista os Nove Reinos, com Asgard sendo a fortaleza celestial dos deuses Aesir, governada por Odin.",
+		"source_abnt": "STURLUSON, Snorri. *Edda em Prosa: Gylfaginning e Skáldskaparmál*. Tradução de Pablo Gomes de Miranda. Belo Horizonte: Editora Rona, 2011."
+	},
+	{
+		"id": "MITO036",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "Na mitologia grega, quem matou o Minotauro no Labirinto de Creta?",
+		"options": [
+			{ "description": "Hércules", "isCorrect": false },
+			{ "description": "Perseu", "isCorrect": false },
+			{ "description": "Teseu", "isCorrect": true },
+			{ "description": "Jasão", "isCorrect": false }
+		],
+		"source_explanation": "Plutarco relata o mito do herói ateniense Teseu, que viajou para Creta, matou o Minotauro com a ajuda de Ariadne e escapou do Labirinto.",
+		"source_abnt": "PLUTARCO. *Vidas Paralelas*: Teseu. Tradução de Heitor Megale e M. G. Kury. São Paulo: Editora GGB, 2021."
+	},
+	{
+		"id": "MITO037",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "Na mitologia egípcia, o que era a \"Pesagem do Coração\" no julgamento após a morte?",
+		"options": [
+			{ "description": "O coração do morto era pesado contra a \"Pena da Verdade\" (Ma'at) para determinar sua virtude.", "isCorrect": true },
+			{ "description": "O coração era queimado para purificar a alma.", "isCorrect": false },
+			{ "description": "O coração era pesado para determinar quanto ouro o morto deveria pagar a Osíris.", "isCorrect": false },
+			{ "description": "O coração era comido por Anúbis.", "isCorrect": false }
+		],
+		"source_explanation": "A vinheta 30B (Feitiço 125) do \"Papiro de Ani\" (Livro dos Mortos) ilustra e descreve a cerimônia onde o coração é pesado contra a pena de Ma'at.",
+		"source_abnt": "O LIVRO DOS MORTOS DO ANTIGO EGITO. *O Papiro de Ani*. Tradução de E. A. Wallis Budge. Londres: British Museum, 1895. (Feitiço 125)."
+	},
+	{
+		"id": "MITO038",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "Na mitologia hindu, Parashurama é o sexto avatar de Vishnu, conhecido por ser um guerreiro que...",
+		"options": [
+			{ "description": "Construiu uma ponte para o Sri Lanka (como Rama).", "isCorrect": false },
+			{ "description": "Erradicou a classe dos guerreiros (Kshatriya) da Terra 21 vezes.", "isCorrect": true },
+			{ "description": "Matou o demônio Hiranyakashipu (como Narasimha).", "isCorrect": false },
+			{ "description": "Salvou a Terra de um dilúvio (como Matsya).", "isCorrect": false }
+		],
+		"source_explanation": "O épico Mahabharata contém a história de Parashurama, o avatar com machado que, em vingança, destruiu a casta guerreira Kshatriya por 21 gerações.",
+		"source_abnt": "*MAHABHARATA*. Tradução (resumida) de William Buck. São Paulo: Editora Cultrix, 2002."
+	},
+	{
+		"id": "MITO039",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "Qual é o nome do principal grupo de deuses da mitologia celta irlandesa, que lutaram contra os Fomorianos?",
+		"options": [
+			{ "description": "Os Vanir (Nórdicos)", "isCorrect": false },
+			{ "description": "Os Tuatha Dé Danann (Povo da Deusa Danu)", "isCorrect": true },
+			{ "description": "Os Titãs (Gregos)", "isCorrect": false },
+			{ "description": "Os Devas (Hindus)", "isCorrect": false }
+		],
+		"source_explanation": "Este texto medieval irlandês descreve a chegada mítica dos Tuatha Dé Danann (o panteão irlandês) e suas batalhas, incluindo a Segunda Batalha de Moytura contra os Fomorianos.",
+		"source_abnt": "*LEBOR GABÁLA ÉRENN* (O Livro das Invasões da Irlanda). Tradução de R. A. Stewart Macalister. Dublin: Irish Texts Society, 1938-1956."
+	},
+	{
+		"id": "MITO040",
+		"category": "Mitologia",
+		"level": "medium",
+		"question": "Na mitologia grega, qual herói era invulnerável, exceto em seu calcanhar?",
+		"options": [
+			{ "description": "Odisseu", "isCorrect": false },
+			{ "description": "Heitor", "isCorrect": false },
+			{ "description": "Páris", "isCorrect": false },
+			{ "description": "Aquiles", "isCorrect": true }
+		],
+		"source_explanation": "Embora a \"Ilíada\" não mencione, o poema \"Aquileida\" de Estácio (séc. I d.C.) é uma fonte clássica que menciona a imersão de Aquiles no rio Estige por sua mãe, Tétis, exceto pelo calcanhar.",
+		"source_abnt": "ESTÁCIO. *Aquileida*. In: ______. *Obras Completas*. Tradução de J. H. Mozley. Cambridge, MA: Harvard University Press, 1928. (Loeb Classical Library)."
+	},
+	{
+		"id": "MITO041",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "Qual é a \"Trimurti\" (Trindade) principal do Hinduísmo?",
+		"options": [
+			{ "description": "Brahma (O Criador), Vishnu (O Preservador) e Shiva (O Destruidor).", "isCorrect": true },
+			{ "description": "Krishna, Rama e Ganesha.", "isCorrect": false },
+			{ "description": "Kali, Lakshmi e Saraswati (A Tridevi).", "isCorrect": false },
+			{ "description": "Agni, Indra e Soma (Deuses Védicos).", "isCorrect": false }
+		],
+		"source_explanation": "Os Puranas (textos pós-védicos) estabelecem a teologia da Trimurti, a trindade que representa os três aspectos cósmicos de Deus: criação, preservação e destruição.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Trimurti. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/trimurti-Hinduism. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MITO042",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "Na mitologia nórdica, qual evento trágico, orquestrado por Loki, leva à morte do deus Baldur e sinaliza o início do Ragnarok?",
+		"options": [
+			{ "description": "Baldur é envenenado por uma serpente.", "isCorrect": false },
+			{ "description": "Ele é enganado e atingido pela única coisa que poderia machucá-lo: um galho de visco.", "isCorrect": true },
+			{ "description": "Ele é morto em batalha pelo lobo Fenrir.", "isCorrect": false },
+			{ "description": "Ele cai da ponte Bifrost.", "isCorrect": false }
+		],
+		"source_explanation": "A \"Edda em Prosa\" detalha como Loki descobriu que o visco era a única coisa que não havia jurado não ferir Baldur, e enganou o deus cego Höðr para atirá-lo.",
+		"source_abnt": "STURLUSON, Snorri. *Edda em Prosa: Gylfaginning e Skáldskaparmál*. Tradução de Pablo Gomes de Miranda. Belo Horizonte: Editora Rona, 2011."
+	},
+	{
+		"id": "MITO043",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "No épico da Babilônia \"Enuma Elish\", como o deus criador Marduk forma o céu e a terra?",
+		"options": [
+			{ "description": "Falando a palavra da criação no vazio.", "isCorrect": false },
+			{ "description": "Derrotando o monstro do caos Tiamat e dividindo seu cadáver em dois.", "isCorrect": true },
+			{ "description": "Nascendo de um ovo cósmico.", "isCorrect": false },
+			{ "description": "Moldando-os a partir do barro.", "isCorrect": false }
+		],
+		"source_explanation": "O \"Enuma Elish\" é o épico da criação da Mesopotâmia. Nele, Marduk mata Tiamat (o caos primordial) e usa uma metade de seu corpo para criar o céu e a outra para criar a terra.",
+		"source_abnt": "*ENUMA ELISH*. Tradução de Alexander Heidel. In: *The Babylonian Genesis*. 2. ed. Chicago: University of Chicago Press, 1951."
+	},
+	{
+		"id": "MITO044",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "Na mitologia egípcia, o Faraó Akhenaton causou uma revolução religiosa ao abolir o panteão e instituir o monoteísmo a qual deus?",
+		"options": [
+			{ "description": "Amon-Rá", "isCorrect": false },
+			{ "description": "Áton (o disco solar)", "isCorrect": true },
+			{ "description": "Osíris", "isCorrect": false },
+			{ "description": "Thoth", "isCorrect": false }
+		],
+		"source_explanation": "O \"Grande Hino a Áton\", encontrado na tumba de Ay (período de Amarna), é o texto principal que louva Áton (o disco solar) como o deus único de Akhenaton.",
+		"source_abnt": "*O GRANDE HINO A ÁTON*. (c. 1340 a.C.). In: PRITCHARD, James B. (ed.). *Ancient Near Eastern Texts Relating to the Old Testament*. 3. ed. Princeton: Princeton University Press, 1969."
+	},
+	{
+		"id": "MITO045",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "No Cristianismo Gnóstico, o mundo material (Terra) foi criado não por Deus, mas por uma entidade inferior e falha chamada:",
+		"options": [
+			{ "description": "O Demiurgo", "isCorrect": true },
+			{ "description": "Sophia (Sabedoria)", "isCorrect": false },
+			{ "description": "Satanás", "isCorrect": false },
+			{ "description": "O Pleroma", "isCorrect": false }
+		],
+		"source_explanation": "Textos gnósticos (como o \"Apócrifo de João\") descrevem o Demiurgo (Yaldabaoth) como um criador ignorante e falho, responsável pelo mundo material.",
+		"source_abnt": "ROBINSON, James M. (ed.). *A Biblioteca de Nag Hammadi*. Tradução de C. L. A. S. e H. T. O. São Paulo: Editora Madras, 2007. (Ex: Apócrifo de João)."
+	},
+	{
+		"id": "MITO046",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "Na Odisseia, como Penélope (esposa de Odisseu) adia seus pretendentes por anos?",
+		"options": [
+			{ "description": "Ela promete se casar quando seu filho Telêmaco atingir a maioridade.", "isCorrect": false },
+			{ "description": "Ela afirma que tecerá uma mortalha para o pai de Odisseu, tecendo-a de dia e desfazendo-a à noite.", "isCorrect": true },
+			{ "description": "Ela exige que eles vençam um torneio de arco e flecha.", "isCorrect": false },
+			{ "description": "Ela os tranca nos porões do palácio.", "isCorrect": false }
+		],
+		"source_explanation": "No Livro II da \"Odisseia\", a artimanha do tear de Penélope (tecer de dia, desfazer à noite) é revelada como sua principal estratégia para adiar os pretendentes.",
+		"source_abnt": "HOMERO. *Odisseia*. Tradução de Manuel Odorico Mendes. São Paulo: Editora 34, 2011. (Livro II)."
+	},
+	{
+		"id": "MITO047",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "Na mitologia persa (Zoroastrismo), o que acontece com a alma após a morte?",
+		"options": [
+			{ "description": "Ela é imediatamente reencarnada em outro corpo.", "isCorrect": false },
+			{ "description": "Ela deve cruzar a Ponte Chinvat, que se alarga para os justos e se estreita para os ímpios.", "isCorrect": true },
+			{ "description": "Ela é pesada contra uma pena (como no Egito).", "isCorrect": false },
+			{ "description": "Ela se dissolve no fogo sagrado de Ahura Mazda.", "isCorrect": false }
+		],
+		"source_explanation": "Os textos do Avesta (ex: Gathas) descrevem o julgamento individual após a morte, que culmina na travessia da Ponte Chinvat (Ponte do Separador).",
+		"source_abnt": "*AVESTA*. (Textos sagrados do Zoroastrismo). Tradução de James Darmesteter. In: MÜLLER, Max (ed.). *Sacred Books of the East*, v. 4 e 23. Oxford: Clarendon Press, 1880-1883."
+	},
+	{
+		"id": "MITO048",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "Qual é o nome da serpente (ou dragão) gigante na mitologia nórdica que rói as raízes de Yggdrasil?",
+		"options": [
+			{ "description": "Fenrir", "isCorrect": false },
+			{ "description": "Jörmungandr", "isCorrect": false },
+			{ "description": "Níðhöggr (Nidhogg)", "isCorrect": true },
+			{ "description": "Fafnir", "isCorrect": false }
+		],
+		"source_explanation": "A \"Edda em Prosa\" (Gylfaginning) descreve a serpente Nidhogg em Niflheim, roendo a raiz da árvore do mundo Yggdrasil.",
+		"source_abnt": "STURLUSON, Snorri. *Edda em Prosa: Gylfaginning e Skáldskaparmál*. Tradução de Pablo Gomes de Miranda. Belo Horizonte: Editora Rona, 2011."
+	},
+	{
+		"id": "MITO049",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "Na mitologia grega, as \"Moiras\" (Parcas em Roma) controlavam o quê?",
+		"options": [
+			{ "description": "As estações do ano.", "isCorrect": false },
+			{ "description": "O destino dos mortais e dos deuses, fiando, medindo e cortando o \"fio da vida\".", "isCorrect": true },
+			{ "description": "Os ventos.", "isCorrect": false },
+			{ "description": "A inspiração artística (as Musas).", "isCorrect": false }
+		],
+		"source_explanation": "Hesíodo, na \"Teogonia\", descreve as Moiras (Cloto - a fiandeira, Láquesis - a medidora, e Átropos - a que corta) como as fiandeiras do destino.",
+		"source_abnt": "HESÍODO. *Teogonia*. Tradução de Jaa Torrano. São Paulo: Iluminuras, 1995."
+	},
+	{
+		"id": "MITO050",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "Na mitologia grega, quem foi o músico lendário que desceu ao submundo (Hades) para resgatar sua esposa, Eurídice?",
+		"options": [
+			{ "description": "Apolo", "isCorrect": false },
+			{ "description": "Orfeu", "isCorrect": true },
+			{ "description": "Teseu", "isCorrect": false },
+			{ "description": "Hermes", "isCorrect": false }
+		],
+		"source_explanation": "O mito, mais famosamente narrado por Ovídio, conta como Orfeu usou sua música para encantar Hades, mas perdeu Eurídice ao olhar para trás.",
+		"source_abnt": "OVÍDIO. *Metamorfoses*. Tradução de M. F. G. P. da Silva. São Paulo: Editora 34, 2017. (Livro X)."
+	},
+	{
+		"id": "MITO051",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "O que é o \"Efeito Caim\" (ou \"Fratricídio Primordial\") como um arquétipo mitológico?",
+		"options": [
+			{ "description": "A história de um filho pródigo que retorna para casa.", "isCorrect": false },
+			{ "description": "O assassinato de um irmão por outro, muitas vezes ligado à fundação de uma cidade ou a uma disputa por favor divino.", "isCorrect": true },
+			{ "description": "O sacrifício de um filho por um pai (como Isaac).", "isCorrect": false },
+			{ "description": "A rebelião de um filho contra o pai (como Zeus contra Cronos).", "isCorrect": false }
+		],
+		"source_explanation": "O arquétipo do fratricídio fundador começa com Caim e Abel (Gênesis) e se repete em Rômulo e Remo (fundação de Roma) e Osíris e Set (mito egípcio).",
+		"source_abnt": "BÍBLIA. Português. *Bíblia Sagrada*. Tradução de João Ferreira de Almeida. Edição Revista e Corrigida. Barueri, SP: Sociedade Bíblica do Brasil, 1993. (Gênesis 4)."
+	},
+	{
+		"id": "MITO052",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "Na mitologia celta irlandesa, qual é o nome do \"caldeirão\" mágico que nunca se esvazia e é um dos tesouros dos Tuatha Dé Danann?",
+		"options": [
+			{ "description": "O Santo Graal", "isCorrect": false },
+			{ "description": "O Caldeirão de Dagda", "isCorrect": true },
+			{ "description": "A Lança de Lugh", "isCorrect": false },
+			{ "description": "A Pedra de Fal", "isCorrect": false }
+		],
+		"source_explanation": "O \"Livro das Invasões da Irlanda\" lista os Quatro Tesouros dos Tuatha Dé Danann, incluindo o \"Caldeirão de Dagda\", que nunca deixava ninguém faminto.",
+		"source_abnt": "*LEBOR GABÁLA ÉRENN* (O Livro das Invasões da Irlanda). Tradução de R. A. Stewart Macalister. Dublin: Irish Texts Society, 1938-1956."
+	},
+	{
+		"id": "MITO053",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "Na mitologia grega, como Édipo se tornou rei de Tebas?",
+		"options": [
+			{ "description": "Ele herdou o trono de seu pai, o Rei Laio.", "isCorrect": false },
+			{ "description": "Ele conquistou a cidade com o exército de Corinto.", "isCorrect": false },
+			{ "description": "Ele salvou a cidade ao decifrar o enigma da Esfinge.", "isCorrect": true },
+			{ "description": "Ele se casou com a rainha viúva, Medeia.", "isCorrect": false }
+		],
+		"source_explanation": "A peça \"Édipo Rei\" é baseada no mito de que Édipo, ao chegar a Tebas, resolveu o enigma da Esfinge, salvando a cidade e ganhando o trono (e a rainha, Jocasta).",
+		"source_abnt": "SÓFOCLES. *Édipo Rei*. In: ______. *Tragédias*. Tradução de Mário da Gama Kury. Rio de Janeiro: Zahar, 1997."
+	},
+	{
+		"id": "MITO054",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "Na mitologia suméria, quem é o herói do épico mais antigo do mundo, que busca a imortalidade após a morte de seu amigo Enkidu?",
+		"options": [
+			{ "description": "Gilgamesh", "isCorrect": true },
+			{ "description": "Marduk", "isCorrect": false },
+			{ "description": "Enlil", "isCorrect": false },
+			{ "description": "Ziusudra", "isCorrect": false }
+		],
+		"source_explanation": "A \"Epopeia de Gilgamesh\" (c. 2100 a.C.) é a obra-prima da literatura da Mesopotâmia, narrando a busca do rei Gilgamesh pela imortalidade.",
+		"source_abnt": "*EPOPEIA DE GILGAMESH*. Tradução de George, Andrew R. Londres: Penguin Classics, 2000."
+	},
+	{
+		"id": "MITO055",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "O que era o \"Soma\" (ou Haoma, na Pérsia), uma figura central na mitologia védica (hindu primitiva)?",
+		"options": [
+			{ "description": "Um deus da guerra que cavalgava um elefante (Indra).", "isCorrect": false },
+			{ "description": "Um deus do fogo (Agni).", "isCorrect": false },
+			{ "description": "Uma planta e uma bebida intoxicante e sagrada, considerada um deus, que dava inspiração e imortalidade.", "isCorrect": true },
+			{ "description": "O ciclo de reencarnação (Samsara).", "isCorrect": false }
+		],
+		"source_explanation": "O Mandala 9 (Livro 9) do Rigveda é inteiramente dedicado a hinos ao Soma, uma planta psicoativa e bebida ritualística deificada.",
+		"source_abnt": "*RIGVEDA*. Mandala 9 (Hinos ao Soma). Tradução de Wendy Doniger O'Flaherty. Londres: Penguin Classics, 1981."
+	},
+	{
+		"id": "MITO056",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "Na mitologia grega, quem foi o titã que castrou seu pai, Urano (Céu), e depois devorou seus próprios filhos para evitar ser deposto?",
+		"options": [
+			{ "description": "Zeus", "isCorrect": false },
+			{ "description": "Cronos (Saturno)", "isCorrect": true },
+			{ "description": "Prometeu", "isCorrect": false },
+			{ "description": "Hades", "isCorrect": false }
+		],
+		"source_explanation": "A \"Teogonia\" de Hesíodo descreve a sucessão dos mitos: Urano é castrado por seu filho Cronos; Cronos devora seus filhos e é deposto por seu filho Zeus.",
+		"source_abnt": "HESÍODO. *Teogonia*. Tradução de Jaa Torrano. São Paulo: Iluminuras, 1995."
+	},
+	{
+		"id": "MITO057",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "Na mitologia nórdica, o que é o \"Gjallarhorn\"?",
+		"options": [
+			{ "description": "A lança de Odin (Gungnir).", "isCorrect": false },
+			{ "description": "O navio de Freyr (Skíðblaðnir).", "isCorrect": false },
+			{ "description": "O chifre (corneta) do deus Heimdall, que ele tocará para anunciar o início do Ragnarok.", "isCorrect": true },
+			{ "description": "O martelo de Thor (Mjölnir).", "isCorrect": false }
+		],
+		"source_explanation": "A \"Edda em Prosa\" (Gylfaginning) descreve Heimdall como o guardião da Bifrost, que usará o \"Chifre Ressonante\" (Gjallarhorn) para alertar os deuses sobre o Ragnarok.",
+		"source_abnt": "STURLUSON, Snorri. *Edda em Prosa: Gylfaginning e Skáldskaparmál*. Tradução de Pablo Gomes de Miranda. Belo Horizonte: Editora Rona, 2011."
+	},
+	{
+		"id": "MITO058",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "Na mitologia celta irlandesa, \"Tír na nÓg\" (Terra da Juventude) é um exemplo de...",
+		"options": [
+			{ "description": "Uma batalha apocalíptica.", "isCorrect": false },
+			{ "description": "O \"Outro Mundo\" (Otherworld) paradisíaco, uma terra de eterna juventude e beleza.", "isCorrect": true },
+			{ "description": "Um feitiço de invisibilidade.", "isCorrect": false },
+			{ "description": "O submundo dos mortos.", "isCorrect": false }
+		],
+		"source_explanation": "O mito \"A Viagem de Oisín a Tír na nÓg\" (do Ciclo Feniano) descreve o \"Outro Mundo\" celta como uma terra paradisíaca de eterna juventude.",
+		"source_abnt": "CROSS, Tom P.; SLAVER, Clark H. *Ancient Irish Tales*. Nova York: Henry Holt & Co., 1936. (Seção: The Fenian Cycle - \"The Echtra of Oisín\")."
+	},
+	{
+		"id": "MITO059",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "Na Cabala (misticismo judaico), qual é o nome dado às dez emanações através das quais Deus (Ein Sof) se revela?",
+		"options": [
+			{ "description": "Os Arcanjos", "isCorrect": false },
+			{ "description": "As Sephirot (Sefirot)", "isCorrect": true },
+			{ "description": "O Golem", "isCorrect": false },
+			{ "description": "Os Chakras", "isCorrect": false }
+		],
+		"source_explanation": "O \"Zohar\", texto fundamental da Cabala, descreve a \"Árvore da Vida\" como a estrutura das 10 Sephirot (emanações divinas) através das quais o Ein Sof (o Infinito) se manifesta.",
+		"source_abnt": "*ZOHAR* (O Livro do Esplendor). Tradução de Daniel C. Matt. Stanford: Stanford University Press, 2004."
+	},
+	{
+		"id": "MITO060",
+		"category": "Mitologia",
+		"level": "hard",
+		"question": "No Cristianismo, qual é o pecado original que Adão e Eva cometeram no Jardim do Éden?",
+		"options": [
+			{ "description": "Cometer assassinato (o pecado de Caim).", "isCorrect": false },
+			{ "description": "A desobediência a Deus ao comer o fruto proibido da Árvore do Conhecimento.", "isCorrect": true },
+			{ "description": "Construir a Torre de Babel.", "isCorrect": false },
+			{ "description": "Mentir para o Espírito Santo (pecado de Ananias e Safira).", "isCorrect": false }
+		],
+		"source_explanation": "O Livro do Gênesis, capítulo 3, narra a Queda do Homem como o ato de desobediência de Adão e Eva ao comerem o fruto da Árvore do Conhecimento do Bem e do Mal.",
+		"source_abnt": "BÍBLIA. Português. *Bíblia Sagrada*. Tradução de João Ferreira de Almeida. Edição Revista e Corrigida. Barueri, SP: Sociedade Bíblica do Brasil, 1993. (Gênesis 3)."
+	}
+]

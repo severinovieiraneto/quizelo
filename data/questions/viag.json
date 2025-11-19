@@ -1,0 +1,842 @@
+[
+	{
+		"id": "VIAG001",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "Qual é a capital da França?",
+		"options": [
+			{ "description": "Londres", "isCorrect": false },
+			{ "description": "Berlim", "isCorrect": false },
+			{ "description": "Paris", "isCorrect": true },
+			{ "description": "Roma", "isCorrect": false }
+		],
+		"source_explanation": "Paris é a capital e a cidade mais populosa da França, um fato básico da geografia europeia.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Paris. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/place/Paris. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG002",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "A Torre Eiffel, um dos monumentos mais visitados do mundo, está localizada em qual cidade?",
+		"options": [
+			{ "description": "Nova York", "isCorrect": false },
+			{ "description": "Paris", "isCorrect": true },
+			{ "description": "Roma", "isCorrect": false },
+			{ "description": "Sydney", "isCorrect": false }
+		],
+		"source_explanation": "A Torre Eiffel é o monumento pago mais visitado do mundo, localizado no Campo de Marte, em Paris, França.",
+		"source_abnt": "TOUR EIFFEL. *História*. Paris: Société d'Exploitation de la Tour Eiffel, [s.d.]. Disponível em: https://www.toureiffel.paris/en/the-monument/history. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG003",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "Em qual continente o Egito está localizado?",
+		"options": [
+			{ "description": "Ásia", "isCorrect": false },
+			{ "description": "América do Sul", "isCorrect": false },
+			{ "description": "Europa", "isCorrect": false },
+			{ "description": "África", "isCorrect": true }
+		],
+		"source_explanation": "O Egito é um país transcontinental (com a Península do Sinai na Ásia), mas a maior parte de sua massa territorial e população está no continente africano.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Egypt. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/place/Egypt. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG004",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "As Grandes Pirâmides de Gizé são um ponto turístico icônico de qual país?",
+		"options": [
+			{ "description": "Grécia", "isCorrect": false },
+			{ "description": "México", "isCorrect": false },
+			{ "description": "Egito", "isCorrect": true },
+			{ "description": "Turquia", "isCorrect": false }
+		],
+		"source_explanation": "A Necrópole de Gizé, que inclui as pirâmides de Quéops, Quéfren e Miquerinos, está localizada no Egito, perto do Cairo.",
+		"source_abnt": "UNESCO. *World Heritage List*. Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur. Paris: UNESCO, 1979. Disponível em: https://whc.unesco.org/en/list/86. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG005",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "O Cristo Redentor é um famoso monumento situado em qual cidade brasileira?",
+		"options": [
+			{ "description": "São Paulo", "isCorrect": false },
+			{ "description": "Rio de Janeiro", "isCorrect": true },
+			{ "description": "Salvador", "isCorrect": false },
+			{ "description": "Brasília", "isCorrect": false }
+		],
+		"source_explanation": "O monumento do Cristo Redentor está localizado no topo do morro do Corcovado, na cidade do Rio de Janeiro.",
+		"source_abnt": "UNESCO. *World Heritage List*. Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea. Paris: UNESCO, 2012. Disponível em: https://whc.unesco.org/en/list/1100. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG006",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "Qual é a capital do Japão?",
+		"options": [
+			{ "description": "Pequim", "isCorrect": false },
+			{ "description": "Seul", "isCorrect": false },
+			{ "description": "Tóquio", "isCorrect": true },
+			{ "description": "Quioto", "isCorrect": false }
+		],
+		"source_explanation": "Tóquio, anteriormente conhecida como Edo, é a capital oficial e a metrópole mais populosa do Japão.",
+		"source_abnt": "GOVERNO METROPOLITANO DE TÓQUIO. *About the TMG: Tokyo's History*. Tóquio: Tokyo Metropolitan Government, [s.d.]. Disponível em: https://www.metro.tokyo.lg.jp/english/about/history/index.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG007",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "A Grande Muralha, uma das Sete Maravilhas do Mundo, está localizada em qual país?",
+		"options": [
+			{ "description": "Índia", "isCorrect": false },
+			{ "description": "Rússia", "isCorrect": false },
+			{ "description": "Egito", "isCorrect": false },
+			{ "description": "China", "isCorrect": true }
+		],
+		"source_explanation": "A Grande Muralha é uma série de fortificações construídas ao longo de séculos para proteger as fronteiras do império chinês.",
+		"source_abnt": "UNESCO. *World Heritage List*. The Great Wall. Paris: UNESCO, 1987. Disponível em: https://whc.unesco.org/en/list/438. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG008",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "Qual é a capital dos Estados Unidos?",
+		"options": [
+			{ "description": "Nova York", "isCorrect": false },
+			{ "description": "Washington, D.C.", "isCorrect": true },
+			{ "description": "Los Angeles", "isCorrect": false },
+			{ "description": "Chicago", "isCorrect": false }
+		],
+		"source_explanation": "Washington, D.C. (Distrito de Colúmbia) é a capital federal dos Estados Unidos, estabelecida pela Constituição.",
+		"source_abnt": "NATIONAL ARCHIVES (EUA). *Constitution of the United States*. Art. I, Sec. 8. Washington, D.C.: U.S. National Archives. Disponível em: https://www.archives.gov/founding-docs/constitution-transcript. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG009",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "A Estátua da Liberdade está localizada na baía de qual cidade americana?",
+		"options": [
+			{ "description": "Nova York", "isCorrect": true },
+			{ "description": "São Francisco", "isCorrect": false },
+			{ "description": "Boston", "isCorrect": false },
+			{ "description": "Washington, D.C.", "isCorrect": false }
+		],
+		"source_explanation": "A Estátua da Liberdade está localizada na Ilha da Liberdade (Liberty Island), no porto de Nova York.",
+		"source_abnt": "NATIONAL PARK SERVICE (NPS). *Statue of Liberty National Monument*. Washington, D.C.: NPS, [s.d.]. Disponível em: https://www.nps.gov/stli/index.htm. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG010",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "Qual é o maior rio do mundo em volume de água (descarga)?",
+		"options": [
+			{ "description": "Rio Nilo", "isCorrect": false },
+			{ "description": "Rio Amazonas", "isCorrect": true },
+			{ "description": "Rio Mississippi", "isCorrect": false },
+			{ "description": "Rio Yangtze", "isCorrect": false }
+		],
+		"source_explanation": "O Rio Amazonas tem, de longe, o maior volume de descarga de água do que qualquer outro rio do mundo.",
+		"source_abnt": "GUINNESS WORLD RECORDS. *Largest river by discharge*. Londres: Guinness World Records, [s.d.]. Disponível em: https://www.guinnessworldrecords.com/world-records/largest-river-by-discharge. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG011",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "Qual é a capital da Itália?",
+		"options": [
+			{ "description": "Veneza", "isCorrect": false },
+			{ "description": "Milão", "isCorrect": false },
+			{ "description": "Roma", "isCorrect": true },
+			{ "description": "Florença", "isCorrect": false }
+		],
+		"source_explanation": "Roma é a capital oficial da República Italiana.",
+		"source_abnt": "GOVERNO ITALIANO. *Costituzione della Repubblica Italiana*. Art. 114. Roma: Governo Italiano, 1947."
+	},
+	{
+		"id": "VIAG012",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "O Coliseu, um antigo anfiteatro romano, está localizado em qual cidade?",
+		"options": [
+			{ "description": "Atenas", "isCorrect": false },
+			{ "description": "Roma", "isCorrect": true },
+			{ "description": "Paris", "isCorrect": false },
+			{ "description": "Cairo", "isCorrect": false }
+		],
+		"source_explanation": "O Coliseu, ou Anfiteatro Flaviano, é o monumento central do Centro Histórico de Roma, listado como Patrimônio da UNESCO.",
+		"source_abnt": "UNESCO. *World Heritage List*. Historic Centre of Rome [...]. Paris: UNESCO, 1980. Disponível em: https://whc.unesco.org/en/list/91. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG013",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "Qual é a capital do Reino Unido?",
+		"options": [
+			{ "description": "Manchester", "isCorrect": false },
+			{ "description": "Dublin", "isCorrect": false },
+			{ "description": "Edimburgo", "isCorrect": false },
+			{ "description": "Londres", "isCorrect": true }
+		],
+		"source_explanation": "Londres é a capital e maior cidade tanto da Inglaterra quanto do Reino Unido.",
+		"source_abnt": "GOVERNO DO REINO UNIDO. *How government works*. Londres: Gov.uk, [s.d.]. Disponível em: https://www.gov.uk/how-government-works. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG014",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "O famoso relógio \"Big Ben\" é um marco de qual cidade?",
+		"options": [
+			{ "description": "Londres", "isCorrect": true },
+			{ "description": "Berlim", "isCorrect": false },
+			{ "description": "Praga", "isCorrect": false },
+			{ "description": "Moscou", "isCorrect": false }
+		],
+		"source_explanation": "O \"Big Ben\" é o apelido do Grande Sino da torre (Elizabeth Tower) no Palácio de Westminster, em Londres.",
+		"source_abnt": "PARLAMENTO DO REINO UNIDO. *Big Ben*. Londres: UK Parliament, [s.d.]. Disponível em: https://www.parliament.uk/about/living-heritage/building/palace/big-ben/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG015",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "Qual é o maior oceano do mundo?",
+		"options": [
+			{ "description": "Oceano Atlântico", "isCorrect": false },
+			{ "description": "Oceano Índico", "isCorrect": false },
+			{ "description": "Oceano Pacífico", "isCorrect": true },
+			{ "description": "Oceano Ártico", "isCorrect": false }
+		],
+		"source_explanation": "O Oceano Pacífico é o maior e mais profundo oceano da Terra, cobrindo mais de 30% da superfície do planeta.",
+		"source_abnt": "NOAA (NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION). *How big is the Pacific Ocean?*. Washington, D.C.: NOAA, [s.d.]. Disponível em: https://oceanservice.noaa.gov/facts/biggest-ocean.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG016",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "Em qual continente a Espanha está localizada?",
+		"options": [
+			{ "description": "América do Sul", "isCorrect": false },
+			{ "description": "África", "isCorrect": false },
+			{ "description": "Ásia", "isCorrect": false },
+			{ "description": "Europa", "isCorrect": true }
+		],
+		"source_explanation": "A Espanha é um estado-membro da União Europeia, localizado na Península Ibérica, no sudoeste da Europa.",
+		"source_abnt": "UNIÃO EUROPEIA. *Países: Espanha*. Bruxelas: União Europeia, [s.d.]. Disponível em: https://europa.eu/european-union/about-eu/countries/member-countries/spain_pt. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG017",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "O Tango é uma dança e gênero musical famoso originário de qual país?",
+		"options": [
+			{ "description": "Argentina", "isCorrect": true },
+			{ "description": "Brasil", "isCorrect": false },
+			{ "description": "Espanha", "isCorrect": false },
+			{ "description": "México", "isCorrect": false }
+		],
+		"source_explanation": "A UNESCO lista o Tango como Patrimônio Cultural Imaterial, originário da bacia do Rio da Prata (Argentina e Uruguai).",
+		"source_abnt": "UNESCO. *Patrimônio Cultural Imaterial*. Tango. Paris: UNESCO, 2009. Disponível em: https://ich.unesco.org/en/RL/tango-00258. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG018",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "Qual é a capital da Rússia?",
+		"options": [
+			{ "description": "São Petersburgo", "isCorrect": false },
+			{ "description": "Kiev", "isCorrect": false },
+			{ "description": "Moscou", "isCorrect": true },
+			{ "description": "Varsóvia", "isCorrect": false }
+		],
+		"source_explanation": "Moscou é a capital federal da Federação Russa, conforme estabelecido no Artigo 70 da Constituição.",
+		"source_abnt": "RÚSSIA. *Constituição da Federação Russa*. 12 dez. 1993. (Artigo 70)."
+	},
+	{
+		"id": "VIAG019",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "Qual é o rio mais longo do mundo?",
+		"options": [
+			{ "description": "Rio Amazonas", "isCorrect": false },
+			{ "description": "Rio Nilo", "isCorrect": true },
+			{ "description": "Rio Mississippi", "isCorrect": false },
+			{ "description": "Rio Yangtze", "isCorrect": false }
+		],
+		"source_explanation": "O Rio Nilo, na África, é tradicionalmente considerado o rio mais longo do mundo (embora haja debate recente com o Rio Amazonas).",
+		"source_abnt": "GUINNESS WORLD RECORDS. *Longest river*. Londres: Guinness World Records, [s.d.]. Disponível em: https://www.guinnessworldrecords.com/world-records/longest-river. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG020",
+		"category": "Viagens e Geografia",
+		"level": "easy",
+		"question": "A famosa Torre Inclinada está localizada em qual cidade italiana?",
+		"options": [
+			{ "description": "Roma", "isCorrect": false },
+			{ "description": "Florença", "isCorrect": false },
+			{ "description": "Pisa", "isCorrect": true },
+			{ "description": "Veneza", "isCorrect": false }
+		],
+		"source_explanation": "A Torre de Pisa (o campanário da catedral) está localizada na \"Praça dos Milagres\" (Piazza del Duomo), em Pisa, Itália.",
+		"source_abnt": "UNESCO. *World Heritage List*. Piazza del Duomo, Pisa. Paris: UNESCO, 1987. Disponível em: https://whc.unesco.org/en/list/395. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG021",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "A cidade perdida de Machu Picchu era um assentamento de qual civilização pré-colombiana?",
+		"options": [
+			{ "description": "Maias", "isCorrect": false },
+			{ "description": "Astecas", "isCorrect": false },
+			{ "description": "Incas", "isCorrect": true },
+			{ "description": "Olmecas", "isCorrect": false }
+		],
+		"source_explanation": "O Santuário Histórico de Machu Picchu é descrito pela UNESCO como um assentamento Inca do século XV, construído no auge do império.",
+		"source_abnt": "UNESCO. *World Heritage List*. Historic Sanctuary of Machu Picchu. Paris: UNESCO, 1983. Disponível em: https://whc.unesco.org/en/list/274. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG022",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "Qual é a montanha mais alta do mundo (medida a partir do nível do mar)?",
+		"options": [
+			{ "description": "K2", "isCorrect": false },
+			{ "description": "Monte Everest", "isCorrect": true },
+			{ "description": "Monte Kilimanjaro", "isCorrect": false },
+			{ "description": "Aconcágua", "isCorrect": false }
+		],
+		"source_explanation": "O Monte Everest, com 8.848,86 metros, é o ponto mais alto da superfície da Terra acima do nível do mar.",
+		"source_abnt": "NATIONAL GEOGRAPHIC. *Mount Everest*. Washington, D.C.: National Geographic, [s.d.]. Disponível em: https://www.nationalgeographic.com/topics/mount-everest. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG023",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "O Monte Everest está localizado em qual cordilheira?",
+		"options": [
+			{ "description": "Andes", "isCorrect": false },
+			{ "description": "Alpes", "isCorrect": false },
+			{ "description": "Montanhas Rochosas", "isCorrect": false },
+			{ "description": "Himalaia", "isCorrect": true }
+		],
+		"source_explanation": "O Himalaia é a cordilheira que abriga os picos mais altos do mundo, incluindo o Monte Everest.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Himalayas. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/place/Himalayas. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG024",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "Qual é o maior deserto quente do mundo, cobrindo grande parte do norte da África?",
+		"options": [
+			{ "description": "Deserto da Arábia", "isCorrect": false },
+			{ "description": "Deserto de Gobi", "isCorrect": false },
+			{ "description": "Deserto do Saara", "isCorrect": true },
+			{ "description": "Antártida (Nota: é o maior deserto polar/frio)", "isCorrect": false }
+		],
+		"source_explanation": "A Antártida é o maior deserto (polar) do mundo, mas o Saara é o maior deserto quente (subtropical).",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Sahara. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/place/Sahara. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG025",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "O Fado é um gênero musical melancólico, Patrimônio da UNESCO, originário de qual país?",
+		"options": [
+			{ "description": "Espanha", "isCorrect": false },
+			{ "description": "Portugal", "isCorrect": true },
+			{ "description": "Grécia", "isCorrect": false },
+			{ "description": "Itália", "isCorrect": false }
+		],
+		"source_explanation": "A UNESCO inscreveu o Fado, canto urbano popular de Portugal (associado a Lisboa), na Lista do Patrimônio Cultural Imaterial.",
+		"source_abnt": "UNESCO. *Patrimônio Cultural Imaterial*. Fado, canto urbano popular de Portugal. Paris: UNESCO, 2011. Disponível em: https://ich.unesco.org/en/RL/fado-urban-popular-song-of-portugal-00563. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG026",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "Qual é a capital do Canadá?",
+		"options": [
+			{ "description": "Toronto", "isCorrect": false },
+			{ "description": "Vancouver", "isCorrect": false },
+			{ "description": "Montreal", "isCorrect": false },
+			{ "description": "Ottawa", "isCorrect": true }
+		],
+		"source_explanation": "Ottawa, na província de Ontário, é a capital nacional do Canadá (embora Toronto seja a cidade mais populosa).",
+		"source_abnt": "GOVERNO DO CANADÁ. *Sobre Ottawa*. Ottawa: Government of Canada, [s.d.]. Disponível em: https://www.canada.ca/en/services/culture/canadian-identity-heritage/capital-cities/ottawa.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG027",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "Qual é a capital da Austrália?",
+		"options": [
+			{ "description": "Sydney", "isCorrect": false },
+			{ "description": "Melbourne", "isCorrect": false },
+			{ "description": "Camberra", "isCorrect": true },
+			{ "description": "Brisbane", "isCorrect": false }
+		],
+		"source_explanation": "Camberra foi escolhida como a capital da Austrália em 1908 como um compromisso entre as cidades rivais de Sydney e Melbourne.",
+		"source_abnt": "GOVERNO DA AUSTRÁLIA. *National Capital*. Canberra: Government of Australia, [s.d.]. Disponível em: https://www.australia.gov.au/about-government/national-capital. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG028",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "O gigantesco complexo de templos de Angkor Wat, do século XII, está localizado em qual país?",
+		"options": [
+			{ "description": "Tailândia", "isCorrect": false },
+			{ "description": "Camboja", "isCorrect": true },
+			{ "description": "Vietnã", "isCorrect": false },
+			{ "description": "Índia", "isCorrect": false }
+		],
+		"source_explanation": "Angkor Wat, construído pelo Império Khmer, é um Patrimônio Mundial da UNESCO localizado no Camboja.",
+		"source_abnt": "UNESCO. *World Heritage List*. Angkor. Paris: UNESCO, 1992. Disponível em: https://whc.unesco.org/en/list/668. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG029",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "A Cordilheira dos Andes é a mais longa cadeia de montanhas do mundo, localizada em qual continente?",
+		"options": [
+			{ "description": "América do Norte", "isCorrect": false },
+			{ "description": "Ásia", "isCorrect": false },
+			{ "description": "América do Sul", "isCorrect": true },
+			{ "description": "África", "isCorrect": false }
+		],
+		"source_explanation": "Os Andes se estendem por mais de 7.000 km ao longo da costa oeste da América do Sul, sendo a mais longa cordilheira continental.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Andes Mountains. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/place/Andes-Mountains. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG030",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "Qual é a capital da Alemanha?",
+		"options": [
+			{ "description": "Munique", "isCorrect": false },
+			{ "description": "Hamburgo", "isCorrect": false },
+			{ "description": "Frankfurt", "isCorrect": false },
+			{ "description": "Berlim", "isCorrect": true }
+		],
+		"source_explanation": "Berlim é a capital e a maior cidade da República Federal da Alemanha.",
+		"source_abnt": "GOVERNO FEDERAL DA ALEMANHA. *Berlin*. Berlim: Bundesregierung, [s.d.]. Disponível em: https://www.bundesregierung.de/breg-en/federal-government/berlin. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG031",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "O Portão de Brandemburgo, um símbolo da reunificação alemã, está em qual cidade?",
+		"options": [
+			{ "description": "Berlim", "isCorrect": true },
+			{ "description": "Colônia", "isCorrect": false },
+			{ "description": "Dresden", "isCorrect": false },
+			{ "description": "Munique", "isCorrect": false }
+		],
+		"source_explanation": "O Portão de Brandemburgo é o símbolo de Berlim e da reunificação alemã, tendo ficado isolado durante a divisão da cidade pelo Muro de Berlim.",
+		"source_abnt": "BERLIM. *Brandenburg Gate*. Berlim: Berlin.de, [s.d.]. Disponível em: https://www.berlin.de/en/attractions-and-sights/3560266-3104052-brandenburg-gate.en.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG032",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "A Basílica da Sagrada Família, obra-prima inacabada de Antoni Gaudí, está em qual cidade espanhola?",
+		"options": [
+			{ "description": "Madri", "isCorrect": false },
+			{ "description": "Sevilha", "isCorrect": false },
+			{ "description": "Barcelona", "isCorrect": true },
+			{ "description": "Valência", "isCorrect": false }
+		],
+		"source_explanation": "A Basílica da Sagrada Família, a obra-prima de Gaudí, está localizada em Barcelona, Catalunha.",
+		"source_abnt": "BASÍLICA DE LA SAGRADA FAMÍLIA. *História*. Barcelona: Sagrada Família, [s.d.]. Disponível em: https://sagradafamilia.org/en/history. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG033",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "Veneza, na Itália, é mundialmente famosa por sua rede de...",
+		"options": [
+			{ "description": "Túneis subterrâneos", "isCorrect": false },
+			{ "description": "Arranha-céus", "isCorrect": false },
+			{ "description": "Canais e gôndolas", "isCorrect": true },
+			{ "description": "Muralhas medievais", "isCorrect": false }
+		],
+		"source_explanation": "A cidade de Veneza é construída sobre uma lagoa no Mar Adriático e é mundialmente famosa por sua rede de canais navegáveis.",
+		"source_abnt": "UNESCO. *World Heritage List*. Venice and its Lagoon. Paris: UNESCO, 1987. Disponível em: https://whc.unesco.org/en/list/394. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG034",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "A Hagia Sophia (Santa Sofia) e a Mesquita Azul são pontos turísticos icônicos de qual cidade transcontinental?",
+		"options": [
+			{ "description": "Atenas", "isCorrect": false },
+			{ "description": "Cairo", "isCorrect": false },
+			{ "description": "Istambul", "isCorrect": true },
+			{ "description": "Moscou", "isCorrect": false }
+		],
+		"source_explanation": "A Hagia Sophia e a Mesquita Azul estão localizadas na área histórica de Istambul, Turquia.",
+		"source_abnt": "UNESCO. *World Heritage List*. Historic Areas of Istanbul. Paris: UNESCO, 1985. Disponível em: https://whc.unesco.org/en/list/356. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG035",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "Qual destes países NÃO é considerado parte da Escandinávia (definição geográfica/cultural estrita)?",
+		"options": [
+			{ "description": "Noruega", "isCorrect": false },
+			{ "description": "Suécia", "isCorrect": false },
+			{ "description": "Dinamarca", "isCorrect": false },
+			{ "description": "Finlândia", "isCorrect": true }
+		],
+		"source_explanation": "A definição geográfica estrita de Escandinávia refere-se à península compartilhada por Noruega e Suécia, e à Dinamarca. A Finlândia faz parte dos \"Países Nórdicos\", mas não da Escandinávia.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Scandinavia. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/place/Scandinavia. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG036",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "O Mar Morto, famoso por seu altíssimo nível de salinidade, faz fronteira com Israel e qual outro país?",
+		"options": [
+			{ "description": "Egito", "isCorrect": false },
+			{ "description": "Jordânia", "isCorrect": true },
+			{ "description": "Líbano", "isCorrect": false },
+			{ "description": "Síria", "isCorrect": false }
+		],
+		"source_explanation": "O Mar Morto está situado no Vale do Rift do Jordão, fazendo fronteira com Israel, a Cisjordânia e a Jordânia.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Dead Sea. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/place/Dead-Sea. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG037",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "Qual é a capital da Argentina?",
+		"options": [
+			{ "description": "Santiago", "isCorrect": false },
+			{ "description": "Bogotá", "isCorrect": false },
+			{ "description": "Buenos Aires", "isCorrect": true },
+			{ "description": "Lima", "isCorrect": false }
+		],
+		"source_explanation": "Buenos Aires é a capital federal da Argentina, conforme estabelecido no Artigo 3 da Constituição.",
+		"source_abnt": "ARGENTINA. *Constituição da Nação Argentina*. 22 ago. 1994. (Artigo 3)."
+	},
+	{
+		"id": "VIAG038",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "Qual estreito crucial separa a Europa (Espanha) da África (Marrocos)?",
+		"options": [
+			{ "description": "Estreito de Bósforo", "isCorrect": false },
+			{ "description": "Canal de Suez", "isCorrect": false },
+			{ "description": "Estreito de Gibraltar", "isCorrect": true },
+			{ "description": "Canal da Mancha", "isCorrect": false }
+		],
+		"source_explanation": "O Estreito de Gibraltar é o ponto estreito que conecta o Oceano Atlântico ao Mar Mediterrâneo e separa a Espanha (Europa) de Marrocos (África).",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Strait of Gibraltar. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/place/Strait-of-Gibraltar. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG039",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "O Monte Fuji, um vulcão ativo e símbolo nacional, está localizado em qual país?",
+		"options": [
+			{ "description": "Japão", "isCorrect": true },
+			{ "description": "Filipinas", "isCorrect": false },
+			{ "description": "Indonésia", "isCorrect": false },
+			{ "description": "China", "isCorrect": false }
+		],
+		"source_explanation": "O Monte Fuji (Fujisan) é a montanha mais alta do Japão e um de seus \"Três Montes Sagrados\", listado como Patrimônio da UNESCO.",
+		"source_abnt": "UNESCO. *World Heritage List*. Fujisan, sacred place and source of artistic inspiration. Paris: UNESCO, 2013. Disponível em: https://whc.unesco.org/en/list/1418. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG040",
+		"category": "Viagens e Geografia",
+		"level": "medium",
+		"question": "Qual é o nome do famoso palácio e fortaleza em Granada, Espanha, um expoente da arquitetura moura?",
+		"options": [
+			{ "description": "Alhambra", "isCorrect": true },
+			{ "description": "Alcázar de Sevilha", "isCorrect": false },
+			{ "description": "Mesquita-Catedral de Córdoba", "isCorrect": false },
+			{ "description": "Palácio Real de Madri", "isCorrect": false }
+		],
+		"source_explanation": "O complexo de Alhambra, em Granada, é o exemplo mais famoso da arquitetura islâmica (moura) na Espanha.",
+		"source_abnt": "UNESCO. *World Heritage List*. Alhambra, Generalife and Albayzín, Granada. Paris: UNESCO, 1984. Disponível em: https://whc.unesco.org/en/list/314. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG041",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "O que é um \"fiorde\" (fjord)?",
+		"options": [
+			{ "description": "Um vulcão que entra em erupção sob o gelo.", "isCorrect": false },
+			{ "description": "Um vale profundo em forma de U, escavado por um glaciar, que foi inundado pela água do mar.", "isCorrect": true },
+			{ "description": "Um deserto de sal formado por um lago evaporado.", "isCorrect": false },
+			{ "description": "Uma fonte de água quente geotermal (um gêiser).", "isCorrect": false }
+		],
+		"source_explanation": "A definição geológica de um fiorde é um vale glacial (em forma de U) que foi preenchido pela entrada da água do mar após o recuo da geleira.",
+		"source_abnt": "NATIONAL GEOGRAPHIC. *Fjord*. Washington, D.C.: National Geographic, [s.d.]. Disponível em: https://education.nationalgeographic.org/resource/fjord/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG042",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "Fiordes espetaculares são a característica geográfica mais famosa de qual país europeu?",
+		"options": [
+			{ "description": "Grécia", "isCorrect": false },
+			{ "description": "Itália", "isCorrect": false },
+			{ "description": "Noruega", "isCorrect": true },
+			{ "description": "Holanda", "isCorrect": false }
+		],
+		"source_explanation": "A UNESCO lista os fiordes da Noruega Ocidental (como Geirangerfjord e Nærøyfjord) como Patrimônio Mundial, notáveis por sua beleza natural.",
+		"source_abnt": "UNESCO. *World Heritage List*. West Norwegian Fjords – Geirangerfjord and Nærøyfjord. Paris: UNESCO, 2005. Disponível em: https://whc.unesco.org/en/list/1195. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG043",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "A Ferrovia Transiberiana, a linha de trem contínua mais longa do mundo, conecta Moscou a qual cidade portuária do extremo leste da Rússia?",
+		"options": [
+			{ "description": "São Petersburgo", "isCorrect": false },
+			{ "description": "Vladivostok", "isCorrect": true },
+			{ "description": "Irkutsk", "isCorrect": false },
+			{ "description": "Pequim", "isCorrect": false }
+		],
+		"source_explanation": "A rota clássica da Ferrovia Transiberiana (mais de 9.000 km) termina em Vladivostok, o maior porto russo no Oceano Pacífico.",
+		"source_abnt": "RUSSIAN RAILWAYS (RZD). *Trans-Siberian Railway*. Moscou: RZD, [s.d.]. Disponível em: https://www.rzd.ru/en/trans-siberian-railway. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG044",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "A antiga cidade de Petra, famosa por suas fachadas esculpidas na rocha (como o \"Tesouro\"), está localizada em qual país moderno?",
+		"options": [
+			{ "description": "Egito", "isCorrect": false },
+			{ "description": "Grécia", "isCorrect": false },
+			{ "description": "Turquia", "isCorrect": false },
+			{ "description": "Jordânia", "isCorrect": true }
+		],
+		"source_explanation": "Petra, a capital dos Nabateus, é um Patrimônio Mundial da UNESCO localizado no sul da Jordânia.",
+		"source_abnt": "UNESCO. *World Heritage List*. Petra. Paris: UNESCO, 1985. Disponível em: https://whc.unesco.org/en/list/326. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG045",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "Qual é a capital da Nova Zelândia?",
+		"options": [
+			{ "description": "Auckland", "isCorrect": false },
+			{ "description": "Wellington", "isCorrect": true },
+			{ "description": "Christchurch", "isCorrect": false },
+			{ "description": "Sydney", "isCorrect": false }
+		],
+		"source_explanation": "Wellington é a capital nacional da Nova Zelândia, embora Auckland seja a cidade mais populosa.",
+		"source_abnt": "GOVERNO DA NOVA ZELÂNDIA. *About New Zealand: Government*. Wellington: New Zealand Government, [s.d.]. Disponível em: https://www.govt.nz/browse/about-new-zealand/government-in-new-zealand/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG046",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "O que é um \"exclave\"? (Ex: Alasca em relação aos EUA)",
+		"options": [
+			{ "description": "Um território totalmente cercado por outro país (enclave).", "isCorrect": false },
+			{ "description": "Um território que pertence a um país, mas está fisicamente separado dele por outro(s) país(es).", "isCorrect": true },
+			{ "description": "Um país sem acesso ao mar.", "isCorrect": false },
+			{ "description": "Uma ilha artificial.", "isCorrect": false }
+		],
+		"source_explanation": "Definição do Dicionário Oxford de Geografia, que distingue um \"exclave\" (separado do corpo principal) de um \"enclave\" (cercado por outro).",
+		"source_abnt": "OXFORD REFERENCE. *A Dictionary of Geography*: Exclave. 6. ed. Oxford: Oxford University Press, 2016."
+	},
+	{
+		"id": "VIAG047",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "O Oblast de Kaliningrado é um exclave de qual país, situado entre a Polônia e a Lituânia?",
+		"options": [
+			{ "description": "Alemanha", "isCorrect": false },
+			{ "description": "Bielorrússia", "isCorrect": false },
+			{ "description": "Rússia", "isCorrect": true },
+			{ "description": "Ucrânia", "isCorrect": false }
+		],
+		"source_explanation": "Kaliningrado é um exclave (território não contíguo) da Federação Russa, localizado no Mar Báltico.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Kaliningrad (region). *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/place/Kaliningrad-oblast-Russia. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG048",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "O Monte Kilimanjaro, o ponto mais alto da África, está localizado em qual país?",
+		"options": [
+			{ "description": "Quênia", "isCorrect": false },
+			{ "description": "Tanzânia", "isCorrect": true },
+			{ "description": "África do Sul", "isCorrect": false },
+			{ "description": "Etiópia", "isCorrect": false }
+		],
+		"source_explanation": "O Parque Nacional do Kilimanjaro, que contém o pico mais alto da África, é um Patrimônio Mundial da UNESCO localizado na Tanzânia.",
+		"source_abnt": "UNESCO. *World Heritage List*. Kilimanjaro National Park. Paris: UNESCO, 1987. Disponível em: https://whc.unesco.org/en/list/403. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG049",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "O Rio Danúbio, o segundo mais longo da Europa, é famoso por passar por quatro capitais. Qual destas NÃO é uma delas?",
+		"options": [
+			{ "description": "Viena (Áustria)", "isCorrect": false },
+			{ "description": "Budapeste (Hungria)", "isCorrect": false },
+			{ "description": "Praga (República Tcheca)", "isCorrect": true },
+			{ "description": "Belgrado (Sérvia)", "isCorrect": false }
+		],
+		"source_explanation": "O Danúbio passa por Viena, Bratislava (Eslováquia), Budapeste e Belgrado. Praga está localizada no rio Vltava (Moldava).",
+		"source_abnt": "ICPDR (INTERNATIONAL COMMISSION FOR THE PROTECTION OF THE DANUBE RIVER). *Facts & Figures: The Danube River Basin*. Viena: ICPDR, [s.d.]. Disponível em: https://www.icpdr.org/main/danube-river-basin. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG050",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "O \"Triângulo Dourado\" (Golden Triangle) é uma famosa rota turística na Índia que conecta Delhi, Agra e qual outra cidade?",
+		"options": [
+			{ "description": "Mumbai", "isCorrect": false },
+			{ "description": "Jaipur", "isCorrect": true },
+			{ "description": "Varanasi", "isCorrect": false },
+			{ "description": "Calcutá", "isCorrect": false }
+		],
+		"source_explanation": "A rota turística clássica \"Triângulo Dourado\" conecta a capital (Delhi), o Taj Mahal (Agra) e a capital do Rajastão (Jaipur).",
+		"source_abnt": "MINISTÉRIO DO TURISMO, GOVERNO DA ÍNDIA. *Golden Triangle*. Nova Delhi: Ministry of Tourism, [s.d.]. Disponível em: https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/circuits/golden-triangle.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG051",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "Timbuktu (Tombuctu), um lendário centro de comércio e saber islâmico na Idade Média, está localizada em qual país moderno da África Ocidental?",
+		"options": [
+			{ "description": "Nigéria", "isCorrect": false },
+			{ "description": "Marrocos", "isCorrect": false },
+			{ "description": "Mali", "isCorrect": true },
+			{ "description": "Gana", "isCorrect": false }
+		],
+		"source_explanation": "Timbuktu, um centro histórico do comércio transaariano, é um Patrimônio Mundial da UNESCO localizado na República do Mali.",
+		"source_abnt": "UNESCO. *World Heritage List*. Timbuktu. Paris: UNESCO, 1988. Disponível em: https://whc.unesco.org/en/list/119. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG052",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "O Mar de Aral, na Ásia Central, é conhecido mundialmente por qual desastre ambiental?",
+		"options": [
+			{ "description": "Um derramamento de óleo catastrófico.", "isCorrect": false },
+			{ "description": "O encolhimento drástico (quase secou) devido ao desvio de rios para irrigação.", "isCorrect": true },
+			{ "description": "Níveis extremos de poluição por plástico.", "isCorrect": false },
+			{ "description": "Ter se tornado o mar mais radioativo do mundo.", "isCorrect": false }
+		],
+		"source_explanation": "Imagens de satélite da NASA documentam o desastre ecológico do Mar de Aral, que encolheu drasticamente após os rios que o alimentavam serem desviados pela União Soviética para projetos de irrigação.",
+		"source_abnt": "NASA EARTH OBSERVATORY. *The Shrinking Aral Sea*. Washington, D.C.: NASA, 2014. Disponível em: https://earthobservatory.nasa.gov/images/84437/the-shrinking-aral-sea. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG053",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "A vasta região natural da Patagônia, famosa por suas geleiras e montanhas, é compartilhada por quais dois países?",
+		"options": [
+			{ "description": "Peru e Bolívia", "isCorrect": false },
+			{ "description": "Argentina e Chile", "isCorrect": true },
+			{ "description": "Brasil e Argentina", "isCorrect": false },
+			{ "description": "África do Sul e Namíbia", "isCorrect": false }
+		],
+		"source_explanation": "A Patagônia é uma região geográfica no extremo sul da América do Sul, abrangendo territórios na Argentina e no Chile, dividida pela Cordilheira dos Andes.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Patagonia. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/place/Patagonia-region-Argentina-Chile. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG054",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "Qual é a única nação-continente do mundo?",
+		"options": [
+			{ "description": "África", "isCorrect": false },
+			{ "description": "Índia", "isCorrect": false },
+			{ "description": "Austrália", "isCorrect": true },
+			{ "description": "Antártida", "isCorrect": false }
+		],
+		"source_explanation": "A Austrália é o único país que é também um continente (e a maior ilha). A Antártida é um continente, mas não uma nação.",
+		"source_abnt": "GOVERNO DA AUSTRÁLIA. *Our Country*. Canberra: Government of Australia, [s.d.]. Disponível em: https://www.australia.gov.au/about-australia/our-country. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG055",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "A \"Rota da Seda\" era uma antiga rede de rotas comerciais que ligava o mundo mediterrâneo (Europa) principalmente a qual país asiático?",
+		"options": [
+			{ "description": "Índia", "isCorrect": false },
+			{ "description": "Japão", "isCorrect": false },
+			{ "description": "China", "isCorrect": true },
+			{ "description": "Rússia", "isCorrect": false }
+		],
+		"source_explanation": "O programa da UNESCO sobre as Rotas da Seda as define como uma rede de rotas que conectava a China (dinastia Han) ao Ocidente, facilitando o comércio de seda e outras mercadorias.",
+		"source_abnt": "UNESCO. *Silk Roads Programme*. Paris: UNESCO, [s.d.]. Disponível em: https://en.unesco.org/silkroad. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG056",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "Istambul, na Turquia, é a única metrópole do mundo localizada em quantos continentes?",
+		"options": [
+			{ "description": "Um", "isCorrect": false },
+			{ "description": "Dois (Europa e Ásia)", "isCorrect": true },
+			{ "description": "Três", "isCorrect": false },
+			{ "description": "Não está em nenhum continente (é uma ilha).", "isCorrect": false }
+		],
+		"source_explanation": "A cidade de Istambul é dividida pelo Estreito de Bósforo, que separa geograficamente os continentes da Europa e da Ásia.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Istanbul. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/place/Istanbul. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG057",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "Lhasa, a capital histórica do Tibete, abriga qual famoso palácio, antiga residência do Dalai Lama?",
+		"options": [
+			{ "description": "O Templo do Céu", "isCorrect": false },
+			{ "description": "O Palácio de Potala", "isCorrect": true },
+			{ "description": "A Cidade Proibida", "isCorrect": false },
+			{ "description": "O Taj Mahal", "isCorrect": false }
+		],
+		"source_explanation": "O Palácio de Potala, em Lhasa (Tibete), é um Patrimônio Mundial da UNESCO, conhecido por ser a residência de inverno do Dalai Lama desde o século XVII.",
+		"source_abnt": "UNESCO. *World Heritage List*. Historic Ensemble of the Potala Palace, Lhasa. Paris: UNESCO, 1994. Disponível em: https://whc.unesco.org/en/list/707. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG058",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "Qual é o nome do maior recife de coral do mundo, localizado na costa da Austrália?",
+		"options": [
+			{ "description": "Recife Mesoamericano", "isCorrect": false },
+			{ "description": "Grande Barreira de Coral", "isCorrect": true },
+			{ "description": "Atol de Maldivas", "isCorrect": false },
+			{ "description": "Barreira de Coral de Belize", "isCorrect": false }
+		],
+		"source_explanation": "A Grande Barreira de Coral, na costa de Queensland, Austrália, é o maior sistema de recifes de coral do mundo, listado como Patrimônio Mundial da UNESCO.",
+		"source_abnt": "UNESCO. *World Heritage List*. Great Barrier Reef. Paris: UNESCO, 1981. Disponível em: https://whc.unesco.org/en/list/154. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG059",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "O que é \"Bairro Gótico\"?",
+		"options": [
+			{ "description": "Uma área em Paris famosa por seus cabarés.", "isCorrect": false },
+			{ "description": "O centro histórico de Barcelona, caracterizado por suas ruas medievais.", "isCorrect": true },
+			{ "description": "Um bairro em Londres conhecido pela música punk.", "isCorrect": false },
+			{ "description": "A área ao redor do Vaticano em Roma.", "isCorrect": false }
+		],
+		"source_explanation": "O \"Barri Gòtic\" (Bairro Gótico) é o centro da cidade velha de Barcelona, notável por sua arquitetura medieval.",
+		"source_abnt": "TURISME DE BARCELONA. *The Gothic Quarter*. Barcelona: Turisme de Barcelona, [s.d.]. Disponível em: https://www.barcelonaturisme.com/wv3/en/page/396/gothic-quarter.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "VIAG060",
+		"category": "Viagens e Geografia",
+		"level": "hard",
+		"question": "Qual é a capital da Finlândia?",
+		"options": [
+			{ "description": "Oslo", "isCorrect": false },
+			{ "description": "Estocolmo", "isCorrect": false },
+			{ "description": "Copenhague", "isCorrect": false },
+			{ "description": "Helsinque", "isCorrect": true }
+		],
+		"source_explanation": "Helsinque (Helsinki) é a capital e a maior cidade da Finlândia.",
+		"source_abnt": "GOVERNO DA FINLÂNDIA. *Finland in brief*. Helsinque: Government of Finland, [s.d.]. Disponível em: https://valtioneuvosto.fi/en/finland-in-brief. Acesso em: 6 nov. 2025."
+	}
+]

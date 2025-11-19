@@ -1,0 +1,842 @@
+[
+	{
+		"id": "ARTA001",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "Quem pintou a \"Mona Lisa\" (La Gioconda)?",
+		"options": [
+			{ "description": "Michelangelo", "isCorrect": false },
+			{ "description": "Leonardo da Vinci", "isCorrect": true },
+			{ "description": "Rafael Sanzio", "isCorrect": false },
+			{ "description": "Donatello", "isCorrect": false }
+		],
+		"source_explanation": "A \"Mona Lisa\" (c. 1503-1506), um retrato de Lisa Gherardini, é a obra-prima mais famosa de Leonardo da Vinci e está exposta no Museu do Louvre.",
+		"source_abnt": "MUSEU DO LOUVRE. *Mona Lisa – Portrait of Lisa Gherardini, wife of Francesco del Giocondo*. Paris: Musée du Louvre, [s.d.]. Disponível em: https://www.louvre.fr/en/oeuvre-notices/mona-lisa-portrait-lisa-gherardini-wife-francesco-del-giocondo. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA002",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "Qual artista é famoso por pintar o teto da Capela Sistina no Vaticano?",
+		"options": [
+			{ "description": "Leonardo da Vinci", "isCorrect": false },
+			{ "description": "Caravaggio", "isCorrect": false },
+			{ "description": "Michelangelo", "isCorrect": true },
+			{ "description": "Ticiano", "isCorrect": false }
+		],
+		"source_explanation": "Os afrescos do teto da Capela Sistina, incluindo \"A Criação de Adão\", foram pintados por Michelangelo Buonarroti entre 1508 e 1512.",
+		"source_abnt": "MUSEUS DO VATICANO. *Sistine Chapel - The Ceiling*. Vaticano: Musei Vaticani, [s.d.]. Disponível em: https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/volta.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA003",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "A icônica escultura de mármore \"David\", que retrata o herói bíblico, foi criada por qual artista da Renascença?",
+		"options": [
+			{ "description": "Michelangelo", "isCorrect": true },
+			{ "description": "Donatello", "isCorrect": false },
+			{ "description": "Bernini", "isCorrect": false },
+			{ "description": "Rodin", "isCorrect": false }
+		],
+		"source_explanation": "A escultura \"David\" (1501-1504), um símbolo da República Florentina, é uma das obras-primas de Michelangelo e está na Galleria dell'Accademia em Florença.",
+		"source_abnt": "GALLERIA DELL'ACCADEMIA DI FIRENZE. *David*. Florença: Galleria dell'Accademia, [s.d.]. Disponível em: https://www.galleriaaccademiafirenze.it/opere/david/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA004",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "Qual artista holandês pós-impressionista é famoso por \"A Noite Estrelada\" e por ter cortado a própria orelha?",
+		"options": [
+			{ "description": "Rembrandt", "isCorrect": false },
+			{ "description": "Vermeer", "isCorrect": false },
+			{ "description": "Vincent van Gogh", "isCorrect": true },
+			{ "description": "Paul Cézanne", "isCorrect": false }
+		],
+		"source_explanation": "A pintura \"A Noite Estrelada\" (1889), uma das obras mais famosas de Van Gogh, está no Museu de Arte Moderna (MoMA). Sua biografia inclui o incidente da orelha.",
+		"source_abnt": "MUSEUM OF MODERN ART (MOMA). *Vincent van Gogh: The Starry Night*. Nova York: MoMA, [s.d.]. Disponível em: https://www.moma.org/collection/works/79802. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA005",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "Pablo Picasso é considerado o cofundador de qual movimento artístico que decompõe objetos em formas geométricas?",
+		"options": [
+			{ "description": "Surrealismo", "isCorrect": false },
+			{ "description": "Impressionismo", "isCorrect": false },
+			{ "description": "Cubismo", "isCorrect": true },
+			{ "description": "Abstracionismo", "isCorrect": false }
+		],
+		"source_explanation": "A pintura \"Les Demoiselles d'Avignon\" (1907), de Pablo Picasso, é considerada a obra seminal do Cubismo, movimento que ele fundou com Georges Braque.",
+		"source_abnt": "MUSEUM OF MODERN ART (MOMA). *Pablo Picasso: Les Demoiselles d'Avignon*. Nova York: MoMA, [s.d.]. Disponível em: https://www.moma.org/collection/works/79766. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA006",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "O movimento artístico que foca na captura da \"impressão\" momentânea da luz e da cor, exemplificado por Claude Monet, é chamado de:",
+		"options": [
+			{ "description": "Realismo", "isCorrect": false },
+			{ "description": "Barroco", "isCorrect": false },
+			{ "description": "Impressionismo", "isCorrect": true },
+			{ "description": "Romantismo", "isCorrect": false }
+		],
+		"source_explanation": "O movimento \"Impressionismo\" foi nomeado após a pintura de Claude Monet \"Impressão, nascer do sol\" (1872).",
+		"source_abnt": "MUSEU D'ORSAY. *Claude Monet: Impression, soleil levant*. Paris: Musée d'Orsay, [s.d.]. Disponível em: https://www.musee-orsay.fr/fr/oeuvres/impression-soleil-levant-844. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA007",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "Qual é o nome da famosa torre inclinada localizada em Pisa, na Itália?",
+		"options": [
+			{ "description": "O Coliseu", "isCorrect": false },
+			{ "description": "A Torre Eiffel", "isCorrect": false },
+			{ "description": "A Torre de Pisa", "isCorrect": true },
+			{ "description": "O Panteão", "isCorrect": false }
+		],
+		"source_explanation": "A Torre de Pisa é, na verdade, o campanário (torre do sino) da Catedral de Pisa. A UNESCO a lista como parte do Patrimônio Mundial da Piazza del Duomo.",
+		"source_abnt": "UNESCO. *World Heritage List*. Piazza del Duomo, Pisa. Paris: UNESCO, 1987. Disponível em: https://whc.unesco.org/en/list/395. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA008",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "Qual artista espanhol é o mestre do Surrealismo, famoso por pintar relógios derretendo?",
+		"options": [
+			{ "description": "Francisco de Goya", "isCorrect": false },
+			{ "description": "Diego Velázquez", "isCorrect": false },
+			{ "description": "Joan Miró", "isCorrect": false },
+			{ "description": "Salvador Dalí", "isCorrect": true }
+		],
+		"source_explanation": "A pintura \"A Persistência da Memória\" (1931), com seus famosos relógios derretidos, é a obra mais icônica de Salvador Dalí e do movimento Surrealista.",
+		"source_abnt": "MUSEUM OF MODERN ART (MOMA). *Salvador Dalí: The Persistence of Memory*. Nova York: MoMA, [s.d.]. Disponível em: https://www.moma.org/collection/works/79018. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA009",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "O Coliseu de Roma, uma das Sete Maravilhas do Mundo Moderno, era usado principalmente para qual propósito?",
+		"options": [
+			{ "description": "Competições de gladiadores e espetáculos públicos.", "isCorrect": true },
+			{ "description": "Reuniões do Senado Romano.", "isCorrect": false },
+			{ "description": "Moradia do Imperador.", "isCorrect": false },
+			{ "description": "Culto religioso ao deus Júpiter.", "isCorrect": false }
+		],
+		"source_explanation": "O Anfiteatro Flaviano (Coliseu) foi construído no século I d.C. para \"munera\" (lutas de gladiadores) e \"venationes\" (caçadas de animais).",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Colosseum. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/Colosseum. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA010",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "A pintura \"O Grito\" (The Scream), que mostra uma figura angustiada contra um céu vermelho, foi pintada por qual artista norueguês?",
+		"options": [
+			{ "description": "Edvard Munch", "isCorrect": true },
+			{ "description": "Gustav Klimt", "isCorrect": false },
+			{ "description": "Wassily Kandinsky", "isCorrect": false },
+			{ "description": "René Magritte", "isCorrect": false }
+		],
+		"source_explanation": "\"O Grito\" (1893) é a obra-prima do pintor expressionista norueguês Edvard Munch.",
+		"source_abnt": "GALERIA NACIONAL DA NORUEGA. *Edvard Munch: The Scream*. Oslo: Nasjonalmuseet, [s.d.]. Disponível em: https://www.nasjonalmuseet.no/en/collection/object/NG.M.00807. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA011",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "O período da Renascença (Renascimento) floresceu primeiramente em qual cidade italiana?",
+		"options": [
+			{ "description": "Roma", "isCorrect": false },
+			{ "description": "Veneza", "isCorrect": false },
+			{ "description": "Florença", "isCorrect": true },
+			{ "description": "Milão", "isCorrect": false }
+		],
+		"source_explanation": "A obra historiográfica clássica de Jacob Burckhardt (1860) definiu o Renascimento como um movimento cultural italiano centrado em Florença.",
+		"source_abnt": "BURCKHARDT, Jacob. *A Civilização do Renascimento na Itália*. Tradução de Sérgio Tellaroli. São Paulo: Companhia das Letras, 2009."
+	},
+	{
+		"id": "ARTA012",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "Qual é o nome do famoso museu em Paris que abriga a \"Mona Lisa\" e a \"Vênus de Milo\"?",
+		"options": [
+			{ "description": "Museu do Prado", "isCorrect": false },
+			{ "description": "Galeria Uffizi", "isCorrect": false },
+			{ "description": "Museu Britânico", "isCorrect": false },
+			{ "description": "Museu do Louvre", "isCorrect": true }
+		],
+		"source_explanation": "O Museu do Louvre, em Paris, é o maior museu de arte do mundo e abriga em sua coleção permanente tanto a \"Mona Lisa\" quanto a \"Vênus de Milo\".",
+		"source_abnt": "MUSEU DO LOUVRE. *Coleções*. Paris: Musée du Louvre, [s.d.]. Disponível em: https://www.louvre.fr/en/collections. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA013",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "Qual artista francês é famoso por pintar dançarinas de balé e cenas da vida parisiense?",
+		"options": [
+			{ "description": "Edgar Degas", "isCorrect": true },
+			{ "description": "Paul Gauguin", "isCorrect": false },
+			{ "description": "Henri Matisse", "isCorrect": false },
+			{ "description": "Georges Seurat", "isCorrect": false }
+		],
+		"source_explanation": "O Museu d'Orsay, em Paris, abriga uma vasta coleção de obras do impressionista Edgar Degas, notavelmente suas pinturas e esculturas de dançarinas.",
+		"source_abnt": "MUSEU D'ORSAY. *Edgar Degas*. Paris: Musée d'Orsay, [s.d.]. Disponível em: https://www.musee-orsay.fr/fr/artistes/edgar-degas-566. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA014",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "Qual estrutura icônica em Paris, construída para a Exposição Universal de 1889, foi inicialmente criticada por artistas?",
+		"options": [
+			{ "description": "Arco do Triunfo", "isCorrect": false },
+			{ "description": "Catedral de Notre-Dame", "isCorrect": false },
+			{ "description": "Torre Eiffel", "isCorrect": true },
+			{ "description": "Sacre-Coeur", "isCorrect": false }
+		],
+		"source_explanation": "O site oficial da Torre Eiffel documenta sua história, incluindo o \"Protesto dos Artistas\" de 1887 contra a \"torre inútil e monstruosa\" de Gustave Eiffel.",
+		"source_abnt": "TOUR EIFFEL. *História: O Protesto dos Artistas*. Paris: Société d'Exploitation de la Tour Eiffel, [s.d.]. Disponível em: https://www.toureiffel.paris/en/the-monument/history/artists-protest. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA015",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "Qual famoso templo grego antigo, situado na Acrópole de Atenas, foi dedicado à deusa Atena?",
+		"options": [
+			{ "description": "O Panteão", "isCorrect": false },
+			{ "description": "O Partenon", "isCorrect": true },
+			{ "description": "O Coliseu", "isCorrect": false },
+			{ "description": "Stonehenge", "isCorrect": false }
+		],
+		"source_explanation": "O Partenon é o templo central da Acrópole de Atenas, construído no século V a.C. e dedicado a Atena Partenos, a deusa padroeira da cidade.",
+		"source_abnt": "UNESCO. *World Heritage List*. Acropolis, Athens. Paris: UNESCO, 1987. Disponível em: https://whc.unesco.org/en/list/404. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA016",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "O escultor francês Auguste Rodin é mais conhecido por qual escultura de um homem em profunda meditação?",
+		"options": [
+			{ "description": "O Pensador (Le Penseur)", "isCorrect": true },
+			{ "description": "David", "isCorrect": false },
+			{ "description": "Discóbolo", "isCorrect": false },
+			{ "description": "O Beijo (Le Baiser)", "isCorrect": false }
+		],
+		"source_explanation": "\"O Pensador\" (1880) é a obra mais famosa de Auguste Rodin. Originalmente, representava Dante meditando sobre sua obra.",
+		"source_abnt": "MUSEU RODIN. *O Pensador*. Paris: Musée Rodin, [s.d.]. Disponível em: https://www.musee-rodin.fr/en/collections/sculptures/thinker. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA017",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "O estilo arquitetônico das grandes catedrais europeias (como Notre-Dame), com vitrais, arcos pontiagudos e arcobotantes, é chamado de:",
+		"options": [
+			{ "description": "Rococó", "isCorrect": false },
+			{ "description": "Neoclássico", "isCorrect": false },
+			{ "description": "Gótico", "isCorrect": true },
+			{ "description": "Barroco", "isCorrect": false }
+		],
+		"source_explanation": "A arquitetura gótica (séc. XII-XVI) é definida por características como o arco pontiagudo, a abóbada em cruzaria e o arcobotante.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Gothic architecture. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/art/Gothic-architecture. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA018",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "Qual pintora mexicana é famosa por seus autorretratos intensos e exploração da identidade e dor?",
+		"options": [
+			{ "description": "Georgia O'Keeffe", "isCorrect": false },
+			{ "description": "Frida Kahlo", "isCorrect": true },
+			{ "description": "Mary Cassatt", "isCorrect": false },
+			{ "description": "Tamara de Lempicka", "isCorrect": false }
+		],
+		"source_explanation": "A biografia e a coleção da artista no Museu Frida Kahlo (Casa Azul) destacam seus numerosos autorretratos (ex: \"A Coluna Partida\") que exploram sua dor física e emocional.",
+		"source_abnt": "MUSEU FRIDA KAHLO. *Frida Kahlo*. Coyoacán, México: Museo Frida Kahlo, [s.d.]. Disponível em: https://www.museofridakahlo.org.mx/en/the-blue-house/frida-kahlo/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA019",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "A \"Pop Art\" (Arte Pop) usava imagens da cultura popular. Qual artista americano ficou famoso por suas latas de sopa Campbell?",
+		"options": [
+			{ "description": "Roy Lichtenstein", "isCorrect": false },
+			{ "description": "Jasper Johns", "isCorrect": false },
+			{ "description": "Andy Warhol", "isCorrect": true },
+			{ "description": "Jackson Pollock", "isCorrect": false }
+		],
+		"source_explanation": "A obra \"Campbell's Soup Cans\" (1962), de Andy Warhol, é uma das peças definidoras do movimento Pop Art.",
+		"source_abnt": "MUSEUM OF MODERN ART (MOMA). *Andy Warhol: Campbell's Soup Cans*. Nova York: MoMA, [s.d.]. Disponível em: https://www.moma.org/collection/works/79809. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA020",
+		"category": "Arte e Arquitetura",
+		"level": "easy",
+		"question": "Qual pintor espanhol retratou os horrores da guerra em sua monumental pintura \"Guernica\"?",
+		"options": [
+			{ "description": "Salvador Dalí", "isCorrect": false },
+			{ "description": "Pablo Picasso", "isCorrect": true },
+			{ "description": "Francisco de Goya", "isCorrect": false },
+			{ "description": "Joan Miró", "isCorrect": false }
+		],
+		"source_explanation": "A pintura \"Guernica\" (1937) foi criada por Pablo Picasso em resposta ao bombardeio da cidade basca de Guernica durante a Guerra Civil Espanhola.",
+		"source_abnt": "MUSEO REINA SOFÍA. *Pablo Picasso: Guernica*. Madri: Museo Nacional Centro de Arte Reina Sofía, [s.d.]. Disponível em: https://www.museoreinasofia.es/en/collection/artwork/guernica. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA021",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "O que é \"Chiaroscuro\", uma técnica fortemente associada ao pintor barroco Caravaggio?",
+		"options": [
+			{ "description": "O uso de cores vibrantes e contrastantes (Fauvismo).", "isCorrect": false },
+			{ "description": "O forte contraste entre luz e sombra em uma pintura, usado para criar drama.", "isCorrect": true },
+			{ "description": "A técnica de pintar ao ar livre (Impressionismo).", "isCorrect": false },
+			{ "description": "A criação de ilusões de ótica (Op Art).", "isCorrect": false }
+		],
+		"source_explanation": "A Galeria Nacional de Londres analisa o uso de \"Chiaroscuro\" (claro-escuro) por Caravaggio, que ele levou ao extremo no \"Tenebrismo\" (uso dramático de sombras).",
+		"source_abnt": "NATIONAL GALLERY. *Caravaggio*. Londres: The National Gallery, [s.d.]. Disponível em: https://www.nationalgallery.org.uk/artists/michelangelo-merisi-da-caravaggio. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA022",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "Gian Lorenzo Bernini, um mestre do período Barroco, é famoso por qual obra escultural dinâmica em Roma?",
+		"options": [
+			{ "description": "O Êxtase de Santa Teresa", "isCorrect": true },
+			{ "description": "David (a versão de Michelangelo)", "isCorrect": false },
+			{ "description": "A Pietà (no Vaticano)", "isCorrect": false },
+			{ "description": "O Pensador", "isCorrect": false }
+		],
+		"source_explanation": "A escultura \"O Êxtase de Santa Teresa\" (1652), localizada na Capela Cornaro, é considerada a obra-prima de Bernini no auge do Barroco.",
+		"source_abnt": "GALLERIA BORGHESE. *Bernini, Gian Lorenzo*. Roma: Galleria Borghese, [s.d.]. (Análise das obras de Bernini, incluindo a Capela Cornaro)."
+	},
+	{
+		"id": "ARTA023",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "O arquiteto Frank Lloyd Wright é conhecido por seu estilo \"Arquitetura Orgânica\". Qual é a sua obra-prima mais famosa que exemplifica isso?",
+		"options": [
+			{ "description": "O Museu Guggenheim de Bilbao", "isCorrect": false },
+			{ "description": "A Casa da Cascata (Fallingwater)", "isCorrect": true },
+			{ "description": "A Villa Savoye", "isCorrect": false },
+			{ "description": "O Edifício Chrysler", "isCorrect": false }
+		],
+		"source_explanation": "A Casa da Cascata (Fallingwater, 1935) é o principal exemplo da \"arquitetura orgânica\" de Wright, projetada para se integrar harmoniosamente à cachoeira.",
+		"source_abnt": "FRANK LLOYD WRIGHT FOUNDATION. *Fallingwater*. [S.l.]: Frank Lloyd Wright Foundation, [s.d.]. Disponível em: https://fallingwater.org/about/frank-lloyd-wright/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA024",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "A \"Bauhaus\", fundada por Walter Gropius, foi uma escola alemã que buscava unificar...",
+		"options": [
+			{ "description": "Arte e religião (como na Idade Média).", "isCorrect": false },
+			{ "description": "Arte, artesanato e produção industrial (design funcional).", "isCorrect": true },
+			{ "description": "Pintura e música (Abstracionismo).", "isCorrect": false },
+			{ "description": "Arquitetura e natureza (Arquitetura Orgânica).", "isCorrect": false }
+		],
+		"source_explanation": "O manifesto da Bauhaus de 1919, escrito por Walter Gropius, pedia a união de todas as artes e artesanato para criar o \"edifício do futuro\", abraçando a produção industrial.",
+		"source_abnt": "BAUHAUS-ARCHIV. *Bauhaus Manifesto (1919)*. Berlim: Bauhaus-Archiv, [s.d.]. Disponível em: https://www.bauhaus.de/en/das-bauhaus/21_manifest/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA025",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "A pintura \"A Ronda Noturna\" (The Night Watch), de Rembrandt, é famosa por...",
+		"options": [
+			{ "description": "Ser um retrato perfeitamente simétrico de uma família real.", "isCorrect": false },
+			{ "description": "Seu uso dramático da luz (chiaroscuro) e a composição dinâmica de um retrato de grupo militar, que parece uma cena de ação.", "isCorrect": true },
+			{ "description": "Ser a primeira pintura a óleo abstrata da história.", "isCorrect": false },
+			{ "description": "Ser um autorretrato do artista como um mendigo.", "isCorrect": false }
+		],
+		"source_explanation": "A obra-prima de Rembrandt (1642), exposta no Rijksmuseum, é famosa por sua composição revolucionária (para um retrato de grupo) e seu uso dramático da luz e sombra.",
+		"source_abnt": "RIJKSMUSEUM. *The Night Watch*. Amsterdã: Rijksmuseum, [s.d.]. Disponível em: https://www.rijksmuseum.nl/en/collection/SK-C-5. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA026",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "Qual é a principal diferença entre as colunas gregas Dórica, Jônica e Coríntia?",
+		"options": [
+			{ "description": "O material de que são feitas (mármore, madeira ou bronze).", "isCorrect": false },
+			{ "description": "A altura da coluna (Dórica é baixa, Coríntia é alta).", "isCorrect": false },
+			{ "description": "O design do capitel (topo): Dórica é simples, Jônica tem volutas (caracóis) e Coríntia tem folhas de acanto.", "isCorrect": true },
+			{ "description": "A sua localização no templo (Dórica no exterior, Jônica no interior).", "isCorrect": false }
+		],
+		"source_explanation": "A obra \"De architectura\", do arquiteto romano Vitrúvio, é a fonte clássica que define as três ordens (Dórica, Jônica, Coríntia) com base em seus capitéis.",
+		"source_abnt": "VITRÚVIO (Marcus Vitruvius Pollio). *De architectura* (Sobre a Arquitetura). Tradução de M. Justino Maciel. São Paulo: Hucitec, 1999. (Livro IV)."
+	},
+	{
+		"id": "ARTA027",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "O movimento \"Fauvismo\", liderado por Henri Matisse, ganhou esse nome (que significa \"feras\") dos críticos por seu uso de...",
+		"options": [
+			{ "description": "Cores intensas, não naturalistas e pinceladas selvagens.", "isCorrect": true },
+			{ "description": "Temas violentos de animais selvagens.", "isCorrect": false },
+			{ "description": "Formas geométricas perfeitas.", "isCorrect": false },
+			{ "description": "Tons sombrios (preto e cinza).", "isCorrect": false }
+		],
+		"source_explanation": "O termo \"fauves\" (feras) foi cunhado pelo crítico Louis Vauxcelles no Salão de Outono de 1905, ao ver as pinturas de Matisse e Derain.",
+		"source_abnt": "MUSEUM OF MODERN ART (MOMA). *Fauvism*. Nova York: MoMA, [s.d.]. Disponível em: https://www.moma.org/collection/terms/fauvism. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA028",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "O arquiteto catalão Antoni Gaudí, expoente do Modernismo, é famoso por qual basílica inacabada em Barcelona?",
+		"options": [
+			{ "description": "Parque Güell", "isCorrect": false },
+			{ "description": "Casa Batlló", "isCorrect": false },
+			{ "description": "Templo Expiatório da Sagrada Família", "isCorrect": true },
+			{ "description": "Catedral de Barcelona", "isCorrect": false }
+		],
+		"source_explanation": "A \"Sagrada Família\" é a obra-prima de Antoni Gaudí, em construção desde 1882 e o principal exemplo do Modernismo Catalão.",
+		"source_abnt": "BASÍLICA DE LA SAGRADA FAMÍLIA. *História*. Barcelona: Sagrada Família, [s.d.]. Disponível em: https://sagradafamilia.org/en/history. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA029",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "A pintura \"As Meninas\", de Diego Velázquez, é uma obra-prima complexa por quê?",
+		"options": [
+			{ "description": "Representa uma cena mitológica que ninguém consegue identificar.", "isCorrect": false },
+			{ "description": "Usa um jogo complexo de perspectiva, espelhos e olhares, incluindo o próprio pintor na cena e o reflexo do Rei e da Rainha.", "isCorrect": true },
+			{ "description": "Foi a maior pintura já feita no período Barroco.", "isCorrect": false },
+			{ "description": "Foi pintada inteiramente com a técnica do pontilhismo.", "isCorrect": false }
+		],
+		"source_explanation": "A análise do Museu do Prado sobre \"As Meninas\" (1656) detalha sua composição complexa, que levanta questões sobre realidade e representação, incluindo o pintor e o reflexo real no espelho.",
+		"source_abnt": "MUSEU NACIONAL DO PRADO. *Las Meninas*. Madri: Museo Nacional del Prado, [s.d.]. Disponível em: https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7820-ab55-4036-9e7b-ba53c4323212. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA030",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "O movimento \"Art Nouveau\" (final do século XIX) é mais conhecido por qual característica de design?",
+		"options": [
+			{ "description": "Linhas retas, ângulos de 90 graus e funcionalidade (Bauhaus).", "isCorrect": false },
+			{ "description": "Simetria, ordem e referências clássicas (Neoclássico).", "isCorrect": false },
+			{ "description": "Linhas orgânicas, sinuosas e formas assimétricas inspiradas na natureza (flores, videiras).", "isCorrect": true },
+			{ "description": "Cores sombrias, emoção e drama (Romantismo).", "isCorrect": false }
+		],
+		"source_explanation": "Obras de arquitetos como Victor Horta (ex: Hôtel Tassel) definem o estilo Art Nouveau pelo uso de linhas orgânicas e assimétricas (\"golpe de chicote\").",
+		"source_abnt": "MUSEU HORTA. *Victor Horta & Art Nouveau*. Bruxelas: Musée Horta, [s.d.]. Disponível em: https://www.hortamuseum.be/en/victor-horta-art-nouveau/art-nouveau. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA031",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "Sandro Botticelli, pintor do início da Renascença, é famoso por qual pintura mitológica?",
+		"options": [
+			{ "description": "O Nascimento de Vênus", "isCorrect": true },
+			{ "description": "A Escola de Atenas", "isCorrect": false },
+			{ "description": "A Lição de Anatomia", "isCorrect": false },
+			{ "description": "Mona Lisa", "isCorrect": false }
+		],
+		"source_explanation": "\"O Nascimento de Vênus\" (c. 1486) é uma das obras-primas de Botticelli, encomendada pela família Médici, e está na Galeria Uffizi.",
+		"source_abnt": "GALLERIA DEGLI UFFIZI. *The Birth of Venus*. Florença: Gallerie degli Uffizi, [s.d.]. Disponível em: https://www.uffizi.it/en/artworks/birth-of-venus. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA032",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "O que é um afresco (fresco)?",
+		"options": [
+			{ "description": "Uma pintura a óleo sobre tela de linho.", "isCorrect": false },
+			{ "description": "Uma técnica de pintura mural onde o pigmento é aplicado sobre argamassa de cal ainda úmida.", "isCorrect": true },
+			{ "description": "Um tipo de mosaico feito com pedras coloridas.", "isCorrect": false },
+			{ "description": "Uma escultura em baixo-relevo.", "isCorrect": false }
+		],
+		"source_explanation": "A técnica do \"buon fresco\" (afresco verdadeiro) envolve a aplicação de pigmento misturado com água sobre o \"intonaco\" (argamassa úmida), como usado por Michelangelo.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Fresco painting. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/art/fresco-painting. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA033",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "A pintura \"A Liberdade Guiando o Povo\", de Eugène Delacroix, é a obra mais icônica de qual movimento artístico?",
+		"options": [
+			{ "description": "Neoclassicismo", "isCorrect": false },
+			{ "description": "Romantismo", "isCorrect": true },
+			{ "description": "Realismo", "isCorrect": false },
+			{ "description": "Barroco", "isCorrect": false }
+		],
+		"source_explanation": "A obra de Delacroix (1830), que celebra a Revolução de Julho, é considerada uma das obras-primas do Romantismo francês pelo seu drama e emoção.",
+		"source_abnt": "MUSEU DO LOUVRE. *Liberty Leading the People*. Paris: Musée du Louvre, [s.d.]. Disponível em: https://www.louvre.fr/en/oeuvre-notices/july-28-liberty-leading-people. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA034",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "O Panteão de Roma é uma maravilha da engenharia antiga, famoso por qual característica arquitetônica?",
+		"options": [
+			{ "description": "Suas colunas em forma de espiral.", "isCorrect": false },
+			{ "description": "Seu domo (cúpula) de concreto não reforçado com uma abertura central (o óculo).", "isCorrect": true },
+			{ "description": "Seus mosaicos de ouro cobrindo todas as paredes.", "isCorrect": false },
+			{ "description": "Ser o edifício mais alto do mundo antigo.", "isCorrect": false }
+		],
+		"source_explanation": "O Panteão, construído por Adriano (c. 126 d.C.), é celebrado por sua cúpula, que possui um óculo (abertura) central e ainda é a maior cúpula de concreto não reforçado do mundo.",
+		"source_abnt": "UNESCO. *World Heritage List*. Historic Centre of Rome [...]. Paris: UNESCO, 1980. Disponível em: https://whc.unesco.org/en/list/91. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA035",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "Qual pintor americano do século XX é conhecido por suas representações melancólicas da solidão urbana, como em \"Nighthawks\" (Aves da Noite)?",
+		"options": [
+			{ "description": "Jackson Pollock", "isCorrect": false },
+			{ "description": "Andy Warhol", "isCorrect": false },
+			{ "description": "Edward Hopper", "isCorrect": true },
+			{ "description": "Norman Rockwell", "isCorrect": false }
+		],
+		"source_explanation": "\"Nighthawks\" (1942), a obra-prima de Edward Hopper, é famosa por sua representação da solidão e alienação na vida urbana moderna.",
+		"source_abnt": "ART INSTITUTE OF CHICAGO. *Nighthawks*. Chicago: Art Institute of Chicago, [s.d.]. Disponível em: https://www.artic.edu/artworks/111628/nighthawks. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA036",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "O que é \"contrapposto\"?",
+		"options": [
+			{ "description": "Uma pose de escultura onde o peso do corpo é deslocado para uma perna, criando uma curva em \"S\" e uma aparência mais natural.", "isCorrect": true },
+			{ "description": "Uma técnica de pintura que usa cores opostas no círculo cromático.", "isCorrect": false },
+			{ "description": "Um tipo de arco usado na arquitetura gótica.", "isCorrect": false },
+			{ "description": "Uma pintura que mostra o oposto do tema pretendido (ironia).", "isCorrect": false }
+		],
+		"source_explanation": "Definição da pose (italiano para \"contraposição\"), usada na Grécia Antiga (ex: Doríforo) e redescoberta na Renascença (ex: \"David\" de Michelangelo).",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Contrapposto. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/art/contrapposto. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA037",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "O movimento \"De Stijl\" (O Estilo), cofundado por Piet Mondrian, defendia qual estética?",
+		"options": [
+			{ "description": "O uso de formas orgânicas e caóticas.", "isCorrect": false },
+			{ "description": "A abstração pura, usando apenas linhas retas (horizontais e verticais) e cores primárias.", "isCorrect": true },
+			{ "description": "A representação fiel da realidade (Realismo).", "isCorrect": false },
+			{ "description": "Temas oníricos e subconscientes (Surrealismo).", "isCorrect": false }
+		],
+		"source_explanation": "O movimento \"De Stijl\" (Neoplasticismo) buscava a \"pura abstração\" através de uma paleta e geometria rigorosas, como visto nas composições de Mondrian.",
+		"source_abnt": "MUSEUM OF MODERN ART (MOMA). *De Stijl*. Nova York: MoMA, [s.d.]. Disponível em: https://www.moma.org/collection/terms/de-stijl. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA038",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "A \"Pietà\" de Michelangelo, localizada na Basílica de São Pedro, retrata qual cena?",
+		"options": [
+			{ "description": "A Virgem Maria segurando o menino Jesus.", "isCorrect": false },
+			{ "description": "A Virgem Maria segurando o corpo de Jesus após a crucificação.", "isCorrect": true },
+			{ "description": "A Anunciação do anjo Gabriel a Maria.", "isCorrect": false },
+			{ "description": "A crucificação de São Pedro.", "isCorrect": false }
+		],
+		"source_explanation": "A escultura \"Pietà\" (1498-1499), de Michelangelo, retrata a Virgem Maria lamentando sobre o corpo de Cristo após a crucificação.",
+		"source_abnt": "MUSEUS DO VATICANO. *Pietà*. Vaticano: Musei Vaticani, [s.d.]. (Obra localizada na Basílica de São Pedro)."
+	},
+	{
+		"id": "ARTA039",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "Quem pintou \"O Jardim das Delícias Terrenas\", um tríptico complexo e fantástico cheio de figuras simbólicas?",
+		"options": [
+			{ "description": "Pieter Bruegel", "isCorrect": false },
+			{ "description": "Jan van Eyck", "isCorrect": false },
+			{ "description": "Hieronymus Bosch", "isCorrect": true },
+			{ "description": "Albrecht Dürer", "isCorrect": false }
+		],
+		"source_explanation": "Esta obra-prima (c. 1500), um tríptico que retrata o Éden, a \"luxúria\" terrena e o inferno, é a obra mais famosa de Hieronymus Bosch.",
+		"source_abnt": "MUSEU NACIONAL DO PRADO. *The Garden of Earthly Delights*. Madri: Museo Nacional del Prado, [s.d.]. Disponível em: https://www.museodelprado.es/en/the-collection/art-work/the-garden-of-earthly-delights-triptych/02388242-6d6a-4e9e-a992-e1311eab3609. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA040",
+		"category": "Arte e Arquitetura",
+		"level": "medium",
+		"question": "Qual pintor holandês do século XVII é mestre em retratar a luz doméstica e cenas interiores, como em \"A Leiteira\"?",
+		"options": [
+			{ "description": "Rembrandt", "isCorrect": false },
+			{ "description": "Frans Hals", "isCorrect": false },
+			{ "description": "Johannes Vermeer", "isCorrect": true },
+			{ "description": "Peter Paul Rubens", "isCorrect": false }
+		],
+		"source_explanation": "\"A Leiteira\" (c. 1660) é uma obra-prima de Johannes Vermeer, célebre por seu tratamento magistral da luz natural em cenas domésticas.",
+		"source_abnt": "RIJKSMUSEUM. *The Milkmaid*. Amsterdã: Rijksmuseum, [s.d.]. Disponível em: https://www.rijksmuseum.nl/en/collection/SK-A-2344. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA041",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "O que é \"perspectiva atmosférica\" (ou aérea), uma técnica usada por Leonardo da Vinci?",
+		"options": [
+			{ "description": "Um método que usa linhas convergindo para um ponto de fuga (perspectiva linear).", "isCorrect": false },
+			{ "description": "Uma técnica onde objetos distantes são pintados com menos clareza, cores mais frias e menor contraste, simulando o efeito da atmosfera.", "isCorrect": true },
+			{ "description": "Pintar uma cena como se fosse vista de cima (vista de pássaro).", "isCorrect": false },
+			{ "description": "Usar a proporção áurea para posicionar todos os objetos.", "isCorrect": false }
+		],
+		"source_explanation": "No seu \"Tratado da Pintura\", Leonardo descreve como o ar afeta a percepção da cor e da claridade à distância, uma técnica que ele usou no fundo da \"Mona Lisa\".",
+		"source_abnt": "LEONARDO DA VINCI. *Tratado da Pintura*. Tradução de C. A. C. Lemos. São Paulo: Martins Fontes, 1996."
+	},
+	{
+		"id": "ARTA042",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "O arquiteto Ludwig Mies van der Rohe, da escola Bauhaus, é famoso por qual lema que define sua estética minimalista?",
+		"options": [
+			{ "description": "\"A forma segue a função.\"", "isCorrect": false },
+			{ "description": "\"Menos é mais.\" (Less is more).", "isCorrect": true },
+			{ "description": "\"Uma casa é uma máquina de morar.\"", "isCorrect": false },
+			{ "description": "\"A ornamentação é crime.\"", "isCorrect": false }
+		],
+		"source_explanation": "O lema \"Menos é mais\" (Less is more) é amplamente atribuído a Mies van der Rohe, definindo sua arquitetura minimalista (ex: Pavilhão de Barcelona). (\"A forma segue a função\" é de Louis Sullivan; \"A ornamentação é crime\" é de Adolf Loos).",
+		"source_abnt": "MUSEUM OF MODERN ART (MOMA). *Ludwig Mies van der Rohe*. Nova York: MoMA, [s.d.]. Disponível em: https://www.moma.org/artists/3982. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA043",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "O movimento \"Dadaísmo\" (Dada), surgido durante a Primeira Guerra Mundial, tinha como princípio fundamental...",
+		"options": [
+			{ "description": "A celebração da tecnologia e da velocidade (Futurismo).", "isCorrect": false },
+			{ "description": "A rejeição da lógica, da razão e do academicismo; abraçando o nonsense (absurdo) e a antiarte.", "isCorrect": true },
+			{ "description": "O retorno à ordem e harmonia clássicas.", "isCorrect": false },
+			{ "description": "A exploração do subconsciente e dos sonhos (Surrealismo).", "isCorrect": false }
+		],
+		"source_explanation": "O Manifesto Dadaísta (1918) de Tristan Tzara rejeita a lógica e a razão, que eles culpavam pela carnificina da Primeira Guerra Mundial, em favor do absurdo.",
+		"source_abnt": "TZARA, Tristan. *Sete Manifestos Dada*. Tradução de Mário Cesariny. Lisboa: Hiena Editora, 1991."
+	},
+	{
+		"id": "ARTA044",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "O que é um \"readymade\", conceito introduzido por Marcel Duchamp?",
+		"options": [
+			{ "description": "Uma pintura hiper-realista que se parece com uma fotografia.", "isCorrect": false },
+			{ "description": "Um objeto cotidiano, produzido em massa (como um urinol), que o artista seleciona e apresenta como arte.", "isCorrect": true },
+			{ "description": "Uma escultura feita de materiais reciclados.", "isCorrect": false },
+			{ "description": "Uma cópia de uma obra de arte clássica.", "isCorrect": false }
+		],
+		"source_explanation": "A obra \"Fonte\" (1917) de Duchamp, um urinol assinado como \"R. Mutt\", é o exemplo definidor do \"readymade\", questionando a autoria e a natureza da arte.",
+		"source_abnt": "PHILADELPHIA MUSEUM OF ART. *Fountain (Marcel Duchamp)*. Filadélfia: Philadelphia Museum of Art, [s.d.]. Disponível em: https://philamuseum.org/collection/object/51447. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA045",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "O que é a técnica de pintura \"sfumato\", aperfeiçoada por Leonardo da Vinci?",
+		"options": [
+			{ "description": "O uso de tinta extremamente espessa (empaste).", "isCorrect": false },
+			{ "description": "A suavização sutil de tons e cores, sem linhas duras ou contornos, criando um efeito \"esfumaçado\".", "isCorrect": true },
+			{ "description": "A aplicação de pequenos pontos de cor (pontilhismo).", "isCorrect": false },
+			{ "description": "Uma pintura monocromática (tons de uma só cor).", "isCorrect": false }
+		],
+		"source_explanation": "O biógrafo renascentista Giorgio Vasari descreveu a técnica de Leonardo (vista nos cantos da boca da Mona Lisa) como \"esfumaçada\" (sfumato), sem linhas ou bordas.",
+		"source_abnt": "VASARI, Giorgio. *Vidas dos Artistas*. Tradução de Ivone C. Benedetti. São Paulo: WMF Martins Fontes, 2011. (Vida de Leonardo da Vinci)."
+	},
+	{
+		"id": "ARTA046",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "O arquiteto Le Corbusier definiu \"Cinco Pontos da Nova Arquitetura\". Qual dos seguintes NÃO é um deles?",
+		"options": [
+			{ "description": "Pilotis (colunas de sustentação)", "isCorrect": false },
+			{ "description": "Teto-jardim", "isCorrect": false },
+			{ "description": "Planta livre e fachada livre", "isCorrect": false },
+			{ "description": "Decoração ornamental (ornamentação)", "isCorrect": true }
+		],
+		"source_explanation": "Os cinco pontos (Pilotis, Teto-jardim, Planta livre, Fachada livre, Janela em fita) definem a arquitetura moderna (ex: Villa Savoye) e rejeitam explicitamente a ornamentação.",
+		"source_abnt": "LE CORBUSIER. *Por uma Arquitetura*. Tradução de Ubirajara Rebouças. 5. ed. São Paulo: Perspectiva, 2000. (Publicado originalmente em 1923)."
+	},
+	{
+		"id": "ARTA047",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "O que é \"êntase\" (entasis) na arquitetura de colunas gregas, como as do Partenon?",
+		"options": [
+			{ "description": "O topo decorativo da coluna (o capitel).", "isCorrect": false },
+			{ "description": "Uma leve convexidade (inchaço) no meio da coluna para corrigir a ilusão de ótica de que ela é côncava.", "isCorrect": true },
+			{ "description": "As ranhuras verticais (caneluras) ao longo da coluna.", "isCorrect": false },
+			{ "description": "A base sobre a qual a coluna se apoia.", "isCorrect": false }
+		],
+		"source_explanation": "O arquiteto romano Vitrúvio descreve a necessidade da êntase (um leve inchaço no fuste) para a perfeição visual do templo, corrigindo a ilusão de concavidade.",
+		"source_abnt": "VITRÚVIO (Marcus Vitruvius Pollio). *De architectura* (Sobre a Arquitetura). Tradução de M. Justino Maciel. São Paulo: Hucitec, 1999. (Livro III)."
+	},
+	{
+		"id": "ARTA048",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "O movimento \"Expressionismo Abstrato\", de Jackson Pollock, enfatizava o quê?",
+		"options": [
+			{ "description": "O ato físico da pintura (action painting) e a expressão subconsciente, em vez de um objeto reconhecível.", "isCorrect": true },
+			{ "description": "O uso de formas geométricas perfeitas e cores puras (Mondrian).", "isCorrect": false },
+			{ "description": "A representação fotográfica da realidade (Hiper-realismo).", "isCorrect": false },
+			{ "description": "A crítica política através de imagens de propaganda.", "isCorrect": false }
+		],
+		"source_explanation": "O crítico Harold Rosenberg cunhou o termo \"action painting\" (pintura de ação) em 1952 para descrever pintores como Jackson Pollock, cujo foco era o processo e o gesto.",
+		"source_abnt": "ROSENBERG, Harold. The American Action Painters. *ARTnews*, Nova York, v. 51, n. 8, p. 22-23, dez. 1952."
+	},
+	{
+		"id": "ARTA049",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "O arquiteto Frank Gehry (Museu Guggenheim de Bilbao) é associado a qual estilo arquitetônico?",
+		"options": [
+			{ "description": "Brutalismo (concreto aparente)", "isCorrect": false },
+			{ "description": "Desconstrutivismo (formas fragmentadas e não lineares)", "isCorrect": true },
+			{ "description": "Estilo Internacional (formas retilíneas e vidro)", "isCorrect": false },
+			{ "description": "Neoclássico (colunas e frontões)", "isCorrect": false }
+		],
+		"source_explanation": "A arquitetura do Museu Guggenheim de Bilbao (1997), com suas formas fragmentadas e revestimento de titânio, é o exemplo máximo do estilo Desconstrutivista de Frank Gehry.",
+		"source_abnt": "MUSEU GUGGENHEIM BILBAO. *O Edifício*. Bilbao: Guggenheim Bilbao, [s.d.]. Disponível em: https://www.guggenheim-bilbao.eus/en/the-building. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA050",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "O que é \"kintsugi\" (ou kintsukuroi)?",
+		"options": [
+			{ "description": "A arte japonesa da caligrafia em seda.", "isCorrect": false },
+			{ "description": "Um tipo de gravura em madeira (ukiyo-e).", "isCorrect": false },
+			{ "description": "A arte japonesa de reparar cerâmica quebrada com laca misturada com ouro, celebrando as imperfeições.", "isCorrect": true },
+			{ "description": "O estilo arquitetônico dos templos xintoístas.", "isCorrect": false }
+		],
+		"source_explanation": "Fontes de museus (como o MET) explicam a técnica e a filosofia do Kintsugi (juntar com ouro) como a arte de abraçar a história e o dano de um objeto.",
+		"source_abnt": "METROPOLITAN MUSEUM OF ART (MET). *Kintsugi: The Art of Broken Pieces*. Nova York: MET, [s.d.]. Disponível em: https://www.metmuseum.org/toah/hd/kint/hd_kint.htm. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA051",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "O que é um \"arcobotante\" (flying buttress) na arquitetura gótica?",
+		"options": [
+			{ "description": "A janela circular de vitral (rosácea).", "isCorrect": false },
+			{ "description": "Uma estrutura de arco externo que transfere o peso das paredes altas e do telhado para um contraforte, permitindo paredes mais finas e vitrais maiores.", "isCorrect": true },
+			{ "description": "A escultura de gárgula usada para drenar a água.", "isCorrect": false },
+			{ "description": "O arco pontiagudo que define a abóbada.", "isCorrect": false }
+		],
+		"source_explanation": "Definição da inovação estrutural chave (ex: em Notre-Dame) que permitiu a altura e a luz das catedrais góticas, transferindo o impulso lateral para contrafortes externos.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Flying buttress. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/technology/flying-buttress. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA052",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "Kazimir Malevich fundou o \"Suprematismo\", um movimento de vanguarda russo focado em quê?",
+		"options": [
+			{ "description": "A superioridade da pintura sobre a escultura.", "isCorrect": false },
+			{ "description": "O uso de formas geométricas básicas (como o quadrado ou o círculo) e cores limitadas, buscando a \"supremacia do sentimento puro na arte\".", "isCorrect": true },
+			{ "description": "A arte a serviço da propaganda da Revolução (Realismo Socialista).", "isCorrect": false },
+			{ "description": "A celebração da máquina e da velocidade (Futurismo).", "isCorrect": false }
+		],
+		"source_explanation": "O manifesto de 1915 de Malevich (e sua obra \"Quadrado Preto\") define o Suprematismo como a busca pela abstração pura e a \"supremacia do sentimento puro\".",
+		"source_abnt": "MALEVICH, Kazimir. *Do Cubismo e do Futurismo ao Suprematismo: o novo realismo na pintura*. 1915. (Reproduzido em: *Malevich*. Catálogo. Stedelijk Museum Amsterdam, 2013)."
+	},
+	{
+		"id": "ARTA053",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "O que é \"trompe-l'œil\"?",
+		"options": [
+			{ "description": "Uma técnica artística que usa ilusões de ótica para \"enganar o olho\", fazendo uma imagem bidimensional parecer tridimensional e real.", "isCorrect": true },
+			{ "description": "Uma pintura que só pode ser vista corretamente através de um espelho.", "isCorrect": false },
+			{ "description": "Um estilo de pintura abstrata que usa apenas cores primárias.", "isCorrect": false },
+			{ "description": "A técnica de usar tinta espessa (empaste).", "isCorrect": false }
+		],
+		"source_explanation": "Definição do termo (francês para \"engana o olho\"), uma técnica de pintura hiper-realista projetada para criar uma ilusão de ótica de que o objeto é real.",
+		"source_abnt": "NATIONAL GALLERY OF ART. *Trompe l'Oeil*. Washington, D.C.: NGA, [s.d.]. Disponível em: https://www.nga.gov/collection/painting-function-trompe-loeil.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA054",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "Qual é a diferença entre uma \"gárgula\" (gargoyle) e uma \"quimera\" (chimera) ou \"grotesco\" (grotesque) na arquitetura gótica?",
+		"options": [
+			{ "description": "Gárgulas são sempre humanas; grotescos são sempre animais.", "isCorrect": false },
+			{ "description": "Gárgulas são esculturas funcionais projetadas para escoar água da chuva; grotescos (ou quimeras) são apenas decorativos.", "isCorrect": true },
+			{ "description": "Gárgulas estão no interior; grotescos estão no exterior.", "isCorrect": false },
+			{ "description": "Não há diferença, os termos são sinônimos.", "isCorrect": false }
+		],
+		"source_explanation": "A etimologia de \"gárgula\" (do francês \"gargouille\", garganta) refere-se à sua função de drenagem (biqueira). \"Grotescos\" são esculturas decorativas que não drenam água.",
+		"source_abnt": "OXFORD REFERENCE. *The Oxford Dictionary of Architecture*: Gargoyle. 3. ed. Oxford: Oxford University Press, 2015."
+	},
+	{
+		"id": "ARTA055",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "O arquiteto que projetou o Palácio de Cristal (Crystal Palace) em 1851, Joseph Paxton, tinha experiência prévia principalmente como...",
+		"options": [
+			{ "description": "Escultor de catedrais.", "isCorrect": false },
+			{ "description": "Engenheiro militar.", "isCorrect": false },
+			{ "description": "Projetista de jardins e estufas (casas de vidro).", "isCorrect": true },
+			{ "description": "Pintor de afrescos.", "isCorrect": false }
+		],
+		"source_explanation": "A biografia de Joseph Paxton (RIBA) detalha que ele era um jardineiro e arquiteto de estufas, e usou seu conhecimento em estruturas pré-fabricadas de vidro e ferro para projetar o Palácio de Cristal.",
+		"source_abnt": "RIBA (ROYAL INSTITUTE OF BRITISH ARCHITECTS). *Sir Joseph Paxton*. Londres: RIBA, [s.d.]. Disponível em: https://www.architecture.com/explore-architecture/explore-architects/sir-joseph-paxton. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA056",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "A \"Basílica de Saint-Denis\", perto de Paris, é considerada o primeiro edifício verdadeiramente Gótico. Qual foi a inovação chave do Abade Suger?",
+		"options": [
+			{ "description": "Ele substituiu as paredes de pedra por vitrais para criar uma \"teologia da luz\".", "isCorrect": true },
+			{ "description": "Ele construiu a torre mais alta da Europa na época.", "isCorrect": false },
+			{ "description": "Ele usou concreto romano pela primeira vez desde a antiguidade.", "isCorrect": false },
+			{ "description": "Ele a decorou inteiramente com ouro maciço.", "isCorrect": false }
+		],
+		"source_explanation": "A análise da obra do Abade Suger (c. 1144) por Panofsky detalha como o redesenho do coro (chevet) de Saint-Denis, com suas abóbadas em cruzaria e vitrais, criou a \"teologia da luz\" gótica.",
+		"source_abnt": "PANOFSKY, Erwin (ed. e trad.). *Abbot Suger on the Abbey Church of St.-Denis and its Art Treasures*. 2. ed. Princeton: Princeton University Press, 1979."
+	},
+	{
+		"id": "ARTA057",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "O que é \"damnatio memoriae\" na arte romana?",
+		"options": [
+			{ "description": "A prática de criar retratos de ancestrais falecidos (máscaras mortuárias).", "isCorrect": false },
+			{ "description": "Um estilo de pintura que celebra as vitórias militares.", "isCorrect": false },
+			{ "description": "A condenação da memória: a prática de apagar oficialmente (em esculturas, inscrições) a imagem de uma pessoa desonrada, como um imperador odiado.", "isCorrect": true },
+			{ "description": "A tradição de enterrar arte valiosa com os mortos.", "isCorrect": false }
+		],
+		"source_explanation": "O MET explica a \"damnatio memoriae\" como uma sanção política e artística romana para apagar uma pessoa (ex: Imperador Geta) da memória pública.",
+		"source_abnt": "METROPOLITAN MUSEUM OF ART (MET). *Damnatio Memoriae—Roman Sanctions against Memory*. Nova York: MET, [s.d.]. Disponível em: https://www.metmuseum.org/toah/hd/dame/hd_dame.htm. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA058",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "O arquiteto Oscar Niemeyer é famoso por seu uso extensivo de qual material e forma?",
+		"options": [
+			{ "description": "Madeira e formas angulares (origami).", "isCorrect": false },
+			{ "description": "Concreto armado e curvas livres e sensuais.", "isCorrect": true },
+			{ "description": "Tijolo aparente e arcos góticos.", "isCorrect": false },
+			{ "description": "Vidro e aço em estruturas retilíneas (Estilo Internacional).", "isCorrect": false }
+		],
+		"source_explanation": "As obras de Niemeyer (ex: o Congresso Nacional em Brasília, o Museu de Niterói) são exemplos mundialmente famosos de seu domínio das curvas do concreto armado.",
+		"source_abnt": "FUNDAÇÃO OSCAR NIEMEYER. *Obras*. Rio de Janeiro: Fundação Oscar Niemeyer, [s.d.]. Disponível em: https://www.niemeyer.org.br/obra. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA059",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "O que é a \"Proporção Áurea\" (Golden Ratio)?",
+		"options": [
+			{ "description": "Uma proporção matemática (aprox. 1:1.618) encontrada na natureza, que muitos artistas e arquitetos (como Le Corbusier) usaram para criar composições harmoniosas.", "isCorrect": true },
+			{ "description": "Uma mistura de tinta que usa ouro em pó para criar um brilho (usada em ícones bizantinos).", "isCorrect": false },
+			{ "description": "A regra de que uma pintura deve ter 1/3 de céu e 2/3 de terra.", "isCorrect": false },
+			{ "description": "O ângulo perfeito (45 graus) para a iluminação de um estúdio.", "isCorrect": false }
+		],
+		"source_explanation": "A proporção (Seção Áurea) é definida matematicamente desde Euclides e foi explorada por artistas da Renascença e arquitetos modernos (como Le Corbusier com o \"Modulor\").",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Golden ratio. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/golden-ratio. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ARTA060",
+		"category": "Arte e Arquitetura",
+		"level": "hard",
+		"question": "O \"Expressionismo Alemão\" no cinema (ex: \"Nosferatu\") e na pintura (ex: Die Brücke) tinha como objetivo principal...",
+		"options": [
+			{ "description": "Representar a realidade objetiva com precisão fotográfica.", "isCorrect": false },
+			{ "description": "Capturar a impressão fugaz da luz.", "isCorrect": false },
+			{ "description": "Expressar a emoção subjetiva e a ansiedade interna do artista, muitas vezes distorcendo a realidade.", "isCorrect": true },
+			{ "description": "Criticar a sociedade usando o absurdo e o nonsense (Dadaísmo).", "isCorrect": false }
+		],
+		"source_explanation": "O museu Tate define o movimento \"Die Brücke\" (A Ponte) e o Expressionismo Alemão como um foco na emoção subjetiva e na distorção da realidade.",
+		"source_abnt": "TATE MODERN. *Art Terms: Die Brücke*. Londres: Tate, [s.d.]. Disponível em: https://www.tate.org.uk/art/art-terms/d/die-brucke. Acesso em: 6 nov. 2025."
+	}
+]

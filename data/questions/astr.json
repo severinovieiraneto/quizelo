@@ -1,0 +1,842 @@
+[
+	{
+		"id": "ASTR001",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "O que é uma \"galáxia\"?",
+		"options": [
+			{ "description": "Um sistema de planetas orbitando uma única estrela.", "isCorrect": false },
+			{ "description": "Um vasto sistema de estrelas, gás, poeira e matéria escura, tudo mantido unido pela gravidade.", "isCorrect": true },
+			{ "description": "Uma nuvem de gás onde as estrelas nascem.", "isCorrect": false },
+			{ "description": "O buraco negro no centro do universo.", "isCorrect": false }
+		],
+		"source_explanation": "A NASA define uma galáxia como um enorme conjunto de gás, poeira e bilhões de estrelas e seus sistemas solares, todos mantidos juntos pela gravidade.",
+		"source_abnt": "NASA. *What Is a Galaxy?*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://spaceplace.nasa.gov/galaxy/en/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR002",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "Qual é o nome da nossa galáxia?",
+		"options": [
+			{ "description": "Andrômeda", "isCorrect": false },
+			{ "description": "Centaurus A", "isCorrect": false },
+			{ "description": "Via Láctea", "isCorrect": true },
+			{ "description": "Galáxia do Sombrero", "isCorrect": false }
+		],
+		"source_explanation": "A Via Láctea (em inglês, Milky Way) é a galáxia espiral barrada que contém o nosso Sistema Solar.",
+		"source_abnt": "NASA. *The Milky Way Galaxy*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/milky-way-galaxy/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR003",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "O que é um \"ano-luz\"?",
+		"options": [
+			{ "description": "Uma medida de tempo (365 dias no espaço).", "isCorrect": false },
+			{ "description": "Uma medida de distância (a distância que a luz percorre em um ano).", "isCorrect": true },
+			{ "description": "A velocidade da luz.", "isCorrect": false },
+			{ "description": "O tempo que a luz do Sol leva para chegar à Terra.", "isCorrect": false }
+		],
+		"source_explanation": "Um ano-luz é uma unidade de distância astronômica, equivalente a aproximadamente 9,46 trilhões de quilômetros.",
+		"source_abnt": "UNIÃO ASTRONÔMICA INTERNACIONAL (IAU). *Measuring the Universe*. Paris: IAU, [s.d.]. Disponível em: https://www.iau.org/public/themes/measuring/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR004",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "Qual é a teoria científica predominante sobre a origem do universo?",
+		"options": [
+			{ "description": "A Teoria do Estado Estacionário", "isCorrect": false },
+			{ "description": "A Teoria do Big Bang", "isCorrect": true },
+			{ "description": "A Teoria das Cordas", "isCorrect": false },
+			{ "description": "A Teoria da Panspermia", "isCorrect": false }
+		],
+		"source_explanation": "A Teoria do Big Bang é o modelo cosmológico padrão que descreve a expansão do universo a partir de um estado inicial extremamente quente e denso.",
+		"source_abnt": "NASA. *Big Bang Theory*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/astrophysics/focus-areas/what-is-the-big-bang-theory/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR005",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "O que é um \"buraco negro\"?",
+		"options": [
+			{ "description": "Um planeta feito de matéria escura.", "isCorrect": false },
+			{ "description": "Uma estrela morta que não emite luz.", "isCorrect": false },
+			{ "description": "Uma região no espaço onde a gravidade é tão forte que nada, nem mesmo a luz, pode escapar.", "isCorrect": true },
+			{ "description": "Uma nuvem de poeira interestelar.", "isCorrect": false }
+		],
+		"source_explanation": "A definição oficial da NASA, baseada na Relatividade Geral, descreve um buraco negro como um local com atração gravitacional extrema.",
+		"source_abnt": "NASA. *What Is a Black Hole?*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/astrophysics/focus-areas/black-holes/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR006",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "Qual é a estrela no centro do nosso Sistema Solar?",
+		"options": [
+			{ "description": "Proxima Centauri", "isCorrect": false },
+			{ "description": "O Sol", "isCorrect": true },
+			{ "description": "Sirius", "isCorrect": false },
+			{ "description": "Betelgeuse", "isCorrect": false }
+		],
+		"source_explanation": "O Sol é a estrela (uma anã amarela) no centro do Sistema Solar da Terra.",
+		"source_abnt": "NASA. *Our Sun*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/sun/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR007",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "O que é uma \"supernova\"?",
+		"options": [
+			{ "description": "A explosão cataclísmica no final da vida de uma estrela massiva (ou de uma anã branca).", "isCorrect": true },
+			{ "description": "A colisão de duas galáxias.", "isCorrect": false },
+			{ "description": "O nascimento de uma nova estrela.", "isCorrect": false },
+			{ "description": "Um planeta gigante que explode.", "isCorrect": false }
+		],
+		"source_explanation": "Uma supernova é a explosão estelar que ocorre durante os estágios finais da evolução de uma estrela massiva ou quando uma anã branca explode.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Supernova. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/supernova. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR008",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "O que é uma \"nebulosa\"?",
+		"options": [
+			{ "description": "O nome de uma galáxia anã.", "isCorrect": false },
+			{ "description": "Uma nuvem gigante de gás e poeira no espaço, muitas vezes um berçário de estrelas.", "isCorrect": true },
+			{ "description": "Um grupo de buracos negros.", "isCorrect": false },
+			{ "description": "O rastro deixado por um cometa.", "isCorrect": false }
+		],
+		"source_explanation": "A NASA define nebulosas (ex: Nebulosa de Órion) como nuvens de gás e poeira no espaço interestelar, que podem ser berçários de estrelas ou remanescentes de estrelas mortas.",
+		"source_abnt": "NASA. *What Is a Nebula?*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://spaceplace.nasa.gov/nebula/en/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR009",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "O que é uma \"órbita\"?",
+		"options": [
+			{ "description": "O caminho curvo de um objeto (como um planeta) ao redor de outro objeto (como uma estrela) devido à gravidade.", "isCorrect": true },
+			{ "description": "O giro de um planeta em torno de seu próprio eixo.", "isCorrect": false },
+			{ "description": "A distância entre duas estrelas.", "isCorrect": false },
+			{ "description": "A velocidade da luz no vácuo.", "isCorrect": false }
+		],
+		"source_explanation": "Em astrofísica, uma órbita é a trajetória gravitacionalmente curva de um objeto (satélite) ao redor de um ponto ou corpo (primário).",
+		"source_abnt": "NASA. *What Is an Orbit?*. Washington, D.C.: NASA, 2021. Disponível em: https://www.nasa.gov/general/what-is-an-orbit/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR010",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "Qual instrumento os astrônomos usam para observar objetos distantes no espaço?",
+		"options": [
+			{ "description": "Microscópio", "isCorrect": false },
+			{ "description": "Estetoscópio", "isCorrect": false },
+			{ "description": "Telescópio", "isCorrect": true },
+			{ "description": "Sismógrafo", "isCorrect": false }
+		],
+		"source_explanation": "O telescópio é o instrumento óptico fundamental da astronomia, usado para coletar luz de objetos celestes distantes.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Telescope. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/telescope. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR011",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "O que é uma \"constelação\"?",
+		"options": [
+			{ "description": "Um grupo de estrelas que formam um padrão imaginário no céu.", "isCorrect": true },
+			{ "description": "Uma única galáxia muito brilhante.", "isCorrect": false },
+			{ "description": "Um planeta orbitando duas estrelas.", "isCorrect": false },
+			{ "description": "Um tipo de buraco negro.", "isCorrect": false }
+		],
+		"source_explanation": "A União Astronômica Internacional (IAU) define as 88 constelações oficiais como áreas no céu que agrupam estrelas em padrões (ex: Orion, Ursa Maior).",
+		"source_abnt": "UNIÃO ASTRONÔMICA INTERNACIONAL (IAU). *The Constellations*. Paris: IAU, [s.d.]. Disponível em: https://www.iau.org/public/themes/constellations/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR012",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "O que é um \"planeta\"?",
+		"options": [
+			{ "description": "Um corpo celeste que emite luz própria.", "isCorrect": false },
+			{ "description": "Um corpo celeste que orbita uma estrela, é (quase) redondo e \"limpou\" sua órbita.", "isCorrect": true },
+			{ "description": "Um satélite natural de um planeta.", "isCorrect": false },
+			{ "description": "Uma nuvem de gás que está se tornando uma estrela.", "isCorrect": false }
+		],
+		"source_explanation": "A definição oficial de \"planeta\" foi estabelecida pela IAU em 2006, resultando no rebaixamento de Plutão.",
+		"source_abnt": "UNIÃO ASTRONÔMICA INTERNACIONAL (IAU). *Resolution B5: Definition of a Planet in our Solar System*. Praga: IAU, 24 ago. 2006."
+	},
+	{
+		"id": "ASTR013",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "Qual força fundamental da natureza mantém os planetas em órbita ao redor do Sol?",
+		"options": [
+			{ "description": "Força Eletromagnética", "isCorrect": false },
+			{ "description": "Força Nuclear Fraca", "isCorrect": false },
+			{ "description": "Força Gravitacional (Gravidade)", "isCorrect": true },
+			{ "description": "Força Nuclear Forte", "isCorrect": false }
+		],
+		"source_explanation": "A gravidade, conforme descrita por Newton e Einstein, é a força de atração que governa as órbitas dos planetas e a estrutura do universo.",
+		"source_abnt": "EINSTEIN, Albert. *Relatividade: a teoria especial e geral*. Tradução de Carlos A. P. de Andrade. Rio de Janeiro: Contraponto, 1999."
+	},
+	{
+		"id": "ASTR014",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "O que é uma \"estrela\"?",
+		"options": [
+			{ "description": "Um planeta gigante feito de rocha.", "isCorrect": false },
+			{ "description": "Uma bola de plasma gigante e luminosa que gera energia através da fusão nuclear.", "isCorrect": true },
+			{ "description": "Uma lua que reflete a luz de um sol distante.", "isCorrect": false },
+			{ "description": "Um pedaço de gelo e poeira no espaço.", "isCorrect": false }
+		],
+		"source_explanation": "A definição astronômica de estrela é um corpo celeste que produz sua própria luz e calor através de reações de fusão nuclear em seu núcleo.",
+		"source_abnt": "NASA. *What Is a Star?*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://spaceplace.nasa.gov/what-is-a-star/en/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR015",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "O que é um \"cometa\"?",
+		"options": [
+			{ "description": "Uma rocha metálica orbitando o Sol.", "isCorrect": false },
+			{ "description": "Uma \"bola de neve suja\" (gelo e poeira) que desenvolve uma cauda ao se aproximar do Sol.", "isCorrect": true },
+			{ "description": "Uma estrela cadente.", "isCorrect": false },
+			{ "description": "Uma lua de Júpiter.", "isCorrect": false }
+		],
+		"source_explanation": "A NASA descreve cometas como \"bolas de neve sujas\" cósmicas (gelo, poeira, rocha) que, ao se aproximarem do Sol, liberam gases e poeira, formando a cauda (coma).",
+		"source_abnt": "NASA. *Comets*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/comets/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR016",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "O que é um \"meteoro\"?",
+		"options": [
+			{ "description": "Um asteroide gigante.", "isCorrect": false },
+			{ "description": "O rastro de luz (\"estrela cadente\") de um meteoroide queimando na atmosfera da Terra.", "isCorrect": true },
+			{ "description": "Uma rocha espacial que atingiu o solo (meteorito).", "isCorrect": false },
+			{ "description": "Um cometa sem cauda.", "isCorrect": false }
+		],
+		"source_explanation": "Um meteoro (estrela cadente) é o fenômeno luminoso quando um meteoroide entra na atmosfera. Se sobreviver e atingir o solo, é um meteorito.",
+		"source_abnt": "NASA. *Meteors & Meteorites*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/meteors-meteorites/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR017",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "Qual é a estrela mais próxima da Terra?",
+		"options": [
+			{ "description": "O Sol", "isCorrect": true },
+			{ "description": "Proxima Centauri", "isCorrect": false },
+			{ "description": "Alpha Centauri A", "isCorrect": false },
+			{ "description": "Sirius", "isCorrect": false }
+		],
+		"source_explanation": "O Sol é a estrela mais próxima da Terra (cerca de 8 minutos-luz). A *próxima* estrela mais próxima é Proxima Centauri (cerca de 4,2 anos-luz).",
+		"source_abnt": "NASA. *Our Sun*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/sun/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR018",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "O que é o \"desvio para o vermelho\" (redshift) em termos simples?",
+		"options": [
+			{ "description": "O fenômeno que torna o pôr do sol vermelho.", "isCorrect": false },
+			{ "description": "Um efeito que mostra que galáxias distantes estão se afastando de nós (a luz é \"esticada\").", "isCorrect": true },
+			{ "description": "O brilho de uma estrela gigante vermelha.", "isCorrect": false },
+			{ "description": "A cor de Marte.", "isCorrect": false }
+		],
+		"source_explanation": "Em cosmologia, o redshift (desvio para o vermelho) é a observação de que a luz de galáxias distantes é esticada para comprimentos de onda mais longos (vermelhos), indicando que elas estão se afastando.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Redshift. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/redshift. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR019",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "O que é um \"asteroide\"?",
+		"options": [
+			{ "description": "Um cometa que perdeu sua cauda.", "isCorrect": false },
+			{ "description": "Um pequeno corpo rochoso e metálico que orbita o Sol, a maioria encontrada entre Marte e Júpiter.", "isCorrect": true },
+			{ "description": "Uma lua capturada por um planeta.", "isCorrect": false },
+			{ "description": "Uma estrela cadente.", "isCorrect": false }
+		],
+		"source_explanation": "Asteroides (ou planetoides) são corpos rochosos menores que planetas. A maioria orbita no \"Cinturão de Asteroides\", entre Marte e Júpiter.",
+		"source_abnt": "NASA. *Asteroids*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/asteroids/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR020",
+		"category": "Astrofísica",
+		"level": "easy",
+		"question": "O que é uma \"lua\" (no sentido astronômico)?",
+		"options": [
+			{ "description": "Qualquer planeta pequeno.", "isCorrect": false },
+			{ "description": "Um corpo celeste que orbita um planeta (um satélite natural).", "isCorrect": true },
+			{ "description": "Um asteroide que brilha.", "isCorrect": false },
+			{ "description": "O segundo sol de um sistema estelar.", "isCorrect": false }
+		],
+		"source_explanation": "A definição astronômica de uma lua (ou satélite natural) é qualquer corpo celeste que orbita um planeta ou corpo menor.",
+		"source_abnt": "UNIÃO ASTRONÔMICA INTERNACIONAL (IAU). *Nomenclature: Satellites*. Paris: IAU, [s.d.]. Disponível em: https://www.iau.org/public/themes/naming_solar_system/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR021",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "Como as estrelas (como o nosso Sol) produzem energia?",
+		"options": [
+			{ "description": "Queimando hidrogênio (combustão química).", "isCorrect": false },
+			{ "description": "Através da fusão nuclear (convertendo hidrogênio em hélio).", "isCorrect": true },
+			{ "description": "Através da fissão nuclear (quebrando urânio).", "isCorrect": false },
+			{ "description": "Refletindo a luz do centro da galáxia.", "isCorrect": false }
+		],
+		"source_explanation": "As estrelas produzem energia em seus núcleos através da fusão termonuclear. Estrelas da sequência principal, como o Sol, fundem átomos de hidrogênio para formar hélio.",
+		"source_abnt": "NASA. *How Do Stars Make Energy?*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://spaceplace.nasa.gov/stars-make-energy/en/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR022",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que é o \"Diagrama Hertzsprung-Russell\" (Diagrama H-R)?",
+		"options": [
+			{ "description": "Um mapa de todas as galáxias conhecidas.", "isCorrect": false },
+			{ "description": "Um gráfico que plota a luminosidade de uma estrela contra sua temperatura superficial.", "isCorrect": true },
+			{ "description": "Um diagrama que mostra as órbitas dos planetas.", "isCorrect": false },
+			{ "description": "A trajetória de um cometa.", "isCorrect": false }
+		],
+		"source_explanation": "O Diagrama H-R é a ferramenta fundamental da evolução estelar, mostrando a relação entre a magnitude absoluta (luminosidade) e a classe espectral (temperatura) das estrelas.",
+		"source_abnt": "CARROLL, Bradley W.; OSTLIE, Dale A. *An Introduction to Modern Astrophysics*. 2. ed. Cambridge: Cambridge University Press, 2017. (Capítulo 8: The Hertzsprung-Russell Diagram)."
+	},
+	{
+		"id": "ASTR023",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que é uma \"anã branca\"?",
+		"options": [
+			{ "description": "O remanescente denso e quente do núcleo de uma estrela de baixa massa (como o Sol) após a morte.", "isCorrect": true },
+			{ "description": "Uma estrela que ainda está se formando (protoestrela).", "isCorrect": false },
+			{ "description": "Um tipo de buraco negro pequeno.", "isCorrect": false },
+			{ "description": "Um planeta gasoso que falhou em se tornar estrela.", "isCorrect": false }
+		],
+		"source_explanation": "A anã branca é o estágio final da evolução estelar para estrelas de baixa a média massa (como o Sol), após ejetarem suas camadas externas (nebulosa planetária).",
+		"source_abnt": "NASA. *White Dwarf*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/astrophysics/focus-areas/black-holes/white-dwarf/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR024",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que é uma \"estrela de nêutrons\"?",
+		"options": [
+			{ "description": "O núcleo de um cometa.", "isCorrect": false },
+			{ "description": "O núcleo extremamente denso (composto de nêutrons) que sobra após a explosão de uma supernova.", "isCorrect": true },
+			{ "description": "Uma estrela feita de antimatéria.", "isCorrect": false },
+			{ "description": "Uma estrela fria que não emite luz.", "isCorrect": false }
+		],
+		"source_explanation": "Uma estrela de nêutrons é o remanescente colapsado de uma estrela massiva (Tipo II) que explodiu como supernova, suportada pela pressão de degenerescência de nêutrons.",
+		"source_abnt": "NASA. *Neutron Stars*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/astrophysics/focus-areas/black-holes/neutron-stars/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR025",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que é \"matéria escura\"?",
+		"options": [
+			{ "description": "Nuvens de poeira que bloqueiam a luz (nebulosas escuras).", "isCorrect": false },
+			{ "description": "A energia que preenche o vácuo.", "isCorrect": false },
+			{ "description": "Uma forma hipotética de matéria que não interage com a luz, mas cuja gravidade mantém as galáxias unidas.", "isCorrect": true },
+			{ "description": "O material no centro de um buraco negro.", "isCorrect": false }
+		],
+		"source_explanation": "A Matéria Escura é uma substância invisível que compõe cerca de 27% do universo. Sua existência é inferida por seus efeitos gravitacionais na rotação das galáxias.",
+		"source_abnt": "NASA. *Dark Matter*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/astrophysics/focus-areas/what-is-dark-energy/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR026",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que é o \"Horizonte de Eventos\" de um buraco negro?",
+		"options": [
+			{ "description": "A singularidade no centro.", "isCorrect": false },
+			{ "description": "A \"fronteira\" teórica ao redor de um buraco negro da qual nada pode escapar; o ponto de não retorno.", "isCorrect": true },
+			{ "description": "O disco de matéria superaquecida que orbita o buraco negro.", "isCorrect": false },
+			{ "description": "O ponto onde o tempo para completamente.", "isCorrect": false }
+		],
+		"source_explanation": "O Horizonte de Eventos (cujo raio é o Raio de Schwarzschild para um buraco negro estático) é a fronteira onde a velocidade de escape se iguala à velocidade da luz.",
+		"source_abnt": "HAWKING, Stephen W. *Uma Breve História do Tempo: do Big Bang aos Buracos Negros*. Tradução de C. P. de A. A. e R. de C. B. Rio de Janeiro: Rocco, 1988."
+	},
+	{
+		"id": "ASTR027",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que o \"Efeito Doppler\" causa na luz (Redshift e Blueshift)?",
+		"options": [
+			{ "description": "A mudança na cor da luz dependendo da temperatura da estrela.", "isCorrect": false },
+			{ "description": "A mudança na frequência (comprimento de onda) da luz se a fonte está se aproximando (Blueshift) ou se afastando (Redshift).", "isCorrect": true },
+			{ "description": "A curvatura da luz pela gravidade.", "isCorrect": false },
+			{ "description": "A absorção de luz por nuvens de gás.", "isCorrect": false }
+		],
+		"source_explanation": "O Efeito Doppler (aplicado à luz) é a mudança observada no comprimento de onda: a luz é \"esticada\" (redshift) se a fonte se afasta, e \"comprimida\" (blueshift) se ela se aproxima.",
+		"source_abnt": "CARROLL, Bradley W.; OSTLIE, Dale A. *An Introduction to Modern Astrophysics*. 2. ed. Cambridge: Cambridge University Press, 2017. (Capítulo 5: O Efeito Doppler)."
+	},
+	{
+		"id": "ASTR028",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que é a \"Radiação Cósmica de Fundo em Micro-ondas\" (CMB)?",
+		"options": [
+			{ "description": "O \"brilho residual\" (luz) do Big Bang, que permeia todo o universo.", "isCorrect": true },
+			{ "description": "A luz emitida por buracos negros (Radiação Hawking).", "isCorrect": false },
+			{ "description": "A luz combinada de todas as estrelas fora da nossa galáxia.", "isCorrect": false },
+			{ "description": "A radiação emitida por pulsares.", "isCorrect": false }
+		],
+		"source_explanation": "A CMB (Cosmic Microwave Background) é a radiação térmica remanescente do Big Bang, descoberta em 1964 por Penzias e Wilson.",
+		"source_abnt": "PENZIAS, Arno A.; WILSON, Robert W. A Measurement of Excess Antenna Temperature at 4080 Mc/s. *The Astrophysical Journal*, v. 142, p. 419-421, 1965."
+	},
+	{
+		"id": "ASTR029",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "Como a maioria dos elementos pesados (mais pesados que o ferro), como ouro e platina, são criados no universo?",
+		"options": [
+			{ "description": "Dentro do núcleo de estrelas como o Sol.", "isCorrect": false },
+			{ "description": "Em explosões de supernovas e na fusão de estrelas de nêutrons.", "isCorrect": true },
+			{ "description": "No Big Bang.", "isCorrect": false },
+			{ "description": "Na atmosfera de gigantes gasosos como Júpiter.", "isCorrect": false }
+		],
+		"source_explanation": "Elementos até o ferro são feitos por fusão estelar. Elementos mais pesados (ouro, platina) são formados pela captura rápida de nêutrons (processo-r), que ocorre em supernovas ou na colisão de estrelas de nêutrons.",
+		"source_abnt": "ABBOTT, B. P. [et al.] (LIGO Scientific Collaboration and Virgo Collaboration). Gravitational Waves and Gamma-Rays from a Binary Neutron Star Merger: GW170817 and GRB 170817A. *The Astrophysical Journal Letters*, v. 848, n. 2, L13, 2017."
+	},
+	{
+		"id": "ASTR030",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que é uma \"Supernova Tipo Ia\"?",
+		"options": [
+			{ "description": "A explosão de uma estrela de nêutrons.", "isCorrect": false },
+			{ "description": "O colapso do núcleo de uma estrela muito massiva.", "isCorrect": false },
+			{ "description": "A explosão termonuclear de uma anã branca em um sistema binário que excedeu o Limite de Chandrasekhar.", "isCorrect": true },
+			{ "description": "Uma estrela que falha em explodir e se torna um buraco negro.", "isCorrect": false }
+		],
+		"source_explanation": "A Supernova Tipo Ia (usada como \"vela padrão\") ocorre quando uma anã branca acumula massa de uma estrela companheira e atinge o Limite de Chandrasekhar, detonando.",
+		"source_abnt": "NASA. *Supernovae: Type Ia*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/supernovae/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR031",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que é \"lente gravitacional\"?",
+		"options": [
+			{ "description": "O desvio (curvatura) da luz de um objeto distante ao passar por um objeto massivo (como uma galáxia), previsto por Einstein.", "isCorrect": true },
+			{ "description": "Um tipo de telescópio que usa gravidade em vez de vidro.", "isCorrect": false },
+			{ "description": "O efeito que faz a luz parecer vermelha (redshift).", "isCorrect": false },
+			{ "description": "A lente de uma câmera usada no espaço.", "isCorrect": false }
+		],
+		"source_explanation": "A lente gravitacional é uma consequência da Relatividade Geral de Einstein: a gravidade de um objeto massivo (a \"lente\") curva o espaço-tempo e desvia a luz de um objeto de fundo.",
+		"source_abnt": "EINSTEIN, Albert. *Relatividade: a teoria especial e geral*. Tradução de Carlos A. P. de Andrade. Rio de Janeiro: Contraponto, 1999."
+	},
+	{
+		"id": "ASTR032",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que é um \"pulsar\"?",
+		"options": [
+			{ "description": "Uma estrela que explode em intervalos regulares.", "isCorrect": false },
+			{ "description": "Uma estrela de nêutrons em rotação rápida que emite feixes de radiação, como um farol.", "isCorrect": true },
+			{ "description": "Uma galáxia com um núcleo muito ativo.", "isCorrect": false },
+			{ "description": "Um tipo de buraco negro.", "isCorrect": false }
+		],
+		"source_explanation": "Pulsares (Pulsating Radio Sources) são estrelas de nêutrons magnetizadas e em rotação rápida. Foram descobertos por Jocelyn Bell Burnell em 1967.",
+		"source_abnt": "HEWISH, Antony; BELL, S. J. [et al.]. Observation of a Rapidly Pulsating Radio Source. *Nature*, v. 217, p. 709-713, 24 fev. 1968."
+	},
+	{
+		"id": "ASTR033",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que é a \"Lei de Hubble-Lemaître\"?",
+		"options": [
+			{ "description": "A lei que afirma que a órbita de um planeta é uma elipse.", "isCorrect": false },
+			{ "description": "A observação de que as galáxias estão se afastando umas das outras a uma velocidade proporcional à sua distância.", "isCorrect": true },
+			{ "description": "A lei que determina a temperatura de uma estrela.", "isCorrect": false },
+			{ "description": "A lei que calcula a massa de um buraco negro.", "isCorrect": false }
+		],
+		"source_explanation": "Originalmente Lei de Hubble (1929), foi renomeada pela IAU para honrar Georges Lemaître (1927). É a evidência observacional da expansão do universo ($v = H_0 d$).",
+		"source_abnt": "HUBBLE, Edwin. A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae. *Proceedings of the National Academy of Sciences*, v. 15, n. 3, p. 168-173, mar. 1929."
+	},
+	{
+		"id": "ASTR034",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que é uma \"nebulosa planetária\"?",
+		"options": [
+			{ "description": "Uma nuvem de gás onde novos planetas estão se formando.", "isCorrect": false },
+			{ "description": "Uma nuvem de gás brilhante ejetada pelas camadas externas de uma estrela de baixa massa (como o Sol) em seu estágio final.", "isCorrect": true },
+			{ "description": "O remanescente de uma explosão de supernova.", "isCorrect": false },
+			{ "description": "A atmosfera de um planeta gigante gasoso.", "isCorrect": false }
+		],
+		"source_explanation": "Apesar do nome (dado por William Herschel), uma nebulosa planetária não tem relação com planetas. É o fim da vida de uma estrela como o Sol, que se torna uma anã branca em seu centro.",
+		"source_abnt": "NASA. *Planetary Nebulae*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/planetary-nebulae/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR035",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que é o \"Limite de Chandrasekhar\"?",
+		"options": [
+			{ "description": "A massa máxima (cerca de 1.4 massas solares) que uma anã branca pode ter antes de colapsar.", "isCorrect": true },
+			{ "description": "A distância mínima que uma lua pode chegar de um planeta (Limite de Roche).", "isCorrect": false },
+			{ "description": "A velocidade máxima que uma estrela pode girar.", "isCorrect": false },
+			{ "description": "O tamanho do universo observável.", "isCorrect": false }
+		],
+		"source_explanation": "O Limite de Chandrasekhar (Prêmio Nobel de 1983) é a massa máxima (c. 1.4 M☉) que pode ser suportada pela pressão de degenerescência de elétrons em uma anã branca.",
+		"source_abnt": "CHANDRASEKHAR, Subrahmanyan. The Maximum Mass of Ideal White Dwarfs. *The Astrophysical Journal*, v. 74, p. 81, 1931."
+	},
+	{
+		"id": "ASTR036",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que é um \"exoplaneta\"?",
+		"options": [
+			{ "description": "Um planeta que foi ejetado do nosso Sistema Solar.", "isCorrect": false },
+			{ "description": "Um planeta que orbita uma estrela fora do nosso Sistema Solar.", "isCorrect": true },
+			{ "description": "Um planeta anão (como Plutão).", "isCorrect": false },
+			{ "description": "Um planeta feito inteiramente de gelo.", "isCorrect": false }
+		],
+		"source_explanation": "Um exoplaneta, ou planeta extrassolar, é um planeta localizado fora do nosso Sistema Solar (orbitando outra estrela).",
+		"source_abnt": "NASA EXOPLANET ARCHIVE. *What is an Exoplanet?*. Pasadena, CA: Caltech, [s.d.]. Disponível em: https://exoplanetarchive.ipac.caltech.edu/docs/whatis.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR037",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que é \"energia escura\"?",
+		"options": [
+			{ "description": "A matéria invisível que mantém as galáxias unidas (Matéria Escura).", "isCorrect": false },
+			{ "description": "Uma forma de energia hipotética que causa a expansão acelerada do universo.", "isCorrect": true },
+			{ "description": "A energia contida dentro de um buraco negro.", "isCorrect": false },
+			{ "description": "Poluição luminosa que impede a observação do céu.", "isCorrect": false }
+		],
+		"source_explanation": "A Energia Escura (cerca de 68% do universo) é o nome dado à força misteriosa que está causando a aceleração da expansão do universo (Prêmio Nobel 2011).",
+		"source_abnt": "RIESS, Adam G. [et al.]. Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant. *The Astronomical Journal*, v. 116, n. 3, p. 1009-1038, 1998."
+	},
+	{
+		"id": "ASTR038",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que é um \"quasar\"?",
+		"options": [
+			{ "description": "Um tipo de estrela de nêutrons.", "isCorrect": false },
+			{ "description": "Um núcleo galáctico ativo (AGN) extremamente luminoso, alimentado por um buraco negro supermassivo.", "isCorrect": true },
+			{ "description": "O remanescente de uma supernova.", "isCorrect": false },
+			{ "description": "Uma galáxia sem estrelas.", "isCorrect": false }
+		],
+		"source_explanation": "Um Quasar (Quasi-Stellar Object) é o objeto mais luminoso do universo. É um Núcleo Galáctico Ativo (AGN) onde um buraco negro supermassivo está consumindo matéria.",
+		"source_abnt": "NASA. *What Is a Quasar?*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/astrophysics/focus-areas/black-holes/quasars/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR039",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que é um \"disco de acreção\"?",
+		"options": [
+			{ "description": "Os anéis de um planeta (como Saturno).", "isCorrect": false },
+			{ "description": "Uma estrutura de material (gás e poeira) em forma de disco, que espirala para dentro de um objeto massivo (como um buraco negro ou estrela).", "isCorrect": true },
+			{ "description": "A forma achatada de uma galáxia espiral.", "isCorrect": false },
+			{ "description": "Uma nuvem de poeira que bloqueia a luz.", "isCorrect": false }
+		],
+		"source_explanation": "Um disco de acreção se forma quando material (gás) em órbita transfere momento angular para fora e espirala para dentro de um corpo central (estrela, buraco negro), aquecendo-se por fricção.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Accretion disk. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/accretion-disk. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR040",
+		"category": "Astrofísica",
+		"level": "medium",
+		"question": "O que é \"nucleossíntese\"?",
+		"options": [
+			{ "description": "O processo de criação de novos elementos químicos através de reações nucleares (no Big Bang ou em estrelas).", "isCorrect": true },
+			{ "description": "A divisão de um núcleo (fissão).", "isCorrect": false },
+			{ "description": "A formação de planetas a partir de poeira.", "isCorrect": false },
+			{ "description": "A desintegração radioativa.", "isCorrect": false }
+		],
+		"source_explanation": "A nucleossíntese (Big Bang ou estelar) é o processo de criação de novos núcleos atômicos (elementos) a partir de prótons e nêutrons.",
+		"source_abnt": "BURBIDGE, E. M.; BURBIDGE, G. R.; FOWLER, W. A.; HOYLE, F. Synthesis of the Elements in Stars. *Reviews of Modern Physics*, v. 29, n. 4, p. 547–650, 1957. (Artigo B²FH)."
+	},
+	{
+		"id": "ASTR041",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que é a \"Inflação Cósmica\"?",
+		"options": [
+			{ "description": "O período atual de expansão acelerada do universo (Energia Escura).", "isCorrect": false },
+			{ "description": "Um período de expansão exponencial extremamente rápida do universo, ocorrido uma fração de segundo após o Big Bang.", "isCorrect": true },
+			{ "description": "O colapso do universo em um \"Big Crunch\".", "isCorrect": false },
+			{ "description": "O aumento do preço para lançar foguetes.", "isCorrect": false }
+		],
+		"source_explanation": "A teoria da Inflação Cósmica, proposta por Alan Guth (1981), resolve problemas do Big Bang (como o problema do horizonte e da planicidade) através de uma expansão super-rápida inicial.",
+		"source_abnt": "GUTH, Alan H. Inflationary universe: A possible solution to the horizon and flatness problems. *Physical Review D*, v. 23, n. 2, p. 347-356, 15 jan. 1981."
+	},
+	{
+		"id": "ASTR042",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que é o \"Processo Triplo-Alfa\"?",
+		"options": [
+			{ "description": "A fusão de três núcleos de hidrogênio (prótons) em hélio.", "isCorrect": false },
+			{ "description": "A fusão de três núcleos de hélio (partículas alfa) para formar um núcleo de Carbono-12.", "isCorrect": true },
+			{ "description": "Um tipo de decaimento radioativo triplo.", "isCorrect": false },
+			{ "description": "A órbita de um sistema de três estrelas.", "isCorrect": false }
+		],
+		"source_explanation": "O processo triplo-alfa é a reação de fusão nuclear chave que ocorre em estrelas gigantes vermelhas, permitindo que elas transformem hélio em carbono.",
+		"source_abnt": "CARROLL, Bradley W.; OSTLIE, Dale A. *An Introduction to Modern Astrophysics*. 2. ed. Cambridge: Cambridge University Press, 2017. (Capítulo 10: Evolução Estelar)."
+	},
+	{
+		"id": "ASTR043",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "Qual é a diferença fundamental entre uma Supernova Tipo Ia e uma Tipo II?",
+		"options": [
+			{ "description": "Tipo Ia é uma explosão termonuclear de uma anã branca; Tipo II é o colapso do núcleo de uma estrela massiva.", "isCorrect": true },
+			{ "description": "Tipo Ia não tem hidrogênio em seu espectro; Tipo II tem hidrogênio.", "isCorrect": false },
+			{ "description": "Ambas as opções estão corretas.", "isCorrect": false },
+			{ "description": "Tipo Ia é silenciosa; Tipo II é barulhenta.", "isCorrect": false }
+		],
+		"source_explanation": "A classificação espectral (Tipo Ia = sem hidrogênio; Tipo II = com hidrogênio) reflete seus mecanismos de origem: a Tipo Ia é a detonação de uma anã branca; a Tipo II é a morte de uma estrela massiva.",
+		"source_abnt": "FILIPPENKO, Alexei V. Type Ia Supernovae. *Annual Review of Astronomy and Astrophysics*, v. 35, p. 309-355, 1997."
+	},
+	{
+		"id": "ASTR044",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que são \"ondas gravitacionais\"?",
+		"options": [
+			{ "description": "Ondulações na gravidade da Terra (marés).", "isCorrect": false },
+			{ "description": "A força que mantém os quarks unidos.", "isCorrect": false },
+			{ "description": "Ondulações no tecido do espaço-tempo, causadas por eventos cósmicos massivos (como a fusão de buracos negros).", "isCorrect": true },
+			{ "description": "O campo magnético de uma estrela.", "isCorrect": false }
+		],
+		"source_explanation": "Previstas por Einstein (1916) e detectadas pelo LIGO/Virgo (2015, Prêmio Nobel 2017), as ondas gravitacionais são perturbações no espaço-tempo.",
+		"source_abnt": "ABBOTT, B. P. [et al.] (LIGO Scientific Collaboration and Virgo Collaboration). Observation of Gravitational Waves from a Binary Black Hole Merger. *Physical Review Letters*, v. 116, n. 6, 061102, 11 fev. 2016."
+	},
+	{
+		"id": "ASTR045",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que é uma \"Vela Padrão\" (Standard Candle) na cosmologia?",
+		"options": [
+			{ "description": "Uma classe de objetos astronômicos (como Supernovas Tipo Ia) cuja luminosidade intrínseca (brilho real) é conhecida.", "isCorrect": true },
+			{ "description": "O brilho padrão do Sol usado para calibrar telescópios.", "isCorrect": false },
+			{ "description": "Uma estrela que não varia de brilho.", "isCorrect": false },
+			{ "description": "O brilho da Radiação Cósmica de Fundo.", "isCorrect": false }
+		],
+		"source_explanation": "Velas Padrão (como Cefeidas ou Supernovas Tipo Ia) têm um brilho intrínseco conhecido. Ao medir seu brilho aparente, os astrônomos podem calcular sua distância (essencial para medir a expansão do universo).",
+		"source_abnt": "RIESS, Adam G. [et al.]. Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant. *The Astronomical Journal*, v. 116, n. 3, p. 1009-1038, 1998."
+	},
+	{
+		"id": "ASTR046",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O \"Event Horizon Telescope\" (EHT) é famoso por qual conquista de 2019?",
+		"options": [
+			{ "description": "Descobrir o primeiro exoplaneta.", "isCorrect": false },
+			{ "description": "Tirar a primeira fotografia direta da \"sombra\" de um buraco negro (M87*).", "isCorrect": true },
+			{ "description": "Detectar a fusão de estrelas de nêutrons.", "isCorrect": false },
+			{ "description": "Mapear a matéria escura.", "isCorrect": false }
+		],
+		"source_explanation": "O EHT, uma rede global de radiotelescópios, usou interferometria para capturar a primeira imagem do horizonte de eventos de um buraco negro (M87*).",
+		"source_abnt": "EVENT HORIZON TELESCOPE COLLABORATION. First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole. *The Astrophysical Journal Letters*, v. 875, n. 1, L1, 10 abr. 2019."
+	},
+	{
+		"id": "ASTR047",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que é o \"Limite de Tolman-Oppenheimer-Volkoff\" (Limite TOV)?",
+		"options": [
+			{ "description": "O limite máximo de massa para uma estrela de nêutrons antes de colapsar em um buraco negro.", "isCorrect": true },
+			{ "description": "O limite máximo de massa para uma anã branca (Limite de Chandrasekhar).", "isCorrect": false },
+			{ "description": "O ponto mais frio do universo.", "isCorrect": false },
+			{ "description": "O tamanho máximo de uma galáxia.", "isCorrect": false }
+		],
+		"source_explanation": "O Limite TOV (c. 2-3 massas solares) é o análogo do Limite de Chandrasekhar, mas para estrelas de nêutrons, definindo a massa máxima que a pressão de degenerescência de nêutrons pode suportar.",
+		"source_abnt": "OPPENHEIMER, J. Robert; VOLKOFF, George M. On Massive Neutron Cores. *Physical Review*, v. 55, n. 4, p. 374-381, 15 fev. 1939."
+	},
+	{
+		"id": "ASTR048",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que são \"anisotropias\" na Radiação Cósmica de Fundo (CMB)?",
+		"options": [
+			{ "description": "Pequenas variações de temperatura (flutuações) na CMB, que são as \"sementes\" das galáxias.", "isCorrect": true },
+			{ "description": "Buracos no mapa da CMB causados por buracos negros.", "isCorrect": false },
+			{ "description": "Sinais de rádio de civilizações alienígenas.", "isCorrect": false },
+			{ "description": "A prova de que o Big Bang não aconteceu.", "isCorrect": false }
+		],
+		"source_explanation": "As anisotropias (pequenas flutuações de temperatura, da ordem de 1 em 100.000) na CMB, mapeadas por satélites (COBE, WMAP, Planck), são as flutuações de densidade primordiais que deram origem às estruturas do universo (galáxias).",
+		"source_abnt": "PLANCK COLLABORATION. *Planck 2018 results. VI. Cosmological parameters*. Astronomy & Astrophysics, v. 641, A6, 2020."
+	},
+	{
+		"id": "ASTR049",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que é o \"Ciclo CNO\"?",
+		"options": [
+			{ "description": "O ciclo de vida de uma galáxia (Formação, Fusão, Morte).", "isCorrect": false },
+			{ "description": "A órbita de cometas de longo período (Nuvem de Oort).", "isCorrect": false },
+			{ "description": "Uma cadeia de fusão nuclear (Carbono-Nitrogênio-Oxigênio) que domina a produção de energia em estrelas *mais massivas* que o Sol.", "isCorrect": true },
+			{ "description": "O ciclo de manchas solares.", "isCorrect": false }
+		],
+		"source_explanation": "O Ciclo CNO (Carbono-Nitrogênio-Oxigênio) é o segundo tipo de fusão de hidrogênio em hélio. Ele domina a cadeia próton-próton (do Sol) em estrelas com mais de 1,3 massas solares.",
+		"source_abnt": "BETHE, Hans A. Energy Production in Stars. *Physical Review*, v. 55, n. 5, p. 434-456, 1 mar. 1939. (Prêmio Nobel 1967)."
+	},
+	{
+		"id": "ASTR050",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que é a \"Radiação Hawking\"?",
+		"options": [
+			{ "description": "A teoria de que os buracos negros podem evaporar lentamente ao emitir partículas térmicas em seu horizonte de eventos.", "isCorrect": true },
+			{ "description": "A luz emitida por um quasar.", "isCorrect": false },
+			{ "description": "O brilho azulado de um reator nuclear (Radiação Cherenkov).", "isCorrect": false },
+			{ "description": "A radiação residual do Big Bang (CMB).", "isCorrect": false }
+		],
+		"source_explanation": "Proposta por Stephen Hawking (1974), a Radiação Hawking é um efeito da mecânica quântica em campos gravitacionais fortes, que prevê que buracos negros emitem radiação e evaporam.",
+		"source_abnt": "HAWKING, Stephen W. Black hole explosions?. *Nature*, v. 248, p. 30-31, 1 mar. 1974."
+	},
+	{
+		"id": "ASTR051",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que é o \"Princípio Antrópico\"?",
+		"options": [
+			{ "description": "A teoria de que a vida humana é o centro do universo (antropocentrismo).", "isCorrect": false },
+			{ "description": "O argumento cosmológico de que as constantes fundamentais do universo parecem \"afinadas\" para permitir a existência de vida inteligente (nós, os observadores).", "isCorrect": true },
+			{ "description": "A busca por vida extraterrestre (SETI).", "isCorrect": false },
+			{ "description": "O princípio de que a entropia sempre aumenta.", "isCorrect": false }
+		],
+		"source_explanation": "O Princípio Antrópico (forte ou fraco), proposto por Brandon Carter (1973), debate por que as constantes físicas do universo (ex: gravidade) têm os valores exatos necessários para a vida existir.",
+		"source_abnt": "BARROW, John D.; TIPLER, Frank J. *The Anthropic Cosmological Principle*. Oxford: Oxford University Press, 1986."
+	},
+	{
+		"id": "ASTR052",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que é a \"Floresta Lyman-alfa\" (Lyman-alpha forest)?",
+		"options": [
+			{ "description": "Um berçário de estrelas em forma de árvore.", "isCorrect": false },
+			{ "description": "Um padrão de linhas de absorção no espectro de quasares distantes, causado por nuvens de hidrogênio intergaláctico.", "isCorrect": true },
+			{ "description": "O efeito da matéria escura na luz.", "isCorrect": false },
+			{ "description": "O campo magnético da Via Láctea.", "isCorrect": false }
+		],
+		"source_explanation": "A \"floresta\" de linhas de absorção Lyman-alfa é uma ferramenta crucial na cosmologia para mapear a distribuição de matéria (gás de hidrogênio) no universo primitivo.",
+		"source_abnt": "CARROLL, Bradley W.; OSTLIE, Dale A. *An Introduction to Modern Astrophysics*. 2. ed. Cambridge: Cambridge University Press, 2017. (Capítulo 28: Cosmologia)."
+	},
+	{
+		"id": "ASTR053",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que a \"Teoria da Relatividade Geral\" de Einstein descreve fundamentalmente?",
+		"options": [
+			{ "description": "A relação entre massa e energia ($E=mc^2$).", "isCorrect": false },
+			{ "description": "A gravidade não como uma força, mas como a curvatura do espaço-tempo causada pela massa e energia.", "isCorrect": true },
+			{ "description": "O comportamento das partículas quânticas.", "isCorrect": false },
+			{ "description": "A expansão do universo (Lei de Hubble).", "isCorrect": false }
+		],
+		"source_explanation": "A Teoria da Relatividade Geral (1915) é a teoria moderna da gravidade, onde a matéria \"diz\" ao espaço-tempo como se curvar, e o espaço-tempo \"diz\" à matéria como se mover.",
+		"source_abnt": "EINSTEIN, Albert. The Foundation of the General Theory of Relativity. *Annalen der Physik*, Berlim, v. 49, n. 7, p. 769-822, 1916."
+	},
+	{
+		"id": "ASTR054",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que é o \"processo-s\" (s-process) na nucleossíntese?",
+		"options": [
+			{ "description": "A captura *rápida* de nêutrons (ocorre em supernovas).", "isCorrect": false },
+			{ "description": "A captura *lenta* de nêutrons (ocorre em estrelas gigantes AGB), que cria elementos pesados como o Bário.", "isCorrect": true },
+			{ "description": "A fusão de silício em ferro.", "isCorrect": false },
+			{ "description": "A fusão de hidrogênio em hélio.", "isCorrect": false }
+		],
+		"source_explanation": "O processo-s (slow neutron capture) é um tipo de nucleossíntese estelar que ocorre em estrelas de baixa massa (ramo assintótico das gigantes - AGB).",
+		"source_abnt": "BURBIDGE, E. M.; BURBIDGE, G. R.; FOWLER, W. A.; HOYLE, F. Synthesis of the Elements in Stars. *Reviews of Modern Physics*, v. 29, n. 4, p. 547–650, 1957. (Artigo B²FH)."
+	},
+	{
+		"id": "ASTR055",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que é o \"processo-r\" (r-process) na nucleossíntese?",
+		"options": [
+			{ "description": "A captura *lenta* de nêutrons (ocorre em gigantes AGB).", "isCorrect": false },
+			{ "description": "A captura *rápida* de nêutrons (ocorre em ambientes extremos, como fusões de estrelas de nêutrons), que cria elementos como o ouro.", "isCorrect": true },
+			{ "description": "A fusão de carbono.", "isCorrect": false },
+			{ "description": "O decaimento radioativo.", "isCorrect": false }
+		],
+		"source_explanation": "O processo-r (rapid neutron capture) requer ambientes de nêutrons extremamente densos, como os encontrados em supernovas ou, como confirmado pela GW170817, em fusões de estrelas de nêutrons.",
+		"source_abnt": "ABBOTT, B. P. [et al.] (LIGO Scientific Collaboration and Virgo Collaboration). Gravitational Waves and Gamma-Rays from a Binary Neutron Star Merger: GW170817 and GRB 170817A. *The Astrophysical Journal Letters*, v. 848, n. 2, L13, 2017."
+	},
+	{
+		"id": "ASTR056",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que é o \"Lóbulo de Roche\" (Roche Lobe) em um sistema estelar binário?",
+		"options": [
+			{ "description": "A atmosfera externa de uma estrela.", "isCorrect": false },
+			{ "description": "A região em forma de lágrima ao redor de uma estrela em um sistema binário, dentro da qual o material está gravitacionalmente ligado a essa estrela.", "isCorrect": true },
+			{ "description": "O ponto de equilíbrio gravitacional (Ponto de Lagrange).", "isCorrect": false },
+			{ "description": "O disco de acreção.", "isCorrect": false }
+		],
+		"source_explanation": "O Lóbulo de Roche define a \"esfera de influência\" gravitacional de cada estrela. Se uma estrela se expande além de seu Lóbulo de Roche, ocorre transferência de massa para a companheira.",
+		"source_abnt": "CARROLL, Bradley W.; OSTLIE, Dale A. *An Introduction to Modern Astrophysics*. 2. ed. Cambridge: Cambridge University Press, 2017. (Capítulo 18: Sistemas Binários)."
+	},
+	{
+		"id": "ASTR057",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que é o \"Problema da Planicidade\" (Flatness Problem) na cosmologia?",
+		"options": [
+			{ "description": "Por que as galáxias são planas (em disco).", "isCorrect": false },
+			{ "description": "A observação de que a densidade do universo é extremamente próxima da \"densidade crítica\", resultando em uma geometria (quase) perfeitamente plana.", "isCorrect": true },
+			{ "description": "Por que o Sistema Solar é plano.", "isCorrect": false },
+			{ "description": "A incapacidade de mapear o universo.", "isCorrect": false }
+		],
+		"source_explanation": "O Problema da Planicidade (por que o parâmetro de densidade Omega é tão próximo de 1) é um dos problemas fundamentais do Big Bang, resolvido pela Teoria da Inflação.",
+		"source_abnt": "GUTH, Alan H. Inflationary universe: A possible solution to the horizon and flatness problems. *Physical Review D*, v. 23, n. 2, p. 347-356, 15 jan. 1981."
+	},
+	{
+		"id": "ASTR058",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que é o \"Problema do Horizonte\" (Horizon Problem) na cosmologia?",
+		"options": [
+			{ "description": "A dificuldade de ver além do horizonte de eventos de um buraco negro.", "isCorrect": false },
+			{ "description": "A observação de que a Radiação Cósmica de Fundo (CMB) tem uma temperatura uniforme, embora regiões opostas do céu nunca tenham estado em contato causal.", "isCorrect": true },
+			{ "description": "A incapacidade de ver o início do Big Bang.", "isCorrect": false },
+			{ "description": "A falta de estrelas no Vazio de Boötes.", "isCorrect": false }
+		],
+		"source_explanation": "O Problema do Horizonte questiona como a CMB pôde atingir equilíbrio térmico (temperatura uniforme) se regiões opostas do universo nunca estiveram em contato. É resolvido pela Teoria da Inflação.",
+		"source_abnt": "GUTH, Alan H. Inflationary universe: A possible solution to the horizon and flatness problems. *Physical Review D*, v. 23, n. 2, p. 347-356, 15 jan. 1981."
+	},
+	{
+		"id": "ASTR059",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que é um \"magnetar\"?",
+		"options": [
+			{ "description": "O buraco negro no centro da Via Láctea.", "isCorrect": false },
+			{ "description": "Um tipo de estrela de nêutrons com um campo magnético extraordinariamente poderoso.", "isCorrect": true },
+			{ "description": "Uma estrela com núcleo de ferro.", "isCorrect": false },
+			{ "description": "Um planeta que gera eletricidade.", "isCorrect": false }
+		],
+		"source_explanation": "Magnetares são um tipo raro de estrela de nêutrons cujos campos magnéticos são trilhões de vezes mais fortes que o da Terra, os mais fortes conhecidos no universo.",
+		"source_abnt": "NASA. *Magnetars*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/astrophysics/focus-areas/black-holes/magnetars/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ASTR060",
+		"category": "Astrofísica",
+		"level": "hard",
+		"question": "O que é o \"Raio de Schwarzschild\"?",
+		"options": [
+			{ "description": "A órbita de Mercúrio.", "isCorrect": false },
+			{ "description": "O raio do universo observável.", "isCorrect": false },
+			{ "description": "O raio do horizonte de eventos de um buraco negro não rotativo e sem carga.", "isCorrect": true },
+			{ "description": "A distância máxima que uma supernova pode ser vista.", "isCorrect": false }
+		],
+		"source_explanation": "Derivado da primeira solução exata da Relatividade Geral de Einstein (por Karl Schwarzschild, 1916), o Raio de Schwarzschild ($R_s = 2GM/c^2$) define o tamanho do horizonte de eventos.",
+		"source_abnt": "SCHWARZSCHILD, Karl. Über das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie. *Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften*, p. 189-196, 1916."
+	}
+]

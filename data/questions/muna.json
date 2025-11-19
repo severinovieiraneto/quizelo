@@ -1,0 +1,842 @@
+[
+	{
+		"id": "MUNA001",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "Qual é o processo que as plantas usam para converter luz solar em alimento?",
+		"options": [
+			{ "description": "Respiração", "isCorrect": false },
+			{ "description": "Fotossíntese", "isCorrect": true },
+			{ "description": "Polinização", "isCorrect": false },
+			{ "description": "Germinação", "isCorrect": false }
+		],
+		"source_explanation": "A fotossíntese é o processo biológico fundamental pelo qual plantas, algas e cianobactérias convertem energia luminosa em energia química.",
+		"source_abnt": "RAVEN, Peter H.; EVERT, Ray F.; EICHHORN, Susan E. *Biologia Vegetal*. 8. ed. Rio de Janeiro: Guanabara Koogan, 2014."
+	},
+	{
+		"id": "MUNA002",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "Qual é o maior animal do mundo?",
+		"options": [
+			{ "description": "Elefante Africano", "isCorrect": false },
+			{ "description": "Tubarão-Baleia", "isCorrect": false },
+			{ "description": "Baleia-Azul", "isCorrect": true },
+			{ "description": "Girafa", "isCorrect": false }
+		],
+		"source_explanation": "A Baleia-Azul (Balaenoptera musculus) é o maior mamífero (e animal) conhecido que já existiu, superando os maiores dinossauros.",
+		"source_abnt": "NOAA (NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION). *Blue Whale*. Washington, D.C.: NOAA Fisheries, [s.d.]. Disponível em: https://www.fisheries.noaa.gov/species/blue-whale. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUNA003",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "Qual é o animal terrestre mais rápido?",
+		"options": [
+			{ "description": "Leão", "isCorrect": false },
+			{ "description": "Guepardo (Cheetah)", "isCorrect": true },
+			{ "description": "Cavalo", "isCorrect": false },
+			{ "description": "Antílope", "isCorrect": false }
+		],
+		"source_explanation": "O Guepardo (Acinonyx jubatus) é capaz de atingir velocidades de até 120 km/h em corridas curtas, sendo o mamífero terrestre mais rápido.",
+		"source_abnt": "NATIONAL GEOGRAPHIC. *Cheetah*. Washington, D.C.: National Geographic, [s.d.]. Disponível em: https://www.nationalgeographic.com/animals/mammals/facts/cheetah. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUNA004",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "O que é um animal \"herbívoro\"?",
+		"options": [
+			{ "description": "Um animal que come apenas carne.", "isCorrect": false },
+			{ "description": "Um animal que come apenas plantas.", "isCorrect": true },
+			{ "description": "Um animal que come plantas e carne.", "isCorrect": false },
+			{ "description": "Um animal que come insetos.", "isCorrect": false }
+		],
+		"source_explanation": "Em ecologia, herbívoros são os consumidores primários, que se alimentam de produtores (plantas).",
+		"source_abnt": "RICKLEFS, Robert E. *A Economia da Natureza*. 6. ed. Rio de Janeiro: Guanabara Koogan, 2012. (Capítulo sobre Níveis Tróficos)."
+	},
+	{
+		"id": "MUNA005",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "Qual é a característica principal de um \"mamífero\"?",
+		"options": [
+			{ "description": "Põe ovos.", "isCorrect": false },
+			{ "description": "Tem sangue frio e escamas.", "isCorrect": false },
+			{ "description": "Tem sangue quente e glândulas mamárias (produz leite).", "isCorrect": true },
+			{ "description": "Respira debaixo d'água (brânquias).", "isCorrect": false }
+		],
+		"source_explanation": "A Classe Mammalia é definida pela presença de glândulas mamárias (para amamentar os filhotes), pelos e endotermia (sangue quente).",
+		"source_abnt": "HICKMAN JR., Cleveland P.; ROBERTS, Larry S.; LARSON, Allan. *Princípios Integrados de Zoologia*. 16. ed. Rio de Janeiro: Guanabara Koogan, 2016."
+	},
+	{
+		"id": "MUNA006",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "Onde vivem os ursos polares?",
+		"options": [
+			{ "description": "Na Antártida (Polo Sul)", "isCorrect": false },
+			{ "description": "No Deserto do Saara", "isCorrect": false },
+			{ "description": "No Ártico (Polo Norte)", "isCorrect": true },
+			{ "description": "Na Austrália", "isCorrect": false }
+		],
+		"source_explanation": "Os ursos polares (Ursus maritimus) são encontrados no Círculo Polar Ártico. Pinguins, por outro lado, vivem quase exclusivamente no Hemisfério Sul (Antártida).",
+		"source_abnt": "IUCN (INTERNATIONAL UNION FOR CONSERVATION OF NATURE). *Polar Bear (Ursus maritimus)*. Gland, Suíça: IUCN Red List, 2021. Disponível em: https://www.iucnredlist.org/species/22823/14871490. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUNA007",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "Qual gás as plantas absorvem da atmosfera durante a fotossíntese?",
+		"options": [
+			{ "description": "Oxigênio (O2)", "isCorrect": false },
+			{ "description": "Dióxido de Carbono (CO2)", "isCorrect": true },
+			{ "description": "Nitrogênio (N2)", "isCorrect": false },
+			{ "description": "Hidrogênio (H2)", "isCorrect": false }
+		],
+		"source_explanation": "Na equação da fotossíntese (6CO2 + 6H2O + Luz → C6H12O6 + 6O2), o Dióxido de Carbono (CO2) é o reagente absorvido.",
+		"source_abnt": "RAVEN, Peter H.; EVERT, Ray F.; EICHHORN, Susan E. *Biologia Vegetal*. 8. ed. Rio de Janeiro: Guanabara Koogan, 2014. (Capítulo sobre Fotossíntese)."
+	},
+	{
+		"id": "MUNA008",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "Qual é o único mamífero capaz de voar ativamente (voo batido)?",
+		"options": [
+			{ "description": "Esquilo-voador", "isCorrect": false },
+			{ "description": "Pinguim", "isCorrect": false },
+			{ "description": "Morcego", "isCorrect": true },
+			{ "description": "Avestruz", "isCorrect": false }
+		],
+		"source_explanation": "Os morcegos (Ordem Chiroptera) são os únicos mamíferos com voo verdadeiro e motorizado (batendo as asas), ao contrário de planadores como o esquilo-voador.",
+		"source_abnt": "HICKMAN JR., Cleveland P.; ROBERTS, Larry S.; LARSON, Allan. *Princípios Integrados de Zoologia*. 16. ed. Rio de Janeiro: Guanabara Koogan, 2016. (Capítulo: Ordem Chiroptera)."
+	},
+	{
+		"id": "MUNA009",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "Qual parte da planta é responsável por absorver água e nutrientes do solo?",
+		"options": [
+			{ "description": "A flor", "isCorrect": false },
+			{ "description": "A folha", "isCorrect": false },
+			{ "description": "O caule", "isCorrect": false },
+			{ "description": "A raiz", "isCorrect": true }
+		],
+		"source_explanation": "A morfologia vegetal básica define as raízes como os órgãos primários para a absorção de água e minerais, além da ancoragem.",
+		"source_abnt": "RAVEN, Peter H.; EVERT, Ray F.; EICHHORN, Susan E. *Biologia Vegetal*. 8. ed. Rio de Janeiro: Guanabara Koogan, 2014. (Capítulo: Raízes)."
+	},
+	{
+		"id": "MUNA010",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "Como é chamada a sequência de quem come quem em um ecossistema?",
+		"options": [
+			{ "description": "Cadeia alimentar", "isCorrect": true },
+			{ "description": "Ciclo da água", "isCorrect": false },
+			{ "description": "Seleção natural", "isCorrect": false },
+			{ "description": "Simbiose", "isCorrect": false }
+		],
+		"source_explanation": "A cadeia alimentar (ou teia alimentar) é o conceito ecológico que descreve o fluxo de energia dos produtores (plantas) aos consumidores.",
+		"source_abnt": "ODUM, Eugene P.; BARRETT, Gary W. *Fundamentos de Ecologia*. 5. ed. São Paulo: Cengage Learning, 2008."
+	},
+	{
+		"id": "MUNA011",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "Qual é a maior floresta tropical do mundo?",
+		"options": [
+			{ "description": "Floresta do Congo", "isCorrect": false },
+			{ "description": "Floresta Amazônica", "isCorrect": true },
+			{ "description": "Floresta de Daintree", "isCorrect": false },
+			{ "description": "Floresta Negra", "isCorrect": false }
+		],
+		"source_explanation": "A Floresta Amazônica, na América do Sul, é a maior floresta tropical (rainforest) do mundo.",
+		"source_abnt": "WWF (WORLD WILDLIFE FUND). *Amazon*. [S.l.]: WWF, [s.d.]. Disponível em: https://www.worldwildlife.org/places/amazon. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUNA012",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "Quantas patas tem uma aranha?",
+		"options": [
+			{ "description": "Seis", "isCorrect": false },
+			{ "description": "Oito", "isCorrect": true },
+			{ "description": "Dez", "isCorrect": false },
+			{ "description": "Quatro", "isCorrect": false }
+		],
+		"source_explanation": "As aranhas pertencem à Classe Arachnida (Aracnídeos), que se caracterizam por terem oito patas (quatro pares). Insetos têm seis.",
+		"source_abnt": "HICKMAN JR., Cleveland P.; ROBERTS, Larry S.; LARSON, Allan. *Princípios Integrados de Zoologia*. 16. ed. Rio de Janeiro: Guanabara Koogan, 2016. (Capítulo: Filo Arthropoda)."
+	},
+	{
+		"id": "MUNA013",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "O que é um animal \"onívoro\"?",
+		"options": [
+			{ "description": "Que come apenas carne.", "isCorrect": false },
+			{ "description": "Que come apenas plantas.", "isCorrect": false },
+			{ "description": "Que come plantas e carne.", "isCorrect": true },
+			{ "description": "Que come apenas frutas.", "isCorrect": false }
+		],
+		"source_explanation": "Em ecologia, onívoros são animais (como humanos, ursos) que se alimentam tanto de produtores (plantas) quanto de consumidores (carne).",
+		"source_abnt": "RICKLEFS, Robert E. *A Economia da Natureza*. 6. ed. Rio de Janeiro: Guanabara Koogan, 2012."
+	},
+	{
+		"id": "MUNA014",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "Qual é a principal característica de um \"réptil\"?",
+		"options": [
+			{ "description": "Tem penas e bico.", "isCorrect": false },
+			{ "description": "Tem sangue frio e o corpo coberto por escamas.", "isCorrect": true },
+			{ "description": "Tem sangue quente e pelos.", "isCorrect": false },
+			{ "description": "Vive na água e tem brânquias.", "isCorrect": false }
+		],
+		"source_explanation": "A Classe Reptilia é definida por características como ectotermia (sangue frio), pele com escamas e (na maioria) ovos amnióticos.",
+		"source_abnt": "HICKMAN JR., Cleveland P.; ROBERTS, Larry S.; LARSON, Allan. *Princípios Integrados de Zoologia*. 16. ed. Rio de Janeiro: Guanabara Koogan, 2016. (Capítulo: Classe Reptilia)."
+	},
+	{
+		"id": "MUNA015",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "Qual é o processo em que um animal dorme profundamente durante o inverno para conservar energia?",
+		"options": [
+			{ "description": "Migração", "isCorrect": false },
+			{ "description": "Hibernação", "isCorrect": true },
+			{ "description": "Fotossíntese", "isCorrect": false },
+			{ "description": "Metamorfose", "isCorrect": false }
+		],
+		"source_explanation": "A hibernação é um estado de torpor e atividade metabólica reduzida em animais, usado para sobreviver a períodos frios e com escassez de alimentos.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Hibernation. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/hibernation. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUNA016",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "Qual é a árvore mais alta do mundo?",
+		"options": [
+			{ "description": "Baobá", "isCorrect": false },
+			{ "description": "Carvalho", "isCorrect": false },
+			{ "description": "Sequoia (Hyperion)", "isCorrect": true },
+			{ "description": "Pinheiro", "isCorrect": false }
+		],
+		"source_explanation": "O Guinness Book of World Records reconhece \"Hyperion\", uma Sequoia (Sequoia sempervirens) na Califórnia, como a árvore viva mais alta do mundo.",
+		"source_abnt": "GUINNESS WORLD RECORDS. *Tallest living tree*. Londres: Guinness World Records, [s.d.]. Disponível em: https://www.guinnessworldrecords.com/world-records/tallest-living-tree. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUNA017",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "O que é um \"ecossistema\"?",
+		"options": [
+			{ "description": "Apenas os animais de uma região.", "isCorrect": false },
+			{ "description": "A comunidade de seres vivos (bióticos) e o ambiente físico (abiótico) interagindo.", "isCorrect": true },
+			{ "description": "Apenas o clima e o solo de uma região.", "isCorrect": false },
+			{ "description": "O estudo da evolução das espécies.", "isCorrect": false }
+		],
+		"source_explanation": "Definição padrão de ecologia, onde um ecossistema é a unidade funcional que inclui todos os organismos (bióticos) e seu ambiente (abiótico).",
+		"source_abnt": "ODUM, Eugene P.; BARRETT, Gary W. *Fundamentos de Ecologia*. 5. ed. São Paulo: Cengage Learning, 2008."
+	},
+	{
+		"id": "MUNA018",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "Qual é o maior deserto quente do mundo?",
+		"options": [
+			{ "description": "Deserto do Saara", "isCorrect": true },
+			{ "description": "Deserto de Gobi", "isCorrect": false },
+			{ "description": "Deserto do Atacama", "isCorrect": false },
+			{ "description": "Deserto da Arábia", "isCorrect": false }
+		],
+		"source_explanation": "O Saara, no Norte da África, é o maior deserto quente (subtropical) do mundo. (A Antártida é o maior deserto polar).",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Sahara. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/place/Sahara. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUNA019",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "Como se chama a transformação de uma lagarta em borboleta?",
+		"options": [
+			{ "description": "Evolução", "isCorrect": false },
+			{ "description": "Metamorfose", "isCorrect": true },
+			{ "description": "Hibernação", "isCorrect": false },
+			{ "description": "Germinação", "isCorrect": false }
+		],
+		"source_explanation": "A metamorfose completa (Holometabolismo) em insetos (como borboletas) envolve os estágios de ovo, larva (lagarta), pupa (crisálida) e adulto.",
+		"source_abnt": "HICKMAN JR., Cleveland P.; ROBERTS, Larry S.; LARSON, Allan. *Princípios Integrados de Zoologia*. 16. ed. Rio de Janeiro: Guanabara Koogan, 2016. (Capítulo: Insetos)."
+	},
+	{
+		"id": "MUNA020",
+		"category": "Mundo Natural",
+		"level": "easy",
+		"question": "Qual animal é conhecido por construir diques (barragens) em rios?",
+		"options": [
+			{ "description": "Lontra", "isCorrect": false },
+			{ "description": "Capivara", "isCorrect": false },
+			{ "description": "Castor", "isCorrect": true },
+			{ "description": "Hipopótamo", "isCorrect": false }
+		],
+		"source_explanation": "Os castores (gênero Castor) são roedores conhecidos por construir barragens (diques) em rios, criando lagoas que servem como proteção e habitat.",
+		"source_abnt": "NATIONAL GEOGRAPHIC. *Beaver*. Washington, D.C.: National Geographic, [s.d.]. Disponível em: https://www.nationalgeographic.com/animals/mammals/facts/beaver. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUNA021",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "O que é \"simbiose\"?",
+		"options": [
+			{ "description": "Uma relação onde uma espécie se beneficia e a outra é prejudicada.", "isCorrect": false },
+			{ "description": "Uma relação de longo prazo entre duas espécies diferentes (podendo ser mutualismo, parasitismo ou comensalismo).", "isCorrect": true },
+			{ "description": "O processo de decomposição de matéria orgânica.", "isCorrect": false },
+			{ "description": "A competição entre duas espécies pelo mesmo recurso.", "isCorrect": false }
+		],
+		"source_explanation": "Em ecologia, \"simbiose\" é o termo guarda-chuva para qualquer interação biológica próxima e de longo prazo entre duas espécies, incluindo mutualismo (+/+), comensalismo (+/0) e parasitismo (+/-).",
+		"source_abnt": "RICKLEFS, Robert E. *A Economia da Natureza*. 6. ed. Rio de Janeiro: Guanabara Koogan, 2012. (Capítulo: Relações Interespecíficas)."
+	},
+	{
+		"id": "MUNA022",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "Qual é a principal diferença entre um réptil e um anfíbio?",
+		"options": [
+			{ "description": "Répteis têm sangue quente; anfíbios têm sangue frio.", "isCorrect": false },
+			{ "description": "Répteis põem ovos com casca dura/coriácea; anfíbios põem ovos gelatinosos na água e têm uma fase larval.", "isCorrect": true },
+			{ "description": "Répteis são carnívoros; anfíbios são herbívoros.", "isCorrect": false },
+			{ "description": "Répteis têm 4 patas; anfíbios têm 2 patas.", "isCorrect": false }
+		],
+		"source_explanation": "Anfíbios (ex: sapos) necessitam de água para a reprodução (ovos gelatinosos, larvas aquáticas/girinos). Répteis (ex: cobras) desenvolveram o ovo amniótico, que pode ser posto em terra.",
+		"source_abnt": "HICKMAN JR., Cleveland P.; ROBERTS, Larry S.; LARSON, Allan. *Princípios Integrados de Zoologia*. 16. ed. Rio de Janeiro: Guanabara Koogan, 2016. (Capítulos: Anfíbios e Répteis)."
+	},
+	{
+		"id": "MUNA023",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "O que é um animal \"endêmico\" de uma região?",
+		"options": [
+			{ "description": "Um animal que foi introduzido naquela região pelo homem (espécie invasora).", "isCorrect": false },
+			{ "description": "Um animal que só existe naturalmente naquela região específica e em nenhum outro lugar.", "isCorrect": true },
+			{ "description": "Um animal que migra para aquela região todos os anos.", "isCorrect": false },
+			{ "description": "Um animal que está em risco de extinção.", "isCorrect": false }
+		],
+		"source_explanation": "Em biogeografia, \"endemismo\" refere-se a uma espécie que é nativa e restrita a uma área geográfica específica (ex: o Lêmure é endêmico de Madagascar).",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Endemism. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/endemism. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUNA024",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "Qual é a função do \"xilema\" (xylem) em uma planta?",
+		"options": [
+			{ "description": "Transportar os açúcares (alimento) das folhas para o resto da planta.", "isCorrect": false },
+			{ "description": "Transportar água e minerais das raízes para as folhas.", "isCorrect": true },
+			{ "description": "Realizar a fotossíntese.", "isCorrect": false },
+			{ "description": "Produzir o pólen para a reprodução.", "isCorrect": false }
+		],
+		"source_explanation": "O xilema é o tecido vascular em plantas que transporta água e minerais dissolvidos das raízes para o resto da planta.",
+		"source_abnt": "RAVEN, Peter H.; EVERT, Ray F.; EICHHORN, Susan E. *Biologia Vegetal*. 8. ed. Rio de Janeiro: Guanabara Koogan, 2014. (Capítulo: Tecidos Vasculares)."
+	},
+	{
+		"id": "MUNA025",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "Qual é o maior animal invertebrado do mundo?",
+		"options": [
+			{ "description": "Polvo-gigante-do-Pacífico", "isCorrect": false },
+			{ "description": "Tubarão-Baleia (Nota: é um vertebrado)", "isCorrect": false },
+			{ "description": "Lula-colossal", "isCorrect": true },
+			{ "description": "Caranguejo-gigante-japonês", "isCorrect": false }
+		],
+		"source_explanation": "A Lula-colossal (Mesonychoteuthis hamiltoni) é o maior invertebrado conhecido em termos de massa, encontrada nas águas da Antártida.",
+		"source_abnt": "MUSEUM OF NEW ZEALAND TE PAPA TONGAREWA. *Colossal Squid*. Wellington: Te Papa, [s.d.]. Disponível em: https://www.tepapa.govt.nz/discover-collections/read-watch-play/science/colossal-squid/colossal-squid-facts. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUNA026",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "O que é \"bioluminescência\"?",
+		"options": [
+			{ "description": "A capacidade de um organismo refletir a luz da lua.", "isCorrect": false },
+			{ "description": "A produção e emissão de luz por um organismo vivo (ex: vagalumes, peixes-diabo).", "isCorrect": true },
+			{ "description": "O uso de som para navegação (ecolocalização).", "isCorrect": false },
+			{ "description": "A mudança de cor da pele para camuflagem.", "isCorrect": false }
+		],
+		"source_explanation": "A bioluminescência é a produção de luz (energia química convertida em energia luminosa) por organismos vivos, como vagalumes e muitos organismos marinhos.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Bioluminescence. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/bioluminescence. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUNA027",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "Qual é a principal diferença entre um inseto e um aracnídeo?",
+		"options": [
+			{ "description": "Insetos têm 6 patas e 3 segmentos corporais; aracnídeos têm 8 patas e 2 segmentos.", "isCorrect": true },
+			{ "description": "Insetos voam; aracnídeos não.", "isCorrect": false },
+			{ "description": "Insetos são carnívoros; aracnídeos são herbívoros.", "isCorrect": false },
+			{ "description": "Insetos têm antenas; aracnídeos não têm (têm pedipalpos).", "isCorrect": false }
+		],
+		"source_explanation": "Na classificação de Artrópodes, os Insetos (Classe Insecta) têm 6 patas e corpo dividido em cabeça, tórax e abdômen. Aracnídeos (Classe Arachnida) têm 8 patas e corpo dividido em cefalotórax e abdômen.",
+		"source_abnt": "HICKMAN JR., Cleveland P.; ROBERTS, Larry S.; LARSON, Allan. *Princípios Integrados de Zoologia*. 16. ed. Rio de Janeiro: Guanabara Koogan, 2016."
+	},
+	{
+		"id": "MUNA028",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "O que é um \"líquen\" (liquen)?",
+		"options": [
+			{ "description": "Um tipo de musgo que cresce em solos úmidos.", "isCorrect": false },
+			{ "description": "Um organismo simbiótico composto por um fungo e uma alga (ou cianobactéria).", "isCorrect": true },
+			{ "description": "A primeira fase de vida de um sapo.", "isCorrect": false },
+			{ "description": "Uma planta carnívora.", "isCorrect": false }
+		],
+		"source_explanation": "Líquens são organismos complexos que surgem da associação simbiótica (mutualismo) entre fungos (o micobionte) e algas ou cianobactérias (o fotobionte).",
+		"source_abnt": "RAVEN, Peter H.; EVERT, Ray F.; EICHHORN, Susan E. *Biologia Vegetal*. 8. ed. Rio de Janeiro: Guanabara Koogan, 2014. (Capítulo: Fungos)."
+	},
+	{
+		"id": "MUNA029",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "O que é um \"predador de topo de cadeia\" (ou predador alfa)?",
+		"options": [
+			{ "description": "Um animal que caça durante o dia.", "isCorrect": false },
+			{ "description": "Um predador que não tem predadores naturais em seu ecossistema.", "isCorrect": true },
+			{ "description": "O animal mais rápido de um ecossistema.", "isCorrect": false },
+			{ "description": "Um animal que só come frutas.", "isCorrect": false }
+		],
+		"source_explanation": "O predador alfa (ou de topo) é aquele que ocupa o nível trófico mais alto em uma cadeia alimentar, não sendo predado por nenhuma outra espécie em seu ecossistema (ex: leão, tubarão-branco).",
+		"source_abnt": "RICKLEFS, Robert E. *A Economia da Natureza*. 6. ed. Rio de Janeiro: Guanabara Koogan, 2012."
+	},
+	{
+		"id": "MUNA030",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "O que é \"polinização\"?",
+		"options": [
+			{ "description": "O processo de uma semente se transformar em planta.", "isCorrect": false },
+			{ "description": "O transporte de pólen da parte masculina da flor (antera) para a parte feminina (estigma), permitindo a fertilização.", "isCorrect": true },
+			{ "description": "O uso de luz solar para criar energia.", "isCorrect": false },
+			{ "description": "A dispersão de sementes pelo vento.", "isCorrect": false }
+		],
+		"source_explanation": "A polinização (por vento, água ou animais) é o processo reprodutivo fundamental das plantas com flores (angiospermas).",
+		"source_abnt": "RAVEN, Peter H.; EVERT, Ray F.; EICHHORN, Susan E. *Biologia Vegetal*. 8. ed. Rio de Janeiro: Guanabara Koogan, 2014. (Capítulo: Reprodução)."
+	},
+	{
+		"id": "MUNA031",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "O que é um \"bioma\"?",
+		"options": [
+			{ "description": "Todos os animais de uma espécie específica.", "isCorrect": false },
+			{ "description": "Uma grande comunidade de plantas e animais com características semelhantes, definida pelo clima (ex: Tundra, Deserto, Savana).", "isCorrect": true },
+			{ "description": "A camada de ozônio que protege a Terra.", "isCorrect": false },
+			{ "description": "O estudo da genética animal.", "isCorrect": false }
+		],
+		"source_explanation": "Bioma é uma grande unidade biogeográfica, caracterizada por um tipo de vegetação dominante e um clima específico (ex: Floresta Tropical, Tundra, Deserto).",
+		"source_abnt": "ODUM, Eugene P.; BARRETT, Gary W. *Fundamentos de Ecologia*. 5. ed. São Paulo: Cengage Learning, 2008. (Capítulo: Biomas Terrestres)."
+	},
+	{
+		"id": "MUNA032",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "Qual é a função do \"floema\" (phloem) em uma planta?",
+		"options": [
+			{ "description": "Transportar água e minerais (função do Xilema).", "isCorrect": false },
+			{ "description": "Transportar os açúcares (alimento) produzidos na fotossíntese para o resto da planta.", "isCorrect": true },
+			{ "description": "Ancorar a planta no solo.", "isCorrect": false },
+			{ "description": "Proteger a planta contra insetos.", "isCorrect": false }
+		],
+		"source_explanation": "O floema é o tecido vascular responsável pelo transporte de seiva elaborada (açúcares, principalmente sacarose) das folhas (fonte) para as áreas de demanda (dreno).",
+		"source_abnt": "RAVEN, Peter H.; EVERT, Ray F.; EICHHORN, Susan E. *Biologia Vegetal*. 8. ed. Rio de Janeiro: Guanabara Koogan, 2014. (Capítulo: Tecidos Vasculares)."
+	},
+	{
+		"id": "MUNA033",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "O que é \"ecolocalização\" (ou biossonar)?",
+		"options": [
+			{ "description": "A capacidade de mudar de cor para se camuflar.", "isCorrect": false },
+			{ "description": "A habilidade de usar ecos (ondas sonoras) para se localizar e encontrar objetos (usada por morcegos e golfinhos).", "isCorrect": true },
+			{ "description": "A migração baseada no campo magnético da Terra.", "isCorrect": false },
+			{ "description": "A produção de luz (bioluminescência).", "isCorrect": false }
+		],
+		"source_explanation": "A ecolocalização é um sonar biológico usado por animais como morcegos, golfinhos e baleias para navegar e caçar.",
+		"source_abnt": "HICKMAN JR., Cleveland P.; ROBERTS, Larry S.; LARSON, Allan. *Princípios Integrados de Zoologia*. 16. ed. Rio de Janeiro: Guanabara Koogan, 2016. (Capítulo: Sistemas Sensoriais)."
+	},
+	{
+		"id": "MUNA034",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "Qual é a flor conhecida por seu cheiro horrível de \"carne podre\", para atrair moscas polinizadoras?",
+		"options": [
+			{ "description": "Rosa", "isCorrect": false },
+			{ "description": "Orquídea", "isCorrect": false },
+			{ "description": "Flor-cadáver (Rafflesia arnoldii ou Titan arum)", "isCorrect": true },
+			{ "description": "Girassol", "isCorrect": false }
+		],
+		"source_explanation": "A Rafflesia arnoldii (Flor-cadáver) é uma planta parasita famosa por produzir a maior flor individual do mundo, que cheira a carne em decomposição para atrair moscas.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Corpse flower. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/plant/corpse-flower. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUNA035",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "O que define um \"marsupial\", como um canguru ou gambá?",
+		"options": [
+			{ "description": "Eles põem ovos (Monotremados).", "isCorrect": false },
+			{ "description": "Eles dão à luz a filhotes subdesenvolvidos que completam seu desenvolvimento em uma bolsa (marsúpio).", "isCorrect": true },
+			{ "description": "Eles hibernam durante o inverno.", "isCorrect": false },
+			{ "description": "Eles são mamíferos que vivem na água.", "isCorrect": false }
+		],
+		"source_explanation": "Os marsupiais (Infraclasse Marsupialia) são mamíferos caracterizados pelo nascimento de filhotes em estágio embrionário, que migram para o marsúpio.",
+		"source_abnt": "HICKMAN JR., Cleveland P.; ROBERTS, Larry S.; LARSON, Allan. *Princípios Integrados de Zoologia*. 16. ed. Rio de Janeiro: Guanabara Koogan, 2016. (Capítulo: Mamíferos)."
+	},
+	{
+		"id": "MUNA036",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "O que é uma \"espécie invasora\"?",
+		"options": [
+			{ "description": "Uma espécie que migra para longas distâncias.", "isCorrect": false },
+			{ "description": "Uma espécie introduzida em um novo ambiente onde não tem predadores naturais e causa danos ecológicos.", "isCorrect": true },
+			{ "description": "Uma espécie que está no topo da cadeia alimentar.", "isCorrect": false },
+			{ "description": "Uma espécie que só existe naquela área (endêmica).", "isCorrect": false }
+		],
+		"source_explanation": "A IUCN (União Internacional para a Conservação da Natureza) define espécies exóticas invasoras como animais ou plantas introduzidos fora de sua área nativa, que ameaçam a biodiversidade.",
+		"source_abnt": "IUCN (INTERNATIONAL UNION FOR CONSERVATION OF NATURE). *Invasive Alien Species*. Gland, Suíça: IUCN, [s.d.]. Disponível em: https://www.iucn.org/our-work/topic/invasive-alien-species. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUNA037",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "O que é um \"cetáceo\"?",
+		"options": [
+			{ "description": "Um grupo de grandes répteis (dinossauros).", "isCorrect": false },
+			{ "description": "Um grupo de mamíferos marinhos que inclui baleias, golfinhos e botos.", "isCorrect": true },
+			{ "description": "Um tipo de inseto social (formigas, abelhas).", "isCorrect": false },
+			{ "description": "Um tipo de primata (macacos, símios).", "isCorrect": false }
+		],
+		"source_explanation": "A Ordem Cetacea é a classificação zoológica para mamíferos marinhos totalmente aquáticos (baleias, golfinhos, botos).",
+		"source_abnt": "HICKMAN JR., Cleveland P.; ROBERTS, Larry S.; LARSON, Allan. *Princípios Integrados de Zoologia*. 16. ed. Rio de Janeiro: Guanabara Koogan, 2016. (Capítulo: Ordem Cetacea)."
+	},
+	{
+		"id": "MUNA038",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "O que é \"Mimetismo Batesiano\" (Batesian mimicry)?",
+		"options": [
+			{ "description": "Duas espécies venenosas que se parecem (Mimetismo Mülleriano).", "isCorrect": false },
+			{ "description": "Uma espécie inofensiva que evolui para se parecer com uma espécie perigosa ou venenosa.", "isCorrect": true },
+			{ "description": "A capacidade de se misturar ao ambiente (camuflagem).", "isCorrect": false },
+			{ "description": "A relação simbiótica entre uma flor e seu polinizador.", "isCorrect": false }
+		],
+		"source_explanation": "O Mimetismo Batesiano (nomeado após Henry Walter Bates) ocorre quando uma espécie palatável (o mímico) imita uma espécie impalatável ou perigosa (o modelo).",
+		"source_abnt": "RICKLEFS, Robert E. *A Economia da Natureza*. 6. ed. Rio de Janeiro: Guanabara Koogan, 2012. (Capítulo: Defesas contra Predadores)."
+	},
+	{
+		"id": "MUNA039",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "O que é uma \"espécie-chave\" (keystone species)?",
+		"options": [
+			{ "description": "A espécie mais abundante em um ecossistema.", "isCorrect": false },
+			{ "description": "Uma espécie que tem um impacto desproporcionalmente grande em seu ecossistema, mantendo-o unido (ex: lontra marinha, lobo).", "isCorrect": true },
+			{ "description": "A espécie mais perigosa de um ecossistema.", "isCorrect": false },
+			{ "description": "A primeira espécie a colonizar uma área destruída.", "isCorrect": false }
+		],
+		"source_explanation": "O conceito de \"espécie-chave\", introduzido por Robert Paine, descreve uma espécie cujo impacto no ecossistema é muito maior do que sua biomassa sugeriria.",
+		"source_abnt": "PAINE, Robert T. Food Web Complexity and Species Diversity. *The American Naturalist*, v. 100, n. 910, p. 65-75, jan. 1966."
+	},
+	{
+		"id": "MUNA040",
+		"category": "Mundo Natural",
+		"level": "medium",
+		"question": "Qual é a principal diferença entre árvores \"angiospermas\" e \"gimnospermas\"?",
+		"options": [
+			{ "description": "Angiospermas têm folhas; Gimnospermas têm agulhas.", "isCorrect": false },
+			{ "description": "Angiospermas produzem flores e frutos (sementes protegidas); Gimnospermas produzem cones (sementes \"nuas\").", "isCorrect": true },
+			{ "description": "Angiospermas são altas; Gimnospermas são baixas.", "isCorrect": false },
+			{ "description": "Angiospermas precisam de água; Gimnospermas não.", "isCorrect": false }
+		],
+		"source_explanation": "A classificação botânica divide as plantas com sementes em Gimnospermas (ex: pinheiros) e Angiospermas (plantas com flores e frutos).",
+		"source_abnt": "RAVEN, Peter H.; EVERT, Ray F.; EICHHORN, Susan E. *Biologia Vegetal*. 8. ed. Rio de Janeiro: Guanabara Koogan, 2014. (Capítulos: Gimnospermas e Angiospermas)."
+	},
+	{
+		"id": "MUNA041",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "O que é \"bioacumulação\" (ou biomagnificação)?",
+		"options": [
+			{ "description": "O processo de aumento da concentração de uma substância (como mercúrio ou DDT) em organismos em níveis tróficos sucessivamente mais altos.", "isCorrect": true },
+			{ "description": "A capacidade de uma espécie de se adaptar a múltiplos biomas.", "isCorrect": false },
+			{ "description": "A criação de luz por organismos vivos.", "isCorrect": false },
+			{ "description": "O acúmulo de oxigênio na atmosfera devido à fotossíntese.", "isCorrect": false }
+		],
+		"source_explanation": "A biomagnificação (ou bioacumulação trófica) é o aumento da concentração de toxinas (como DDT ou mercúrio) em cada nível sucessivo da cadeia alimentar.",
+		"source_abnt": "RICKLEFS, Robert E. *A Economia da Natureza*. 6. ed. Rio de Janeiro: Guanabara Koogan, 2012. (Capítulo: Toxicologia Ambiental)."
+	},
+	{
+		"id": "MUNA042",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "O que é uma planta \"dioica\" (dioecious)?",
+		"options": [
+			{ "description": "Uma planta que possui flores masculinas e femininas na mesma planta (monoica).", "isCorrect": false },
+			{ "description": "Uma planta que possui indivíduos separados para os sexos (plantas \"macho\" e plantas \"fêmea\").", "isCorrect": true },
+			{ "description": "Uma planta que se reproduz assexuadamente.", "isCorrect": false },
+			{ "description": "Uma planta que vive dois anos.", "isCorrect": false }
+		],
+		"source_explanation": "Em botânica, plantas dioicas (ex: azevinho, cannabis) têm flores masculinas e femininas em indivíduos separados. Plantas monoicas (ex: milho) têm ambas no mesmo indivíduo.",
+		"source_abnt": "RAVEN, Peter H.; EVERT, Ray F.; EICHHORN, Susan E. *Biologia Vegetal*. 8. ed. Rio de Janeiro: Guanabara Koogan, 2014. (Capítulo: Reprodução de Angiospermas)."
+	},
+	{
+		"id": "MUNA043",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "O que é \"partenogênese\"?",
+		"options": [
+			{ "description": "Um tipo de reprodução assexuada onde um óvulo não fertilizado se desenvolve em um novo indivíduo.", "isCorrect": true },
+			{ "description": "A capacidade de regenerar partes do corpo perdidas.", "isCorrect": false },
+			{ "description": "A mudança de sexo de um animal durante sua vida.", "isCorrect": false },
+			{ "description": "O processo de hibernação profunda.", "isCorrect": false }
+		],
+		"source_explanation": "A partenogênese (grego para \"nascimento virgem\") é uma forma de reprodução assexuada em que um embrião se desenvolve a partir de um óvulo não fertilizado (ocorre em alguns lagartos, insetos e peixes).",
+		"source_abnt": "HICKMAN JR., Cleveland P.; ROBERTS, Larry S.; LARSON, Allan. *Princípios Integrados de Zoologia*. 16. ed. Rio de Janeiro: Guanabara Koogan, 2016. (Capítulo: Reprodução)."
+	},
+	{
+		"id": "MUNA044",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "O que é a \"Linha de Wallace\"?",
+		"options": [
+			{ "description": "O limite de altitude acima do qual as árvores não podem crescer.", "isCorrect": false },
+			{ "description": "Uma fronteira biogeográfica que separa as faunas da Ásia e da Australásia (passando pela Indonésia).", "isCorrect": true },
+			{ "description": "O caminho de migração das baleias-jubarte.", "isCorrect": false },
+			{ "description": "A profundidade máxima do oceano onde a luz solar penetra.", "isCorrect": false }
+		],
+		"source_explanation": "A \"Linha de Wallace\", proposta pelo naturalista Alfred Russel Wallace (co-descobridor da seleção natural), é uma fronteira que separa as zonas biogeográficas da Ásia e da Australásia.",
+		"source_abnt": "WALLACE, Alfred Russel. *O Arquipélago Malaio*. Tradução de G. R. de S. R. da Costa. São Paulo: Editora Unesp, 2004. (Publicado originalmente em 1869)."
+	},
+	{
+		"id": "MUNA045",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "O que é \"fotoperiodismo\" em plantas?",
+		"options": [
+			{ "description": "O crescimento da planta em direção à luz (fototropismo).", "isCorrect": false },
+			{ "description": "A resposta fisiológica de uma planta à duração do dia ou da noite (afeta a floração).", "isCorrect": true },
+			{ "description": "A capacidade de uma planta de converter luz em energia.", "isCorrect": false },
+			{ "description": "A mudança de cor das folhas no outono.", "isCorrect": false }
+		],
+		"source_explanation": "O fotoperiodismo é a resposta de desenvolvimento das plantas à duração relativa dos períodos de luz e escuridão (fotoperíodo), controlando a floração (plantas de dia curto vs. dia longo).",
+		"source_abnt": "RAVEN, Peter H.; EVERT, Ray F.; EICHHORN, Susan E. *Biologia Vegetal*. 8. ed. Rio de Janeiro: Guanabara Koogan, 2014. (Capítulo: Respostas ao Fotoperíodo)."
+	},
+	{
+		"id": "MUNA046",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "O que é um \"tardígrado\" (urso-d'água)?",
+		"options": [
+			{ "description": "Um tipo de vírus que sobrevive no gelo.", "isCorrect": false },
+			{ "description": "Um animal microscópico conhecido por sua capacidade de sobreviver em condições extremas (vácuo, radiação, congelamento) através da criptobiose.", "isCorrect": true },
+			{ "description": "O ancestral comum de todos os mamíferos.", "isCorrect": false },
+			{ "description": "Uma bactéria que vive em fontes termais.", "isCorrect": false }
+		],
+		"source_explanation": "Os tardígrados são um filo de animais microscópicos (extremófilos) capazes de entrar em um estado de \"criptobiose\" (morte aparente) para sobreviver a condições letais.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Tardigrade. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/animal/tardigrade. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUNA047",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "O que é \"alelopatia\"?",
+		"options": [
+			{ "description": "A atração de polinizadores por uma planta.", "isCorrect": false },
+			{ "description": "O fenômeno biológico onde um organismo (geralmente uma planta) produz bioquímicos que inibem o crescimento de outros organismos ao seu redor.", "isCorrect": true },
+			{ "description": "Uma doença que afeta o sistema imunológico das abelhas.", "isCorrect": false },
+			{ "description": "A cooperação entre diferentes espécies para encontrar alimento.", "isCorrect": false }
+		],
+		"source_explanation": "A alelopatia é uma forma de interferência química (um tipo de amensalismo) onde uma planta libera substâncias que inibem o crescimento de suas concorrentes.",
+		"source_abnt": "RICKLEFS, Robert E. *A Economia da Natureza*. 6. ed. Rio de Janeiro: Guanabara Koogan, 2012. (Capítulo: Competição)."
+	},
+	{
+		"id": "MUNA048",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "O que foi a \"Explosão Cambriana\"?",
+		"options": [
+			{ "description": "A extinção em massa que matou os dinossauros.", "isCorrect": false },
+			{ "description": "O evento de vulcanismo que criou o supercontinente Pangeia.", "isCorrect": false },
+			{ "description": "Um período (c. 541 milhões de anos atrás) de rápida diversificação da vida animal, onde a maioria dos principais filos animais apareceu no registro fóssil.", "isCorrect": true },
+			{ "description": "A primeira vez que as plantas colonizaram a terra firme.", "isCorrect": false }
+		],
+		"source_explanation": "A Explosão Cambriana (início do Período Cambriano) marca o aparecimento abrupto da maioria dos filos de animais multicelulares no registro fóssil.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Cambrian explosion. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/Cambrian-explosion. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "MUNA049",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "Qual é a diferença entre Mimetismo Mülleriano e Batesiano?",
+		"options": [
+			{ "description": "Mülleriano é camuflagem; Batesiano é aviso de cor.", "isCorrect": false },
+			{ "description": "Mülleriano é quando duas ou mais espécies perigosas/impalatáveis se parecem; Batesiano é quando uma espécie inofensiva imita uma perigosa.", "isCorrect": true },
+			{ "description": "Mülleriano é sobre som; Batesiano é sobre aparência visual.", "isCorrect": false },
+			{ "description": "Mülleriano é usado para caçar; Batesiano é usado para acasalar.", "isCorrect": false }
+		],
+		"source_explanation": "Mimetismo Mülleriano (Fritz Müller): duas espécies perigosas se copiam (benefício mútuo). Mimetismo Batesiano (Henry Bates): uma espécie inofensiva (\"mímico\") copia uma perigosa (\"modelo\").",
+		"source_abnt": "HICKMAN JR., Cleveland P.; ROBERTS, Larry S.; LARSON, Allan. *Princípios Integrados de Zoologia*. 16. ed. Rio de Janeiro: Guanabara Koogan, 2016. (Capítulo: Ecologia e Evolução)."
+	},
+	{
+		"id": "MUNA050",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "O que é uma \"micorriza\"?",
+		"options": [
+			{ "description": "Uma doença viral que afeta fungos.", "isCorrect": false },
+			{ "description": "Uma associação simbiótica mutualística entre um fungo e as raízes de uma planta.", "isCorrect": true },
+			{ "description": "A parte reprodutiva de um cogumelo.", "isCorrect": false },
+			{ "description": "O menor organismo unicelular conhecido.", "isCorrect": false }
+		],
+		"source_explanation": "A micorriza (\"raiz de fungo\") é uma simbiose crucial onde o fungo ajuda a planta a absorver nutrientes (fósforo) e a planta fornece açúcares ao fungo.",
+		"source_abnt": "RAVEN, Peter H.; EVERT, Ray F.; EICHHORN, Susan E. *Biologia Vegetal*. 8. ed. Rio de Janeiro: Guanabara Koogan, 2014. (Capítulo: Fungos)."
+	},
+	{
+		"id": "MUNA051",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "O que é \"pedomorfose\" (ou neotenia)?",
+		"options": [
+			{ "description": "A retenção de características juvenis em um animal adulto (ex: o axolote, que mantém as brânquias).", "isCorrect": true },
+			{ "description": "O estudo da locomoção animal.", "isCorrect": false },
+			{ "description": "A fossilização de pegadas de animais.", "isCorrect": false },
+			{ "description": "A capacidade de um animal de mudar de cor.", "isCorrect": false }
+		],
+		"source_explanation": "A neotenia (um tipo de pedomorfose) é um conceito em biologia evolutiva do desenvolvimento (Evo-Devo) onde o desenvolvimento somático é retardado, resultando na retenção de características juvenis em adultos reprodutivamente maduros.",
+		"source_abnt": "HICKMAN JR., Cleveland P.; ROBERTS, Larry S.; LARSON, Allan. *Princípios Integrados de Zoologia*. 16. ed. Rio de Janeiro: Guanabara Koogan, 2016. (Capítulo: Anfíbios - ex: Axolote)."
+	},
+	{
+		"id": "MUNA052",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "O que é um \"ecótono\"?",
+		"options": [
+			{ "description": "O nível de poluição que um ecossistema pode suportar.", "isCorrect": false },
+			{ "description": "Uma área de transição entre dois biomas ou ecossistemas diferentes (ex: a borda entre uma floresta e uma pradaria).", "isCorrect": true },
+			{ "description": "Um tipo de turismo focado na natureza.", "isCorrect": false },
+			{ "description": "O som produzido por um animal para marcar território.", "isCorrect": false }
+		],
+		"source_explanation": "Em ecologia de paisagens, um ecótono é uma zona de transição (ex: borda de floresta) que separa duas comunidades distintas, muitas vezes tendo alta biodiversidade.",
+		"source_abnt": "ODUM, Eugene P.; BARRETT, Gary W. *Fundamentos de Ecologia*. 5. ed. São Paulo: Cengage Learning, 2008. (Capítulo: Ecótonos)."
+	},
+	{
+		"id": "MUNA053",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "O que é a fotossíntese \"C4\", encontrada em plantas como o milho e a cana-de-açúcar?",
+		"options": [
+			{ "description": "Uma adaptação para ambientes frios e escuros.", "isCorrect": false },
+			{ "description": "Um mecanismo de concentração de carbono que é mais eficiente em climas quentes e secos, minimizando a fotorrespiração.", "isCorrect": true },
+			{ "description": "A fotossíntese realizada por bactérias, sem oxigênio.", "isCorrect": false },
+			{ "description": "Um tipo de fotossíntese que ocorre apenas à noite.", "isCorrect": false }
+		],
+		"source_explanation": "Plantas C4 (como milho) usam uma via fotossintética alternativa que concentra o CO2 espacialmente, permitindo-lhes superar a fotorrespiração em climas quentes.",
+		"source_abnt": "RAVEN, Peter H.; EVERT, Ray F.; EICHHORN, Susan E. *Biologia Vegetal*. 8. ed. Rio de Janeiro: Guanabara Koogan, 2014. (Capítulo: Fotossíntese - Vias C4 e CAM)."
+	},
+	{
+		"id": "MUNA054",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "O que é \"eussocialidade\"?",
+		"options": [
+			{ "description": "O nível mais alto de organização social, com divisão de trabalho reprodutivo (rainha) e cuidado cooperativo da prole (operárias).", "isCorrect": true },
+			{ "description": "A capacidade de um animal viver sozinho por toda a vida.", "isCorrect": false },
+			{ "description": "Um comportamento de caça em grupo.", "isCorrect": false },
+			{ "description": "A competição entre machos pela fêmea.", "isCorrect": false }
+		],
+		"source_explanation": "A eussocialidade (definida por E.O. Wilson) é o nível mais alto de socialidade, caracterizado por sobreposição de gerações, cuidado cooperativo e divisão reprodutiva (castas).",
+		"source_abnt": "WILSON, Edward O. *Sociobiology: The New Synthesis*. Cambridge, MA: Harvard University Press, 1975."
+	},
+	{
+		"id": "MUNA055",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "O que é uma \"cascata trófica\"?",
+		"options": [
+			{ "description": "Uma doença que se espalha pela cadeia alimentar.", "isCorrect": false },
+			{ "description": "O fluxo de energia da base (produtores) para o topo (predadores).", "isCorrect": false },
+			{ "description": "Os efeitos indiretos que um predador de topo causa nos níveis tróficos inferiores (ex: lobos mudam o curso dos rios em Yellowstone).", "isCorrect": true },
+			{ "description": "A competição por alimento entre diferentes espécies.", "isCorrect": false }
+		],
+		"source_explanation": "Uma cascata trófica é um efeito ecológico \"top-down\" onde a adição ou remoção de um predador de topo (como lobos em Yellowstone) causa mudanças nos níveis tróficos inferiores.",
+		"source_abnt": "PAINE, Robert T. Food Web Complexity and Species Diversity. *The American Naturalist*, v. 100, n. 910, p. 65-75, jan. 1966."
+	},
+	{
+		"id": "MUNA056",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "O que é \"tigmotropismo\"?",
+		"options": [
+			{ "description": "O crescimento de uma planta em resposta à luz (Fototropismo).", "isCorrect": false },
+			{ "description": "O crescimento de uma planta em resposta ao toque ou contato (ex: gavinhas de videira).", "isCorrect": true },
+			{ "description": "O crescimento das raízes em direção à gravidade (Gravitropismo).", "isCorrect": false },
+			{ "description": "A abertura e fechamento de flores com base na hora do dia.", "isCorrect": false }
+		],
+		"source_explanatory": "O tigmotropismo é a resposta de crescimento direcional de uma planta (ex: gavinhas) em resposta ao estímulo do toque.",
+		"source_abnt": "RAVEN, Peter H.; EVERT, Ray F.; EICHHORN, Susan E. *Biologia Vegetal*. 8. ed. Rio de Janeiro: Guanabara Koogan, 2014. (Capítulo: Hormônios e Tropismos)."
+	},
+	{
+		"id": "MUNA057",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "Qual é a característica definidora do filo \"Cnidaria\"?",
+		"options": [
+			{ "description": "Possuir um exoesqueleto de quitina (Artrópodes).", "isCorrect": false },
+			{ "description": "Possuir um corpo segmentado (Anelídeos).", "isCorrect": false },
+			{ "description": "Possuir células urticantes especializadas chamadas \"cnidócitos\" (ex: águas-vivas, corais).", "isCorrect": true },
+			{ "description": "Possuir um corpo mole e uma concha (Moluscos).", "isCorrect": false }
+		],
+		"source_explanation": "O Filo Cnidaria (águas-vivas, corais, anêmonas) é definido pela presença de cnidócitos, células que contêm o nematocisto (estrutura urticante).",
+		"source_abnt": "HICKMAN JR., Cleveland P.; ROBERTS, Larry S.; LARSON, Allan. *Princípios Integrados de Zoologia*. 16. ed. Rio de Janeiro: Guanabara Koogan, 2016. (Capítulo: Filo Cnidaria)."
+	},
+	{
+		"id": "MUNA058",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "O que é o \"Efeito Allee\" em ecologia populacional?",
+		"options": [
+			{ "description": "Uma correlação positiva entre a densidade populacional e a taxa de crescimento per capita (populações muito pequenas crescem mais devagar).", "isCorrect": true },
+			{ "description": "A capacidade máxima de uma população que um ambiente pode sustentar.", "isCorrect": false },
+			{ "description": "O efeito da poluição em uma população.", "isCorrect": false },
+			{ "description": "O aumento da diversidade genética em populações grandes.", "isCorrect": false }
+		],
+		"source_explanation": "O Efeito Allee (nomeado após Warder Clyde Allee) é um fenômeno onde populações em baixa densidade têm taxas de crescimento reduzidas (ex: dificuldade de encontrar parceiros).",
+		"source_abnt": "RICKLEFS, Robert E. *A Economia da Natureza*. 6. ed. Rio de Janeiro: Guanabara Koogan, 2012. (Capítulo: Crescimento Populacional)."
+	},
+	{
+		"id": "MUNA059",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "O que é o \"Órgão Vomeronasal\" (ou Órgão de Jacobson)?",
+		"options": [
+			{ "description": "O órgão que permite aos peixes detectar correntes elétricas.", "isCorrect": false },
+			{ "description": "Um órgão sensorial auxiliar (usado na \"reação de Flehmen\") que detecta feromônios e substâncias químicas.", "isCorrect": true },
+			{ "description": "A parte do cérebro do pássaro responsável pela migração.", "isCorrect": false },
+			{ "description": "O órgão produtor de veneno em cobras.", "isCorrect": false }
+		],
+		"source_explanation": "O Órgão Vomeronasal (VNO), ou Órgão de Jacobson, é um órgão olfativo auxiliar em muitos vertebrados (ex: cobras, gatos) usado para detectar feromônios.",
+		"source_abnt": "HICKMAN JR., Cleveland P.; ROBERTS, Larry S.; LARSON, Allan. *Princípios Integrados de Zoologia*. 16. ed. Rio de Janeiro: Guanabara Koogan, 2016. (Capítulo: Sistemas Sensoriais)."
+	},
+	{
+		"id": "MUNA060",
+		"category": "Mundo Natural",
+		"level": "hard",
+		"question": "Qual é a diferença entre um \"parasita\" e um \"parasitoide\"?",
+		"options": [
+			{ "description": "Parasitas vivem dentro do hospedeiro; parasitoides vivem fora.", "isCorrect": false },
+			{ "description": "Um parasita geralmente enfraquece, mas não mata seu hospedeiro. Um parasitoide (como vespas) eventualmente mata seu hospedeiro como parte de seu ciclo de vida.", "isCorrect": true },
+			{ "description": "Parasitas são microscópicos; parasitoides são macroscópicos.", "isCorrect": false },
+			{ "description": "Parasitas são fungos; parasitoides são insetos.", "isCorrect": false }
+		],
+		"source_explanation": "Em ecologia, um parasitoide (ex: vespa icneumonídea) é um organismo que passa grande parte de sua vida ligado a um hospedeiro, que ele eventualmente mata. Um parasita (ex: tênia) geralmente não mata o hospedeiro.",
+		"source_abnt": "RICKLEFS, Robert E. *A Economia da Natureza*. 6. ed. Rio de Janeiro: Guanabara Koogan, 2012. (Capítulo: Parasitismo)."
+	}
+]

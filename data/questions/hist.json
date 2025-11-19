@@ -1,0 +1,842 @@
+[
+	{
+		"id": "HIST001",
+		"category": "História",
+		"level": "easy",
+		"question": "Qual civilização antiga construiu as pirâmides de Gizé e o Templo de Karnak?",
+		"options": [
+			{ "description": "Os Gregos", "isCorrect": false },
+			{ "description": "Os Romanos", "isCorrect": false },
+			{ "description": "Os Egípcios", "isCorrect": true },
+			{ "description": "Os Persas", "isCorrect": false }
+		],
+		"source_explanation": "As pirâmides de Gizé foram construídas durante o Antigo Império Egípcio, servindo como tumbas para os faraós.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Pyramids of Giza. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/Pyramids-of-Giza. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "HIST002",
+		"category": "História",
+		"level": "easy",
+		"question": "Qual general e ditador romano foi assassinado em 44 a.C. nos \"Idos de Março\"?",
+		"options": [
+			{ "description": "Augusto", "isCorrect": false },
+			{ "description": "Júlio César", "isCorrect": true },
+			{ "description": "Nero", "isCorrect": false },
+			{ "description": "Marco Antônio", "isCorrect": false }
+		],
+		"source_explanation": "O biógrafo romano Suetônio é uma fonte clássica que detalha a vida e o assassinato de Júlio César nas mãos de um grupo de senadores.",
+		"source_abnt": "SUETÔNIO. *A Vida dos Doze Césares*. Tradução de Zélia de Almeida Cardoso. São Paulo: Ediouro, 1998."
+	},
+	{
+		"id": "HIST003",
+		"category": "História",
+		"level": "easy",
+		"question": "A Queda da Bastilha, um evento crucial da Revolução Francesa, ocorreu em que ano?",
+		"options": [
+			{ "description": "1789", "isCorrect": true },
+			{ "description": "1492", "isCorrect": false },
+			{ "description": "1815", "isCorrect": false },
+			{ "description": "1914", "isCorrect": false }
+		],
+		"source_explanation": "O historiador Eric Hobsbawm estabelece 1789 (especificamente a tomada da Bastilha em 14 de julho) como o ano pivotal que iniciou a Revolução Francesa.",
+		"source_abnt": "HOBSBAWM, Eric J. *A Era das Revoluções: 1789-1848*. Tradução de Maria Tereza Lopes Teixeira e Marcos Penchel. 25. ed. Rio de Janeiro: Paz e Terra, 2010."
+	},
+	{
+		"id": "HIST004",
+		"category": "História",
+		"level": "easy",
+		"question": "O período da história europeia entre a queda do Império Romano Ocidental e o Renascimento é conhecido como:",
+		"options": [
+			{ "description": "Antiguidade Clássica", "isCorrect": false },
+			{ "description": "Era Moderna", "isCorrect": false },
+			{ "description": "Idade Média (ou Período Medieval)", "isCorrect": true },
+			{ "description": "Pré-história", "isCorrect": false }
+		],
+		"source_explanation": "Jacques Le Goff, um dos maiores medievalistas, é uma autoridade na definição deste período histórico (aprox. 476 d.C. a 1453 d.C.).",
+		"source_abnt": "LE GOFF, Jacques. *A Civilização do Ocidente Medieval*. Tradução de Maria Filomena Duarte. Bauru, SP: Edusc, 2005."
+	},
+	{
+		"id": "HIST005",
+		"category": "História",
+		"level": "easy",
+		"question": "Quem é creditado por pintar o teto da Capela Sistina e esculpir a estátua de \"David\"?",
+		"options": [
+			{ "description": "Leonardo da Vinci", "isCorrect": false },
+			{ "description": "Michelangelo", "isCorrect": true },
+			{ "description": "Rafael Sanzio", "isCorrect": false },
+			{ "description": "Donatello", "isCorrect": false }
+		],
+		"source_explanation": "Giorgio Vasari, um biógrafo do século XVI e contemporâneo, documentou extensivamente as obras de Michelangelo, incluindo estas duas obras-primas.",
+		"source_abnt": "VASARI, Giorgio. *Vidas dos Artistas*. Tradução de Ivone C. Benedetti. São Paulo: WMF Martins Fontes, 2011."
+	},
+	{
+		"id": "HIST006",
+		"category": "História",
+		"level": "easy",
+		"question": "Qual evento, em 1914, é considerado o estopim para o início da Primeira Guerra Mundial?",
+		"options": [
+			{ "description": "A invasão da Polônia", "isCorrect": false },
+			{ "description": "O ataque a Pearl Harbor", "isCorrect": false },
+			{ "description": "O assassinato do arquiduque Franz Ferdinand", "isCorrect": true },
+			{ "description": "A Revolução Russa", "isCorrect": false }
+		],
+		"source_explanation": "O historiador militar John Keegan descreve o assassinato em Sarajevo (28 de junho de 1914) como o gatilho imediato para a Crise de Julho e o início da guerra.",
+		"source_abnt": "KEEGAN, John. *A Primeira Guerra Mundial*. Tradução de Pedro Maria Soares. Lisboa: Edições 70, 2009."
+	},
+	{
+		"id": "HIST007",
+		"category": "História",
+		"level": "easy",
+		"question": "Em que país se localiza a antiga cidade inca de Machu Picchu, um famoso sítio arqueológico?",
+		"options": [
+			{ "description": "México", "isCorrect": false },
+			{ "description": "Egito", "isCorrect": false },
+			{ "description": "Grécia", "isCorrect": false },
+			{ "description": "Peru", "isCorrect": true }
+		],
+		"source_explanation": "A UNESCO é a fonte oficial que confirma a localização de Machu Picchu nos Andes Peruanos e seu significado como patrimônio cultural.",
+		"source_abnt": "UNESCO. *World Heritage List*. Historic Sanctuary of Machu Picchu. Paris: UNESCO, 1983. Disponível em: https://whc.unesco.org/en/list/274. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "HIST008",
+		"category": "História",
+		"level": "easy",
+		"question": "A Reforma Protestante foi iniciada no século XVI por qual monge alemão, autor das \"95 Teses\"?",
+		"options": [
+			{ "description": "João Calvino", "isCorrect": false },
+			{ "description": "Henrique VIII", "isCorrect": false },
+			{ "description": "Martinho Lutero", "isCorrect": true },
+			{ "description": "Tomás de Aquino", "isCorrect": false }
+		],
+		"source_explanation": "Esta biografia clássica de Roland Bainton documenta a vida de Lutero e a afixação das 95 Teses na porta da igreja de Wittenberg em 1517.",
+		"source_abnt": "BAINTON, Roland H. *Cativo à Palavra: A vida de Martinho Lutero*. Tradução de Cássio M. Dias da Silva. São Paulo: Editora Vida Nova, 2017."
+	},
+	{
+		"id": "HIST009",
+		"category": "História",
+		"level": "easy",
+		"question": "Qual descoberta arqueológica em 1799 permitiu a decifração dos hieróglifos egípcios?",
+		"options": [
+			{ "description": "A tumba de Tutancâmon", "isCorrect": false },
+			{ "description": "Os Manuscritos do Mar Morto", "isCorrect": false },
+			{ "description": "A Pedra de Roseta", "isCorrect": true },
+			{ "description": "A cidade de Pompeia", "isCorrect": false }
+		],
+		"source_explanation": "O Museu Britânico, onde a pedra está exposta, a descreve como a chave crucial que permitiu a Jean-François Champollion decifrar os hieróglifos.",
+		"source_abnt": "THE BRITISH MUSEUM. *The Rosetta Stone*. Londres: The British Museum, [s.d.]. Disponível em: https://www.britishmuseum.org/collection/object/Y_EA24. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "HIST010",
+		"category": "História",
+		"level": "easy",
+		"question": "O ataque à base naval de Pearl Harbor pelos japoneses em 1941 levou qual país a entrar oficialmente na Segunda Guerra Mundial?",
+		"options": [
+			{ "description": "União Soviética", "isCorrect": false },
+			{ "description": "Estados Unidos", "isCorrect": true },
+			{ "description": "Itália", "isCorrect": false },
+			{ "description": "França", "isCorrect": false }
+		],
+		"source_explanation": "O discurso de Franklin D. Roosevelt ao Congresso em 8 de dezembro de 1941 (\"um dia que viverá na infâmia\") é o documento oficial que solicitou a declaração de guerra.",
+		"source_abnt": "ROOSEVELT, Franklin D. *Address to Congress Requesting a Declaration of War with Japan*. 8 dez. 1941. Washington, D.C.: National Archives. Disponível em: https://www.archives.gov/milestone-documents/president-franklin-roosevelts-day-of-infamy-speech. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "HIST011",
+		"category": "História",
+		"level": "easy",
+		"question": "Qual líder militar francês subiu ao poder durante a Revolução Francesa e se tornou Imperador da França em 1804?",
+		"options": [
+			{ "description": "Luís XVI", "isCorrect": false },
+			{ "description": "Robespierre", "isCorrect": false },
+			{ "description": "Napoleão Bonaparte", "isCorrect": true },
+			{ "description": "Marquês de Lafayette", "isCorrect": false }
+		],
+		"source_explanation": "A biografia de referência de Andrew Roberts documenta a ascensão de Napoleão de general a Primeiro Cônsul e, finalmente, sua coroação como Imperador.",
+		"source_abnt": "ROBERTS, Andrew. *Napoleão: Uma Vida*. Tradução de Julia Debasse. Rio de Janeiro: Zahar, 2016."
+	},
+	{
+		"id": "HIST012",
+		"category": "História",
+		"level": "easy",
+		"question": "A civilização grega antiga é considerada o \"berço\" de qual conceito político?",
+		"options": [
+			{ "description": "Democracia (especificamente em Atenas)", "isCorrect": true },
+			{ "description": "Monarquia Absoluta", "isCorrect": false },
+			{ "description": "Feudalismo", "isCorrect": false },
+			{ "description": "Comunismo", "isCorrect": false }
+		],
+		"source_explanation": "Embora Aristóteles analise várias formas de governo, sua obra \"Política\" e a \"Constituição de Atenas\" são as fontes primárias clássicas sobre a democracia ateniense.",
+		"source_abnt": "ARISTÓTELES. *Política*. Tradução de Mário da Gama Kury. 3. ed. Brasília: Editora UnB, 1997."
+	},
+	{
+		"id": "HIST013",
+		"category": "História",
+		"level": "easy",
+		"question": "A Guerra Fria foi um período de tensão geopolítica entre quais duas superpotências?",
+		"options": [
+			{ "description": "Reino Unido e França", "isCorrect": false },
+			{ "description": "Estados Unidos e União Soviética", "isCorrect": true },
+			{ "description": "China e Japão", "isCorrect": false },
+			{ "description": "Alemanha e Itália", "isCorrect": false }
+		],
+		"source_explanation": "Esta obra de referência do historiador John Lewis Gaddis define o conflito (c. 1947-1991) como uma disputa bipolar entre os EUA e a URSS.",
+		"source_abnt": "GADDIS, John Lewis. *A Guerra Fria: uma nova história*. Tradução de Jussara Simões. Rio de Janeiro: Nova Fronteira, 2006."
+	},
+	{
+		"id": "HIST014",
+		"category": "História",
+		"level": "easy",
+		"question": "Qual rainha do Egito, famosa por sua beleza, foi a última governante da dinastia ptolomaica?",
+		"options": [
+			{ "description": "Nefertiti", "isCorrect": false },
+			{ "description": "Hatshepsut", "isCorrect": false },
+			{ "description": "Cleópatra VII", "isCorrect": true },
+			{ "description": "Boudica", "isCorrect": false }
+		],
+		"source_explanation": "A obra clássica de Plutarco \"Vida de Antônio\" é uma das principais fontes antigas que detalha a vida e o reinado de Cleópatra VII.",
+		"source_abnt": "PLUTARCO. *Vidas Paralelas*: Demétrio e Antônio. Tradução de Heitor Megale e M. G. Kury. São Paulo: Editora GGB, 2021."
+	},
+	{
+		"id": "HIST015",
+		"category": "História",
+		"level": "easy",
+		"question": "A invenção da escrita cuneiforme é creditada a qual antiga civilização da Mesopotâmia?",
+		"options": [
+			{ "description": "Os Sumérios", "isCorrect": true },
+			{ "description": "Os Babilônios", "isCorrect": false },
+			{ "description": "Os Assírios", "isCorrect": false },
+			{ "description": "Os Fenícios", "isCorrect": false }
+		],
+		"source_explanation": "Livro clássico do sumerólogo Samuel Noah Kramer que documenta as muitas \"primeiras\" invenções dos sumérios, incluindo a escrita cuneiforme.",
+		"source_abnt": "KRAMER, Samuel Noah. *History Begins at Sumer: Thirty-Nine Firsts in Man's Recorded History*. 3. ed. Filadélfia: University of Pennsylvania Press, 1981."
+	},
+	{
+		"id": "HIST016",
+		"category": "História",
+		"level": "easy",
+		"question": "Neil Armstrong se tornou a primeira pessoa a caminhar na Lua durante qual missão espacial em 1969?",
+		"options": [
+			{ "description": "Apollo 13", "isCorrect": false },
+			{ "description": "Apollo 11", "isCorrect": true },
+			{ "description": "Gemini 4", "isCorrect": false },
+			{ "description": "Vostok 1", "isCorrect": false }
+		],
+		"source_explanation": "O sumário oficial da missão da NASA confirma Neil Armstrong e Buzz Aldrin como os primeiros a caminhar na Lua na missão Apollo 11.",
+		"source_abnt": "NASA. *Apollo 11 Mission Overview*. Washington, D.C.: NASA, 2019. Disponível em: https://www.nasa.gov/mission_pages/apollo/missions/apollo11.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "HIST017",
+		"category": "História",
+		"level": "easy",
+		"question": "Qual líder dos direitos civis nos EUA é famoso por seu discurso \"Eu tenho um sonho\"?",
+		"options": [
+			{ "description": "Malcolm X", "isCorrect": false },
+			{ "description": "Nelson Mandela", "isCorrect": false },
+			{ "description": "Rosa Parks", "isCorrect": false },
+			{ "description": "Martin Luther King Jr.", "isCorrect": true }
+		],
+		"source_explanation": "O discurso \"I Have a Dream\" foi proferido em 28 de agosto de 1963, durante a Marcha em Washington por Emprego e Liberdade.",
+		"source_abnt": "KING JR., Martin Luther. *I Have a Dream*. Discurso proferido em 28 ago. 1963, March on Washington for Jobs and Freedom. Washington, D.C.: The King Center."
+	},
+	{
+		"id": "HIST018",
+		"category": "História",
+		"level": "easy",
+		"question": "Em que país europeu teve origem o período cultural e artístico conhecido como Renascimento?",
+		"options": [
+			{ "description": "França", "isCorrect": false },
+			{ "description": "Alemanha", "isCorrect": false },
+			{ "description": "Espanha", "isCorrect": false },
+			{ "description": "Itália (especificamente Florença)", "isCorrect": true }
+		],
+		"source_explanation": "Obra historiográfica clássica de Jacob Burckhardt (1860) que definiu o Renascimento como um movimento cultural italiano centrado em Florença.",
+		"source_abnt": "BURCKHARDT, Jacob. *A Civilização do Renascimento na Itália*. Tradução de Sérgio Tellaroli. São Paulo: Companhia das Letras, 2009."
+	},
+	{
+		"id": "HIST019",
+		"category": "História",
+		"level": "easy",
+		"question": "Qual foi o primeiro presidente dos Estados Unidos?",
+		"options": [
+			{ "description": "Thomas Jefferson", "isCorrect": false },
+			{ "description": "Abraham Lincoln", "isCorrect": false },
+			{ "description": "George Washington", "isCorrect": true },
+			{ "description": "John Adams", "isCorrect": false }
+		],
+		"source_explanation": "A biografia oficial da Casa Branca confirma o mandato de George Washington como o primeiro presidente, servindo de 1789 a 1797.",
+		"source_abnt": "THE WHITE HOUSE HISTORICAL ASSOCIATION. *George Washington*. Washington, D.C.: WHHA, [s.d.]. Disponível em: https://www.whitehouse.gov/about-the-white-house/presidents/george-washington/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "HIST020",
+		"category": "História",
+		"level": "easy",
+		"question": "Os Vikings, famosos por suas incursões e exploração marítima, eram povos originários de qual região?",
+		"options": [
+			{ "description": "Rússia", "isCorrect": false },
+			{ "description": "Escandinávia (Dinamarca, Noruega, Suécia)", "isCorrect": true },
+			{ "description": "Norte da África", "isCorrect": false },
+			{ "description": "Ilhas Britânicas", "isCorrect": false }
+		],
+		"source_explanation": "Fontes enciclopédicas definem os vikings como povos germânicos marítimos da Escandinávia, ativos durante a Era Viking (final do séc. VIII ao XI).",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Viking (people). *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/Viking-people. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "HIST021",
+		"category": "História",
+		"level": "medium",
+		"question": "Qual foi a principal consequência da invenção da prensa de tipos móveis por Gutenberg no século XV?",
+		"options": [
+			{ "description": "O fim imediato do poder da Igreja Católica.", "isCorrect": false },
+			{ "description": "A disseminação rápida de ideias, como as da Reforma Protestante e do Renascimento.", "isCorrect": true },
+			{ "description": "O início da Revolução Industrial na Inglaterra.", "isCorrect": false },
+			{ "description": "A criação do primeiro jornal diário em Roma.", "isCorrect": false }
+		],
+		"source_explanation": "Obra seminal da historiadora Elizabeth Eisenstein que analisa como a prensa de Gutenberg não foi apenas uma invenção, mas um agente de mudança cultural.",
+		"source_abnt": "EISENSTEIN, Elizabeth L. *The Printing Press as an Agent of Change: Communications and Cultural Transformations in Early-Modern Europe*. Cambridge: Cambridge University Press, 1979."
+	},
+	{
+		"id": "HIST022",
+		"category": "História",
+		"level": "medium",
+		"question": "O \"Terror\" foi uma fase específica da Revolução Francesa liderada por qual figura e comitê?",
+		"options": [
+			{ "description": "Napoleão Bonaparte e o Consulado.", "isCorrect": false },
+			{ "description": "Maximilien Robespierre e o Comitê de Salvação Pública.", "isCorrect": true },
+			{ "description": "Rei Luís XVI e a Aristocracia.", "isCorrect": false },
+			{ "description": "Danton e os Girondinos.", "isCorrect": false }
+		],
+		"source_explanation": "O historiador Simon Schama detalha o período do Reinado do Terror (1793-1794) sob a liderança jacobina de Robespierre e do Comitê de Salvação Pública.",
+		"source_abnt": "SCHAMA, Simon. *Cidadãos: uma crônica da Revolução Francesa*. Tradução de Pedro Sette-Câmara. São Paulo: Companhia das Letras, 1989."
+	},
+	{
+		"id": "HIST023",
+		"category": "História",
+		"level": "medium",
+		"question": "Qual foi o propósito principal das Cruzadas, iniciadas no século XI?",
+		"options": [
+			{ "description": "Estabelecer novas rotas comerciais para a China.", "isCorrect": false },
+			{ "description": "Combater os Vikings na Inglaterra.", "isCorrect": false },
+			{ "description": "Unir a Igreja Católica e a Igreja Ortodoxa.", "isCorrect": false },
+			{ "description": "Recuperar o controle cristão da \"Terra Santa\" (Jerusalém) do domínio muçulmano.", "isCorrect": true }
+		],
+		"source_explanation": "O discurso do Papa Urbano II em 1095, conforme relatado por cronistas como Fulquer de Chartres, é o documento oficial que convocou a Primeira Cruzada.",
+		"source_abnt": "URBANO II, Papa. *Discurso no Concílio de Clermont*. 1095. In: FULQUER DE CHARTRES. *Gesta Francorum Iherusalem peregrinantium*. (Fontes primárias)."
+	},
+	{
+		"id": "HIST024",
+		"category": "História",
+		"level": "medium",
+		"question": "A \"Guerra dos Cem Anos\" foi um longo conflito travado entre quais dois reinos medievais?",
+		"options": [
+			{ "description": "Inglaterra e França", "isCorrect": true },
+			{ "description": "Espanha e Portugal", "isCorrect": false },
+			{ "description": "O Sacro Império Romano e o Papado", "isCorrect": false },
+			{ "description": "Rússia e Mongólia", "isCorrect": false }
+		],
+		"source_explanation": "O conflito (1337-1453) foi uma série de guerras travadas entre a Casa de Plantageneta (Inglaterra) e a Casa de Valois (França) pelo controle do trono francês.",
+		"source_abnt": "TUCHMAN, Barbara W. *Um Espelho Distante: o terrível século XIV*. Tradução de J. A. Pinheiro de Lemos. Rio de Janeiro: José Olympio, 1990."
+	},
+	{
+		"id": "HIST025",
+		"category": "História",
+		"level": "medium",
+		"question": "O que foi o \"Apartheid\", implementado na África do Sul em 1948?",
+		"options": [
+			{ "description": "Um sistema de segregação racial legalizado que separava brancos e não-brancos.", "isCorrect": true },
+			{ "description": "Um programa econômico para industrializar o país.", "isCorrect": false },
+			{ "description": "Uma aliança militar com potências europeias.", "isCorrect": false },
+			{ "description": "Uma política de neutralidade durante a Guerra Fria.", "isCorrect": false }
+		],
+		"source_explanation": "A autobiografia de Nelson Mandela detalha sua luta contra o sistema de Apartheid (separação), que foi implementado por lei pelo Partido Nacional.",
+		"source_abnt": "MANDELA, Nelson. *Longo Caminho para a Liberdade*. Tradução de Lúcia Brito. São Paulo: Companhia das Letras, 2012."
+	},
+	{
+		"id": "HIST026",
+		"category": "História",
+		"level": "medium",
+		"question": "Qual civilização pré-colombiana, localizada na Península de Yucatán (atual México e Guatemala), era conhecida por seus avançados sistemas de calendário e escrita?",
+		"options": [
+			{ "description": "Os Incas", "isCorrect": false },
+			{ "description": "Os Astecas (Mexica)", "isCorrect": false },
+			{ "description": "Os Maias", "isCorrect": true },
+			{ "description": "Os Olmecas", "isCorrect": false }
+		],
+		"source_explanation": "Obra de referência sobre a civilização maia, detalhando sua localização na Península de Yucatán e suas realizações em astronomia, escrita e calendários.",
+		"source_abnt": "COE, Michael D.; HOUSTON, Stephen. *The Maya*. 9. ed. Londres: Thames & Hudson, 2015."
+	},
+	{
+		"id": "HIST027",
+		"category": "História",
+		"level": "medium",
+		"question": "A \"Revolução Gloriosa\" (1688) na Inglaterra é significativa por qual razão política?",
+		"options": [
+			{ "description": "Resultou na execução do rei e na abolição da monarquia.", "isCorrect": false },
+			{ "description": "Estabeleceu a supremacia do Parlamento sobre o Rei (monarquia constitucional).", "isCorrect": true },
+			{ "description": "Levou à independência das colônias americanas.", "isCorrect": false },
+			{ "description": "Instaurou um regime comunista liderado por Oliver Cromwell.", "isCorrect": false }
+		],
+		"source_explanation": "Este documento legal oficial, aceito por Guilherme e Maria, limitou o poder da monarquia e estabeleceu os direitos do Parlamento, criando a monarquia constitucional.",
+		"source_abnt": "REINO UNIDO. Parlamento. *Bill of Rights [1689]*. London: The National Archives. Disponível em: https://www.legislation.gov.uk/aep/WillandMarSess2/1/2. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "HIST028",
+		"category": "História",
+		"level": "medium",
+		"question": "Qual império, que dominou vastas áreas da Ásia e Europa Oriental no século XIII, foi fundado por Genghis Khan?",
+		"options": [
+			{ "description": "Império Romano", "isCorrect": false },
+			{ "description": "Império Persa", "isCorrect": false },
+			{ "description": "Império Otomano", "isCorrect": false },
+			{ "description": "Império Mongol", "isCorrect": true }
+		],
+		"source_explanation": "Esta obra detalha a fundação do Império Mongol por Genghis Khan e sua expansão como o maior império contíguo da história.",
+		"source_abnt": "WEATHERFORD, Jack. *Genghis Khan e a Formação do Mundo Moderno*. Tradução de Cássio de Arantes Leite. São Paulo: Companhia das Letras, 2006."
+	},
+	{
+		"id": "HIST029",
+		"category": "História",
+		"level": "medium",
+		"question": "O \"Plano Marshall\", após a Segunda Guerra Mundial, foi uma iniciativa dos EUA para quê?",
+		"options": [
+			{ "description": "Fornecer ajuda militar direta para combater a União Soviética.", "isCorrect": false },
+			{ "description": "Punir a Alemanha dividindo-a em quatro zonas.", "isCorrect": false },
+			{ "description": "Fornecer ajuda econômica maciça para reconstruir as nações europeias devastadas pela guerra.", "isCorrect": true },
+			{ "description": "Criar a Organização das Nações Unidas (ONU).", "isCorrect": false }
+		],
+		"source_explanation": "Os arquivos oficiais do \"European Recovery Program\" (Plano Marshall) definem seu objetivo como a recuperação econômica da Europa.",
+		"source_abnt": "DEPARTAMENTO DE ESTADO DOS EUA. *Marshall Plan (European Recovery Program)*. Washington, D.C.: U.S. National Archives. Disponível em: https://www.archives.gov/milestone-documents/marshall-plan. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "HIST030",
+		"category": "História",
+		"level": "medium",
+		"question": "A descoberta arqueológica da cidade de Pompeia é tão importante porque...",
+		"options": [
+			{ "description": "Contém a tumba do imperador Augusto.", "isCorrect": false },
+			{ "description": "Foi preservada quase intacta sob cinzas vulcânicas da erupção do Vesúvio em 79 d.C.", "isCorrect": true },
+			{ "description": "É o local da batalha final entre Roma e Cartago.", "isCorrect": false },
+			{ "description": "Foi a capital do Império Romano por 300 anos.", "isCorrect": false }
+		],
+		"source_explanation": "A obra da historiadora Mary Beard analisa Pompeia como uma \"cápsula do tempo\" da vida cotidiana romana, preservada pela erupção do Vesúvio.",
+		"source_abnt": "BEARD, Mary. *Pompeia: a vida de uma cidade romana*. Tradução de Berilo Vargas. Rio de Janeiro: Record, 2010."
+	},
+	{
+		"id": "HIST031",
+		"category": "História",
+		"level": "medium",
+		"question": "O que foi a \"Peste Negra\" que assolou a Europa no século XIV?",
+		"options": [
+			{ "description": "Uma rebelião camponesa em massa contra o feudalismo.", "isCorrect": false },
+			{ "description": "Uma pandemia devastadora, provavelmente de peste bubônica, que matou milhões.", "isCorrect": true },
+			{ "description": "Um período de fome severa causado por mudanças climáticas.", "isCorrect": false },
+			{ "description": "Uma guerra religiosa entre católicos e protestantes.", "isCorrect": false }
+		],
+		"source_explanation": "Estudo clássico sobre o impacto demográfico e social da pandemia de peste bubônica que atingiu a Europa entre 1347-1351.",
+		"source_abnt": "ZIEGLER, Philip. *A Peste Negra*. Tradução de Cláudia Sant'Ana. Rio de Janeiro: Zahar, 2012."
+	},
+	{
+		"id": "HIST032",
+		"category": "História",
+		"level": "medium",
+		"question": "Em que consistiu a \"Partilha da África\" no final do século XIX (Conferência de Berlim, 1884-85)?",
+		"options": [
+			{ "description": "A divisão do continente africano entre as potências coloniais europeias.", "isCorrect": true },
+			{ "description": "Um esforço humanitário para acabar com a fome na África.", "isCorrect": false },
+			{ "description": "A aliança de nações africanas para expulsar os europeus.", "isCorrect": false },
+			{ "description": "A descoberta de ouro e diamantes na África do Sul.", "isCorrect": false }
+		],
+		"source_explanation": "O livro documenta a \"Corrida pela África\" (Scramble for Africa), que foi formalizada pelas potências europeias na Conferência de Berlim.",
+		"source_abnt": "PAKENHAM, Thomas. *The Scramble for Africa: 1876-1912*. Londres: Abacus, 1991."
+	},
+	{
+		"id": "HIST033",
+		"category": "História",
+		"level": "medium",
+		"question": "Qual foi a principal causa da Guerra Civil Americana (1861-1865)?",
+		"options": [
+			{ "description": "Uma disputa de fronteira com o México.", "isCorrect": false },
+			{ "description": "A lealdade dos estados à Coroa Britânica.", "isCorrect": false },
+			{ "description": "Conflitos sobre direitos dos estados e, fundamentalmente, a escravidão.", "isCorrect": true },
+			{ "description": "A eleição de George Washington.", "isCorrect": false }
+		],
+		"source_explanation": "Esta é a obra de referência sobre a Guerra Civil, vencedora do Pulitzer, que estabelece a escravidão como a causa central do conflito.",
+		"source_abnt": "MCPHERSON, James M. *Battle Cry of Freedom: The Civil War Era*. Oxford: Oxford University Press, 1988."
+	},
+	{
+		"id": "HIST034",
+		"category": "História",
+		"level": "medium",
+		"question": "A ascensão do Partido Nazista na Alemanha na década de 1930 foi facilitada por qual contexto?",
+		"options": [
+			{ "description": "A prosperidade econômica sem precedentes da República de Weimar.", "isCorrect": false },
+			{ "description": "A instabilidade política, a hiperinflação e o ressentimento pelo Tratado de Versalhes.", "isCorrect": true },
+			{ "description": "Uma aliança militar bem-sucedida com a França e o Reino Unido.", "isCorrect": false },
+			{ "description": "A forte liderança da Liga das Nações.", "isCorrect": false }
+		],
+		"source_explanation": "Primeiro volume da trilogia de Richard Evans, que analisa a ascensão do nazismo no contexto das falhas políticas e da hiperinflação da República de Weimar.",
+		"source_abnt": "EVANS, Richard J. *A Chegada do Terceiro Reich*. Tradução de Lúcia Brito. São Paulo: Planeta, 2010."
+	},
+	{
+		"id": "HIST035",
+		"category": "História",
+		"level": "medium",
+		"question": "Quem foi o líder da Revolução Russa de 1917 que fundou o primeiro estado socialista do mundo?",
+		"options": [
+			{ "description": "Josef Stalin", "isCorrect": false },
+			{ "description": "Leon Trotsky", "isCorrect": false },
+			{ "description": "Vladimir Lenin", "isCorrect": true },
+			{ "description": "Czar Nicolau II", "isCorrect": false }
+		],
+		"source_explanation": "Esta obra detalha o papel central de Vladimir Lenin e do Partido Bolchevique na tomada do poder durante a Revolução de Outubro de 1917.",
+		"source_abnt": "FIGES, Orlando. *A Tragédia de um Povo: a Revolução Russa (1891-1924)*. Tradução de Valéria Koffs. Rio de Janeiro: Record, 1999."
+	},
+	{
+		"id": "HIST036",
+		"category": "História",
+		"level": "medium",
+		"question": "O \"Império Bizantino\" foi, na prática, a continuação de qual império antigo, com capital em Constantinopla?",
+		"options": [
+			{ "description": "Império Persa", "isCorrect": false },
+			{ "description": "Império Egípcio", "isCorrect": false },
+			{ "description": "Império Romano (do Oriente)", "isCorrect": true },
+			{ "description": "Império Macedônico (de Alexandre)", "isCorrect": false }
+		],
+		"source_explanation": "O trabalho de Norwich define Bizâncio (cuja capital era Constantinopla) como a sobrevivência medieval do Império Romano no Oriente.",
+		"source_abnt": "NORWICH, John Julius. *Byzantium: The Early Centuries*. Londres: Viking, 1988."
+	},
+	{
+		"id": "HIST037",
+		"category": "História",
+		"level": "medium",
+		"question": "O que foi a \"Rota da Seda\"?",
+		"options": [
+			{ "description": "Uma única estrada pavimentada de Roma até a China.", "isCorrect": false },
+			{ "description": "Uma rede de rotas comerciais interconectadas que ligavam o Oriente (China) ao Ocidente (Europa).", "isCorrect": true },
+			{ "description": "A rota marítima usada por Marco Polo para circunavegar a África.", "isCorrect": false },
+			{ "description": "Um oleoduto medieval para transportar azeite.", "isCorrect": false }
+		],
+		"source_explanation": "Esta obra define a Rota da Seda não como uma única estrada, mas como uma rede dinâmica de intercâmbio comercial e cultural entre o Oriente e o Ocidente.",
+		"source_abnt": "FRANKOPAN, Peter. *O Coração do Mundo: uma nova história da Rota da Seda*. Tradução de Cássio de Arantes Leite. São Paulo: Planeta, 2017."
+	},
+	{
+		"id": "HIST038",
+		"category": "História",
+		"level": "medium",
+		"question": "Qual foi a importância de Joana d'Arc na Guerra dos Cem Anos?",
+		"options": [
+			{ "description": "Ela assinou o tratado de paz final com a Inglaterra.", "isCorrect": false },
+			{ "description": "Ela inspirou e liderou as forças francesas a vitórias cruciais (como o Cerco de Orléans), revertendo o curso da guerra.", "isCorrect": true },
+			{ "description": "Ela traiu os franceses e se aliou aos ingleses.", "isCorrect": false },
+			{ "description": "Ela inventou o canhão, mudando a guerra de cerco.", "isCorrect": false }
+		],
+		"source_explanation": "Esta obra documenta o impacto militar e moral de Joana d'Arc com base nas transcrições de seu julgamento e reabilitação.",
+		"source_abnt": "PERNOUD, Régine; CLINA, Marie-Véronique. *Joana d'Arc*. Tradução de J. R. T. L. Petrópolis: Vozes, 1999."
+	},
+	{
+		"id": "HIST039",
+		"category": "História",
+		"level": "medium",
+		"question": "A \"Revolução Industrial\" começou em qual país e em qual indústria principal?",
+		"options": [
+			{ "description": "França, na indústria de vinhos.", "isCorrect": false },
+			{ "description": "Estados Unidos, na indústria automobilística.", "isCorrect": false },
+			{ "description": "Grã-Bretanha, na indústria têxtil (algodão).", "isCorrect": true },
+			{ "description": "Alemanha, na indústria química.", "isCorrect": false }
+		],
+		"source_explanation": "O capítulo de Hobsbawm sobre a Revolução Industrial identifica a Grã-Bretanha (Inglaterra) e a mecanização da indústria de algodão como o ponto de partida.",
+		"source_abnt": "HOBSBAWM, Eric J. *A Era das Revoluções: 1789-1848*. Tradução de Maria Tereza Lopes Teixeira e Marcos Penchel. 25. ed. Rio de Janeiro: Paz e Terra, 2010."
+	},
+	{
+		"id": "HIST040",
+		"category": "História",
+		"level": "medium",
+		"question": "Qual líder da Horda Dourada (Império Mongol) liderou a devastadora invasão da Rus' de Kiev e da Europa Oriental no século XIII?",
+		"options": [
+			{ "description": "Genghis Khan", "isCorrect": false },
+			{ "description": "Batu Khan", "isCorrect": true },
+			{ "description": "Tamerlão", "isCorrect": false },
+			{ "description": "Kublai Khan", "isCorrect": false }
+		],
+		"source_explanation": "Fontes históricas detalham a invasão mongol da Europa nas décadas de 1230 e 1240, liderada por Batu Khan, neto de Genghis Khan.",
+		"source_abnt": "MARTIN, Janet. *Medieval Russia, 980-1584*. 2. ed. Cambridge: Cambridge University Press, 2007."
+	},
+	{
+		"id": "HIST041",
+		"category": "História",
+		"level": "hard",
+		"question": "A \"Paz de Vestfália\" (1648), que encerrou a Guerra dos Trinta Anos, é considerada um marco nas relações internacionais por estabelecer qual princípio?",
+		"options": [
+			{ "description": "O princípio do \"Direito Divino dos Reis\", fortalecendo o absolutismo.", "isCorrect": false },
+			{ "description": "A criação de um tribunal internacional para mediar disputas (a futura ONU).", "isCorrect": false },
+			{ "description": "O princípio da \"Soberania Vestfaliana\", onde cada estado é soberano sobre seu território e religião.", "isCorrect": true },
+			{ "description": "A unificação total da Alemanha sob um único imperador católico.", "isCorrect": false }
+		],
+		"source_explanation": "Henry Kissinger, em sua análise da história diplomática, analisa os tratados de Osnabrück e Münster (Paz de Vestfália) como a fundação do sistema moderno de estados-nação.",
+		"source_abnt": "KISSINGER, Henry. *Ordem Mundial*. Tradução de Cássio de Arantes Leite. Rio de Janeiro: Objetiva, 2015."
+	},
+	{
+		"id": "HIST042",
+		"category": "História",
+		"level": "hard",
+		"question": "O que foi a \"Revolução Meiji\" no Japão do século XIX?",
+		"options": [
+			{ "description": "Uma revolta camponesa que levou à abolição da propriedade privada.", "isCorrect": false },
+			{ "description": "A restauração do poder do Imperador (em vez do Xogunato) e um período de rápida modernização e industrialização.", "isCorrect": true },
+			{ "description": "A conversão forçada do Japão ao cristianismo pelos missionários portugueses.", "isCorrect": false },
+			{ "description": "A invasão bem-sucedida do Japão pela China da dinastia Qing.", "isCorrect": false }
+		],
+		"source_explanation": "Obra de referência que detalha a Restauração Meiji (1868) como o fim do Xogunato Tokugawa e o início da rápida modernização do Japão.",
+		"source_abnt": "JANSEN, Marius B. *The Making of Modern Japan*. Cambridge, MA: Harvard University Press, 2000."
+	},
+	{
+		"id": "HIST043",
+		"category": "História",
+		"level": "hard",
+		"question": "A \"Crise do Míssel de Outubro\" (1962) é considerada o ponto mais próximo de uma guerra nuclear. A crise foi resolvida através de qual acordo secreto?",
+		"options": [
+			{ "description": "Os EUA concordaram em remover seus mísseIS da Turquia em troca da remoção dos mísseis soviéticos de Cuba.", "isCorrect": true },
+			{ "description": "A URSS concordou em se retirar de Cuba em troca da anexação de Berlim.", "isCorrect": false },
+			{ "description": "Os EUA pagaram bilhões à URSS para que retirassem as armas.", "isCorrect": false },
+			{ "description": "Cuba concordou em se tornar neutra, forçando os EUA e a URSS a saírem.", "isCorrect": false }
+		],
+		"source_explanation": "Documentos desclassificados do Arquivo de Segurança Nacional confirmam o acordo secreto (EUA-Turquia / URSS-Cuba) que resolveu a crise.",
+		"source_abnt": "NATIONAL SECURITY ARCHIVE. *The Cuban Missile Crisis, 1962*. Washington, D.C.: George Washington University, 2002. Disponível em: https://nsarchive.gwu.edu/briefing-book/cuba-cuban-missile-crisis/20021008/cuba-missile-crisis-40th-anniversary. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "HIST044",
+		"category": "História",
+		"level": "hard",
+		"question": "O \"Sistema de Encomienda\", estabelecido pelos espanhóis nas Américas, era o quê?",
+		"options": [
+			{ "description": "Um sistema de livre comércio entre as colônias e a Espanha.", "isCorrect": false },
+			{ "description": "Uma rede de universidades para educar a elite indígena.", "isCorrect": false },
+			{ "description": "Um sistema de concessão de terras que permitia o comércio de escravos africanos.", "isCorrect": false },
+			{ "description": "Um sistema de trabalho forçado onde colonos recebiam \"tutela\" sobre indígenas em troca de sua \"cristianização\".", "isCorrect": true }
+		],
+		"source_explanation": "A obra de Las Casas (1552) é uma crítica contemporânea devastadora aos abusos do sistema de encomienda, que era escravidão na prática.",
+		"source_abnt": "LAS CASAS, Bartolomé de. *O Paraíso Destruído: brevíssima relação da destruição das Índias*. Tradução de Heraldo Barbuy. Porto Alegre: L&PM, 1985."
+	},
+	{
+		"id": "HIST045",
+		"category": "História",
+		"level": "hard",
+		"question": "Qual foi a tese central de Max Weber em \"A Ética Protestante e o Espírito do Capitalismo\"?",
+		"options": [
+			{ "description": "Que o capitalismo só poderia ter surgido em países católicos como Itália e Espanha.", "isCorrect": false },
+			{ "description": "Que o capitalismo é um sistema imoral que destrói a religião.", "isCorrect": false },
+			{ "description": "Que certos valores do protestantismo ascético (como o calvinista) criaram uma afinidade cultural que fomentou o desenvolvimento do capitalismo moderno.", "isCorrect": true },
+			{ "description": "Que Marx estava correto sobre a luta de classes, mas errado sobre o papel da religião.", "isCorrect": false }
+		],
+		"source_explanation": "A obra fundadora da sociologia (1905) que apresenta a tese da \"afinidade eletiva\" entre a ética protestante (trabalho, vocação) e o capitalismo.",
+		"source_abnt": "WEBER, Max. *A Ética Protestante e o Espírito do Capitalismo*. Tradução de Pietro Nassetti. São Paulo: Martin Claret, 2001."
+	},
+	{
+		"id": "HIST046",
+		"category": "História",
+		"level": "hard",
+		"question": "Qual é a principal diferença entre a Revolução Russa de Fevereiro (1917) e a de Outubro (1917)?",
+		"options": [
+			{ "description": "Fevereiro foi liderada por Stalin; Outubro foi liderada por Lenin.", "isCorrect": false },
+			{ "description": "Fevereiro derrubou o Czar e estabeleceu um Governo Provisório (liberal); Outubro derrubou esse Governo Provisório e colocou os Bolcheviques no poder.", "isCorrect": true },
+			{ "description": "Fevereiro foi um golpe militar; Outubro foi uma eleição democrática.", "isCorrect": false },
+			{ "description": "Fevereiro foi sobre paz; Outubro foi sobre continuar a Primeira Guerra Mundial.", "isCorrect": false }
+		],
+		"source_explanation": "Figes detalha a dinâmica entre as duas revoluções distintas de 1917: a liberal (Fevereiro) e a socialista (Outubro).",
+		"source_abnt": "FIGES, Orlando. *A Tragédia de um Povo: a Revolução Russa (1891-1924)*. Tradução de Valéria Koffs. Rio de Janeiro: Record, 1999."
+	},
+	{
+		"id": "HIST047",
+		"category": "História",
+		"level": "hard",
+		"question": "A descoberta arqueológica de \"Tróia\" por Heinrich Schliemann no século XIX é controversa por quê?",
+		"options": [
+			{ "description": "Porque ele provou que a Guerra de Tróia nunca aconteceu.", "isCorrect": false },
+			{ "description": "Porque seus métodos de escavação foram destrutivos, e ele pode ter misturado artefatos de diferentes camadas (cidades) para \"encontrar\" a Tróia de Homero.", "isCorrect": true },
+			{ "description": "Porque foi revelado que todos os artefatos (como a \"Máscara de Agamenon\") eram falsificações modernas.", "isCorrect": false },
+			{ "description": "Porque ele descobriu a cidade no Egito, e não na Turquia.", "isCorrect": false }
+		],
+		"source_explanation": "Análise moderna da escavação de Tróia, incluindo os métodos apressados e destrutivos de Schliemann para encontrar o \"Tesouro de Príamo\".",
+		"source_abnt": "CLINE, Eric H. *Troy: A City, a Siege, a Legend*. Londres: Oneworld Publications, 2013."
+	},
+	{
+		"id": "HIST048",
+		"category": "História",
+		"level": "hard",
+		"question": "A \"Guerra do Ópio\" (meados do séc. XIX) foi travada entre quais potências e por qual motivo principal?",
+		"options": [
+			{ "description": "China (Dinastia Qing) e Grã-Bretanha, porque a China tentou impedir o comércio britânico de ópio em seu território.", "isCorrect": true },
+			{ "description": "EUA e Colômbia, para impedir o tráfico de cocaína.", "isCorrect": false },
+			{ "description": "Rússia e Império Otomano, pelo controle das rotas de ópio da Ásia Central.", "isCorrect": false },
+			{ "description": "Japão e China, porque o Japão queria forçar a China a comprar seus produtos.", "isCorrect": false }
+		],
+		"source_explanation": "O tratado (1842) que encerrou a Primeira Guerra do Ópio, forçando a China a ceder Hong Kong e abrir portos, confirma a natureza do conflito comercial.",
+		"source_abnt": "TRATADO DE NANQUIM. 29 ago. 1842. Nanquim, China. Disponível em: https://china.usc.edu/treaty-nanjing-nanking-1842. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "HIST049",
+		"category": "História",
+		"level": "hard",
+		"question": "O \"Incêndio do Reichstag\" (Parlamento Alemão) em 1933 foi um evento crucial por quê?",
+		"options": [
+			{ "description": "Foi o ataque que iniciou a Segunda Guerra Mundial.", "isCorrect": false },
+			{ "description": "Foi usado pelos Nazistas como pretexto para suspender as liberdades civis (Decreto do Incêndio do Reichstag) e consolidar o poder.", "isCorrect": true },
+			{ "description": "Provou a ineficácia dos bombeiros de Berlim, levando a uma reforma.", "isCorrect": false },
+			{ "description": "Foi um ato de protesto de Winston Churchill contra a ascensão de Hitler.", "isCorrect": false }
+		],
+		"source_explanation": "Evans descreve o incêndio (27 de fevereiro de 1933) e o subsequente \"Decreto do Incêndio do Reichstag\" como passos legais chave para a ditadura nazista.",
+		"source_abnt": "EVANS, Richard J. *A Chegada do Terceiro Reich*. Tradução de Lúcia Brito. São Paulo: Planeta, 2010."
+	},
+	{
+		"id": "HIST050",
+		"category": "História",
+		"level": "hard",
+		"question": "O que foi o \"Holodomor\" na Ucrânia durante 1932-1933?",
+		"options": [
+			{ "description": "Uma guerra civil entre facções nacionalistas ucranianas.", "isCorrect": false },
+			{ "description": "A invasão alemã da Ucrânia durante a Segunda Guerra Mundial.", "isCorrect": false },
+			{ "description": "Uma fome em massa, considerada por muitos historiadores como genocida, causada pelas políticas soviéticas de coletivização forçada.", "isCorrect": true },
+			{ "description": "Um desastre nuclear na usina de Chernobyl.", "isCorrect": false }
+		],
+		"source_explanation": "Obra vencedora do Pulitzer que documenta a fome de 1932-33 como uma arma política deliberada (coletivização e requisição de grãos) de Stalin contra o campesinato ucraniano.",
+		"source_abnt": "APPLEBAUM, Anne. *Fome Vermelha: a guerra de Stalin na Ucrânia*. Tradução de Donaldson M. Garschagen. Rio de Janeiro: Record, 2019."
+	},
+	{
+		"id": "HIST051",
+		"category": "História",
+		"level": "hard",
+		"question": "Qual foi a importância de Tucídides na historiografia, com sua obra \"História da Guerra do Peloponeso\"?",
+		"options": [
+			{ "description": "Ele foi o primeiro a rejeitar explicações divinas/míticas para eventos históricos, focando na causalidade humana e política.", "isCorrect": true },
+			{ "description": "Ele escreveu a primeira história cômica, satirizando a guerra.", "isCorrect": false },
+			{ "description": "Ele usou fontes arqueológicas exclusivamente para provar seus argumentos.", "isCorrect": false },
+			{ "description": "Ele foi o primeiro (com Heródoto) a registrar a história, focando principalmente nos mitos e oráculos.", "isCorrect": false }
+		],
+		"source_explanation": "No Livro I, Seção 22, Tucídides descreve seu método, buscando a \"verdade\" humana e a causalidade política, diferenciando-se de Heródoto.",
+		"source_abnt": "TUCÍDIDES. *História da Guerra do Peloponeso*. Tradução de Mário da Gama Kury. 4. ed. Brasília: Editora UnB, 2001."
+	},
+	{
+		"id": "HIST052",
+		"category": "História",
+		"level": "hard",
+		"question": "O \"Império Carolíngio\" de Carlos Magno buscou reviver qual ideal político e cultural na Europa Ocidental?",
+		"options": [
+			{ "description": "A democracia ateniense.", "isCorrect": false },
+			{ "description": "A unidade do Império Romano (Renovatio imperii Romanorum), com o apoio da Igreja.", "isCorrect": true },
+			{ "description": "O sistema de castas hindu.", "isCorrect": false },
+			{ "description": "O isolacionismo do Xogunato japonês.", "isCorrect": false }
+		],
+		"source_explanation": "Biografia contemporânea que detalha a coroação de Carlos Magno pelo Papa Leão III (800 d.C.) como \"Imperador dos Romanos\", buscando a \"Renovatio imperii Romanorum\" (Renovação do Império dos Romanos).",
+		"source_abnt": "EGINHARDO. *Vida de Carlos Magno*. Tradução de Salvador Antunes. Petrópolis: Vozes, 2001."
+	},
+	{
+		"id": "HIST053",
+		"category": "História",
+		"level": "hard",
+		"question": "A \"Escola dos Annales\", de historiadores como Marc Bloch e Fernand Braudel, revolucionou a história ao...",
+		"options": [
+			{ "description": "Focar exclusivamente na história militar e diplomática dos \"grandes homens\".", "isCorrect": false },
+			{ "description": "Incorporar geografia, economia e mentalidades (longue durée), em vez de apenas eventos políticos de curta duração.", "isCorrect": true },
+			{ "description": "Provar que toda a história é determinada pela luta de classes (Marxismo).", "isCorrect": false },
+			{ "description": "Usar apenas a Bíblia como fonte histórica primária.", "isCorrect": false }
+		],
+		"source_explanation": "A obra-prima de Braudel é o exemplo máximo da metodologia dos Annales, focando em estruturas geográficas e econômicas de \"longa duração\" (longue durée).",
+		"source_abnt": "BRAUDEL, Fernand. *O Mediterrâneo e o Mundo Mediterrâneo na Época de Filipe II*. Tradução de António Emílio S. C. M. L. F. M. Viana. São Paulo: Martins Fontes, 1983."
+	},
+	{
+		"id": "HIST054",
+		"category": "História",
+		"level": "hard",
+		"question": "O \"Código de Hamurabi\" (c. 1754 a.C.) é um dos mais antigos códigos de lei decifrados. Qual era o seu princípio central de justiça?",
+		"options": [
+			{ "description": "Perdão universal e reabilitação (justiça restaurativa).", "isCorrect": false },
+			{ "description": "O princípio da \"Lei de Talião\" (olho por olho, dente por dente), mas aplicado de forma diferente dependendo da classe social.", "isCorrect": true },
+			{ "description": "O direito a um julgamento por um júri de 12 pares.", "isCorrect": false },
+			{ "description": "A separação total entre religião e lei (secularismo).", "isCorrect": false }
+		],
+		"source_explanation": "A estela no Museu do Louvre (e suas traduções) detalha a Lei de Talião (ex: Leis #196, #200), cuja severidade dependia da classe social (awilum, mushkenum, wardum).",
+		"source_abnt": "CÓDIGO DE HAMURABI. Estela c. 1754 a.C. Museu do Louvre, Paris. (Tradução disponível em: AVALON PROJECT, Yale Law School. *The Code of Hammurabi*. Disponível em: https://avalon.law.yale.edu/ancient/hamframe.asp. Acesso em: 6 nov. 2025)."
+	},
+	{
+		"id": "HIST055",
+		"category": "História",
+		"level": "hard",
+		"question": "O que foi a \"Política de Apaziguamento\" (Appeasement) nos anos 1930, associada a Neville Chamberlain?",
+		"options": [
+			{ "description": "Uma política de aliança militar agressiva para conter a Alemanha Nazista desde o início.", "isCorrect": false },
+			{ "description": "A política de fazer concessões territoriais e diplomáticas a Hitler (como na Conferência de Munique) na esperança de evitar a guerra.", "isCorrect": true },
+			{ "description": "Uma política de ajuda econômica à União Soviética para que ela lutasse contra Hitler.", "isCorrect": false },
+			{ "description": "A política de isolacionismo total dos EUA, recusando-se a negociar com a Europa.", "isCorrect": false }
+		],
+		"source_explanation": "O documento (1938) que cedeu os Sudetos (Checoslováquia) à Alemanha Nazista é o exemplo máximo da política de apaziguamento do Primeiro-Ministro britânico Neville Chamberlain.",
+		"source_abnt": "ACORDO DE MUNIQUE. 29 set. 1938. Munique, Alemanha. (Documento histórico)."
+	},
+	{
+		"id": "HIST056",
+		"category": "História",
+		"level": "hard",
+		"question": "A \"Primavera dos Povos\" (1848) foi uma série de revoluções na Europa. Qual foi sua principal característica ou demanda comum?",
+		"options": [
+			{ "description": "Uma onda de revoluções comunistas bem-sucedidas que tomaram o poder em toda a Europa.", "isCorrect": false },
+			{ "description": "Uma mistura de demandas por liberalismo (constituições, liberdade de imprensa) e nacionalismo (autodeterminação para grupos étnicos).", "isCorrect": true },
+			{ "description": "Uma reação monarquista para restaurar o poder absoluto dos reis após Napoleão.", "isCorrect": false },
+			{ "description": "Uma revolta unificada contra a Igreja Católica em favor do protestantismo.", "isCorrect": false }
+		],
+		"source_explanation": "Hobsbawm analisa o ano de 1848 como o ponto de ignição de múltiplas revoluções, caracterizadas por sua natureza dual (liberal e nacionalista).",
+		"source_abnt": "HOBSBAWM, Eric J. *A Era do Capital: 1848-1875*. Tradução de Luciano Costa Neto. 15. ed. Rio de Janeiro: Paz e Terra, 2009."
+	},
+	{
+		"id": "HIST057",
+		"category": "História",
+		"level": "hard",
+		"question": "No contexto da queda do Império Romano Ocidental, quem eram os \"Foderados\" (Foederati)?",
+		"options": [
+			{ "description": "Tribos bárbaras (como os Godos) que recebiam permissão para viver dentro das fronteiras do império em troca de serviço militar.", "isCorrect": true },
+			{ "description": "Senadores romanos que conspiraram para assassinar o último imperador.", "isCorrect": false },
+			{ "description": "Escravos que lideraram uma revolta em massa em Roma (como Espártaco).", "isCorrect": false },
+			{ "description": "Sacerdotes cristãos que se recusaram a servir no exército.", "isCorrect": false }
+		],
+		"source_explanation": "O historiador Peter Heather analisa o papel dos foederati (ex: Visigodos, após a Batalha de Adrianópolis) como aliados militares que eventualmente se voltaram contra Roma.",
+		"source_abnt": "HEATHER, Peter. *A Queda do Império Romano: uma nova história de Roma e dos bárbaros*. Tradução de Cláudia Sant'Ana. Rio de Janeiro: Record, 2008."
+	},
+	{
+		"id": "HIST058",
+		"category": "História",
+		"level": "hard",
+		"question": "A \"Guerra dos Sete Anos\" (1756-1763), travada entre Grã-Bretanha e França (e seus aliados), é frequentemente chamada de a \"primeira guerra mundial\" real por quê?",
+		"options": [
+			{ "description": "Porque foi a primeira guerra a usar tanques e aviões.", "isCorrect": false },
+			{ "description": "Porque foi travada não apenas na Europa, mas também na América do Norte (Guerra Franco-Indígena), Índia e outros teatros globais.", "isCorrect": true },
+			{ "description": "Porque todas as nações do mundo participaram de um dos lados.", "isCorrect": false },
+			{ "description": "Porque levou diretamente à criação da Liga das Nações.", "isCorrect": false }
+		],
+		"source_explanation": "Esta obra detalha a natureza global do conflito, argumentando que as batalhas na América do Norte (como a Guerra Franco-Indígena) foram o teatro decisivo.",
+		"source_abnt": "ANDERSON, Fred. *Crucible of War: The Seven Years' War and the Fate of Empire in British North America, 1754-1766*. Nova York: Alfred A. Knopf, 2000."
+	},
+	{
+		"id": "HIST059",
+		"category": "História",
+		"level": "hard",
+		"question": "A descoberta da \"Linear B\" por Michael Ventris em 1952 foi um avanço arqueológico monumental por quê?",
+		"options": [
+			{ "description": "Provou que era uma forma primitiva de escrita egípcia.", "isCorrect": false },
+			{ "description": "Decifrou a escrita da Civilização do Vale do Indo.", "isCorrect": false },
+			{ "description": "Demonstrou que era uma forma arcaica da língua grega, ligando os Micênicos (Era do Bronze) aos gregos posteriores.", "isCorrect": true },
+			{ "description": "Era um código militar usado pelos persas para invadir a Grécia.", "isCorrect": false }
+		],
+		"source_explanation": "O relato em primeira mão de John Chadwick, colega de Ventris, sobre o processo de decifração que provou que a Linear B era Grego Micênico.",
+		"source_abnt": "CHADWICK, John. *The Decipherment of Linear B*. 2. ed. Cambridge: Cambridge University Press, 1967."
+	},
+	{
+		"id": "HIST060",
+		"category": "História",
+		"level": "hard",
+		"question": "A \"Querela das Investiduras\" (sécs. XI-XII) foi um conflito de poder fundamental na Idade Média entre quais duas instituições?",
+		"options": [
+			{ "description": "Os Sunitas e os Xiitas pelo controle de Meca.", "isCorrect": false },
+			{ "description": "O Papado (Papa) e o Sacro Império Romano (Imperador) sobre quem tinha o direito de nomear (investir) bispos.", "isCorrect": true },
+			{ "description": "Os Lordes Feudais e os Reis sobre os impostos de guerra.", "isCorrect": false },
+			{ "description": "As universidades (como Paris) e a Coroa Francesa sobre a liberdade acadêmica.", "isCorrect": false }
+		],
+		"source_explanation": "O documento (1122) que resolveu (temporariamente) o conflito de poder entre o Papa Calisto II e o Imperador Henrique V sobre a nomeação (investidura) de bispos.",
+		"source_abnt": "CONCORDATA DE WORMS. 23 set. 1122. Worms, Alemanha. (Documento histórico)."
+	}
+]

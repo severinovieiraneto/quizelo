@@ -1,0 +1,840 @@
+[
+	{
+		"id": "CITV001",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Qual ator interpreta Tony Stark, o Homem de Ferro, no Universo Cinematográfico Marvel?",
+		"options": [
+			{ "description": "Chris Evans", "isCorrect": false },
+			{ "description": "Robert Downey Jr.", "isCorrect": true },
+			{ "description": "Mark Ruffalo", "isCorrect": false },
+			{ "description": "Chris Hemsworth", "isCorrect": false }
+		],
+		"source_explanation": "Os créditos oficiais do filme \"Homem de Ferro\" (2008) e toda a documentação de elenco subsequente da Marvel listam Robert Downey Jr. no papel.",
+		"source_abnt": "HOMEM DE FERRO. Direção: Jon Favreau. Produção: Marvel Studios. [Filme]. Estados Unidos: Paramount Pictures, 2008."
+	},
+	{
+		"id": "CITV002",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Qual é o nome da escola de magia frequentada por Harry Potter?",
+		"options": [
+			{ "description": "Hogwarts", "isCorrect": true },
+			{ "description": "Beauxbatons", "isCorrect": false },
+			{ "description": "Durmstrang", "isCorrect": false },
+			{ "description": "Ilvermorny", "isCorrect": false }
+		],
+		"source_explanation": "O livro e o filme \"Harry Potter e a Pedra Filosofal\" introduzem a Escola de Magia e Bruxaria de Hogwarts como o cenário principal da série.",
+		"source_abnt": "ROWLING, J.K. *Harry Potter e a Pedra Filosofal*. Tradução de Lia Wyler. Rio de Janeiro: Rocco, 2000."
+	},
+	{
+		"id": "CITV003",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Qual diretor é famoso por filmes épicos de ficção científica como \"E.T. - O Extraterrestre\" e \"Jurassic Park\"?",
+		"options": [
+			{ "description": "George Lucas", "isCorrect": false },
+			{ "description": "James Cameron", "isCorrect": false },
+			{ "description": "Steven Spielberg", "isCorrect": true },
+			{ "description": "Christopher Nolan", "isCorrect": false }
+		],
+		"source_explanation": "A filmografia oficial do diretor Steven Spielberg lista ambas as produções como dirigidas por ele.",
+		"source_abnt": "IMDB. *Steven Spielberg: Filmografia*. [S.l.]: IMDb.com, Inc., [s.d.]. Disponível em: https://www.imdb.com/name/nm0000229/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CITV004",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Na série \"Friends\", qual é o nome da cafeteria onde o grupo principal se encontra regularmente?",
+		"options": [
+			{ "description": "The Coffee House", "isCorrect": false },
+			{ "description": "Central Perk", "isCorrect": true },
+			{ "description": "Monk's Café", "isCorrect": false },
+			{ "description": "Starbucks", "isCorrect": false }
+		],
+		"source_explanation": "O cenário da cafeteria \"Central Perk\" é um local recorrente e icônico em todos os 236 episódios da série.",
+		"source_abnt": "FRIENDS. Produção: Bright/Kauffman/Crane Productions, Warner Bros. Television. Estados Unidos: NBC, 1994-2004. (Série de TV)."
+	},
+	{
+		"id": "CITV005",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Qual filme de 1997, dirigido por James Cameron, conta a história de amor de Jack e Rose a bordo de um navio famoso?",
+		"options": [
+			{ "description": "O Resgate do Soldado Ryan", "isCorrect": false },
+			{ "description": "Pearl Harbor", "isCorrect": false },
+			{ "description": "Titanic", "isCorrect": true },
+			{ "description": "O Náufrago", "isCorrect": false }
+		],
+		"source_explanation": "A sinopse e os créditos oficiais do filme \"Titanic\" (1997) confirmam a direção de James Cameron e os protagonistas Jack (DiCaprio) e Rose (Winslet).",
+		"source_abnt": "TITANIC. Direção: James Cameron. Produção: 20th Century Fox, Paramount Pictures. [Filme]. Estados Unidos, 1997."
+	},
+	{
+		"id": "CITV006",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Qual é o nome do hobbit que deve levar o \"Um Anel\" para Mordor em \"O Senhor dos Anéis\"?",
+		"options": [
+			{ "description": "Samwise Gamgee", "isCorrect": false },
+			{ "description": "Bilbo Bolseiro", "isCorrect": false },
+			{ "description": "Frodo Bolseiro", "isCorrect": true },
+			{ "description": "Pippin Tûk", "isCorrect": false }
+		],
+		"source_explanation": "O livro (e a adaptação cinematográfica) \"A Sociedade do Anel\" centra-se na jornada de Frodo Bolseiro, o Portador do Anel.",
+		"source_abnt": "TOLKIEN, J.R.R. *A Sociedade do Anel*. Tradução de Lenita Maria Rímoli Esteves. São Paulo: Martins Fontes, 1994."
+	},
+	{
+		"id": "CITV007",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Qual ator disse a famosa frase \"I'll be back\" (Eu voltarei) no filme \"O Exterminador do Futuro\"?",
+		"options": [
+			{ "description": "Sylvester Stallone", "isCorrect": false },
+			{ "description": "Bruce Willis", "isCorrect": false },
+			{ "description": "Jean-Claude Van Damme", "isCorrect": false },
+			{ "description": "Arnold Schwarzenegger", "isCorrect": true }
+		],
+		"source_explanation": "A frase, dita pelo personagem T-800, é listada pelo American Film Institute (AFI) como a 37ª maior citação do cinema americano.",
+		"source_abnt": "AMERICAN FILM INSTITUTE (AFI). *AFI's 100 Years...100 Movie Quotes*. Los Angeles: AFI, 2005. Disponível em: https://www.afi.com/afis-100-years-100-movie-quotes/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CITV008",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Qual série de TV segue a vida de um professor de química do ensino médio, Walter White, que começa a produzir metanfetamina?",
+		"options": [
+			{ "description": "The Sopranos", "isCorrect": false },
+			{ "description": "Breaking Bad", "isCorrect": true },
+			{ "description": "Ozark", "isCorrect": false },
+			{ "description": "Better Call Saul", "isCorrect": false }
+		],
+		"source_explanation": "A sinopse oficial da série da AMC, criada por Vince Gilligan, define a premissa de Walter White.",
+		"source_abnt": "BREAKING BAD. Produção: Vince Gilligan, High Bridge Entertainment, Sony Pictures Television. Estados Unidos: AMC, 2008-2013. (Série de TV)."
+	},
+	{
+		"id": "CITV009",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Qual filme da Pixar foi o primeiro longa-metragem totalmente feito por computação gráfica (CGI)?",
+		"options": [
+			{ "description": "Monstros S.A.", "isCorrect": false },
+			{ "description": "Vida de Inseto", "isCorrect": false },
+			{ "description": "Procurando Nemo", "isCorrect": false },
+			{ "description": "Toy Story", "isCorrect": true }
+		],
+		"source_explanation": "A Academia de Artes e Ciências Cinematográficas concedeu um Oscar especial a \"Toy Story\" (1995) por sua realização como o primeiro longa-metragem de animação por computador.",
+		"source_abnt": "ACADEMY OF MOTION PICTURE ARTS AND SCIENCES (AMPAS). *68th Academy Awards*. Los Angeles: AMPAS, 1996. (Prêmio de Realização Especial para John Lasseter)."
+	},
+	{
+		"id": "CITV010",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Quem é o diretor de filmes cult como \"Pulp Fiction: Tempo de Violência\" e \"Kill Bill\"?",
+		"options": [
+			{ "description": "Martin Scorsese", "isCorrect": false },
+			{ "description": "Quentin Tarantino", "isCorrect": true },
+			{ "description": "David Fincher", "isCorrect": false },
+			{ "description": "Irmãos Coen", "isCorrect": false }
+		],
+		"source_explanation": "A filmografia oficial do diretor Quentin Tarantino lista estas obras como suas produções mais icônicas.",
+		"source_abnt": "IMDB. *Quentin Tarantino: Filmografia*. [S.l.]: IMDb.com, Inc., [s.d.]. Disponível em: https://www.imdb.com/name/nm0000233/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CITV011",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Na saga \"Star Wars\", qual é o nome do vilão principal que usa uma máscara preta e uma capa, e que se revela ser o pai de Luke Skywalker?",
+		"options": [
+			{ "description": "Imperador Palpatine", "isCorrect": false },
+			{ "description": "Darth Maul", "isCorrect": false },
+			{ "description": "Kylo Ren", "isCorrect": false },
+			{ "description": "Darth Vader", "isCorrect": true }
+		],
+		"source_explanation": "O filme \"O Império Contra-Ataca\" (1980) contém a famosa revelação \"Eu sou seu pai\", dita por Darth Vader a Luke Skywalker.",
+		"source_abnt": "STAR WARS: EPISÓDIO V - O IMPÉRIO CONTRA-ATACA. Direção: Irvin Kershner. Produção: Lucasfilm. [Filme]. Estados Unidos, 1980."
+	},
+	{
+		"id": "CITV012",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Qual filme de 1999, estrelado por Keanu Reeves, popularizou o efeito visual \"bullet time\" (tempo de bala)?",
+		"options": [
+			{ "description": "Matrix", "isCorrect": true },
+			{ "description": "Clube da Luta", "isCorrect": false },
+			{ "description": "O Sexto Sentido", "isCorrect": false },
+			{ "description": "Velocidade Máxima", "isCorrect": false }
+		],
+		"source_explanation": "O making-of do filme \"Matrix\" (1999) e a cobertura da imprensa na época destacaram a técnica inovadora \"bullet time\", que usa múltiplas câmeras em sequência.",
+		"source_abnt": "MATRIX. Direção: Lana Wachowski, Lilly Wachowski. Produção: Warner Bros. [Filme]. Estados Unidos, 1999."
+	},
+	{
+		"id": "CITV013",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Qual é o nome da cidade fictícia protegida pelo super-herói Batman?",
+		"options": [
+			{ "description": "Metropolis", "isCorrect": false },
+			{ "description": "Gotham City", "isCorrect": true },
+			{ "description": "Star City", "isCorrect": false },
+			{ "description": "Central City", "isCorrect": false }
+		],
+		"source_explanation": "A primeira aparição do Batman, na \"Detective Comics #27\" (1939), estabelece Gotham City como seu local de atuação.",
+		"source_abnt": "DC COMICS. *Detective Comics* #27. Burbank, CA: DC Comics, maio 1939."
+	},
+	{
+		"id": "CITV014",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Qual série de fantasia medieval é baseada na saga de livros \"As Crônicas de Gelo e Fogo\" de George R. R. Martin?",
+		"options": [
+			{ "description": "The Witcher", "isCorrect": false },
+			{ "description": "A Roda do Tempo", "isCorrect": false },
+			{ "description": "Game of Thrones", "isCorrect": true },
+			{ "description": "Outlander", "isCorrect": false }
+		],
+		"source_explanation": "A sinopse oficial da série da HBO a credita como uma adaptação da série de romances \"As Crônicas de Gelo e Fogo\" (A Song of Ice and Fire).",
+		"source_abnt": "GAME OF THRONES. Produção: David Benioff, D. B. Weiss. Estados Unidos: HBO, 2011-2019. (Série de TV). Baseado na obra de George R. R. Martin."
+	},
+	{
+		"id": "CITV015",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Em \"O Rei Leão\" da Disney, qual é o nome do pai de Simba, que é morto por Scar?",
+		"options": [
+			{ "description": "Mufasa", "isCorrect": true },
+			{ "description": "Zazu", "isCorrect": false },
+			{ "description": "Timão", "isCorrect": false },
+			{ "description": "Pumba", "isCorrect": false }
+		],
+		"source_explanation": "O roteiro e a sinopse oficial do filme de animação da Disney \"O Rei Leão\" (1994) detalham a trama central do assassinato de Mufasa por seu irmão Scar.",
+		"source_abnt": "O REI LEÃO. Direção: Roger Allers, Rob Minkoff. Produção: Walt Disney Pictures. [Filme]. Estados Unidos, 1994."
+	},
+	{
+		"id": "CITV016",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Qual ator interpreta o personagem principal Michael Scott na versão americana da série \"The Office\"?",
+		"options": [
+			{ "description": "John Krasinski", "isCorrect": false },
+			{ "description": "Rainn Wilson", "isCorrect": false },
+			{ "description": "Steve Carell", "isCorrect": true },
+			{ "description": "Ricky Gervais", "isCorrect": false }
+		],
+		"source_explanation": "Os créditos oficiais da série da NBC listam Steve Carell como o protagonista Michael Scott nas temporadas 1 a 7.",
+		"source_abnt": "THE OFFICE (US). Produção: Greg Daniels, Ricky Gervais, Stephen Merchant. Estados Unidos: NBC, 2005-2013. (Série de TV)."
+	},
+	{
+		"id": "CITV017",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Qual filme de 2008, dirigido por Christopher Nolan, apresenta a icônica atuação de Heath Ledger como o Coringa?",
+		"options": [
+			{ "description": "Batman Begins", "isCorrect": false },
+			{ "description": "O Cavaleiro das Trevas (The Dark Knight)", "isCorrect": true },
+			{ "description": "A Origem (Inception)", "isCorrect": false },
+			{ "description": "O Cavaleiro das Trevas Ressurge", "isCorrect": false }
+		],
+		"source_explanation": "Heath Ledger venceu o Oscar póstumo de Melhor Ator Coadjuvante (2009) por seu papel como o Coringa em \"O Cavaleiro das Trevas\".",
+		"source_abnt": "ACADEMY OF MOTION PICTURE ARTS AND SCIENCES (AMPAS). *81st Academy Awards*. Los Angeles: AMPAS, 2009. (Vencedor: Melhor Ator Coadjuvante)."
+	},
+	{
+		"id": "CITV018",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Qual atriz interpreta a heroína Katniss Everdeen na franquia de filmes \"Jogos Vorazes\"?",
+		"options": [
+			{ "description": "Emma Stone", "isCorrect": false },
+			{ "description": "Jennifer Lawrence", "isCorrect": true },
+			{ "description": "Shailene Woodley", "isCorrect": false },
+			{ "description": "Kristen Stewart", "isCorrect": false }
+		],
+		"source_explanation": "Os créditos oficiais da franquia de filmes \"Jogos Vorazes\" (2012) listam Jennifer Lawrence como a protagonista Katniss Everdeen.",
+		"source_abnt": "JOGOS VORAZES. Direção: Gary Ross. Produção: Lionsgate Films. [Filme]. Estados Unidos, 2012."
+	},
+	{
+		"id": "CITV019",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Qual é o nome do arqueólogo aventureiro, interpretado por Harrison Ford, que busca a Arca da Aliança?",
+		"options": [
+			{ "description": "Han Solo", "isCorrect": false },
+			{ "description": "Rick Deckard", "isCorrect": false },
+			{ "description": "Indiana Jones", "isCorrect": true },
+			{ "description": "Jack Ryan", "isCorrect": false }
+		],
+		"source_explanation": "A sinopse e os créditos oficiais do filme de 1981 da Lucasfilm confirmam Harrison Ford no papel do Dr. Henry \"Indiana\" Jones Jr.",
+		"source_abnt": "INDIANA JONES E OS CAÇADORES DA ARCA PERDIDA. Direção: Steven Spielberg. Produção: Lucasfilm. [Filme]. Estados Unidos, 1981."
+	},
+	{
+		"id": "CITV020",
+		"category": "Cinema e TV",
+		"level": "easy",
+		"question": "Qual filme de animação da Pixar se passa dentro da mente de uma jovem chamada Riley, com personagens que são emoções?",
+		"options": [
+			{ "description": "Divertida Mente (Inside Out)", "isCorrect": true },
+			{ "description": "Up - Altas Aventuras", "isCorrect": false },
+			{ "description": "WALL-E", "isCorrect": false },
+			{ "description": "Viva - A Vida é uma Festa (Coco)", "isCorrect": false }
+		],
+		"source_explanation": "A sinopse oficial do filme \"Divertida Mente\" (2015) da Pixar descreve a trama como ocorrendo dentro da mente de Riley, com as emoções Alegria, Tristeza, Raiva, Medo e Nojinho.",
+		"source_abnt": "DIVERTIDA MENTE. Direção: Pete Docter. Produção: Pixar Animation Studios. [Filme]. Estados Unidos: Disney, 2015."
+	},
+	{
+		"id": "CITV021",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "Qual série da HBO, sobre uma família mafiosa de Nova Jersey, é frequentemente citada por ter iniciado a \"Era de Ouro da Televisão\"?",
+		"options": [
+			{ "description": "Boardwalk Empire", "isCorrect": false },
+			{ "description": "The Wire", "isCorrect": false },
+			{ "description": "The Sopranos (Família Soprano)", "isCorrect": true },
+			{ "description": "Oz", "isCorrect": false }
+		],
+		"source_explanation": "O livro \"The Revolution Was Televised\" analisa o impacto de \"The Sopranos\" (1999) como o ponto de partida da TV de prestígio, mudando o formato da narrativa televisiva.",
+		"source_abnt": "SEPINWALL, Alan. *The Revolution Was Televised: The Cops, Crooks, Slingers, and Slayers Who Changed TV Drama Forever*. Nova York: Touchstone, 2012."
+	},
+	{
+		"id": "CITV022",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "No filme \"O Poderoso Chefão\", qual é a famosa oferta que Don Corleone diz que \"não se pode recusar\"?",
+		"options": [
+			{ "description": "Uma mala de dinheiro.", "isCorrect": false },
+			{ "description": "Uma oferta de amizade e proteção.", "isCorrect": true },
+			{ "description": "Um contrato de cinema para Johnny Fontane.", "isCorrect": false },
+			{ "description": "A cabeça de um cavalo na cama.", "isCorrect": false }
+		],
+		"source_explanation": "A frase (\"I'm gonna make him an offer he can't refuse\") é o lema de Corleone sobre como ele exerce poder (coerção velada, que pode incluir a cabeça do cavalo, mas a \"oferta\" é a amizade).",
+		"source_abnt": "PUZO, Mario; COPPOLA, Francis Ford. *O Poderoso Chefão* (Roteiro). Paramount Pictures, 1972."
+	},
+	{
+		"id": "CITV023",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "Qual diretor é conhecido por seu estilo visual único de simetria quase perfeita, paletas de cores pastéis e elencos recorrentes?",
+		"options": [
+			{ "description": "Tim Burton", "isCorrect": false },
+			{ "description": "Wes Anderson", "isCorrect": true },
+			{ "description": "Steven Spielberg", "isCorrect": false },
+			{ "description": "Christopher Nolan", "isCorrect": false }
+		],
+		"source_explanation": "Esta coleção de ensaios visuais analisa o estilo simétrico distinto do diretor em filmes como \"O Grande Hotel Budapeste\" e \"Os Excêntricos Tenenbaums\".",
+		"source_abnt": "ZOLLER SEITZ, Matt. *The Wes Anderson Collection*. Nova York: Abrams, 2013."
+	},
+	{
+		"id": "CITV024",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "O que é \"Rosebud\" no filme clássico \"Cidadão Kane\" (1941)?",
+		"options": [
+			{ "description": "O nome de sua esposa perdida.", "isCorrect": false },
+			{ "description": "Sua vasta fortuna.", "isCorrect": false },
+			{ "description": "O nome do trenó de sua infância.", "isCorrect": true },
+			{ "description": "A mansão onde ele morreu.", "isCorrect": false }
+		],
+		"source_explanation": "O roteiro de Orson Welles e Herman J. Mankiewicz revela que a última palavra de Kane, \"Rosebud\", refere-se ao trenó de sua infância, simbolizando a inocência perdida.",
+		"source_abnt": "CIDADÃO KANE. Direção: Orson Welles. Produção: RKO Radio Pictures. [Filme]. Estados Unidos, 1941."
+	},
+	{
+		"id": "CITV025",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "O filme \"Blade Runner: O Caçador de Androides\" (1982) é um exemplo seminal de qual subgênero da ficção científica?",
+		"options": [
+			{ "description": "Cyberpunk", "isCorrect": true },
+			{ "description": "Space Opera (Ópera Espacial)", "isCorrect": false },
+			{ "description": "Steampunk", "isCorrect": false },
+			{ "description": "Distopia Pós-Apocalíptica", "isCorrect": false }
+		],
+		"source_explanation": "O filme de Ridley Scott, baseado no livro de Philip K. Dick, é a definição visual do cyberpunk (tecnologia avançada, decadência social, neon-noir).",
+		"source_abnt": "BLADE RUNNER. Direção: Ridley Scott. Produção: The Ladd Company. [Filme]. Estados Unidos, 1982. Baseado na obra de Philip K. Dick."
+	},
+	{
+		"id": "CITV026",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "Qual foi o primeiro filme em língua não inglesa a ganhar o Oscar de Melhor Filme?",
+		"options": [
+			{ "description": "A Vida é Bela (Itália)", "isCorrect": false },
+			{ "description": "O Tigre e o Dragão (Taiwan)", "isCorrect": false },
+			{ "description": "Roma (México)", "isCorrect": false },
+			{ "description": "Parasita (Coreia do Sul)", "isCorrect": true }
+		],
+		"source_explanation": "Na 92ª cerimônia do Oscar (2020), o filme sul-coreano \"Parasita\", de Bong Joon-ho, fez história ao vencer Melhor Filme e Melhor Filme Internacional.",
+		"source_abnt": "ACADEMY OF MOTION PICTURE ARTS AND SCIENCES (AMPAS). *92nd Academy Awards*. Los Angeles: AMPAS, 2020. (Vencedor: Melhor Filme - Parasita)."
+	},
+	{
+		"id": "CITV027",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "Na série \"Breaking Bad\", qual é o pseudônimo (alter ego) de Walter White no mundo do crime?",
+		"options": [
+			{ "description": "Cap'n Cook", "isCorrect": false },
+			{ "description": "Heisenberg", "isCorrect": true },
+			{ "description": "Gus Fring", "isCorrect": false },
+			{ "description": "Jesse Pinkman", "isCorrect": false }
+		],
+		"source_explanation": "Na Temporada 1, Episódio 6 (\"Crazy Handful of Nothin'\"), Walter White adota o nome de \"Heisenberg\", em referência ao físico Werner Heisenberg.",
+		"source_abnt": "BREAKING BAD. Temporada 1, Episódio 6: \"Crazy Handful of Nothin'\". Produção: Vince Gilligan. Estados Unidos: AMC, 2008."
+	},
+	{
+		"id": "CITV028",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "O que é um \"MacGuffin\", termo popularizado pelo diretor Alfred Hitchcock?",
+		"options": [
+			{ "description": "Um objeto, objetivo ou segredo que move a trama, mas cujo conteúdo específico é irrelevante para o público.", "isCorrect": true },
+			{ "description": "Um estilo de iluminação que cria sombras dramáticas (Film Noir).", "isCorrect": false },
+			{ "description": "Uma reviravolta na trama (plot twist) que engana o público.", "isCorrect": false },
+			{ "description": "A aparição rápida do diretor em seu próprio filme (cameo).", "isCorrect": false }
+		],
+		"source_explanation": "No livro-entrevista com François Truffaut, Hitchcock define extensivamente o MacGuffin (ex: os segredos em \"Os 39 Degraus\", o dinheiro em \"Psicose\").",
+		"source_abnt": "TRUFFAUT, François; HITCHCOCK, Alfred. *Hitchcock/Truffaut: entrevistas*. Tradução de Rosa Freire d'Aguiar. São Paulo: Companhia das Letras, 2004."
+	},
+	{
+		"id": "CITV029",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "Qual estúdio de animação japonês, co-fundado por Hayao Miyazaki, é famoso por filmes como \"A Viagem de Chihiro\" e \"Meu Amigo Totoro\"?",
+		"options": [
+			{ "description": "Kyoto Animation", "isCorrect": false },
+			{ "description": "Sunrise", "isCorrect": false },
+			{ "description": "Toei Animation", "isCorrect": false },
+			{ "description": "Studio Ghibli", "isCorrect": true }
+		],
+		"source_explanation": "O catálogo oficial do Studio Ghibli lista Hayao Miyazaki e Isao Takahata como co-fundadores e \"A Viagem de Chihiro\" (2001) como uma de suas obras-primas.",
+		"source_abnt": "STUDIO GHIBLI. *Filmografia*. Tóquio: Studio Ghibli, [s.d.]. Disponível em: https://www.ghibli.jp/films/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CITV030",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "O filme \"2001: Uma Odisseia no Espaço\" (1968) é famoso por sua trilha sonora clássica e pelo antagonista, que é...",
+		"options": [
+			{ "description": "Um grupo de alienígenas hostis.", "isCorrect": false },
+			{ "description": "O computador de inteligência artificial HAL 9000.", "isCorrect": true },
+			{ "description": "Um astronauta rival chamado David Bowman.", "isCorrect": false },
+			{ "description": "Um cometa em rota de colisão com a Terra.", "isCorrect": false }
+		],
+		"source_explanation": "O roteiro de Stanley Kubrick e Arthur C. Clarke detalha como a IA HAL 9000 se torna o antagonista da nave Discovery One.",
+		"source_abnt": "2001: UMA ODISSEIA NO ESPAÇO. Direção: Stanley Kubrick. Produção: Metro-Goldwyn-Mayer. [Filme]. Reino Unido/Estados Unidos, 1968."
+	},
+	{
+		"id": "CITV031",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "Martin Scorsese tem uma longa parceria de colaboração com qual ator, iniciada em \"Caminhos Perigosos\" (1973) e que inclui \"Taxi Driver\" e \"Touro Indomável\"?",
+		"options": [
+			{ "description": "Leonardo DiCaprio", "isCorrect": false },
+			{ "description": "Al Pacino", "isCorrect": false },
+			{ "description": "Robert De Niro", "isCorrect": true },
+			{ "description": "Joe Pesci", "isCorrect": false }
+		],
+		"source_explanation": "As filmografias cruzadas de Martin Scorsese e Robert De Niro documentam suas múltiplas colaborações, começando com \"Mean Streets\" (Caminhos Perigosos).",
+		"source_abnt": "IMDB. *Martin Scorsese: Filmografia*. [S.l.]: IMDb.com, Inc., [s.d.]. Disponível em: https://www.imdb.com/name/nm0000217/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CITV032",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "A famosa série de ficção científica \"The Twilight Zone\" (Além da Imaginação), dos anos 60, era apresentada por qual criador e roteirista?",
+		"options": [
+			{ "description": "Gene Roddenberry", "isCorrect": false },
+			{ "description": "Alfred Hitchcock", "isCorrect": false },
+			{ "description": "Rod Serling", "isCorrect": true },
+			{ "description": "Ray Bradbury", "isCorrect": false }
+		],
+		"source_explanation": "Os créditos oficiais da série original da CBS confirmam Rod Serling como o criador, principal roteirista e o apresentador que introduzia cada episódio.",
+		"source_abnt": "THE TWILIGHT ZONE. Produção: Rod Serling, Cayuga Productions. Estados Unidos: CBS, 1959-1964. (Série de TV)."
+	},
+	{
+		"id": "CITV033",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "Qual filme de 1994, dirigido por Quentin Tarantino, é famoso por sua narrativa não linear e por revitalizar a carreira de John Travolta?",
+		"options": [
+			{ "description": "Cães de Aluguel", "isCorrect": false },
+			{ "description": "Pulp Fiction: Tempo de Violência", "isCorrect": true },
+			{ "description": "Jackie Brown", "isCorrect": false },
+			{ "description": "Kill Bill: Volume 1", "isCorrect": false }
+		],
+		"source_explanation": "O filme \"Pulp Fiction\" (1994) é universalmente conhecido por sua estrutura de roteiro fragmentada e por trazer John Travolta de volta ao estrelato.",
+		"source_abnt": "PULP FICTION. Direção: Quentin Tarantino. Produção: Miramax. [Filme]. Estados Unidos, 1994."
+	},
+	{
+		"id": "CITV034",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "O final do filme \"A Origem\" (Inception) de Christopher Nolan é famoso por sua ambiguidade envolvendo qual objeto?",
+		"options": [
+			{ "description": "Um pião (que pode ou não parar de girar).", "isCorrect": true },
+			{ "description": "Uma porta fechada.", "isCorrect": false },
+			{ "description": "Um envelope lacrado.", "isCorrect": false },
+			{ "description": "Um relógio quebrado.", "isCorrect": false }
+		],
+		"source_explanation": "A cena final do filme (2010) termina com o \"totem\" (pião) de Cobb girando, deixando seu estado de realidade ambíguo.",
+		"source_abnt": "A ORIGEM (Inception). Direção: Christopher Nolan. Produção: Warner Bros., Legendary Pictures. [Filme]. Estados Unidos/Reino Unido, 2010."
+	},
+	{
+		"id": "CITV035",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "O filme \"1917\" (2019) recebeu aclamação técnica por simular ser filmado em...",
+		"options": [
+			{ "description": "Preto e branco, usando câmeras da Primeira Guerra Mundial.", "isCorrect": false },
+			{ "description": "Um único \"plano-sequência\" (tomada contínua), usando cortes escondidos.", "isCorrect": true },
+			{ "description": "Câmera lenta extrema (high-speed camera).", "isCorrect": false },
+			{ "description": "Animação 3D fotorrealista.", "isCorrect": false }
+		],
+		"source_explanation": "O diretor de fotografia Roger Deakins, que venceu o Oscar pelo filme, detalha em entrevistas a técnica usada para criar a ilusão de um único take contínuo.",
+		"source_abnt": "AMERICAN SOCIETY OF CINEMATOGRAPHERS (ASC). *'1917': One Continuous Shot*. Hollywood, CA: ASC, 2020. Disponível em: https://ascmag.com/articles/1917-one-continuous-shot. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CITV036",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "A frase \"Here's looking at you, kid\" (\"Estou de olho em você, garota\" ou \"Saúde, garota\") é um brinde icônico de Humphrey Bogart em qual filme clássico?",
+		"options": [
+			{ "description": "Relíquia Macabra (O Falcão Maltês)", "isCorrect": false },
+			{ "description": "Casablanca", "isCorrect": true },
+			{ "description": "Uma Aventura na África", "isCorrect": false },
+			{ "description": "À Beira do Abismo", "isCorrect": false }
+		],
+		"source_explanation": "A frase, dita por Rick (Bogart) para Ilsa (Bergman), é listada pelo American Film Institute (AFI) como a 5ª maior citação do cinema americano.",
+		"source_abnt": "AMERICAN FILM INSTITUTE (AFI). *AFI's 100 Years...100 Movie Quotes*. Los Angeles: AFI, 2005. Disponível em: https://www.afi.com/afis-100-years-100-movie-quotes/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CITV037",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "Qual série revolucionária dos anos 90, criada por David Lynch, começou com a pergunta \"Quem matou Laura Palmer?\" e misturou mistério com surrealismo?",
+		"options": [
+			{ "description": "Arquivo X", "isCorrect": false },
+			{ "description": "Twin Peaks", "isCorrect": true },
+			{ "description": "CSI", "isCorrect": false },
+			{ "description": "Além da Imaginação", "isCorrect": false }
+		],
+		"source_explanation": "A premissa central da primeira temporada da série (1990) foi a investigação do assassinato de Laura Palmer, que expôs o lado surreal da cidade.",
+		"source_abnt": "TWIN PEAKS. Produção: David Lynch, Mark Frost. Estados Unidos: ABC, 1990-1991. (Série de TV)."
+	},
+	{
+		"id": "CITV038",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "Na série \"Stranger Things\", qual é o nome da dimensão paralela sombria que ameaça a cidade de Hawkins?",
+		"options": [
+			{ "description": "O Abismo (The Abyss)", "isCorrect": false },
+			{ "description": "O Vazio (The Void)", "isCorrect": false },
+			{ "description": "O Mundo Invertido (The Upside Down)", "isCorrect": true },
+			{ "description": "O Limbo (The Limbo)", "isCorrect": false }
+		],
+		"source_explanation": "A nomenclatura \"Upside Down\" (Mundo Invertido) é o termo central usado pelos personagens para descrever a dimensão paralela na mitologia da série.",
+		"source_abnt": "STRANGER THINGS. Produção: Duffer Brothers, 21 Laps Entertainment. Estados Unidos: Netflix, 2016-presente. (Série de TV)."
+	},
+	{
+		"id": "CITV039",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "A \"Primeira Diretriz\" (Prime Directive) é um princípio fundamental na série \"Star Trek\" (Jornada nas Estrelas) que proíbe a Frota Estelar de...",
+		"options": [
+			{ "description": "Viajar mais rápido que a velocidade da luz (Dobra).", "isCorrect": false },
+			{ "description": "Fazer contato com espécies hostis.", "isCorrect": false },
+			{ "description": "Interferir no desenvolvimento natural de civilizações alienígenas, especialmente as pré-Dobra.", "isCorrect": true },
+			{ "description": "Usar teletransporte em planetas com atmosfera.", "isCorrect": false }
+		],
+		"source_explanation": "A Primeira Diretriz (General Order 1) é um ponto de trama recorrente e central na ética da Frota Estelar, proibindo a interferência em outras culturas.",
+		"source_abnt": "STAR TREK. Produção: Gene Roddenberry, Desilu Productions. Estados Unidos: NBC, 1966-1969. (Série de TV)."
+	},
+	{
+		"id": "CITV040",
+		"category": "Cinema e TV",
+		"level": "medium",
+		"question": "O compositor John Williams é famoso por criar trilhas sonoras icônicas para muitos filmes. Qual destas NÃO é uma composição dele?",
+		"options": [
+			{ "description": "Star Wars (Tema Principal)", "isCorrect": false },
+			{ "description": "O Senhor dos Anéis (Tema da Sociedade)", "isCorrect": true },
+			{ "description": "Indiana Jones (Marcha dos Caçadores)", "isCorrect": false },
+			{ "description": "Jurassic Park (Tema Principal)", "isCorrect": false }
+		],
+		"source_explanation": "A trilogia \"O Senhor dos Anéis\" foi composta por Howard Shore, como listado nos créditos oficiais. As outras são obras de John Williams.",
+		"source_abnt": "O SENHOR DOS ANÉIS: A SOCIEDADE DO ANEL. Direção: Peter Jackson. Produção: New Line Cinema. [Filme]. Nova Zelândia/Estados Unidos, 2001. (Trilha sonora por Howard Shore)."
+	},
+	{
+		"id": "CITV041",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "O filme \"Acossado\" (À bout de souffle, 1960), de Jean-Luc Godard, é um marco da \"Nouvelle Vague\" (Nova Onda Francesa) por popularizar qual técnica de edição disruptiva?",
+		"options": [
+			{ "description": "A fusão lenta (dissolve) entre todas as cenas.", "isCorrect": false },
+			{ "description": "O \"corte em salto\" (jump cut), que quebra a continuidade temporal e espacial.", "isCorrect": true },
+			{ "description": "O efeito de \"bullet time\" (tempo de bala).", "isCorrect": false },
+			{ "description": "A filmagem em tela verde (chroma key).", "isCorrect": false }
+		],
+		"source_explanation": "Obras de referência em história do cinema analisam \"Acossado\" e o uso deliberado do \"jump cut\" por Godard como uma quebra autoconsciente das regras de continuidade de Hollywood.",
+		"source_abnt": "BORDWELL, David; THOMPSON, Kristin. *Film History: An Introduction*. 3. ed. Nova York: McGraw-Hill, 2010."
+	},
+	{
+		"id": "CITV042",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "O filme \"O Gabinete do Dr. Caligari\" (1920) é o principal exemplo do \"Expressionismo Alemão\" devido ao seu uso de...",
+		"options": [
+			{ "description": "Atores não profissionais e locações reais (Neorrealismo).", "isCorrect": false },
+			{ "description": "Cenários distorcidos, irreais e sombras pintadas para refletir o estado mental dos personagens.", "isCorrect": true },
+			{ "description": "Diálogos rápidos e sobrepostos.", "isCorrect": false },
+			{ "description": "Câmera na mão e iluminação natural.", "isCorrect": false }
+		],
+		"source_explanation": "Este estudo clássico de Lotte Eisner define a estética do Expressionismo Alemão (mise-en-scène distorcido) através da análise de \"Caligari\".",
+		"source_abnt": "EISNER, Lotte H. *A Tela Demoníaca: as influências de Max Reinhardt e do expressionismo*. Tradução de Lúcia Nagib. São Paulo: Martins Fontes, 1985."
+	},
+	{
+		"id": "CITV043",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "O movimento do \"Neorrealismo Italiano\", com filmes como \"Ladrões de Bicicleta\", diferenciava-se do cinema de estúdio por priorizar...",
+		"options": [
+			{ "description": "Efeitos especiais complexos e orçamentos gigantescos.", "isCorrect": false },
+			{ "description": "Histórias da classe trabalhadora, filmagens em locações reais e o uso de atores não profissionais.", "isCorrect": true },
+			{ "description": "Narrativas de fantasia e escapismo.", "isCorrect": false },
+			{ "description": "Cenários luxuosos e figurinos elaborados.", "isCorrect": false }
+		],
+		"source_explanation": "Os ensaios do crítico André Bazin sobre \"Ladrões de Bicicleta\" (De Sica) definem os princípios do Neorrealismo: foco na realidade social, locações reais e atores não profissionais.",
+		"source_abnt": "BAZIN, André. *O que é o Cinema?*. Tradução de Eloisa de Araújo Ribeiro. São Paulo: Cosac Naify, 2014."
+	},
+	{
+		"id": "CITV044",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "O que é o \"Efeito Kuleshov\", um experimento fundamental da teoria de montagem soviética?",
+		"options": [
+			{ "description": "A ideia de que o significado de um plano (take) é criado pela justaposição com outro plano, e não pelo plano em si.", "isCorrect": true },
+			{ "description": "O uso de uma trilha sonora triste para fazer uma cena feliz parecer irônica.", "isCorrect": false },
+			{ "description": "Acelerar a filmagem para criar um efeito cômico (fast-motion).", "isCorrect": false },
+			{ "description": "Filmar a mesma cena de múltiplos ângulos (cobertura).", "isCorrect": false }
+		],
+		"source_explanation": "O experimento de Lev Kuleshov (relatado por seu aluno Pudovkin) mostrava o mesmo rosto de um ator justaposto a um prato de sopa, um caixão, etc., provando que a montagem cria o significado.",
+		"source_abnt": "PUDOVKIN, Vsevolod. *A Técnica Cinematográfica*. Tradução de A. R. L. São Paulo: Martins, 1948."
+	},
+	{
+		"id": "CITV045",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "O filme \"Rashomon\" (1950), de Akira Kurosawa, deu origem ao \"Efeito Rashomon\", que descreve qual dispositivo narrativo?",
+		"options": [
+			{ "description": "Uma história contada inteiramente de trás para frente (cronologia reversa).", "isCorrect": false },
+			{ "description": "Um único evento contado por múltiplos personagens, onde cada relato é contraditório e subjetivo.", "isCorrect": true },
+			{ "description": "Um narrador não confiável que mente diretamente para o público.", "isCorrect": false },
+			{ "description": "Um final que revela que toda a história foi um sonho.", "isCorrect": false }
+		],
+		"source_explanation": "A sinopse e a análise crítica do filme de Kurosawa definem sua estrutura (o mesmo crime contado por quatro testemunhas contraditórias) como sua característica mais impactante.",
+		"source_abnt": "RASHOMON. Direção: Akira Kurosawa. Produção: Daiei Film. [Filme]. Japão, 1950."
+	},
+	{
+		"id": "CITV046",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "A \"Teoria do Autor\" (Auteur Theory), popularizada pela revista *Cahiers du Cinéma*, defende que...",
+		"options": [
+			{ "description": "O roteirista é o verdadeiro autor de um filme, não o diretor.", "isCorrect": false },
+			{ "description": "Os filmes devem ser analisados como produtos coletivos de um estúdio, não de um indivíduo.", "isCorrect": false },
+			{ "description": "O diretor, através de seu estilo visual e temas recorrentes, é o verdadeiro \"autor\" do filme.", "isCorrect": true },
+			{ "description": "O público é o autor, pois cada pessoa interpreta o filme de forma diferente.", "isCorrect": false }
+		],
+		"source_explanation": "O ensaio de François Truffaut no \"Cahiers du Cinéma\" (1954) foi a base da \"política dos autores\", argumentando pela autoria do diretor.",
+		"source_abnt": "TRUFFAUT, François. Uma Certa Tendência do Cinema Francês. *Cahiers du Cinéma*, Paris, n. 31, jan. 1954."
+	},
+	{
+		"id": "CITV047",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "Em \"O Sétimo Selo\" (1957), de Ingmar Bergman, o cavaleiro Antonius Block joga uma partida de xadrez com qual entidade para ganhar tempo?",
+		"options": [
+			{ "description": "O Diabo", "isCorrect": false },
+			{ "description": "Deus", "isCorrect": false },
+			{ "description": "A Morte (personificada)", "isCorrect": true },
+			{ "description": "O Rei", "isCorrect": false }
+		],
+		"source_explanation": "A cena do cavaleiro jogando xadrez com a Morte personificada (Bengt Ekerot) é a imagem central e icônica do filme.",
+		"source_abnt": "O SÉTIMO SELO. Direção: Ingmar Bergman. Produção: Svensk Filmindustri. [Filme]. Suécia, 1957."
+	},
+	{
+		"id": "CITV048",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "O que o diretor Andrei Tarkovsky queria dizer com sua teoria de \"Esculpir o Tempo\" (Sculpting in Time)?",
+		"options": [
+			{ "description": "O uso de edição rápida (cortes rápidos) para acelerar a narrativa.", "isCorrect": false },
+			{ "description": "O uso de longos planos-sequência (long takes) e ritmo deliberado para capturar o fluxo do tempo e sua pressão sobre os personagens.", "isCorrect": true },
+			{ "description": "A prática de filmar a mesma cena em diferentes estações do ano.", "isCorrect": false },
+			{ "description": "O uso de flashbacks e flash-forwards para quebrar a linearidade.", "isCorrect": false }
+		],
+		"source_explanation": "No livro-manifesto de Tarkovsky, ele detalha sua filosofia de que o cinema é a arte de esculpir o tempo, priorizando o ritmo e os longos planos.",
+		"source_abnt": "TARKOVSKY, Andrei. *Esculpir o Tempo*. Tradução de Jefferson Luiz Camargo. São Paulo: Martins Fontes, 1998."
+	},
+	{
+		"id": "CITV049",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "A série da HBO \"The Wire\" (A Escuta) é aclamada pela crítica por seu retrato realista de Baltimore, focando em um tema central diferente a cada temporada. Qual foi o tema da Temporada 2?",
+		"options": [
+			{ "description": "O sistema escolar público.", "isCorrect": false },
+			{ "description": "A política da prefeitura.", "isCorrect": false },
+			{ "description": "A mídia impressa (jornal).", "isCorrect": false },
+			{ "description": "O declínio da classe trabalhadora e os sindicatos nas docas (Porto).", "isCorrect": true }
+		],
+		"source_explanation": "Em entrevistas e na estrutura da série, o criador David Simon confirma que a Temporada 2 mudou o foco do tráfico de drogas (Temp. 1) para os estivadores e o porto de Baltimore.",
+		"source_abnt": "THE WIRE. Temporada 2. Produção: David Simon, Blown Deadline Productions. Estados Unidos: HBO, 2003. (Série de TV)."
+	},
+	{
+		"id": "CITV050",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "A fotografia de \"O Poderoso Chefão\", filmada por Gordon Willis, foi revolucionária e controversa na época por quê?",
+		"options": [
+			{ "description": "Usou iluminação \"high-key\" (alta), tornando todas as cenas brilhantes e sem sombras.", "isCorrect": false },
+			{ "description": "Usou extensivamente a \"iluminação superior\" (top lighting) e \"subexposição\", muitas vezes deixando os olhos dos atores (especialmente Brando) em sombras profundas.", "isCorrect": true },
+			{ "description": "Foi filmado inteiramente em preto e branco.", "isCorrect": false },
+			{ "description": "Foi o primeiro filme a usar lentes anamórficas.", "isCorrect": false }
+		],
+		"source_explanation": "Análises da ASC sobre o trabalho de Gordon Willis (apelidado de \"Príncipe das Trevas\") em \"O Poderoso Chefão\" detalham seu uso inovador da subexposição e iluminação superior.",
+		"source_abnt": "AMERICAN SOCIETY OF CINEMATOGRAPHERS (ASC). *Remembering Gordon Willis, ASC*. Hollywood, CA: ASC, 2014. Disponível em: https://ascmag.com/articles/remembering-gordon-willis-asc. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CITV051",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "O que foi o \"Dogma 95\", movimento cinematográfico fundado por Lars von Trier e Thomas Vinterberg?",
+		"options": [
+			{ "description": "Um manifesto que exigia o uso de efeitos especiais de ponta e orçamentos ilimitados.", "isCorrect": false },
+			{ "description": "Um \"Voto de Castidade\" que proibia adereços, iluminação artificial, música não diegética e exigia filmagem com câmera na mão.", "isCorrect": true },
+			{ "description": "Um movimento político para nacionalizar a indústria cinematográfica dinamarquesa.", "isCorrect": false },
+			{ "description": "Um estilo de animação que misturava 2D e 3D.", "isCorrect": false }
+		],
+		"source_explanation": "O manifesto oficial, assinado em 1995, lista as 10 regras (o \"Voto de Castidade\") do movimento, focando no realismo e rejeitando a tecnologia de estúdio.",
+		"source_abnt": "VON TRIER, Lars; VINTERBERG, Thomas. *O Dogma 95: Manifesto*. 13 mar. 1995. Copenhague, Dinamarca."
+	},
+	{
+		"id": "CITV052",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "O famoso \"plano-sequência\" do filme \"Filhos da Esperança\" (2006), filmado por Emmanuel Lubezki, é a cena...",
+		"options": [
+			{ "description": "Do nascimento do bebê na sala.", "isCorrect": false },
+			{ "description": "Da emboscada do carro na floresta, filmada inteiramente de dentro do veículo.", "isCorrect": true },
+			{ "description": "Da perseguição no telhado.", "isCorrect": false },
+			{ "description": "Da explosão da cafeteria no início do filme.", "isCorrect": false }
+		],
+		"source_abnt": "FILHOS DA ESPERANÇA. Direção: Alfonso Cuarón. Produção: Universal Pictures. [Filme]. Reino Unido/Estados Unidos, 2006. (Análise da cena da emboscada)."
+	},
+	{
+		"id": "CITV053",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "Em \"2001: Uma Odisseia no Espaço\", Stanley Kubrick usa um \"corte por associação\" (match cut) famoso, ligando milhões de anos de evolução humana ao conectar visualmente quais dois objetos?",
+		"options": [
+			{ "description": "Um osso jogado ao ar e uma nave espacial orbitando a Terra.", "isCorrect": true },
+			{ "description": "O olho de HAL 9000 e o olho do astronauta Dave Bowman.", "isCorrect": false },
+			{ "description": "O Monólito e uma porta de nave.", "isCorrect": false },
+			{ "description": "A Terra e a Lua.", "isCorrect": false }
+		],
+		"source_abnt": "2001: UMA ODISSEIA NO ESPAÇO. Direção: Stanley Kubrick. Produção: Metro-Goldwyn-Mayer. [Filme]. Reino Unido/Estados Unidos, 1968. (Análise da cena do \"match cut\")."
+	},
+	{
+		"id": "CITV054",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "Qual é a principal diferença entre o \"Método\" de Lee Strasberg (ensinado no Actors Studio) e a técnica de Stella Adler?",
+		"options": [
+			{ "description": "Strasberg focava na \"memória afetiva\" (usar memórias pessoais para evocar emoção); Adler focava na imaginação e na análise do roteiro.", "isCorrect": true },
+			{ "description": "Strasberg ensinava para o teatro; Adler ensinava apenas para o cinema.", "isCorrect": false },
+			{ "description": "Strasberg focava na voz; Adler focava no movimento físico.", "isCorrect": false },
+			{ "description": "Não há diferença, ambos ensinaram o mesmo sistema de Stanislavski.", "isCorrect": false }
+		],
+		"source_explanation": "Adler (que estudou com Stanislavski) rompeu com Strasberg sobre a ênfase na memória afetiva, defendendo que o ator deveria usar a imaginação e o texto.",
+		"source_abnt": "ADLER, Stella. *A Arte de Representar*. Tradução de B. S. Augusto. Rio de Janeiro: Zahar, 2006."
+	},
+	{
+		"id": "CITV055",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "O filme de vanguarda \"Um Cão Andaluz\" (Un Chien Andalou, 1929) é uma colaboração entre o diretor Luis Buñuel e qual pintor surrealista?",
+		"options": [
+			{ "description": "Pablo Picasso", "isCorrect": false },
+			{ "description": "René Magritte", "isCorrect": false },
+			{ "description": "Max Ernst", "isCorrect": false },
+			{ "description": "Salvador Dalí", "isCorrect": true }
+		],
+		"source_explanation": "Na autobiografia de Buñuel, ele descreve o processo de escrita do roteiro com Dalí, baseado em seus sonhos (ex: a cena do olho cortado).",
+		"source_abnt": "BUÑUEL, Luis. *Meu Último Suspiro*. Tradução de José Rubens Siqueira. São Paulo: Cosac Naify, 2009."
+	},
+	{
+		"id": "CITV056",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "A série \"Twin Peaks: The Return\" (2017) é notória por sua oitava parte (\"Part 8\"), que abandona a narrativa principal para mostrar o quê?",
+		"options": [
+			{ "description": "Uma sequência de comédia musical de 45 minutos.", "isCorrect": false },
+			{ "description": "Uma sequência experimental, em preto e branco, que retrata a origem de \"BOB\" durante o primeiro teste da bomba atômica (Trinity).", "isCorrect": true },
+			{ "description": "Um episódio inteiro focado no personagem \"Homem de Outro Lugar\".", "isCorrect": false },
+			{ "description": "A história de fundo de David Lynch interpretando Gordon Cole.", "isCorrect": false }
+		],
+		"source_explanation": "A exibição da Parte 8 foi um evento crítico, analisado por sua natureza de vanguarda, que se afasta da trama para mostrar uma \"história de origem\" surreal da bomba atômica.",
+		"source_abnt": "TWIN PEAKS: THE RETURN. Parte 8. Produção: David Lynch, Mark Frost. Estados Unidos: Showtime, 2017. (Série de TV)."
+	},
+	{
+		"id": "CITV057",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "O que é um \"Deus ex machina\" (Deus vindo da máquina) em termos de roteiro?",
+		"options": [
+			{ "description": "Um protagonista robótico que resolve os problemas.", "isCorrect": false },
+			{ "description": "Uma reviravolta na trama que é telegrafada desde o início.", "isCorrect": false },
+			{ "description": "Um problema aparentemente insolúvel que é resolvido subitamente por uma intervenção externa e implausível (como um personagem novo ou um evento aleatório).", "isCorrect": true },
+			{ "description": "O clímax do filme onde o vilão é derrotado pela tecnologia.", "isCorrect": false }
+		],
+		"source_explanation": "O termo origina-se do teatro grego (analisado na \"Poética\" de Aristóteles), onde um guindaste (machina) trazia um ator interpretando um deus (Deus) para resolver o enredo.",
+		"source_abnt": "ARISTÓTELES. *Poética*. Tradução de Eudoro de Sousa. São Paulo: Abril Cultural, 1973. (Coleção Os Pensadores)."
+	},
+	{
+		"id": "CITV058",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "Em \"Apocalypse Now\", a famosa fala \"Eu amo o cheiro de napalm pela manhã\" é dita por qual personagem?",
+		"options": [
+			{ "description": "Capitão Willard (Martin Sheen)", "isCorrect": false },
+			{ "description": "Coronel Kurtz (Marlon Brando)", "isCorrect": false },
+			{ "description": "Tenente-Coronel Kilgore (Robert Duvall)", "isCorrect": true },
+			{ "description": "O Fotojornalista (Dennis Hopper)", "isCorrect": false }
+		],
+		"source_explanation": "A citação é listada pelo American Film Institute (AFI) como a 12ª maior citação do cinema, atribuída ao Tenente-Coronel Kilgore.",
+		"source_abnt": "AMERICAN FILM INSTITUTE (AFI). *AFI's 100 Years...100 Movie Quotes*. Los Angeles: AFI, 2005. Disponível em: https://www.afi.com/afis-100-years-100-movie-quotes/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CITV059",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "Na série \"Mad Men\", Don Draper é revelado ter uma identidade secreta. Qual era seu nome verdadeiro?",
+		"options": [
+			{ "description": "Dick Whitman", "isCorrect": true },
+			{ "description": "Roger Sterling", "isCorrect": false },
+			{ "description": "Pete Campbell", "isCorrect": false },
+			{ "description": "Bert Cooper", "isCorrect": false }
+		],
+		"source_explanation": "A reviravolta da identidade roubada (Dick Whitman se tornando Don Draper após a Guerra da Coreia) é revelada na primeira temporada (ex: Episódio 5, \"5G\").",
+		"source_abnt": "MAD MEN. Temporada 1, Episódio 5: \"5G\". Produção: Matthew Weiner, Lionsgate Television. Estados Unidos: AMC, 2007."
+	},
+	{
+		"id": "CITV060",
+		"category": "Cinema e TV",
+		"level": "hard",
+		"question": "O filme \"O Bebê de Rosemary\" (1968) é um exemplo mestre de terror psicológico de Roman Polanski porque...",
+		"options": [
+			{ "description": "Mostra o demônio e os rituais satânicos em detalhes gráficos.", "isCorrect": false },
+			{ "description": "Nunca mostra o bebê ou o sobrenatural de forma explícita, baseando o terror na paranoia e na conspiração contra a protagonista.", "isCorrect": true },
+			{ "description": "Usa \"jump scares\" (sustos) a cada poucos minutos.", "isCorrect": false },
+			{ "description": "É um filme \"found footage\" (filmagem encontrada).", "isCorrect": false }
+		],
+		"source_explanation": "Análises críticas do filme focam em como Polanski cria terror através da ambiguidade e da paranoia da protagonista, em vez de monstros explícitos.",
+		"source_abnt": "O BEBÊ DE ROSEMARY. Direção: Roman Polanski. Produção: Paramount Pictures. [Filme]. Estados Unidos, 1968."
+	}
+]

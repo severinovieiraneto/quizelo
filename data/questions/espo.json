@@ -1,0 +1,842 @@
+[
+	{
+		"id": "ESPO001",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "Qual país venceu a Copa do Mundo da FIFA mais vezes?",
+		"options": [
+			{ "description": "Alemanha", "isCorrect": false },
+			{ "description": "Argentina", "isCorrect": false },
+			{ "description": "Brasil", "isCorrect": true },
+			{ "description": "Itália", "isCorrect": false }
+		],
+		"source_explanation": "Os arquivos oficiais da FIFA listam o Brasil como pentacampeão (5 títulos), sendo o maior vencedor da história da Copa do Mundo.",
+		"source_abnt": "FIFA. *FIFA World Cup: Trophies*. Zurique: FIFA, [s.d.]. Disponível em: https://www.fifa.com/tournaments/mens/worldcup/trophy. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO002",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "Qual jogador de basquete é amplamente considerado o maior de todos os tempos (GOAT), famoso por jogar pelo Chicago Bulls nos anos 90?",
+		"options": [
+			{ "description": "LeBron James", "isCorrect": false },
+			{ "description": "Kobe Bryant", "isCorrect": false },
+			{ "description": "Magic Johnson", "isCorrect": false },
+			{ "description": "Michael Jordan", "isCorrect": true }
+		],
+		"source_explanation": "A biografia oficial de Michael Jordan no site da NBA o descreve como o maior jogador da história do basquete, famoso por seus 6 títulos com o Chicago Bulls.",
+		"source_abnt": "NBA (NATIONAL BASKETBALL ASSOCIATION). *Michael Jordan Bio*. Nova York: NBA, [s.d.]. Disponível em: https://www.nba.com/history/players/jordan_bio.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO003",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "Na Fórmula 1, qual piloto britânico detém (ou compartilha) o recorde de mais campeonatos mundiais de pilotos?",
+		"options": [
+			{ "description": "Ayrton Senna", "isCorrect": false },
+			{ "description": "Lewis Hamilton", "isCorrect": true },
+			{ "description": "Nigel Mansell", "isCorrect": false },
+			{ "description": "Max Verstappen", "isCorrect": false }
+		],
+		"source_explanation": "A lista oficial de campeões da FIA (Federação Internacional de Automobilismo) confirma os 7 títulos mundiais de Lewis Hamilton (empatado com Michael Schumacher).",
+		"source_abnt": "FORMULA 1. *Hall of Fame - Drivers*. Londres: Formula One World Championship Limited, [s.d.]. Disponível em: https://www.formula1.com/en/drivers/hall-of-fame.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO004",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "O Super Bowl é o jogo final e a final do campeonato de qual liga esportiva americana?",
+		"options": [
+			{ "description": "NBA (Basquete)", "isCorrect": false },
+			{ "description": "MLB (Beisebol)", "isCorrect": false },
+			{ "description": "NFL (Futebol Americano)", "isCorrect": true },
+			{ "description": "NHL (Hóquei no Gelo)", "isCorrect": false }
+		],
+		"source_explanation": "O site oficial da NFL define o Super Bowl como o jogo do campeonato anual da liga.",
+		"source_abnt": "NFL (NATIONAL FOOTBALL LEAGUE). *Super Bowl History*. Nova York: NFL, [s.d.]. Disponível em: https://www.nfl.com/super-bowl/history/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO005",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "Qual tenista espanhol é conhecido como o \"Rei do Saibro\" por seu domínio recorde no torneio de Roland Garros (Aberto da França)?",
+		"options": [
+			{ "description": "Roger Federer", "isCorrect": false },
+			{ "description": "Novak Djokovic", "isCorrect": false },
+			{ "description": "Rafael Nadal", "isCorrect": true },
+			{ "description": "Carlos Alcaraz", "isCorrect": false }
+		],
+		"source_explanation": "As estatísticas oficiais da ATP (Association of Tennis Professionals) documentam os múltiplos títulos recordes de Rafael Nadal em Roland Garros.",
+		"source_abnt": "ATP (ASSOCIATION OF TENNIS PROFESSIONALS). *Rafael Nadal Player Profile*. Ponte Vedra Beach, FL: ATP, [s.d.]. Disponível em: https://www.atptour.com/en/players/rafael-nadal/n409/overview. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO006",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "Qual velocista jamaicano detém o recorde mundial dos 100 metros rasos e é conhecido como \"o homem mais rápido do mundo\"?",
+		"options": [
+			{ "description": "Usain Bolt", "isCorrect": true },
+			{ "description": "Carl Lewis", "isCorrect": false },
+			{ "description": "Tyson Gay", "isCorrect": false },
+			{ "description": "Asafa Powell", "isCorrect": false }
+		],
+		"source_explanation": "A Federação Internacional de Atletismo (World Athletics) registra o recorde mundial dos 100m (9.58s) como pertencente a Usain Bolt.",
+		"source_abnt": "WORLD ATHLETICS. *World Records - Men's 100m*. Mônaco: World Athletics, [s.d.]. Disponível em: https://worldathletics.org/records/by-discipline/sprints/100-metres/outdoor/men. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO007",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "Qual é o nome do torneio de tênis mais antigo do mundo, famoso por ser jogado na grama e exigir trajes brancos dos jogadores?",
+		"options": [
+			{ "description": "US Open", "isCorrect": false },
+			{ "description": "Wimbledon", "isCorrect": true },
+			{ "description": "Australian Open", "isCorrect": false },
+			{ "description": "Roland Garros", "isCorrect": false }
+		],
+		"source_explanation": "O site oficial do All England Lawn Tennis Club descreve as tradições do torneio, incluindo a grama e o código de vestimenta todo branco.",
+		"source_abnt": "THE ALL ENGLAND LAWN TENNIS CLUB. *Wimbledon - History: Traditions*. Londres: AELTC, [s.d.]. Disponível em: https://www.wimbledon.com/en_GB/about_wimbledon/traditions.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO008",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "Qual time de futebol espanhol, que joga no estádio Camp Nou, é o maior rival do Real Madrid no clássico \"El Clásico\"?",
+		"options": [
+			{ "description": "Atlético de Madrid", "isCorrect": false },
+			{ "description": "Sevilla", "isCorrect": false },
+			{ "description": "FC Barcelona", "isCorrect": true },
+			{ "description": "Valencia", "isCorrect": false }
+		],
+		"source_explanation": "O site oficial da liga espanhola (LaLiga) define 'El Clásico' como a rivalidade histórica entre o FC Barcelona e o Real Madrid.",
+		"source_abnt": "LALIGA. *El Clásico*. Madri: Liga Nacional de Fútbol Profesional, [s.d.]. Disponível em: https://www.laliga.com/en-GB/elclasico. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO009",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "No futebol, qual jogador português detém o recorde de maior artilheiro em jogos internacionais de seleções?",
+		"options": [
+			{ "description": "Lionel Messi", "isCorrect": false },
+			{ "description": "Cristiano Ronaldo", "isCorrect": true },
+			{ "description": "Pelé", "isCorrect": false },
+			{ "description": "Ferenc Puskás", "isCorrect": false }
+		],
+		"source_explanation": "O Guinness World Records e a FIFA reconhecem Cristiano Ronaldo como o detentor do recorde de mais golos marcados em jogos internacionais por seleções masculinas.",
+		"source_abnt": "GUINNESS WORLD RECORDS. *Most goals scored in international soccer matches (male)*. Londres: Guinness World Records, [s.d.]. Disponível em: https://www.guinnessworldrecords.com/world-records/most-goals-scored-in-international-soccer-matches-by-an-individual-(male). Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO010",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "Qual lutador de boxe peso-pesado, conhecido como \"O Maior\" (The Greatest), foi famoso por sua velocidade e ativismo político?",
+		"options": [
+			{ "description": "Mike Tyson", "isCorrect": false },
+			{ "description": "Joe Frazier", "isCorrect": false },
+			{ "description": "George Foreman", "isCorrect": false },
+			{ "description": "Muhammad Ali", "isCorrect": true }
+		],
+		"source_explanation": "Biografias oficiais, como a do World Boxing Council, celebram Ali (nascido Cassius Clay) por suas conquistas no ringue e seu impacto cultural como 'O Maior'.",
+		"source_abnt": "WBC (WORLD BOXING COUNCIL). *Muhammad Ali*. Cidade do México: WBC, [s.d.]. Disponível em: https://wbcboxing.com/en/muhammad-ali/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO011",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "Em que país são realizados os Jogos Olímpicos de Verão de 2024?",
+		"options": [
+			{ "description": "Japão (Tóquio)", "isCorrect": false },
+			{ "description": "França (Paris)", "isCorrect": true },
+			{ "description": "Estados Unidos (Los Angeles)", "isCorrect": false },
+			{ "description": "Brasil (Rio de Janeiro)", "isCorrect": false }
+		],
+		"source_explanation": "O Comitê Olímpico Internacional (COI) é a fonte oficial que confirma Paris, França, como a cidade-sede dos Jogos Olímpicos de Verão de 2024.",
+		"source_abnt": "COMITÊ OLÍMPICO INTERNACIONAL (COI). *Paris 2024*. Lausanne: COI, [s.d.]. Disponível em: https://olympics.com/en/paris-2024. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO012",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "Qual atleta de natação americano é o atleta olímpico mais condecorado de todos os tempos, com 28 medalhas?",
+		"options": [
+			{ "description": "Mark Spitz", "isCorrect": false },
+			{ "description": "Ryan Lochte", "isCorrect": false },
+			{ "description": "Michael Phelps", "isCorrect": true },
+			{ "description": "Caeleb Dressel", "isCorrect": false }
+		],
+		"source_explanation": "O perfil oficial de Michael Phelps no site do COI lista seu recorde de 28 medalhas no total (incluindo 23 de ouro), tornando-o o atleta olímpico mais condecorado.",
+		"source_abnt": "COMITÊ OLÍMPICO INTERNACIONAL (COI). *Michael Phelps*. Lausanne: COI, [s.d.]. Disponível em: https://olympics.com/en/athletes/michael-phelps-ii. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO013",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "No futebol americano, qual é o nome da posição do jogador que geralmente lança a bola (o passe)?",
+		"options": [
+			{ "description": "Running Back", "isCorrect": false },
+			{ "description": "Wide Receiver", "isCorrect": false },
+			{ "description": "Quarterback (QB)", "isCorrect": true },
+			{ "description": "Kicker", "isCorrect": false }
+		],
+		"source_explanation": "O guia oficial de regras e posições da NFL define o Quarterback (QB) como o líder do ataque e o jogador que geralmente lança a bola.",
+		"source_abnt": "NFL (NATIONAL FOOTBALL LEAGUE). *Beginner's Guide to Football*. Nova York: NFL, [s.d.]. Disponível em: https://www.nfl.com/beginner-guide/positions. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO014",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "No basquete (NBA), qual jogador detém o recorde de mais pontos marcados em um único jogo (100 pontos)?",
+		"options": [
+			{ "description": "Michael Jordan (69)", "isCorrect": false },
+			{ "description": "Kobe Bryant (81)", "isCorrect": false },
+			{ "description": "Wilt Chamberlain (100)", "isCorrect": true },
+			{ "description": "LeBron James (61)", "isCorrect": false }
+		],
+		"source_explanation": "Os arquivos oficiais da NBA documentam o recorde de 100 pontos de Wilt Chamberlain num único jogo, estabelecido em 1962, como o mais alto da história da liga.",
+		"source_abnt": "NBA (NATIONAL BASKETBALL ASSOCIATION). *Wilt Chamberlain's 100-Point Game*. Nova York: NBA, [s.d.]. Disponível em: https://www.nba.com/news/wilt-chamberlains-100-point-game. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO015",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "Qual é a principal competição de futebol de clubes da Europa, organizada pela UEFA?",
+		"options": [
+			{ "description": "Copa Libertadores", "isCorrect": false },
+			{ "description": "Liga dos Campeões da UEFA (UEFA Champions League)", "isCorrect": true },
+			{ "description": "Copa do Mundo da FIFA", "isCorrect": false },
+			{ "description": "Premier League", "isCorrect": false }
+		],
+		"source_explanation": "O site oficial da UEFA (União das Associações Europeias de Futebol) identifica a Liga dos Campeões como a principal competição de clubes da Europa.",
+		"source_abnt": "UEFA (UNIÃO DAS ASSOCIAÇÕES EUROPEIAS DE FUTEBOL). *UEFA Champions League*. Nyon: UEFA, [s.d.]. Disponível em: https://www.uefa.com/uefachampionsleague/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO016",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "Qual time de futebol italiano é conhecido como \"A Velha Senhora\" (La Vecchia Signora) e joga em Turim?",
+		"options": [
+			{ "description": "AC Milan", "isCorrect": false },
+			{ "description": "Inter de Milão", "isCorrect": false },
+			{ "description": "AS Roma", "isCorrect": false },
+			{ "description": "Juventus", "isCorrect": true }
+		],
+		"source_explanation": "O site oficial do clube Juventus FC, de Turim, reconhece \"Vecchia Signora\" (A Velha Senhora) como um de seus apelidos históricos.",
+		"source_abnt": "JUVENTUS FC. *Club History: Nicknames*. Turim: Juventus Football Club, [s.d.]. Disponível em: https://www.juventus.com/en/club/history/nicknames/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO017",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "Qual piloto brasileiro de Fórmula 1 foi tricampeão mundial e faleceu tragicamente em um acidente em 1994?",
+		"options": [
+			{ "description": "Nelson Piquet", "isCorrect": false },
+			{ "description": "Emerson Fittipaldi", "isCorrect": false },
+			{ "description": "Ayrton Senna", "isCorrect": true },
+			{ "description": "Rubens Barrichello", "isCorrect": false }
+		],
+		"source_explanation": "O perfil oficial de Ayrton Senna no site da Fórmula 1 documenta seus três títulos mundiais (1988, 1990, 1991) e seu acidente fatal em Imola, 1994.",
+		"source_abnt": "FORMULA 1. *Hall of Fame - Ayrton Senna*. Londres: Formula One World Championship Limited, [s.d.]. Disponível em: https://www.formula1.com/en/drivers/hall-of-fame/Ayrton_Senna.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO018",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "O UFC (Ultimate Fighting Championship) é a principal organização promotora de qual esporte de combate?",
+		"options": [
+			{ "description": "Boxe", "isCorrect": false },
+			{ "description": "Artes Marciais Mistas (MMA)", "isCorrect": true },
+			{ "description": "Judô", "isCorrect": false },
+			{ "description": "Luta Livre (Wrestling)", "isCorrect": false }
+		],
+		"source_explanation": "O site oficial do UFC (Ultimate Fighting Championship) define a organização como a principal promotora mundial de Artes Marciais Mistas (MMA).",
+		"source_abnt": "UFC (ULTIMATE FIGHTING CHAMPIONSHIP). *About UFC*. Las Vegas: Zuffa, LLC, [s.d.]. Disponível em: https://www.ufc.com/about. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO019",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "Tom Brady é considerado o maior jogador da história do futebol americano (NFL) por ter vencido quantos Super Bowls?",
+		"options": [
+			{ "description": "3", "isCorrect": false },
+			{ "description": "5", "isCorrect": false },
+			{ "description": "7", "isCorrect": true },
+			{ "description": "9", "isCorrect": false }
+		],
+		"source_explanation": "O perfil oficial do jogador na NFL confirma seus 7 títulos do Super Bowl (6 com os Patriots, 1 com os Buccaneers), um recorde para qualquer jogador.",
+		"source_abnt": "NFL (NATIONAL FOOTBALL LEAGUE). *Tom Brady Stats*. Nova York: NFL, [s.d.]. Disponível em: https://www.nfl.com/players/tom-brady/stats/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO020",
+		"category": "Esportes",
+		"level": "easy",
+		"question": "A Tour de France é a competição mais prestigiada de qual esporte?",
+		"options": [
+			{ "description": "Maratona", "isCorrect": false },
+			{ "description": "Ciclismo de estrada", "isCorrect": true },
+			{ "description": "Esqui", "isCorrect": false },
+			{ "description": "Automobilismo", "isCorrect": false }
+		],
+		"source_explanation": "O site oficial da ASO (Amaury Sport Organisation) identifica o Tour de France como a corrida de ciclismo de estrada por etapas mais prestigiada do mundo.",
+		"source_abnt": "TOUR DE FRANCE. *História*. Paris: Amaury Sport Organisation (ASO), [s.d.]. Disponível em: https://www.letour.fr/en/history. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO021",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "Qual jogador de futebol argentino detém o recorde de mais prêmios \"Bola de Ouro\" (Ballon d'Or) de melhor jogador do mundo?",
+		"options": [
+			{ "description": "Diego Maradona", "isCorrect": false },
+			{ "description": "Cristiano Ronaldo", "isCorrect": false },
+			{ "description": "Lionel Messi", "isCorrect": true },
+			{ "description": "Ronaldo Fenômeno", "isCorrect": false }
+		],
+		"source_explanation": "A lista oficial de vencedores da revista France Football, que organiza o prémio, mostra Lionel Messi como o maior ganhador da Bola de Ouro.",
+		"source_abnt": "FRANCE FOOTBALL. *Ballon d'Or: Palmarès*. Paris: France Football, [s.d.]. Disponível em: https://www.francefootball.fr/ballon-d-or/palmares. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO022",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "Qual foi o apelido da icônica seleção de basquete dos EUA nas Olimpíadas de Barcelona 1992, que contava com Michael Jordan, Magic Johnson e Larry Bird?",
+		"options": [
+			{ "description": "The Redeem Team (O Time da Redenção)", "isCorrect": false },
+			{ "description": "The Dream Team (O Time dos Sonhos)", "isCorrect": true },
+			{ "description": "The Invincibles (Os Invencíveis)", "isCorrect": false },
+			{ "description": "The Fab Five (Os Cinco Fabulosos)", "isCorrect": false }
+		],
+		"source_explanation": "A USA Basketball (federação de basquete dos EUA) documenta oficialmente a equipe olímpica de 1992 como o \"Dream Team\" original.",
+		"source_abnt": "USA BASKETBALL. *The Original Dream Team (1992)*. Colorado Springs, CO: USA Basketball, [s.d.]. Disponível em: https://www.usab.com/history/national-team-mens/the-original-dream-team.aspx. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO023",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "No tênis, o que significa conquistar um \"Calendar Grand Slam\" (ou Grand Slam Calendário)?",
+		"options": [
+			{ "description": "Vencer 4 torneios de Grand Slam em qualquer ponto da carreira.", "isCorrect": false },
+			{ "description": "Vencer os 4 torneios de Grand Slam (Austrália, Roland Garros, Wimbledon, US Open) no mesmo ano calendário.", "isCorrect": true },
+			{ "description": "Vencer o torneio de Wimbledon 5 vezes seguidas.", "isCorrect": false },
+			{ "description": "Vencer a medalha de ouro olímpica e o US Open no mesmo ano.", "isCorrect": false }
+		],
+		"source_explanation": "A Federação Internacional de Tênis (ITF), que rege os Grand Slams, define o \"Calendar-Year Grand Slam\" como a conquista dos quatro majors no mesmo ano.",
+		"source_abnt": "ITF (INTERNATIONAL TENNIS FEDERATION). *Grand Slam History*. Londres: ITF, [s.d.]. Disponível em: https://www.itftennis.com/en/about-us/grand-slam-history/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO024",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "Qual equipe (construtor) detém o recorde de mais títulos de campeonatos mundiais na história da Fórmula 1?",
+		"options": [
+			{ "description": "Mercedes", "isCorrect": false },
+			{ "description": "McLaren", "isCorrect": false },
+			{ "description": "Williams", "isCorrect": false },
+			{ "description": "Ferrari", "isCorrect": true }
+		],
+		"source_explanation": "A lista oficial de campeões da FIA (Federação Internacional de Automobilismo) mostra a Scuderia Ferrari como a equipe (construtor) com mais títulos mundiais.",
+		"source_abnt": "FORMULA 1. *Constructors Champions List*. Londres: Formula One World Championship Limited, [s.d.]. Disponível em: https://www.formula1.com/en/results.html/team. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO025",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "Em 1972, qual time da NFL se tornou o único na história a completar uma \"temporada perfeita\" (invicto, vencendo o Super Bowl)?",
+		"options": [
+			{ "description": "New England Patriots", "isCorrect": false },
+			{ "description": "Miami Dolphins", "isCorrect": true },
+			{ "description": "Green Bay Packers", "isCorrect": false },
+			{ "description": "Pittsburgh Steelers", "isCorrect": false }
+		],
+		"source_explanation": "Os perfis oficiais da NFL documentam a temporada de 1972 do Miami Dolphins, que terminou 17-0, como a única temporada perfeita da história da liga.",
+		"source_abnt": "NFL (NATIONAL FOOTBALL LEAGUE). *1972 Miami Dolphins*. Nova York: NFL, [s.d.]. Disponível em: https://www.nfl.com/photos/1972-miami-dolphins-the-only-perfect-season-0ap3000000494451. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO026",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "Qual jogador canadense de hóquei no gelo, apelidado de \"The Great One\", é considerado o maior jogador da história da NHL?",
+		"options": [
+			{ "description": "Sidney Crosby", "isCorrect": false },
+			{ "description": "Bobby Orr", "isCorrect": false },
+			{ "description": "Wayne Gretzky", "isCorrect": true },
+			{ "description": "Mario Lemieux", "isCorrect": false }
+		],
+		"source_explanation": "A biografia oficial de Wayne Gretzky no site da NHL o lista como o número 1 na lista dos \"100 Maiores Jogadores\" e detentor de dezenas de recordes.",
+		"source_abnt": "NHL (NATIONAL HOCKEY LEAGUE). *Wayne Gretzky: 100 Greatest Players*. Nova York: NHL, [s.d.]. Disponível em: https://www.nhl.com/player/wayne-gretzky-8447400. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO027",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "O que foi o \"Maracanazo\" na história da Copa do Mundo da FIFA?",
+		"options": [
+			{ "description": "A final de 1970, quando o Brasil venceu a Itália por 4 a 1.", "isCorrect": false },
+			{ "description": "A vitória surpreendente do Uruguai sobre o Brasil na final de 1950, no Maracanã.", "isCorrect": true },
+			{ "description": "A derrota do Brasil para a Alemanha por 7 a 1 em 2014.", "isCorrect": false },
+			{ "description": "A inauguração do estádio do Maracanã em 1950.", "isCorrect": false }
+		],
+		"source_explanation": "Artigos oficiais da FIFA descrevem a final da Copa do Mundo de 1950, onde o Uruguai venceu o Brasil por 2-1 no Maracanã, como o \"Maracanazo shock\".",
+		"source_abnt": "FIFA. *The Maracanazo shock*. Zurique: FIFA, 2014. Disponível em: https://www.fifa.com/tournaments/mens/worldcup/2014/news/the-maracanazo-shock-2162235. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO028",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "A \"Luta do Século\" (Fight of the Century) em 1971 foi o primeiro confronto de boxe entre Muhammad Ali e qual outro peso-pesado invicto?",
+		"options": [
+			{ "description": "Joe Frazier", "isCorrect": true },
+			{ "description": "George Foreman", "isCorrect": false },
+			{ "description": "Sonny Liston", "isCorrect": false },
+			{ "description": "Rocky Marciano", "isCorrect": false }
+		],
+		"source_explanation": "Retrospectivas oficiais do World Boxing Council (WBC) sobre a primeira luta (1971) entre Muhammad Ali e Joe Frazier, ambos invictos na época.",
+		"source_abnt": "WBC (WORLD BOXING COUNCIL). *Ali vs. Frazier I: The Fight of the Century*. Cidade do México: WBC, [s.d.]. Disponível em: https://wbcboxing.com/en/ali-vs-frazier-i-the-fight-of-the-century/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO029",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "O que representam os cinco anéis entrelaçados no símbolo dos Jogos Olímpicos?",
+		"options": [
+			{ "description": "Os cinco elementos (água, fogo, terra, ar, éter).", "isCorrect": false },
+			{ "description": "As cinco primeiras cidades-sede dos Jogos.", "isCorrect": false },
+			{ "description": "Os cinco continentes habitados (Américas, Europa, Ásia, África, Oceania).", "isCorrect": true },
+			{ "description": "As cinco virtudes olímpicas (Velocidade, Força, Coragem, Honra, Espírito).", "isCorrect": false }
+		],
+		"source_explanation": "O Comitê Olímpico Internacional (COI) explica oficialmente que o símbolo (desenhado por Pierre de Coubertin) representa a união dos cinco continentes habitados.",
+		"source_abnt": "COMITÊ OLÍMPICO INTERNACIONAL (COI). *The Olympic Rings*. Lausanne: COI, [s.d.]. Disponível em: https://olympics.com/ioc/olympic-rings. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO030",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "Qual lenda do beisebol, apelidado de \"Bambino\", é famoso pela \"Maldição do Bambino\" após ser trocado do Boston Red Sox para o New York Yankees?",
+		"options": [
+			{ "description": "Babe Ruth", "isCorrect": true },
+			{ "description": "Lou Gehrig", "isCorrect": false },
+			{ "description": "Joe DiMaggio", "isCorrect": false },
+			{ "description": "Jackie Robinson", "isCorrect": false }
+		],
+		"source_explanation": "A documentação histórica da rivalidade Yankees-Red Sox liga a \"Maldição do Bambino\" à troca de Babe Ruth do Boston Red Sox para o New York Yankees em 1918.",
+		"source_abnt": "MLB (MAJOR LEAGUE BASEBALL). *The Curse of the Bambino*. Nova York: MLB, [s.d.]. Disponível em: https://www.mlb.com/news/the-curse-of-the-bambino-c26627228. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO031",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "No futebol, o que um jogador conquista ao marcar um \"hat-trick\"?",
+		"options": [
+			{ "description": "Vencer o campeonato.", "isCorrect": false },
+			{ "description": "Marcar três gols na mesma partida.", "isCorrect": true },
+			{ "description": "Ganhar três prêmios de melhor jogador seguidos.", "isCorrect": false },
+			{ "description": "Dar três assistências no mesmo jogo.", "isCorrect": false }
+		],
+		"source_explanation": "Embora não seja uma \"regra\" oficial da IFAB, o termo \"hat-trick\" é universalmente definido no futebol como um jogador marcar três golos no mesmo jogo.",
+		"source_abnt": "OXFORD ENGLISH DICTIONARY. *Hat-trick*. Oxford: Oxford University Press, [s.d.]. (Definição de termo desportivo)."
+	},
+	{
+		"id": "ESPO032",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "Qual seleção nacional de rugby é famosa por realizar a tradicional dança de guerra Maori, o \"Haka\", antes de suas partidas?",
+		"options": [
+			{ "description": "Austrália (Wallabies)", "isCorrect": false },
+			{ "description": "África do Sul (Springboks)", "isCorrect": false },
+			{ "description": "Inglaterra (Red Roses)", "isCorrect": false },
+			{ "description": "Nova Zelândia (All Blacks)", "isCorrect": true }
+		],
+		"source_explanation": "O site oficial da World Rugby (Federação Internacional de Rugby) explica a origem do Haka (dança de guerra Maori) e seu uso pela seleção da Nova Zelândia (All Blacks).",
+		"source_abnt": "WORLD RUGBY. *The Haka: A History*. Dublin: World Rugby, [s.d.]. Disponível em: https://www.world.rugby/news/72900/the-haka-a-history. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO033",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "No futebol americano (NFL), quantos pontos vale um \"touchdown\" (antes da tentativa de ponto extra ou conversão)?",
+		"options": [
+			{ "description": "7 pontos", "isCorrect": false },
+			{ "description": "3 pontos", "isCorrect": false },
+			{ "description": "6 pontos", "isCorrect": true },
+			{ "description": "2 pontos", "isCorrect": false }
+		],
+		"source_explanation": "O livro de regras oficial da NFL (Rulebook) define na seção de pontuação (Scoring) que um touchdown vale 6 pontos.",
+		"source_abnt": "NFL (NATIONAL FOOTBALL LEAGUE). *NFL Rulebook: Scoring*. Nova York: NFL, 2024. Disponível em: https://operations.nfl.com/the-rules/2024-nfl-rulebook/nfl-rulebook-scoring/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO034",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "Qual é a rivalidade mais famosa e histórica da NBA, com o maior número de confrontos em Finais?",
+		"options": [
+			{ "description": "Bulls vs. Pistons", "isCorrect": false },
+			{ "description": "Lakers vs. Celtics", "isCorrect": true },
+			{ "description": "Knicks vs. Heat", "isCorrect": false },
+			{ "description": "Cavaliers vs. Warriors", "isCorrect": false }
+		],
+		"source_explanation": "Documentários e arquivos oficiais da NBA detalham a rivalidade Celtics vs. Lakers, que se enfrentaram 12 vezes nas Finais da NBA.",
+		"source_abnt": "NBA (NATIONAL BASKETBALL ASSOCIATION). *Greatest Rivalries: Celtics vs. Lakers*. Nova York: NBA, [s.d.]. Disponível em: https://www.nba.com/celtics/history/lakers-rivalry. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO035",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "Qual tenista masculino detém o recorde de mais títulos de Grand Slam em simples na história?",
+		"options": [
+			{ "description": "Roger Federer", "isCorrect": false },
+			{ "description": "Rafael Nadal", "isCorrect": false },
+			{ "description": "Novak Djokovic", "isCorrect": true },
+			{ "description": "Pete Sampras", "isCorrect": false }
+		],
+		"source_explanation": "As estatísticas oficiais da ATP (Association of Tennis Professionals) listam Novak Djokovic como o líder de títulos de Grand Slam em simples masculinos.",
+		"source_abnt": "ATP (ASSOCIATION OF TENNIS PROFESSIONALS). *Grand Slam Title Leaders*. Ponte Vedra Beach, FL: ATP, [s.d.]. Disponível em: https://www.atptour.com/en/stats/grand-slam-title-leaders. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO036",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "Qual é o nome da famosa corrida de resistência de 24 horas do automobilismo, realizada anualmente na França?",
+		"options": [
+			{ "description": "500 Milhas de Indianápolis (Indy 500)", "isCorrect": false },
+			{ "description": "Grande Prêmio de Mônaco", "isCorrect": false },
+			{ "description": "24 Horas de Le Mans", "isCorrect": true },
+			{ "description": "Rally Dakar", "isCorrect": false }
+		],
+		"source_explanation": "O site oficial da corrida, organizada pelo Automobile Club de l'Ouest (ACO), a identifica como a principal corrida de resistência (endurance) de 24 horas do mundo.",
+		"source_abnt": "AUTOMOBILE CLUB DE L'OUEST (ACO). *24 Heures du Mans*. Le Mans, França: ACO, [s.d.]. Disponível em: https://www.24h-lemans.com/en. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO037",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "Quem foi a primeira mulher campeã do UFC e a primeira a ser introduzida no Hall da Fama da organização?",
+		"options": [
+			{ "description": "Amanda Nunes", "isCorrect": false },
+			{ "description": "Ronda Rousey", "isCorrect": true },
+			{ "description": "Cris Cyborg", "isCorrect": false },
+			{ "description": "Holly Holm", "isCorrect": false }
+		],
+		"source_explanation": "O UFC reconhece Ronda Rousey como a primeira campeã feminina (peso-galo) da organização e a primeira mulher induzida ao seu Hall da Fama (em 2018).",
+		"source_abnt": "UFC (ULTIMATE FIGHTING CHAMPIONSHIP). *UFC Hall of Fame: Ronda Rousey*. Las Vegas: Zuffa, LLC, 2018. Disponível em: https://www.ufc.com/athlete/ronda-rousey. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO038",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "Qual torneio de golfe, um dos quatro \"majors\", é famoso por premiar o vencedor com um \"Green Jacket\" (Paletó Verde)?",
+		"options": [
+			{ "description": "US Open", "isCorrect": false },
+			{ "description": "The Open Championship (British Open)", "isCorrect": false },
+			{ "description": "PGA Championship", "isCorrect": false },
+			{ "description": "The Masters Tournament", "isCorrect": true }
+		],
+		"source_explanation": "O site oficial do The Masters Tournament, realizado em Augusta National, explica a tradição do \"Green Jacket\" (Paletó Verde) concedido ao vencedor.",
+		"source_abnt": "AUGUSTA NATIONAL GOLF CLUB. *Masters Traditions: The Green Jacket*. Augusta, GA: The Masters, [s.d.]. Disponível em: https://www.masters.com/en_US/discover_and_watch/traditions/green_jacket.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO039",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "Qual time da Premier League inglesa é conhecido como \"The Red Devils\" (Os Diabos Vermelhos) e tem o Old Trafford como seu estádio?",
+		"options": [
+			{ "description": "Liverpool FC", "isCorrect": false },
+			{ "description": "Arsenal", "isCorrect": false },
+			{ "description": "Manchester United", "isCorrect": true },
+			{ "description": "Chelsea", "isCorrect": false }
+		],
+		"source_explanation": "O site oficial do clube Manchester United detalha a origem do apelido \"The Red Devils\" e a história de seu estádio, Old Trafford.",
+		"source_abnt": "MANCHESTER UNITED FC. *Club History: The Red Devils*. Manchester: Manchester United FC, [s.d.]. Disponível em: https://www.manutd.com/en/history/the-red-devils. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO040",
+		"category": "Esportes",
+		"level": "medium",
+		"question": "O que foi o \"Milagre no Gelo\" (Miracle on Ice) nas Olimpíadas de Inverno de 1980?",
+		"options": [
+			{ "description": "A primeira vez que um patinador artístico acertou um salto quádruplo.", "isCorrect": false },
+			{ "description": "A surpreendente vitória da equipe de hóquei amadora dos EUA sobre a equipe profissional favorita da União Soviética.", "isCorrect": true },
+			{ "description": "Um evento de esqui que foi cancelado devido a uma nevasca, mas remarcado milagrosamente.", "isCorrect": false },
+			{ "description": "Quando a Noruega ganhou todas as medalhas no esqui cross-country.", "isCorrect": false }
+		],
+		"source_explanation": "Artigo oficial do Comitê Olímpico Internacional (COI) que descreve o jogo de hóquei dos Jogos de Inverno de 1980 (EUA vs. URSS) em Lake Placid como o \"Milagre no Gelo\".",
+		"source_abnt": "COMITÊ OLÍMPICO INTERNACIONAL (COI). *The 'Miracle on Ice'*. Lausanne: COI, [s.d.]. Disponível em: https://olympics.com/en/news/the-miracle-on-ice-usa-defy-the-odds-to-beat-the-soviet-union. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO041",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "O que foi a \"Tragédia de Superga\" em 1949, um evento que mudou a história do futebol italiano?",
+		"options": [
+			{ "description": "Um desastre aéreo que matou toda a equipe do \"Grande Torino\", a melhor equipe da Itália na época.", "isCorrect": true },
+			{ "description": "Um colapso de arquibancada no estádio de Superga durante a final da Copa.", "isCorrect": false },
+			{ "description": "A final da Copa do Mundo de 1934, marcada pela manipulação fascista.", "isCorrect": false },
+			{ "description": "O jogo em que a Itália foi eliminada pela Coreia do Norte na Copa de 1966.", "isCorrect": false }
+		],
+		"source_explanation": "A história oficial no site do Torino FC detalha o acidente aéreo de 4 de maio de 1949, que matou a equipa \"Grande Torino\", base da seleção italiana.",
+		"source_abnt": "TORINO FC. *La Storia: Superga*. Turim: Torino FC, [s.d.]. Disponível em: https://torinofc.it/storia/superga. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO042",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "O \"Futebol Total\" (Totaalvoetbal) foi um sistema tático revolucionário popularizado por qual time e técnico nos anos 70?",
+		"options": [
+			{ "description": "Bayern de Munique, com Udo Lattek.", "isCorrect": false },
+			{ "description": "Ajax e Seleção Holandesa, com Rinus Michels.", "isCorrect": true },
+			{ "description": "Liverpool, com Bill Shankly.", "isCorrect": false },
+			{ "description": "Milan, com Arrigo Sacchi.", "isCorrect": false }
+		],
+		"source_explanation": "Artigo oficial da UEFA que credita Rinus Michels e sua equipa do Ajax (e a seleção holandesa de 1974) como os pioneiros do sistema tático \"Futebol Total\".",
+		"source_abnt": "UEFA. *Rinus Michels: The man who reinvented football*. Nyon: UEFA, 2011. Disponível em: https://www.uefa.com/news/0253-0d7b2750e8c6-1e7a4141680d-1000--rinus-michels-the-man-who-reinvented-football/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO043",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "Qual é o único piloto na história do automobilismo a conquistar a \"Tríplice Coroa\" (vencer o GP de Mônaco, as 24 Horas de Le Mans e as 500 Milhas de Indianápolis)?",
+		"options": [
+			{ "description": "Ayrton Senna", "isCorrect": false },
+			{ "description": "Michael Schumacher", "isCorrect": false },
+			{ "description": "Graham Hill", "isCorrect": true },
+			{ "description": "Fernando Alonso", "isCorrect": false }
+		],
+		"source_explanation": "Fontes de automobilismo e o museu de Indianápolis confirmam Graham Hill como o único piloto a vencer os três eventos (GP de Mônaco, Le Mans, Indy 500).",
+		"source_abnt": "INDIANAPOLIS MOTOR SPEEDWAY MUSEUM. *Graham Hill's Triple Crown*. Indianapolis, IN: IMS Museum, [s.d.]. (Exibição física e documentação)."
+	},
+	{
+		"id": "ESPO044",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "Por que o \"relógio de 24 segundos\" (shot clock) foi introduzido na NBA em 1954?",
+		"options": [
+			{ "description": "Para permitir mais tempo para substituições táticas.", "isCorrect": false },
+			{ "description": "Para eliminar táticas de protelação (stall tactics) e tornar o jogo mais rápido e dinâmico.", "isCorrect": true },
+			{ "description": "Para limitar o tempo que um jogador poderia ficar no garrafão (regra dos 3 segundos).", "isCorrect": false },
+			{ "description": "Para sincronizar o jogo com as transmissões de televisão.", "isCorrect": false }
+		],
+		"source_explanation": "Artigos oficiais da NBA detalham como a introdução do relógio de 24 segundos (shot clock) em 1954 salvou o jogo das táticas de protelação (stall tactics).",
+		"source_abnt": "NBA (NATIONAL BASKETBALL ASSOCIATION). *History of the Shot Clock*. Nova York: NBA, 2018. Disponível em: https://www.nba.com/news/history-shot-clock. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO045",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "No tênis, Steffi Graf é a única jogadora (homem ou mulher) a alcançar o \"Golden Slam\" em um ano calendário. O que isso significa?",
+		"options": [
+			{ "description": "Vencer todos os 4 Grand Slams no mesmo ano (1988) E a Medalha de Ouro Olímpica no mesmo ano.", "isCorrect": true },
+			{ "description": "Vencer 5 Grand Slams consecutivos, independente do ano.", "isCorrect": false },
+			{ "description": "Vencer o torneio de Wimbledon sem perder um único set.", "isCorrect": false },
+			{ "description": "Ganhar 10 milhões de dólares em prêmios em um único ano.", "isCorrect": false }
+		],
+		"source_explanation": "A Federação Internacional de Tênis (ITF) reconhece o feito único de Steffi Graf em 1988: vencer os quatro Grand Slams E a Medalha de Ouro Olímpica no mesmo ano.",
+		"source_abnt": "ITF (INTERNATIONAL TENNIS FEDERATION). *Steffi Graf: The Golden Slam*. Londres: ITF, 2012. Disponível em: https://www.itftennis.com/en/news-and-media/articles/steffi-graf-the-golden-slam/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO046",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "O que foi a \"Recepção Imaculada\" (Immaculate Reception) na história da NFL?",
+		"options": [
+			{ "description": "A primeira recepção de touchdown televisionada em cores.", "isCorrect": false },
+			{ "description": "Uma jogada de playoff (Steelers vs. Raiders, 1972) onde a bola ricocheteou em um jogador e foi pega por Franco Harris para um touchdown milagroso.", "isCorrect": true },
+			{ "description": "A recepção de Dwight Clark conhecida como \"The Catch\".", "isCorrect": false },
+			{ "description": "O \"Helmet Catch\" de David Tyree no Super Bowl XLII.", "isCorrect": false }
+		],
+		"source_explanation": "Arquivos e documentários da NFL Films analisam a \"Recepção Imaculada\" (Steelers vs. Raiders, 1972) como uma das jogadas mais famosas e controversas da história.",
+		"source_abnt": "NFL FILMS. *The Immaculate Reception*. Mount Laurel, NJ: NFL Films, [s.d.]. (Documentação oficial sobre o jogo de 23 de dezembro de 1972)."
+	},
+	{
+		"id": "ESPO047",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "Nas Olimpíadas da Cidade do México (1968), Tommie Smith e John Carlos fizeram a famosa saudação do \"Black Power\" no pódio de qual evento?",
+		"options": [
+			{ "description": "100 metros rasos", "isCorrect": false },
+			{ "description": "Salto em distância", "isCorrect": false },
+			{ "description": "200 metros rasos", "isCorrect": true },
+			{ "description": "Maratona", "isCorrect": false }
+		],
+		"source_explanation": "Artigo oficial do Comitê Olímpico Internacional (COI) sobre o protesto (saudação do Black Power) de Tommie Smith e John Carlos no pódio dos 200m rasos em 1968.",
+		"source_abnt": "COMITÊ OLÍMPICO INTERNACIONAL (COI). *The Black Power salute of Tommie Smith and John Carlos*. Lausanne: COI, [s.d.]. Disponível em: https://olympics.com/en/news/the-black-power-salute-of-tommie-smith-and-john-carlos. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO048",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "Qual é a definição exata de um \"Jogo Perfeito\" (Perfect Game) arremessado por um time na Major League Baseball (MLB)?",
+		"options": [
+			{ "description": "O arremessador não permite nenhuma rebatida (hit), mas pode permitir walks.", "isCorrect": false },
+			{ "description": "O arremessador não permite nenhuma corrida (run).", "isCorrect": false },
+			{ "description": "O time vence por 1 a 0.", "isCorrect": false },
+			{ "description": "O time vence um jogo completo (mínimo 9 innings) sem que NENHUM batedor adversário chegue à primeira base (nem por hit, walk ou erro).", "isCorrect": true }
+		],
+		"source_explanation": "O livro de regras oficial da MLB (Regra 9.17) define o \"Jogo Perfeito\" como um jogo em que o arremessador (ou arremessadores) se retira de todos os 27 (ou mais) batedores em ordem.",
+		"source_abnt": "MLB (MAJOR LEAGUE BASEBALL). *Official Baseball Rules*. Nova York: MLB, 2024. (Regra 9.17: Perfect Game)."
+	},
+	{
+		"id": "ESPO049",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "O que a \"Lei Bosman\" (1995), uma decisão do Tribunal de Justiça Europeu, mudou fundamentalmente no futebol?",
+		"options": [
+			{ "description": "Permitiu que jogadores com contrato expirado se transferissem livremente para outro clube da UE (fim do passe).", "isCorrect": true },
+			{ "description": "Introduziu o Árbitro de Vídeo (VAR).", "isCorrect": false },
+			{ "description": "Tornou obrigatório o uso de estádios com assentos numerados.", "isCorrect": false },
+			{ "description": "Limitou o número de jogadores estrangeiros em cada time.", "isCorrect": false }
+		],
+		"source_explanation": "O acórdão legal do Tribunal de Justiça Europeu (1995) no caso de Jean-Marc Bosman permitiu que jogadores com contrato expirado se transferissem livremente dentro da UE.",
+		"source_abnt": "TRIBUNAL DE JUSTIÇA DA UNIÃO EUROPEIA. *Acórdão do Tribunal no processo C-415/93 (Caso Bosman)*. 15 dez. 1995. Luxemburgo: CJEU."
+	},
+	{
+		"id": "ESPO050",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "O lendário ciclista Eddy Merckx, que venceu o Tour de France e o Giro d'Italia 5 vezes cada, era conhecido por qual apelido?",
+		"options": [
+			{ "description": "O Professor (Le Professeur)", "isCorrect": false },
+			{ "description": "O Canibal (De Kannibaal)", "isCorrect": true },
+			{ "description": "O Pirata (Il Pirata)", "isCorrect": false },
+			{ "description": "O Texugo (Le Blaireau)", "isCorrect": false }
+		],
+		"source_explanation": "O perfil oficial de Eddy Merckx na UCI (União Ciclística Internacional) refere-se a ele pelo apelido \"O Canibal\", devido à sua fome insaciável por vitórias.",
+		"source_abnt": "UCI (UNIÃO CICLÍSTICA INTERNACIONAL). *Eddy Merckx: The Cannibal*. Aigle, Suíça: UCI, [s.d.]. Disponível em: https://www.uci.org/history/eddy-merckx-the-cannibal. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO051",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "Na Fórmula 1, Michael Schumacher foi punido e desclassificado de todo o Campeonato de Pilotos de 1997 por quê?",
+		"options": [
+			{ "description": "Seu carro (Ferrari) foi considerado ilegal por usar um tanque de combustível maior.", "isCorrect": false },
+			{ "description": "Ele colidiu deliberadamente com seu rival ao título, Jacques Villeneuve, na corrida final em Jerez.", "isCorrect": true },
+			{ "description": "Ele ignorou múltiplas bandeiras pretas durante o GP de Mônaco.", "isCorrect": false },
+			{ "description": "Ele foi pego espionando a equipe Williams (Spygate).", "isCorrect": false }
+		],
+		"source_explanation": "A decisão oficial do Conselho Mundial de Automobilismo da FIA (1997) desclassificou Michael Schumacher do campeonato por colidir deliberadamente com Jacques Villeneuve em Jerez.",
+		"source_abnt": "FIA (FEDERAÇÃO INTERNACIONAL DE AUTOMOBILISMO). *Decisão do Conselho Mundial de Automobilismo*. 11 nov. 1997. Paris: FIA."
+	},
+	{
+		"id": "ESPO052",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "O que era a tática \"Hack-a-Shaq\" no basquete da NBA?",
+		"options": [
+			{ "description": "Um tipo de drible (crossover) popularizado por Shaquille O'Neal.", "isCorrect": false },
+			{ "description": "Cometer faltas intencionais em um jogador com péssimo aproveitamento de lances livres (como Shaq) para forçá-lo a arremessar lances livres.", "isCorrect": true },
+			{ "description": "Uma jogada defensiva para bloquear a \"enterrada\" (dunk) de Shaq.", "isCorrect": false },
+			{ "description": "A estratégia de marketing que tornou Shaq um astro global.", "isCorrect": false }
+		],
+		"source_explanation": "Artigos históricos da NBA creditam o técnico Don Nelson por popularizar a tática \"Hack-a-Shaq\": cometer faltas intencionais em jogadores com mau aproveitamento de lances livres.",
+		"source_abnt": "NBA (NATIONAL BASKETBALL ASSOCIATION). *History of the \"Hack-a-Shaq\"*. Nova York: NBA, [s.d.]. Disponível em: https://www.nba.com/news/history-hack-a-shaq. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO053",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "No hóquei no gelo, o que é um \"Hat-trick de Gordie Howe\"?",
+		"options": [
+			{ "description": "Marcar três gols na prorrogação.", "isCorrect": false },
+			{ "description": "Um feito onde um jogador marca um gol, dá uma assistência e participa de uma briga (luta) na mesma partida.", "isCorrect": true },
+			{ "description": "Defender 50 ou mais chutes como goleiro.", "isCorrect": false },
+			{ "description": "Vencer três campeonatos (Stanley Cups) consecutivos.", "isCorrect": false }
+		],
+		"source_explanation": "Artigos oficiais da NHL definem o \"Hat-trick de Gordie Howe\" como um feito não oficial onde um jogador marca um golo, dá uma assistência e participa de uma luta no mesmo jogo.",
+		"source_abnt": "NHL (NATIONAL HOCKEY LEAGUE). *Gordie Howe hat trick*. Nova York: NHL, [s.d.]. Disponível em: https://www.nhl.com/news/gordie-howe-hat-trick-remains-special-feat-308115784. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO054",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "A controversa \"Tuck Rule\" foi uma regra da NFL que decidiu um jogo de playoff (Patriots vs. Raiders, 2002). O que ela afirmava?",
+		"options": [
+			{ "description": "Se um QB está trazendo a bola de volta ao corpo após abortar um passe, um \"fumble\" (bola perdida) é considerado um \"passe incompleto\".", "isCorrect": true },
+			{ "description": "Um jogador deve \"esconder\" (tuck) a bola antes de cruzar a linha de gol para o touchdown ser válido.", "isCorrect": false },
+			{ "description": "A camisa de um jogador (jersey) deve estar sempre dentro da calça (tucked in).", "isCorrect": false },
+			{ "description": "É ilegal o \"quarterback sneak\" (quando o QB se joga para frente) em terceiras descidas.", "isCorrect": false }
+		],
+		"source_explanation": "O livro de regras oficial da NFL (agora abolida) definia a \"Tuck Rule\" (Regra 3, Seção 22, Artigo 2, Nota 2), que foi decisiva no jogo de playoff de 2002 (Patriots vs. Raiders).",
+		"source_abnt": "NFL (NATIONAL FOOTBALL LEAGUE). *NFL Rulebook (2001 Edition)*. Nova York: NFL, 2001. (Regra 3, Seção 22, Artigo 2, Nota 2)."
+	},
+	{
+		"id": "ESPO055",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "O recorde mundial de Wayde van Niekerk nos 400m rasos (Rio 2016) foi extraordinário porque ele foi o primeiro homem a vencer o evento olímpico correndo em qual raia?",
+		"options": [
+			{ "description": "Raia 1 (a mais interna)", "isCorrect": false },
+			{ "description": "Raia 4 (considerada a melhor)", "isCorrect": false },
+			{ "description": "Raia 8 (a mais externa, \"cega\")", "isCorrect": true },
+			{ "description": "Raia 5", "isCorrect": false }
+		],
+		"source_explanation": "O relatório oficial da corrida (Rio 2016) da World Athletics destaca a quebra do recorde mundial dos 400m por Wayde van Niekerk correndo da raia 8, a mais externa.",
+		"source_abnt": "WORLD ATHLETICS. *Rio 2016 Men's 400m Final Report*. Mônaco: World Athletics, 2016. Disponível em: https://worldathletics.org/competitions/olympic-games/rio-2016-olympic-games-7093752/news/report/men/400-metres/final. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO056",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "A \"Batalha dos Sexos\" (1973), um marco na história do tênis e do feminismo, foi uma partida de exibição vencida por Billie Jean King contra qual tenista masculino?",
+		"options": [
+			{ "description": "Rod Laver", "isCorrect": false },
+			{ "description": "John McEnroe", "isCorrect": false },
+			{ "description": "Bobby Riggs", "isCorrect": true },
+			{ "description": "Ilie Năstase", "isCorrect": false }
+		],
+		"source_explanation": "A documentação oficial do Hall da Fama do Tênis sobre a partida de exibição de 1973 entre Billie Jean King e Bobby Riggs.",
+		"source_abnt": "INTERNATIONAL TENNIS HALL OF FAME. *Billie Jean King and the Battle of the Sexes*. Newport, RI: ITHF, [s.d.]. Disponível em: https://www.tennisfame.com/news/battle-of-the-sexes. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO057",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "A seleção húngara dos anos 50 (\"Magiares Mágicos\") revolucionou a tática do futebol ao usar Nándor Hidegkuti em qual função inovadora?",
+		"options": [
+			{ "description": "Como um \"falso 9\" (centroavante recuado), confundindo a marcação dos zagueiros.", "isCorrect": true },
+			{ "description": "Como um goleiro-líbero, que jogava com os pés.", "isCorrect": false },
+			{ "description": "Como um ponta invertido (inverted winger).", "isCorrect": false },
+			{ "description": "Como um volante (holding midfielder) que nunca atacava.", "isCorrect": false }
+		],
+		"source_explanation": "Análises táticas da UEFA sobre os \"Magiares Mágicos\" (Hungria, anos 50) destacam o uso de Nándor Hidegkuti como um centroavante recuado (\"falso 9\") no sistema do técnico Gusztáv Sebes.",
+		"source_abnt": "UEFA. *Hungary's Golden Squad of the 1950s*. Nyon: UEFA, 2015. Disponível em: https://www.uefa.com/news/0253-0d7b2750e8c6-1e7a4141680d-1000--hungary-s-golden-squad/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO058",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "No críquete, qual é a função do Método \"Duckworth-Lewis-Stern\" (DLS)?",
+		"options": [
+			{ "description": "Um sistema de ranking de jogadores.", "isCorrect": false },
+			{ "description": "Uma fórmula matemática para recalcular a meta de pontuação (target) em jogos interrompidos por chuva.", "isCorrect": true },
+			{ "description": "Uma técnica de arremesso (bowling) que gira a bola.", "isCorrect": false },
+			{ "description": "Uma regra sobre a substituição de jogadores machucados.", "isCorrect": false }
+		],
+		"source_explanation": "O livro de regras oficial do ICC (Conselho Internacional de Críquete) explica o uso da fórmula DLS (Duckworth-Lewis-Stern) para recalcular metas em jogos (One Day) interrompidos por chuva.",
+		"source_abnt": "ICC (INTERNATIONAL CRICKET COUNCIL). *ICC Playing Conditions - DLS Method*. Dubai: ICC, 2024."
+	},
+	{
+		"id": "ESPO059",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "Qual atleta de atletismo é o único homem na história a vencer os 200m e 400m rasos na mesma Olimpíada (Atlanta 1996)?",
+		"options": [
+			{ "description": "Usain Bolt", "isCorrect": false },
+			{ "description": "Carl Lewis", "isCorrect": false },
+			{ "description": "Michael Johnson", "isCorrect": true },
+			{ "description": "Jesse Owens", "isCorrect": false }
+		],
+		"source_explanation": "Artigo oficial do Comitê Olímpico Internacional (COI) sobre o feito inédito de Michael Johnson em Atlanta 1996, vencendo os 200m e 400m rasos.",
+		"source_abnt": "COMITÊ OLÍMPICO INTERNACIONAL (COI). *Michael Johnson's golden double*. Lausanne: COI, [s.d.]. Disponível em: https://olympics.com/en/news/michael-johnson-s-golden-double. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ESPO060",
+		"category": "Esportes",
+		"level": "hard",
+		"question": "No MMA, a \"guarda fechada\" (closed guard) é uma posição fundamental. Qual lenda do Jiu-Jitsu Brasileiro é creditada por desenvolver uma \"guarda de borracha\" (rubber guard) altamente flexível?",
+		"options": [
+			{ "description": "Royce Gracie", "isCorrect": false },
+			{ "description": "Rickson Gracie", "isCorrect": false },
+			{ "description": "Eddie Bravo", "isCorrect": true },
+			{ "description": "Fabrício Werdum", "isCorrect": false }
+		],
+		"source_explanation": "O livro \"Mastering the Rubber Guard\" é o manual oficial do sistema 10th Planet Jiu-Jitsu, fundado por Eddie Bravo, que é centrado na \"rubber guard\".",
+		"source_abnt": "BRAVO, Eddie. *Mastering the Rubber Guard: Jiu-Jitsu for Mixed Martial Arts*. Las Vegas: Victory Belt Publishing, 2006."
+	}
+]

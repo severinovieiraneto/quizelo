@@ -1,0 +1,842 @@
+[
+	{
+		"id": "GEOP001",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "Qual é a principal organização internacional fundada em 1945 com o objetivo de manter a paz e a segurança mundial?",
+		"options": [
+			{ "description": "Organização Mundial do Comércio (OMC)", "isCorrect": false },
+			{ "description": "Organização das Nações Unidas (ONU)", "isCorrect": true },
+			{ "description": "Organização do Tratado do Atlântico Norte (OTAN)", "isCorrect": false },
+			{ "description": "União Europeia (UE)", "isCorrect": false }
+		],
+		"source_explanation": "O documento fundador da ONU, a Carta das Nações Unidas, estabelece em seu Capítulo I, Artigo 1, a missão de manter a paz e a segurança internacionais.",
+		"source_abnt": "ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU). *Carta das Nações Unidas*. 26 jun. 1945. São Francisco, EUA."
+	},
+	{
+		"id": "GEOP002",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "A OTAN (Organização do Tratado do Atlântico Norte) é um exemplo de qual tipo de aliança?",
+		"options": [
+			{ "description": "Uma aliança econômica para livre comércio.", "isCorrect": false },
+			{ "description": "Uma aliança cultural para intercâmbio de arte.", "isCorrect": false },
+			{ "description": "Uma aliança militar de defesa coletiva.", "isCorrect": true },
+			{ "description": "Uma organização de saúde global.", "isCorrect": false }
+		],
+		"source_explanation": "O Artigo 5 do tratado fundador da OTAN estabelece o princípio de defesa mútua, onde um ataque a um membro é considerado um ataque a todos.",
+		"source_abnt": "ORGANIZAÇÃO DO TRATADO DO ATLÂNTICO NORTE (OTAN). *O Tratado do Atlântico Norte*. 4 abr. 1949. Washington, D.C."
+	},
+	{
+		"id": "GEOP003",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "O que foi a \"Guerra Fria\"?",
+		"options": [
+			{ "description": "Um conflito militar direto entre EUA e URSS nos polos.", "isCorrect": false },
+			{ "description": "Um período de tensão geopolítica, ideológica e militar entre os Estados Unidos e a União Soviética.", "isCorrect": true },
+			{ "description": "Uma guerra comercial entre a China e o Japão.", "isCorrect": false },
+			{ "description": "A guerra pela independência da Antártida.", "isCorrect": false }
+		],
+		"source_explanation": "Obra de referência do historiador John Lewis Gaddis que define o conflito (c. 1947-1991) como uma disputa bipolar sem confronto militar direto entre as duas superpotências.",
+		"source_abnt": "GADDIS, John Lewis. *A Guerra Fria: uma nova história*. Tradução de Jussara Simões. Rio de Janeiro: Nova Fronteira, 2006."
+	},
+	{
+		"id": "GEOP004",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "Qual é o nome do bloco econômico formado por Brasil, Argentina, Uruguai e Paraguai?",
+		"options": [
+			{ "description": "União Europeia", "isCorrect": false },
+			{ "description": "NAFTA", "isCorrect": false },
+			{ "description": "Mercosul (Mercado Comum do Sul)", "isCorrect": true },
+			{ "description": "BRICS", "isCorrect": false }
+		],
+		"source_explanation": "O documento oficial assinado em 1991 que estabeleceu a criação do Mercado Comum do Sul (Mercosul).",
+		"source_abnt": "MERCOSUL. *Tratado de Assunção*. 26 mar. 1991. Assunção, Paraguai."
+	},
+	{
+		"id": "GEOP005",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "O \"Brexit\" foi o processo de saída de qual país da União Europeia?",
+		"options": [
+			{ "description": "Alemanha", "isCorrect": false },
+			{ "description": "França", "isCorrect": false },
+			{ "description": "Itália", "isCorrect": false },
+			{ "description": "Reino Unido", "isCorrect": true }
+		],
+		"source_explanation": "O resultado oficial do referendo realizado em 23 de junho de 2016, que iniciou o processo de saída (Brexit) do Reino Unido da UE.",
+		"source_abnt": "COMISSÃO ELEITORAL DO REINO UNIDO. *EU Referendum Results*. 23 jun. 2016. Londres: The Electoral Commission. Disponível em: https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/eu-referendum/results-and-turnout-eu-referendum. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "GEOP006",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "O grupo de economias emergentes conhecido como BRICS é formado por quais países?",
+		"options": [
+			{ "description": "Brasil, Rússia, Índia, China e África do Sul (South Africa).", "isCorrect": true },
+			{ "description": "Bélgica, Romênia, Itália, Canadá e Suécia.", "isCorrect": false },
+			{ "description": "Bolívia, Ruanda, Indonésia, Colômbia e Singapura.", "isCorrect": false },
+			{ "description": "Reino Unido (Britain), Rússia, Irlanda, Chile e Espanha.", "isCorrect": false }
+		],
+		"source_explanation": "Relatório do economista Jim O'Neill que cunhou o acrônimo \"BRIC\" (Brasil, Rússia, Índia, China). A África do Sul (South Africa) juntou-se em 2010.",
+		"source_abnt": "O'NEILL, Jim. Building Better Global Economic BRICs. *Global Economics Paper*, Goldman Sachs, n. 66, 30 nov. 2001."
+	},
+	{
+		"id": "GEOP007",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "Qual é o nome da agência da ONU responsável por coordenar questões de saúde pública internacional, como pandemias?",
+		"options": [
+			{ "description": "UNICEF (Fundo das Nações Unidas para a Infância)", "isCorrect": false },
+			{ "description": "OMS (Organização Mundial da Saúde)", "isCorrect": true },
+			{ "description": "FMI (Fundo Monetário Internacional)", "isCorrect": false },
+			{ "description": "UNESCO (Organização para a Educação, a Ciência e a Cultura)", "isCorrect": false }
+		],
+		"source_explanation": "O documento fundador da OMS (WHO, em inglês) define seu mandato como a autoridade diretora e coordenadora em saúde internacional.",
+		"source_abnt": "ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). *Constituição da Organização Mundial da Saúde*. 22 jul. 1946. Nova York, EUA."
+	},
+	{
+		"id": "GEOP008",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "O que é \"diplomacia\"?",
+		"options": [
+			{ "description": "A condução de negociações entre nações para resolver disputas pacificamente.", "isCorrect": true },
+			{ "description": "O uso de força militar para atingir objetivos nacionais.", "isCorrect": false },
+			{ "description": "A espionagem de governos estrangeiros.", "isCorrect": false },
+			{ "description": "A imposição de barreiras comerciais contra outro país.", "isCorrect": false }
+		],
+		"source_explanation": "O tratado internacional que codifica as normas da diplomacia define as funções de uma missão diplomática, centradas na negociação e representação.",
+		"source_abnt": "CONVENÇÃO DE VIENA SOBRE RELAÇÕES DIPLOMÁTICAS. 18 abr. 1961. Viena, Áustria."
+	},
+	{
+		"id": "GEOP009",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "Qual órgão da ONU tem o poder de impor sanções e autorizar o uso da força militar?",
+		"options": [
+			{ "description": "A Assembleia Geral", "isCorrect": false },
+			{ "description": "O Conselho de Segurança", "isCorrect": true },
+			{ "description": "O Tribunal Internacional de Justiça", "isCorrect": false },
+			{ "description": "O Conselho Econômico e Social", "isCorrect": false }
+		],
+		"source_explanation": "O Capítulo VII da Carta da ONU concede ao Conselho de Segurança a autoridade exclusiva para autorizar medidas coercitivas (sanções ou força) em caso de ameaças à paz.",
+		"source_abnt": "ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU). *Carta das Nações Unidas*. 26 jun. 1945. São Francisco, EUA. (Capítulo VII)."
+	},
+	{
+		"id": "GEOP010",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "O que é uma \"sanção econômica\"?",
+		"options": [
+			{ "description": "Um presente financeiro de um país para outro.", "isCorrect": false },
+			{ "description": "Um acordo de livre comércio.", "isCorrect": false },
+			{ "description": "Penalidades comerciais e financeiras (como embargos) aplicadas por um ou mais países contra outro país.", "isCorrect": true },
+			{ "description": "Um investimento direto em uma empresa estrangeira.", "isCorrect": false }
+		],
+		"source_explanation": "Define sanções como medidas punitivas (geralmente comerciais ou financeiras) impostas por um estado contra outro para coagir uma mudança de política.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Economic sanction. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/economic-sanction. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "GEOP011",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "O G7 é um grupo informal das economias avançadas mais industrializadas. Qual destes países NÃO faz parte do G7?",
+		"options": [
+			{ "description": "Alemanha", "isCorrect": false },
+			{ "description": "China", "isCorrect": true },
+			{ "description": "Japão", "isCorrect": false },
+			{ "description": "Canadá", "isCorrect": false }
+		],
+		"source_explanation": "A lista oficial de membros do G7 inclui: Canadá, França, Alemanha, Itália, Japão, Reino Unido e Estados Unidos (mais a União Europeia). A China não é membro.",
+		"source_abnt": "G7. *Membros do G7*. (Informação oficial disponível nos sites das cúpulas anuais, ex: Cúpula de 2024 na Itália). Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "GEOP012",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "A Península da Crimeia, anexada pela Rússia em 2014, era anteriormente território de qual país?",
+		"options": [
+			{ "description": "Polônia", "isCorrect": false },
+			{ "description": "Turquia", "isCorrect": false },
+			{ "description": "Romênia", "isCorrect": false },
+			{ "description": "Ucrânia", "isCorrect": true }
+		],
+		"source_explanation": "A resolução oficial da Assembleia Geral da ONU reafirma a integridade territorial da Ucrânia e considera inválido o referendo da Crimeia de 2014.",
+		"source_abnt": "ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU). Assembleia Geral. *Resolução 68/262: Integridade territorial da Ucrânia*. 27 mar. 2014. Nova York: ONU."
+	},
+	{
+		"id": "GEOP013",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "Qual é a principal função do FMI (Fundo Monetário Internacional)?",
+		"options": [
+			{ "description": "Garantir a estabilidade do sistema monetário global e fornecer empréstimos a países com crises de balanço de pagamentos.", "isCorrect": true },
+			{ "description": "Regular o preço mundial do petróleo.", "isCorrect": false },
+			{ "description": "Combater o terrorismo internacional.", "isCorrect": false },
+			{ "description": "Promover a educação e a ciência.", "isCorrect": false }
+		],
+		"source_explanation": "O documento fundador do FMI (Fundo Monetário Internacional) define seus propósitos, incluindo a promoção da cooperação monetária global e a estabilidade.",
+		"source_abnt": "FUNDO MONETÁRIO INTERNACIONAL (FMI). *Artigos do Acordo do Fundo Monetário Internacional*. 27 dez. 1945. Washington, D.C."
+	},
+	{
+		"id": "GEOP014",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "Um país que não possui litoral (acesso direto ao mar) é chamado de:",
+		"options": [
+			{ "description": "Estado-nação", "isCorrect": false },
+			{ "description": "País interiorano (ou sem litoral)", "isCorrect": true },
+			{ "description": "Península", "isCorrect": false },
+			{ "description": "Arquipélago", "isCorrect": false }
+		],
+		"source_explanation": "O tratado internacional que rege o uso dos mares define, na Parte X, os direitos e o status dos \"Estados sem litoral\" (Land-locked States).",
+		"source_abnt": "CONVENÇÃO DAS NAÇÕES UNIDAS SOBRE O DIREITO DO MAR (UNCLOS). 10 dez. 1982. Montego Bay, Jamaica. (Parte X)."
+	},
+	{
+		"id": "GEOP015",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "Qual país é dividido em duas zonas (Norte e Sul) desde a guerra de 1950-53, separadas pela \"Zona Desmilitarizada\" (DMZ)?",
+		"options": [
+			{ "description": "Vietnã", "isCorrect": false },
+			{ "description": "Alemanha", "isCorrect": false },
+			{ "description": "Coreia", "isCorrect": true },
+			{ "description": "Irlanda", "isCorrect": false }
+		],
+		"source_explanation": "O documento que cessou o fogo na Guerra da Coreia estabeleceu a Linha de Demarcação Militar (MDL) e a Zona Desmilitarizada (DMZ) entre a Coreia do Norte e a Coreia do Sul.",
+		"source_abnt": "ACORDO DE ARMISTÍCIO COREANO. 27 jul. 1953. Panmunjom, Coreia."
+	},
+	{
+		"id": "GEOP016",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "O que é um \"Estado pária\" (ou Estado fora-da-lei) no contexto das relações internacionais?",
+		"options": [
+			{ "description": "Um país considerado uma ameaça à paz mundial por não seguir normas internacionais.", "isCorrect": true },
+			{ "description": "Um país neutro que se recusa a participar de guerras.", "isCorrect": false },
+			{ "description": "Um país recém-formado que busca reconhecimento.", "isCorrect": false },
+			{ "description": "Um país com uma economia muito desenvolvida.", "isCorrect": false }
+		],
+		"source_explanation": "O termo (do inglês \"Rogue State\") é usado na teoria das Relações Internacionais para descrever um estado que viola normas internacionais e ameaça a segurança.",
+		"source_abnt": "OXFORD REFERENCE. *A Dictionary of International Relations*: Rogue State. Oxford: Oxford University Press, 2018."
+	},
+	{
+		"id": "GEOP017",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "O que é a OPEP (Organização dos Países Exportadores de Petróleo)?",
+		"options": [
+			{ "description": "Uma organização militar para proteger navios petroleiros.", "isCorrect": false },
+			{ "description": "Uma agência da ONU para promover energia limpa.", "isCorrect": false },
+			{ "description": "Um cartel de países produtores de petróleo que coordena a produção para influenciar o preço.", "isCorrect": true },
+			{ "description": "Uma empresa de petróleo sediada na Suíça.", "isCorrect": false }
+		],
+		"source_explanation": "O documento fundador da OPEP (OPEC, em inglês) define seu objetivo principal como a coordenação e unificação das políticas petrolíferas dos países membros.",
+		"source_abnt": "ORGANIZAÇÃO DOS PAÍSES EXPORTADORES DE PETRÓLEO (OPEP). *Estatuto da OPEP*. 14 set. 1960. Bagdá, Iraque."
+	},
+	{
+		"id": "GEOP018",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "Qual é a principal disputa entre Israel e Palestina?",
+		"options": [
+			{ "description": "Uma disputa sobre rotas de pesca no Mediterrâneo.", "isCorrect": false },
+			{ "description": "Uma disputa territorial e política sobre a terra que ambos reivindicam como sua.", "isCorrect": true },
+			{ "description": "Uma competição sobre quem sediará a próxima Copa do Mundo.", "isCorrect": false },
+			{ "description": "Uma rivalidade sobre a produção de petróleo.", "isCorrect": false }
+		],
+		"source_explanation": "Os Acordos de 1993 foram um marco nas tentativas de resolver o conflito, focando no reconhecimento mútuo e na autonomia palestina sobre os territórios da Cisjordânia e Faixa de Gaza.",
+		"source_abnt": "ACORDOS DE OSLO (Declaração de Princípios sobre os Acordos de Autogoverno Interino). 13 set. 1993. Washington, D.C."
+	},
+	{
+		"id": "GEOP019",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "Armas nucleares são uma preocupação central da segurança global. Qual país foi o primeiro e único a usá-las em guerra?",
+		"options": [
+			{ "description": "União Soviética", "isCorrect": false },
+			{ "description": "Reino Unido", "isCorrect": false },
+			{ "description": "Alemanha Nazista", "isCorrect": false },
+			{ "description": "Estados Unidos", "isCorrect": true }
+		],
+		"source_explanation": "Documentos oficiais dos Arquivos Nacionais dos EUA confirmam o uso de bombas atômicas pelos EUA em Hiroshima e Nagasaki em agosto de 1945.",
+		"source_abnt": "NATIONAL ARCHIVES (EUA). *Bombing of Hiroshima and Nagasaki*. Washington, D.C.: U.S. National Archives, 1945. Disponível em: https://www.archives.gov/milestone-documents/bombing-of-hiroshima-and-nagasaki. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "GEOP020",
+		"category": "Geopolítica",
+		"level": "easy",
+		"question": "O que é a \"Soberania\" de um país?",
+		"options": [
+			{ "description": "O direito de um país de governar a si mesmo, sem interferência externa em seus assuntos internos.", "isCorrect": true },
+			{ "description": "A obrigação de um país de seguir as ordens da ONU.", "isCorrect": false },
+			{ "description": "A quantidade de ouro que um país possui em seus cofres.", "isCorrect": false },
+			{ "description": "O poder militar de um país em comparação com seus vizinhos.", "isCorrect": false }
+		],
+		"source_explanation": "O princípio da igualdade soberana dos estados, estabelecido na Paz de Vestfália (1648), é a base das relações internacionais modernas, reafirmado na Carta da ONU.",
+		"source_abnt": "ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU). *Carta das Nações Unidas*. 26 jun. 1945. São Francisco, EUA. (Capítulo I, Artigo 2)."
+	},
+	{
+		"id": "GEOP021",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "Qual é a diferença fundamental entre o Tribunal Internacional de Justiça (TIJ) e o Tribunal Penal Internacional (TPI)?",
+		"options": [
+			{ "description": "O TIJ é militar e o TPI é civil.", "isCorrect": false },
+			{ "description": "O TIJ julga disputas entre Estados; o TPI julga indivíduos por crimes de guerra, genocídio e crimes contra a humanidade.", "isCorrect": true },
+			{ "description": "O TIJ é parte da ONU e o TPI é parte da União Europeia.", "isCorrect": false },
+			{ "description": "O TIJ pode prender pessoas; o TPI só pode aplicar sanções econômicas.", "isCorrect": false }
+		],
+		"source_explanation": "O TIJ (ICJ) é o órgão judicial da ONU para disputas entre Estados (Carta da ONU, Cap. XIV). O TPI (ICC) é um tribunal independente (Estatuto de Roma) que julga indivíduos.",
+		"source_abnt": "ESTATUTO DE ROMA DO TRIBUNAL PENAL INTERNACIONAL. 17 jul. 1998. Roma, Itália."
+	},
+	{
+		"id": "GEOP022",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "O Tratado de Não Proliferação de Armas Nucleares (TNP) baseia-se em três pilares. Quais são eles?",
+		"options": [
+			{ "description": "Livre comércio, defesa mútua e sanções.", "isCorrect": false },
+			{ "description": "Não proliferação, desarmamento e o direito ao uso pacífico da energia nuclear.", "isCorrect": true },
+			{ "description": "Proibição de testes, inspeções da AIEA e destruição de arsenais.", "isCorrect": false },
+			{ "description": "Defesa contra mísseis, segurança cibernética e cooperação espacial.", "isCorrect": false }
+		],
+		"source_explanation": "A Agência Internacional de Energia Atômica (AIEA), que supervisiona o TNP, descreve oficialmente os três pilares do tratado (não proliferação, desarmamento e uso pacífico).",
+		"source_abnt": "AGÊNCIA INTERNACIONAL DE ENERGIA ATÔMICA (AIEA). *O Tratado de Não Proliferação de Armas Nucleares (TNP)*. Viena: AIEA, [s.d.]. Disponível em: https://www.iaea.org/topics/npt. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "GEOP023",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "Na teoria das Relações Internacionais, qual é a crença central da escola \"Realista\" (ex: Morgenthau, Waltz)?",
+		"options": [
+			{ "description": "Que a cooperação internacional e as instituições (como a ONU) são a principal força motriz da política mundial.", "isCorrect": false },
+			{ "description": "Que os Estados são os principais atores e agem primariamente em busca de poder e segurança em um sistema internacional anárquico.", "isCorrect": true },
+			{ "description": "Que as ideias, normas e identidades (como democracia ou religião) definem os interesses de um Estado.", "isCorrect": false },
+			{ "description": "Que a economia e a luta de classes (capital vs. trabalho) são a base das relações internacionais.", "isCorrect": false }
+		],
+		"source_explanation": "Obra fundadora do realismo clássico, que se concentra na natureza humana e na luta pelo poder como centrais para a política entre as nações.",
+		"source_abnt": "MORGENTHAU, Hans J. *A Política entre as Nações: a luta pelo poder e pela paz*. Tradução de Flávio de Souza. 6. ed. São Paulo: Editora UNB, 2003."
+	},
+	{
+		"id": "GEOP024",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "O que é uma \"guerra por procuração\" (proxy war), comum durante a Guerra Fria?",
+		"options": [
+			{ "description": "Uma guerra travada inteiramente no ciberespaço.", "isCorrect": false },
+			{ "description": "Uma guerra onde duas potências maiores apoiam lados opostos em um conflito em um terceiro país, sem se enfrentarem diretamente.", "isCorrect": true },
+			{ "description": "Uma negociação de paz mediada por um país neutro.", "isCorrect": false },
+			{ "description": "Uma guerra declarada formalmente, mas onde nenhuma batalha ocorre.", "isCorrect": false }
+		],
+		"source_explanation": "Define o termo e cita a Guerra do Vietnã e a Guerra da Coreia como exemplos clássicos onde os EUA e a URSS apoiaram lados opostos.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Proxy war. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/proxy-war. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "GEOP025",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "Os Acordos de Camp David (1978), mediados pelos EUA, levaram a um tratado de paz histórico entre quais dois países?",
+		"options": [
+			{ "description": "Israel e Palestina", "isCorrect": false },
+			{ "description": "Índia e Paquistão", "isCorrect": false },
+			{ "description": "Israel e Egito", "isCorrect": true },
+			{ "description": "Grécia e Turquia", "isCorrect": false }
+		],
+		"source_explanation": "Os arquivos oficiais do Departamento de Estado dos EUA documentam o tratado mediado por Jimmy Carter entre o Egito (Anwar Sadat) e Israel (Menachem Begin).",
+		"source_abnt": "DEPARTAMENTO DE ESTADO DOS EUA. Office of the Historian. *Camp David Accords and the Arab-Israeli Peace Process*. Washington, D.C.: U.S. Department of State, [s.d.]. Disponível em: https://history.state.gov/milestones/1977-1980/camp-david. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "GEOP026",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "Qual é a principal função da Organização para a Segurança e Cooperação na Europa (OSCE)?",
+		"options": [
+			{ "description": "É a aliança militar que substituiu a OTAN após a Guerra Fria.", "isCorrect": false },
+			{ "description": "É um fórum para diálogo político, monitoramento de eleições e controle de armas na Europa.", "isCorrect": true },
+			{ "description": "É a organização que gerencia a moeda do Euro.", "isCorrect": false },
+			{ "description": "É a agência de fronteiras da União Europeia (Frontex).", "isCorrect": false }
+		],
+		"source_explanation": "O documento que fundou a predecessora da OSCE (a CSCE) focava em segurança, cooperação econômica e direitos humanos como pilares da détente na Europa.",
+		"source_abnt": "CONFERÊNCIA SOBRE SEGURANÇA E COOPERAÇÃO NA EUROPA (CSCE). *Ato Final de Helsinque*. 1 ago. 1975. Helsinque, Finlândia."
+	},
+	{
+		"id": "GEOP027",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "A \"Iniciativa do Cinturão e Rota\" (Belt and Road Initiative), lançada pela China, é primariamente o quê?",
+		"options": [
+			{ "description": "Um projeto global de infraestrutura (portos, ferrovias, estradas) para aumentar a conectividade e a influência econômica chinesa.", "isCorrect": true },
+			{ "description": "Uma aliança militar asiática para rivalizar com a OTAN.", "isCorrect": false },
+			{ "description": "Um programa espacial para construir uma estação lunar com a Rússia.", "isCorrect": false },
+			{ "description": "Um tratado ambiental para reduzir as emissões de carbono na Ásia.", "isCorrect": false }
+		],
+		"source_explanation": "Análise do think tank CFR que define a BRI (também conhecida como \"One Belt, One Road\") como um projeto de investimento e infraestrutura para conectar a China ao mundo.",
+		"source_abnt": "COUNCIL ON FOREIGN RELATIONS (CFR). *China's Belt and Road Initiative*. Nova York: CFR, 2024. Disponível em: https://www.cfr.org/backgrounder/chinas-massive-belt-and-road-initiative. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "GEOP028",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "Qual é a principal reivindicação da China no Mar do Sul da China, que causa tensão com países como Vietnã e Filipinas?",
+		"options": [
+			{ "description": "A \"Linha das Nove Armadilhas\", uma reivindicação histórica sobre quase todo o mar.", "isCorrect": false },
+			{ "description": "O direito de passagem inocente para todos os navios.", "isCorrect": false },
+			{ "description": "A \"Linha das Nove Raias\" (Nine-Dash Line), uma demarcação que reivindica soberania sobre a maior parte do mar.", "isCorrect": true },
+			{ "description": "A soberania sobre a Ilha de Taiwan.", "isCorrect": false }
+		],
+		"source_explanation": "A decisão do Tribunal Permanente de Arbitragem (2016) no caso Filipinas v. China rejeitou a validade legal da \"Linha das Nove Raias\" sob a UNCLOS.",
+		"source_abnt": "TRIBUNAL PERMANENTE DE ARBITRAGEM (TPA). *Caso nº 2013-19: República das Filipinas v. República Popular da China*. 12 jul. 2016. Haia, Holanda."
+	},
+	{
+		"id": "GEOP029",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "O que é o \"Poder Brando\" (Soft Power), conceito cunhado por Joseph Nye?",
+		"options": [
+			{ "description": "A capacidade de influenciar outros através da atração cultural, valores políticos e diplomacia, em vez de coerção (Hard Power).", "isCorrect": true },
+			{ "description": "O uso de forças militares de elite (operações especiais) em vez de exércitos convencionais.", "isCorrect": false },
+			{ "description": "O poder econômico de um país antes de sua industrialização.", "isCorrect": false },
+			{ "description": "A fraqueza militar de um Estado que o torna vulnerável.", "isCorrect": false }
+		],
+		"source_explanation": "O livro de 1990 onde Joseph Nye introduz o conceito de \"Soft Power\" (poder brando) como a capacidade de obter o que se quer através da atração, em vez da coerção.",
+		"source_abnt": "NYE, Joseph S. *Bound to Lead: The Changing Nature of American Power*. Nova York: Basic Books, 1990."
+	},
+	{
+		"id": "GEOP030",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "Qual é a principal função da Organização Mundial do Comércio (OMC)?",
+		"options": [
+			{ "description": "Emprestar dinheiro para projetos de desenvolvimento em países pobres (papel do Banco Mundial).", "isCorrect": false },
+			{ "description": "Regular o comércio internacional, estabelecendo regras e resolvendo disputas comerciais entre países.", "isCorrect": true },
+			{ "description": "Definir os preços globais de commodities como petróleo e ouro.", "isCorrect": false },
+			{ "description": "Fornecer ajuda humanitária a zonas de conflito.", "isCorrect": false }
+		],
+		"source_explanation": "O tratado que estabeleceu a OMC (WTO, em inglês) define suas funções como a supervisão, liberalização e resolução de disputas do comércio internacional.",
+		"source_abnt": "ORGANIZAÇÃO MUNDIAL DO COMÉRCIO (OMC). *Acordo de Marraquexe*. 15 abr. 1994. Marraquexe, Marrocos."
+	},
+	{
+		"id": "GEOP031",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "O \"Estado Islâmico\" (ISIS) difere da Al-Qaeda em qual objetivo estratégico principal?",
+		"options": [
+			{ "description": "O ISIS busca estabelecer um \"Califado\" (um estado teocrático com território físico); a Al-Qaeda foca em ataques terroristas globais contra o Ocidente.", "isCorrect": true },
+			{ "description": "O ISIS é Xiita; a Al-Qaeda é Sunita.", "isCorrect": false },
+			{ "description": "O ISIS nunca usou táticas terroristas, focando apenas em guerra convencional.", "isCorrect": false },
+			{ "description": "A Al-Qaeda busca um califado territorial; o ISIS foca em ataques globais.", "isCorrect": false }
+		],
+		"source_explanation": "Análises de think tanks como o CTC (West Point) diferenciam a estratégia territorial do ISIS (tomar e governar o \"Califado\") da estratégia de \"inimigo distante\" (atacar o Ocidente) da Al-Qaeda.",
+		"source_abnt": "COMBATING TERRORISM CENTER (CTC) AT WEST POINT. *The Islamic State vs. Al-Qaeda: A War of Ideas*. West Point, NY: CTC, 2014. Disponível em: https://ctc.westpoint.edu/the-islamic-state-vs-al-qaeda-a-war-of-ideas/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "GEOP032",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "A \"Doutrina Monroe\" (1823) foi uma política externa dos EUA que afirmava o quê?",
+		"options": [
+			{ "description": "Que os EUA tinham o direito de intervir militarmente em qualquer lugar do mundo.", "isCorrect": false },
+			{ "description": "Que as potências europeias não deveriam mais colonizar ou interferir nas nações independentes do Hemisfério Ocidental (Américas).", "isCorrect": true },
+			{ "description": "Que os EUA deveriam permanecer isolados de todos os conflitos estrangeiros.", "isCorrect": false },
+			{ "description": "Que os EUA deveriam formar uma aliança militar com a Europa contra a Rússia.", "isCorrect": false }
+		],
+		"source_explanation": "O discurso histórico do Presidente James Monroe ao Congresso (1823) estabeleceu a doutrina de que o Hemisfério Ocidental não era mais aberto à colonização europeia.",
+		"source_abnt": "MONROE, James. *Discurso ao Congresso (Doutrina Monroe)*. 2 dez. 1823. Washington, D.C.: U.S. National Archives. Disponível em: https://www.archives.gov/milestone-documents/monroe-doctrine. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "GEOP033",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "O que é o \"Dilema de Segurança\" nas Relações Internacionais?",
+		"options": [
+			{ "description": "A dificuldade de escolher entre aliados econômicos e militares.", "isCorrect": false },
+			{ "description": "A situação em que as ações de um Estado para aumentar sua própria segurança (como construir armas) são vistas como ameaçadoras por outro Estado, que reage aumentando sua própria segurança, levando a uma espiral de tensão.", "isCorrect": true },
+			{ "description": "O problema de financiar forças armadas versus programas sociais (o debate \"armas vs. manteiga\").", "isCorrect": false },
+			{ "description": "A incapacidade de um país de se defender sem um arsenal nuclear.", "isCorrect": false }
+		],
+		"source_explanation": "Este artigo acadêmico seminal de Robert Jervis define e analisa o conceito do \"Dilema de Segurança\" na teoria realista das Relações Internacionais.",
+		"source_abnt": "JERVIS, Robert. Cooperation Under the Security Dilemma. *World Politics*, Cambridge, v. 30, n. 2, p. 167-214, jan. 1978."
+	},
+	{
+		"id": "GEOP034",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "O Genocídio de Ruanda em 1994 foi um conflito étnico em massa principalmente entre quais dois grupos?",
+		"options": [
+			{ "description": "Ruandeses e Ugandenses", "isCorrect": false },
+			{ "description": "A maioria Hutu e a minoria Tutsi.", "isCorrect": true },
+			{ "description": "Muçulmanos e Cristãos", "isCorrect": false },
+			{ "description": "Colonizadores belgas e a população nativa.", "isCorrect": false }
+		],
+		"source_explanation": "O relatório oficial da ONU sobre o genocídio (Relatório Carlsson) analisa o fracasso da comunidade internacional e identifica as partes do conflito como extremistas Hutu contra a população Tutsi.",
+		"source_abnt": "ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU). *Relatório da Comissão Independente de Inquérito sobre as Ações das Nações Unidas durante o Genocídio de 1994 em Ruanda (Relatório Carlsson)*. 15 dez. 1999. Nova York: ONU."
+	},
+	{
+		"id": "GEOP035",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "Qual é a principal função da Agência Internacional de Energia Atômica (AIEA)?",
+		"options": [
+			{ "description": "Controlar o preço mundial do urânio.", "isCorrect": false },
+			{ "description": "Construir usinas nucleares em países em desenvolvimento.", "isCorrect": false },
+			{ "description": "Promover o uso pacífico da energia nuclear e inspecionar instalações para impedir o desenvolvimento de armas nucleares.", "isCorrect": true },
+			{ "description": "Liderar o desarmamento nuclear de potências como EUA e Rússia.", "isCorrect": false }
+		],
+		"source_explanation": "O documento fundador da AIEA (IAEA, em inglês) define seu duplo mandato: promover o uso pacífico da energia nuclear e aplicar \"salvaguardas\" (inspeções) para prevenir o uso militar.",
+		"source_abnt": "AGÊNCIA INTERNACIONAL DE ENERGIA ATÔMICA (AIEA). *Estatuto da AIEA*. 23 out. 1956. Nova York, EUA."
+	},
+	{
+		"id": "GEOP036",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "A teoria geopolítica do \"Heartland\" (Coração Continental), de Halford Mackinder, sugere o quê?",
+		"options": [
+			{ "description": "Que o controle do poder marítimo (como a Marinha Britânica) é a chave para o domínio global.", "isCorrect": false },
+			{ "description": "Que quem controla a massa de terra da Eurásia (o \"Heartland\") comanda o \"Mundo-Ilha\" e, eventualmente, o mundo.", "isCorrect": true },
+			{ "description": "Que o poder aéreo tornaria obsoletas as marinhas e os exércitos terrestres.", "isCorrect": false },
+			{ "description": "Que o poder econômico (capital) é mais importante que o poder militar.", "isCorrect": false }
+		],
+		"source_explanation": "O artigo seminal de 1904 onde Mackinder apresenta a teoria geopolítica do \"Heartland\" (Eurásia) como o pivô geográfico da história mundial.",
+		"source_abnt": "MACKINDER, Halford J. The Geographical Pivot of History. *The Geographical Journal*, Londres, v. 23, n. 4, p. 421-437, abr. 1904."
+	},
+	{
+		"id": "GEOP037",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "O que é o \"Direito de Veto\" no Conselho de Segurança da ONU?",
+		"options": [
+			{ "description": "O direito de qualquer membro da ONU de vetar uma resolução da Assembleia Geral.", "isCorrect": false },
+			{ "description": "O poder dos cinco membros permanentes (P5) de bloquear a adoção de uma resolução substantiva, mesmo que ela tenha maioria.", "isCorrect": true },
+			{ "description": "O direito do Secretário-Geral de cancelar uma operação de paz.", "isCorrect": false },
+			{ "description": "O poder do Tribunal Internacional de Justiça de vetar uma lei nacional.", "isCorrect": false }
+		],
+		"source_explanation": "O Capítulo V, Artigo 27 da Carta da ONU estabelece os procedimentos de votação do Conselho de Segurança, incluindo o poder de veto dos cinco membros permanentes (China, França, Rússia, Reino Unido, EUA).",
+		"source_abnt": "ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU). *Carta das Nações Unidas*. 26 jun. 1945. São Francisco, EUA. (Capítulo V, Artigo 27)."
+	},
+	{
+		"id": "GEOP038",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "A \"Guerra dos Seis Dias\" (1967) resultou na ocupação por Israel de quais territórios?",
+		"options": [
+			{ "description": "Apenas a Península do Sinai.", "isCorrect": false },
+			{ "description": "Líbano e Síria.", "isCorrect": false },
+			{ "description": "A Península do Sinai, a Faixa de Gaza, a Cisjordânia e as Colinas de Golã.", "isCorrect": true },
+			{ "description": "A cidade de Amã, na Jordânia.", "isCorrect": false }
+		],
+		"source_explanation": "Esta resolução do Conselho de Segurança da ONU, emitida após a guerra de 1967, pede a \"retirada das forças armadas israelenses dos territórios ocupados no recente conflito\".",
+		"source_abnt": "ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU). Conselho de Segurança. *Resolução 242*. 22 nov. 1967. Nova York: ONU."
+	},
+	{
+		"id": "GEOP039",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "O que é a ASEAN (Associação de Nações do Sudeste Asiático)?",
+		"options": [
+			{ "description": "Uma aliança militar como a OTAN, focada em conter a China.", "isCorrect": false },
+			{ "description": "Um bloco econômico e político focado na cooperação regional, estabilidade e crescimento econômico no Sudeste Asiático.", "isCorrect": true },
+			{ "description": "Uma organização de saúde que combate a malária na região.", "isCorrect": false },
+			{ "description": "Um tribunal regional de direitos humanos.", "isCorrect": false }
+		],
+		"source_explanation": "O documento fundador da ASEAN (1967) estabelece os objetivos da organização, focados na cooperação econômica e social regional.",
+		"source_abnt": "ASSOCIAÇÃO DE NAÇÕES DO SUDESTE ASIÁTICO (ASEAN). *Declaração da ASEAN (Declaração de Bangkok)*. 8 ago. 1967. Bangkok, Tailândia."
+	},
+	{
+		"id": "GEOP040",
+		"category": "Geopolítica",
+		"level": "medium",
+		"question": "O que são \"Ataques Cibernéticos de Atribuição\" no contexto da segurança global?",
+		"options": [
+			{ "description": "A dificuldade em provar conclusivamente qual Estado-nação ou grupo é responsável por um ataque cibernético.", "isCorrect": true },
+			{ "description": "O processo de atribuir nomes de código a operações cibernéticas (ex: \"Stuxnet\").", "isCorrect": false },
+			{ "description": "Ataques que visam especificamente os sistemas de nomes de domínio (DNS).", "isCorrect": false },
+			{ "description": "O uso de inteligência artificial para prever futuros ataques cibernéticos.", "isCorrect": false }
+		],
+		"source_explanation": "Análises de think tanks como o CFR discutem o \"problema da atribuição\" (attribution problem) como o desafio central da segurança cibernética.",
+		"source_abnt": "COUNCIL ON FOREIGN RELATIONS (CFR). *Confronting the \"Attribution Problem\" in Cyberspace*. Nova York: CFR, 2018. Disponível em: https://www.cfr.org/report/confronting-attribution-problem-cyberspace. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "GEOP041",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "O que é o \"Equilíbrio de Poder\" (Balance of Power) na teoria realista clássica?",
+		"options": [
+			{ "description": "Um estado em que todos os países têm poder militar e econômico idêntico.", "isCorrect": false },
+			{ "description": "Uma política de formar alianças para impedir que qualquer Estado (ou coalizão) se torne hegemônico e domine o sistema.", "isCorrect": true },
+			{ "description": "A teoria de que o poder econômico (comércio) sempre superará o poder militar.", "isCorrect": false },
+			{ "description": "A exigência de que o Conselho de Segurança da ONU tenha um número igual de países desenvolvidos e em desenvolvimento.", "isCorrect": false }
+		],
+		"source_explanation": "Esta obra (do neorrealismo) formaliza a lógica do \"Equilíbrio de Poder\" como uma característica estrutural e recorrente do sistema internacional anárquico.",
+		"source_abnt": "WALTZ, Kenneth N. *Teoria das Relações Internacionais*. Tradução de Gelson Fonseca Jr. São Paulo: Martins Fontes, 2002."
+	},
+	{
+		"id": "GEOP042",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "A \"Armadilha de Tucídides\", um termo popularizado por Graham Allison, descreve qual fenômeno geopolítico?",
+		"options": [
+			{ "description": "Quando uma potência estabelecida (como Esparta/EUA) teme a ascensão de uma potência emergente (como Atenas/China), levando a um conflito provável.", "isCorrect": true },
+			{ "description": "A tendência de democracias nunca entrarem em guerra umas com as outras (Teoria da Paz Democrática).", "isCorrect": false },
+			{ "description": "O erro de invadir a Rússia no inverno, como feito por Napoleão e Hitler.", "isCorrect": false },
+			{ "description": "A paralisia política causada por um veto no Conselho de Segurança da ONU.", "isCorrect": false }
+		],
+		"source_explanation": "O livro de Allison aplica a análise de Tucídides sobre a guerra entre a potência estabelecida (Esparta) e a emergente (Atenas) às relações contemporâneas entre EUA e China.",
+		"source_abnt": "ALLISON, Graham. *Destined for War: Can America and China Escape Thucydides's Trap?*. Boston: Houghton Mifflin Harcourt, 2017."
+	},
+	{
+		"id": "GEOP043",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "Na teoria das Relações Internacionais, o que o \"Construtivismo\" (ex: Alexander Wendt) argumenta?",
+		"options": [
+			{ "description": "Que o sistema internacional é fixo e material (poder militar e economia são tudo).", "isCorrect": false },
+			{ "description": "Que os interesses dos Estados não são fixos, mas sim construídos socialmente através de identidades, normas e interações.", "isCorrect": true },
+			{ "description": "Que a geografia (montanhas, oceanos) é o único fator determinante da política externa de um país.", "isCorrect": false },
+			{ "description": "Que as ONGs e corporações multinacionais são agora mais poderosas que os Estados-nação.", "isCorrect": false }
+		],
+		"source_explanation": "O artigo fundador do construtivismo moderno, onde Wendt argumenta que a \"anarquia\" do sistema internacional é uma construção social, e não um fato material imutável.",
+		"source_abnt": "WENDT, Alexander. Anarchy is What States Make of It: The Social Construction of Power Politics. *International Organization*, Cambridge, v. 46, n. 2, p. 391-425, Primavera 1992."
+	},
+	{
+		"id": "GEOP044",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "Qual foi a principal consequência geopolítica dos Acordos de Bretton Woods (1944)?",
+		"options": [
+			{ "description": "Estabeleceu o dólar americano (lastreado em ouro) como a principal moeda de reserva mundial e criou o FMI e o Banco Mundial.", "isCorrect": true },
+			{ "description": "Criou a OTAN e o Pacto de Varsóvia, iniciando a Guerra Fria.", "isCorrect": false },
+			{ "description": "Dividiu a Alemanha e a Coreia em zonas de ocupação.", "isCorrect": false },
+			{ "description": "Baniu o uso de armas químicas e biológicas em conflitos.", "isCorrect": false }
+		],
+		"source_explanation": "Os acordos oficiais da conferência estabeleceram a arquitetura financeira global pós-Segunda Guerra Mundial, criando o FMI e o Banco Mundial, e fixando o dólar ao ouro.",
+		"source_abnt": "CONFERÊNCIA MONETÁRIA E FINANCEIRA DAS NAÇÕES UNIDAS. *Acordos de Bretton Woods*. 22 jul. 1944. Bretton Woods, NH, EUA."
+	},
+	{
+		"id": "GEOP045",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "O que é \"Balkanização\"?",
+		"options": [
+			{ "description": "Um processo de integração econômica e política, como a formação da União Europeia.", "isCorrect": false },
+			{ "description": "A fragmentação violenta de um país ou região em Estados menores, hostis entre si, com base em linhas étnicas ou religiosas.", "isCorrect": true },
+			{ "description": "Uma estratégia militar de cerco naval (bloqueio).", "isCorrect": false },
+			{ "description": "A política russa de controle sobre seus vizinhos da antiga URSS.", "isCorrect": false }
+		],
+		"source_explanation": "O termo foi cunhado após as Guerras Balcânicas (início do séc. XX) e popularizado com a violenta dissolução da Iugoslávia nos anos 1990.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Balkanization. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/Balkanization. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "GEOP046",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "O \"Artigo 9º da Constituição do Japão\", redigido após a Segunda Guerra Mundial, é famoso por quê?",
+		"options": [
+			{ "description": "Garante ao Japão o direito de possuir armas nucleares para autodefesa.", "isCorrect": false },
+			{ "description": "Estabelece o Xintoísmo como a religião oficial do Estado.", "isCorrect": false },
+			{ "description": "Renuncia à guerra como um direito soberano e proíbe o Japão de manter um exército (embora mantenha \"Forças de Autodefesa\").", "isCorrect": true },
+			{ "description": "Cria uma aliança militar perpétua com a China.", "isCorrect": false }
+		],
+		"source_explanation": "O documento legal oficial, promulgado em 1947, contém o Artigo 9, que renuncia à guerra como instrumento de política estatal.",
+		"source_abnt": "JAPÃO. *Constituição do Japão*. 3 nov. 1946 (promulgada). Tóquio, Japão. (Artigo 9)."
+	},
+	{
+		"id": "GEOP047",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "O que é o conceito de \"Rimland\" (Orla Continental) na teoria geopolítica de Nicholas Spykman?",
+		"options": [
+			{ "description": "Uma crítica ao \"Heartland\" de Mackinder, argumentando que o controle da \"orla\" costeira da Eurásia (Europa, Oriente Médio, Índia, China) é a chave para o poder mundial.", "isCorrect": true },
+			{ "description": "A ideia de que o Ártico (o \"aro\" do mundo) se tornará a zona de conflito mais importante.", "isCorrect": false },
+			{ "description": "A teoria de que o poder espacial (satélites) é a chave para o domínio.", "isCorrect": false },
+			{ "description": "A necessidade de os EUA controlarem as ilhas do Pacífico (\"Rim of the Pacific\").", "isCorrect": false }
+		],
+		"source_explanation": "Nesta obra, Spykman contrapõe Mackinder, afirmando: \"Quem controla o Rimland (a orla) governa a Eurásia; quem governa a Eurásia controla os destinos do mundo.\"",
+		"source_abnt": "SPYKMAN, Nicholas J. *The Geography of the Peace*. Nova York: Harcourt, Brace & Co., 1944."
+	},
+	{
+		"id": "GEOP048",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "Qual é a principal diferença entre um \"Estado Falhado\" (Failed State) e um \"Estado Frágil\" (Fragile State)?",
+		"options": [
+			{ "description": "Não há diferença, os termos são sinônimos.", "isCorrect": false },
+			{ "description": "Um Estado Frágil tem o monopólio da violência, mas instituições fracas; um Estado Falhado perdeu o monopólio da violência e o controle de seu território.", "isCorrect": true },
+			{ "description": "Um Estado Falhado é pobre; um Estado Frágil é rico, mas instável (ex: Arábia Saudita).", "isCorrect": false },
+			{ "description": "Um Estado Frágil é uma democracia; um Estado Falhado é uma ditadura.", "isCorrect": false }
+		],
+		"source_explanation": "A metodologia do índice (anteriormente do Fund for Peace) define os indicadores que diferenciam os níveis de fragilidade (pressão) e falha (colapso) do Estado.",
+		"source_abnt": "FRAGILE STATES INDEX. *Methodology*. Washington, D.C.: The Fund for Peace, 2024. Disponível em: https://fragilestatesindex.org/methodology/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "GEOP049",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "Os \"Acordos de Belfast\" (ou Acordo da Sexta-Feira Santa, 1998) buscaram encerrar qual conflito?",
+		"options": [
+			{ "description": "A Guerra Civil no Líbano.", "isCorrect": false },
+			{ "description": "A disputa entre Grécia e Turquia sobre o Chipre.", "isCorrect": false },
+			{ "description": "O conflito na Irlanda do Norte (\"The Troubles\") entre Unionistas (protestantes) e Nacionalistas (católicos).", "isCorrect": true },
+			{ "description": "As Guerras de Independência da Escócia.", "isCorrect": false }
+		],
+		"source_explanation": "O documento oficial de paz (1998) que estabeleceu o compartilhamento de poder (Assembleia da Irlanda do Norte) entre as facções do conflito.",
+		"source_abnt": "ACORDO DA SEXTA-FEIRA SANTA (Acordo de Belfast). 10 abr. 1998. Belfast, Irlanda do Norte."
+	},
+	{
+		"id": "GEOP050",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "O que é a \"Doutrina da Responsabilidade de Proteger\" (R2P), adotada pela ONU em 2005?",
+		"options": [
+			{ "description": "A doutrina de que cada Estado tem a responsabilidade de se proteger de ataques cibernéticos.", "isCorrect": false },
+			{ "description": "Um princípio que afirma que a soberania não é absoluta. Se um Estado falha em proteger sua população de genocídio ou crimes contra a humanidade, a comunidade internacional tem a responsabilidade de intervir.", "isCorrect": true },
+			{ "description": "A responsabilidade das potências nucleares de desarmar seus arsenais.", "isCorrect": false },
+			{ "description": "A política de \"America First\" (América Primeiro), onde cada nação só é responsável por seus próprios cidadãos.", "isCorrect": false }
+		],
+		"source_explanation": "Os parágrafos 138-139 do Documento Final da Cúpula Mundial da ONU estabelecem o princípio da Responsabilidade de Proteger (R2P).",
+		"source_abnt": "ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU). Assembleia Geral. *Documento Final da Cúpula Mundial de 2005*. 20 set. 2005. Nova York: ONU. (Resolução A/RES/60/1)."
+	},
+	{
+		"id": "GEOP051",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "Qual é a disputa central sobre a região de Nagorno-Karabakh, local de conflito entre a Armênia e o Azerbaijão?",
+		"options": [
+			{ "description": "É uma disputa por vastas reservas de petróleo recém-descobertas.", "isCorrect": false },
+			{ "description": "É um enclave de maioria étnica armênia (cristã) localizado dentro das fronteiras internacionalmente reconhecidas do Azerbaijão (muçulmano xiita).", "isCorrect": true },
+			{ "description": "É a localização de uma base militar russa que ambos os países reivindicam.", "isCorrect": false },
+			{ "description": "É um ponto de acesso estratégico ao Mar Cáspio.", "isCorrect": false }
+		],
+		"source_explanation": "Relatórios do ICG analisam o conflito pós-soviético como uma disputa étnico-territorial sobre o enclave de Nagorno-Karabakh.",
+		"source_abnt": "INTERNATIONAL CRISIS GROUP (ICG). *Nagorno-Karabakh Conflict*. Bruxelas: ICG, [s.d.]. Disponível em: https://www.crisisgroup.org/europe-central-asia/caucasus/nagorno-karabakh-conflict. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "GEOP052",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "O que foi a \"Doutrina Brezhnev\", usada pela União Soviética durante a Guerra Fria?",
+		"options": [
+			{ "description": "A política de abertura econômica (Perestroika) e transparência (Glasnost).", "isCorrect": false },
+			{ "description": "A política de que a URSS tinha o direito de intervir militarmente em qualquer país do Bloco Socialista se o socialismo estivesse ameaçado (usada na Tchecoslováquia, 1968).", "isCorrect": true },
+			{ "description": "A estratégia de détente (distensão) e limitação de armas (SALT) com os EUA.", "isCorrect": false },
+			{ "description": "O plano de invadir o Afeganistão para obter acesso a um porto de águas quentes.", "isCorrect": false }
+		],
+		"source_explanation": "Discurso de Leonid Brezhnev (1968) que justificou a invasão da Tchecoslováquia, estabelecendo o princípio da \"soberania limitada\" dentro do Pacto de Varsóvia.",
+		"source_abnt": "BREZHNEV, Leonid. *Discurso ao Quinto Congresso do Partido dos Trabalhadores Unidos da Polônia*. 12 nov. 1968. Varsóvia, Polônia."
+	},
+	{
+		"id": "GEOP053",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "O que é \"Lawfare\" (Guerra Jurídica) no contexto internacional?",
+		"options": [
+			{ "description": "O uso de sistemas legais e tribunais internacionais (como o TPI ou o TIJ) como uma arma para atingir objetivos estratégicos, deslegitimar um adversário ou empatar uma ação militar.", "isCorrect": true },
+			{ "description": "A prática de advogados militares darem pareceres sobre a legalidade de bombardeios (regras de engajamento).", "isCorrect": false },
+			{ "description": "A negociação de tratados de paz.", "isCorrect": false },
+			{ "description": "A declaração formal de guerra de acordo com o direito internacional.", "isCorrect": false }
+		],
+		"source_explanation": "Artigo do Major General Charles J. Dunlap Jr. que cunhou e definiu o termo \"lawfare\" no contexto militar e geopolítico moderno.",
+		"source_abnt": "DUNLAP JR., Charles J. Lawfare: A New Form of Warfare. *Aerospace Power Journal*, Alabama, v. 15, n. 3, p. 48-56, Outono 2001."
+	},
+	{
+		"id": "GEOP054",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "A \"Doutrina da Destruição Mútua Assegurada\" (MAD) dependia de qual capacidade específica durante a Guerra Fria?",
+		"options": [
+			{ "description": "Sistemas de defesa antimísseis perfeitos (como o \"Star Wars\" de Reagan).", "isCorrect": false },
+			{ "description": "A capacidade de \"Segundo Ataque\" (Second-Strike Capability) – a certeza de que um país poderia retaliar com armas nucleares mesmo após sofrer um primeiro ataque.", "isCorrect": true },
+			{ "description": "A superioridade numérica em armas nucleares táticas (de campo de batalha).", "isCorrect": false },
+			{ "description": "A cooperação entre EUA e URSS para bombardear um terceiro país.", "isCorrect": false }
+		],
+		"source_explanation": "O estrategista Herman Kahn, em sua obra, analisa a lógica da dissuasão nuclear (MAD), que depende fundamentalmente de uma capacidade de segundo ataque crível (ex: submarinos nucleares).",
+		"source_abnt": "KAHN, Herman. *On Thermonuclear War*. Princeton: Princeton University Press, 1960."
+	},
+	{
+		"id": "GEOP055",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "A Convenção das Nações Unidas sobre o Direito do Mar (UNCLOS) estabelece o limite das \"águas territoriais\" de um país em:",
+		"options": [
+			{ "description": "3 milhas náuticas da costa.", "isCorrect": false },
+			{ "description": "200 milhas náuticas (esta é a Zona Econômica Exclusiva).", "isCorrect": false },
+			{ "description": "12 milhas náuticas da costa.", "isCorrect": true },
+			{ "description": "A plataforma continental inteira, independentemente da distância.", "isCorrect": false }
+		],
+		"source_explanation": "O Artigo 3, da Parte II, Seção 2 da UNCLOS III (1982) estabelece formalmente o limite das águas territoriais em 12 milhas náuticas.",
+		"source_abnt": "CONVENÇÃO DAS NAÇÕES UNIDAS SOBRE O DIREITO DO MAR (UNCLOS). 10 dez. 1982. Montego Bay, Jamaica. (Parte II, Artigo 3)."
+	},
+	{
+		"id": "GEOP056",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "O que é o \"Dividendo da Paz\", um termo que surgiu após o fim da Guerra Fria?",
+		"options": [
+			{ "description": "O benefício econômico obtido pela redução dos gastos militares, permitindo que os fundos fossem realocados para setores sociais ou para a redução de impostos.", "isCorrect": true },
+			{ "description": "O pagamento de reparações da Rússia (ex-URSS) aos países do Leste Europeu.", "isCorrect": false },
+			{ "description": "A exigência de que todos os países se juntassem à OTAN.", "isCorrect": false },
+			{ "description": "O lucro obtido por empresas de armas ao venderem equipamento obsoleto da Guerra Fria.", "isCorrect": false }
+		],
+		"source_explanation": "O termo foi popularizado por políticos como George H.W. Bush e Margaret Thatcher no início dos anos 1990 para descrever os benefícios econômicos esperados do fim da Guerra Fria.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Peace dividend. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/peace-dividend. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "GEOP057",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "O que é \"Hegemonia\", segundo a teoria de Antonio Gramsci, aplicada às Relações Internacionais (Neo-Gramscianismo)?",
+		"options": [
+			{ "description": "Domínio puramente através da força militar bruta (coerção).", "isCorrect": false },
+			{ "description": "Uma forma de domínio onde uma potência (o hegemon) lidera não apenas pela coerção, mas pelo consentimento, moldando as normas e instituições globais (como o livre mercado) para que pareçam \"naturais\" e benéficas a todos.", "isCorrect": true },
+			{ "description": "O equilíbrio perfeito de poder entre três ou mais grandes potências (multipolaridade).", "isCorrect": false },
+			{ "description": "O isolacionismo total de uma grande potência.", "isCorrect": false }
+		],
+		"source_explanation": "Artigo chave de Robert Cox que aplica o conceito de hegemonia de Gramsci (coerção + consentimento) à ordem mundial, diferenciando-o de \"domínio\" (pura coerção).",
+		"source_abnt": "COX, Robert W. Social Forces, States and World Orders: Beyond International Relations Theory. *Millennium: Journal of International Studies*, Londres, v. 10, n. 2, p. 126-155, jun. 1981."
+	},
+	{
+		"id": "GEOP058",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "Qual é a principal queixa da Rússia contra a expansão da OTAN para o Leste Europeu?",
+		"options": [
+			{ "description": "Que a OTAN não convidou a Rússia para ser membro pleno.", "isCorrect": false },
+			{ "description": "Que viola uma suposta promessa (verbal, não um tratado) feita a Gorbachev em 1990 de que a OTAN não se expandiria \"nem um centímetro para o leste\" em troca da reunificação alemã.", "isCorrect": true },
+			{ "description": "Que os países do Leste Europeu não pagam suas taxas de adesão à OTAN.", "isCorrect": false },
+			{ "description": "Que a expansão da OTAN impede o comércio de gás russo.", "isCorrect": false }
+		],
+		"source_explanation": "Documentos desclassificados detalham as conversas de 1990 entre líderes ocidentais e Gorbachev. O status de \"promessa\" é contestado, mas é a base da queixa russa.",
+		"source_abnt": "NATIONAL SECURITY ARCHIVE. *NATO Expansion: What Gorbachev Heard*. Washington, D.C.: George Washington University, 2017. Disponível em: https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "GEOP059",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "O \"Estado-Tampão\" (Buffer State) serve a qual propósito geopolítico?",
+		"options": [
+			{ "description": "Um país pequeno e neutro situado entre duas grandes potências rivais, cuja existência ajuda a prevenir conflitos diretos entre elas.", "isCorrect": true },
+			{ "description": "Um Estado que absorve refugiados de uma zona de guerra.", "isCorrect": false },
+			{ "description": "Um país que lidera uma aliança militar (o \"tampão\" contra o inimigo).", "isCorrect": false },
+			{ "description": "Um Estado com uma economia tão fraca que precisa de ajuda humanitária constante.", "isCorrect": false }
+		],
+		"source_explanation": "A definição geopolítica de \"Estado-tampão\", usando exemplos históricos como a Mongólia (entre Rússia e China) ou o Afeganistão (entre os Impérios Russo e Britânico).",
+		"source_abnt": "OXFORD REFERENCE. *A Dictionary of Geography*: Buffer State. Oxford: Oxford University Press, 2016."
+	},
+	{
+		"id": "GEOP060",
+		"category": "Geopolítica",
+		"level": "hard",
+		"question": "O que é o \"Sistema de Schengen\", um pilar da integração da União Europeia?",
+		"options": [
+			{ "description": "O acordo que criou a moeda única (Euro).", "isCorrect": false },
+			{ "description": "Um acordo que abole os controles de fronteira interna (passaportes) entre os países membros, criando uma área de livre circulação.", "isCorrect": true },
+			{ "description": "A política agrícola comum da UE.", "isCorrect": false },
+			{ "description": "A aliança de defesa mútua da União Europeia (PESCO).", "isCorrect": false }
+		],
+		"source_explanation": "Os tratados de 1985 e 1990 que estabeleceram e implementaram a Zona Schengen, uma área sem controles de fronteira interna na Europa.",
+		"source_abnt": "UNIÃO EUROPEIA. *Acordo de Schengen*. 14 jun. 1985. Schengen, Luxemburgo."
+	}
+]
