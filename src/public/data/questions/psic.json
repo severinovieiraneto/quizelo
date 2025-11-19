@@ -1,0 +1,842 @@
+[
+	{
+		"id": "PSIC001",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "Quem é considerado o \"pai da psicanálise\", conhecido por suas teorias sobre o inconsciente?",
+		"options": [
+			{ "description": "B.F. Skinner", "isCorrect": false },
+			{ "description": "Sigmund Freud", "isCorrect": true },
+			{ "description": "Carl Jung", "isCorrect": false },
+			{ "description": "Ivan Pavlov", "isCorrect": false }
+		],
+		"source_explanation": "Sigmund Freud foi o neurologista austríaco que fundou a escola da psicanálise, introduzindo conceitos como o inconsciente e a estrutura da personalidade.",
+		"source_abnt": "FREUD, Sigmund. *A Interpretação dos Sonhos*. Tradução de Walderedo Ismael de Oliveira. Rio de Janeiro: Imago, 1999. (Publicado originalmente em 1900)."
+	},
+	{
+		"id": "PSIC002",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "Na teoria de Freud, qual parte da personalidade opera pelo \"princípio do prazer\" e busca gratificação imediata?",
+		"options": [
+			{ "description": "O Id", "isCorrect": true },
+			{ "description": "O Ego", "isCorrect": false },
+			{ "description": "O Superego", "isCorrect": false },
+			{ "description": "O Consciente", "isCorrect": false }
+		],
+		"source_explanation": "No modelo estrutural de Freud, o Id é a parte primitiva e instintiva da mente, operando pelo princípio do prazer.",
+		"source_abnt": "FREUD, Sigmund. *O Ego e o Id*. Tradução de Paulo César de Souza. São Paulo: Companhia das Letras, 2011. (Publicado originalmente em 1923)."
+	},
+	{
+		"id": "PSIC003",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "Qual cientista russo demonstrou o \"condicionamento clássico\" ao fazer cães salivarem ao som de um sino?",
+		"options": [
+			{ "description": "Ivan Pavlov", "isCorrect": true },
+			{ "description": "B.F. Skinner", "isCorrect": false },
+			{ "description": "John B. Watson", "isCorrect": false },
+			{ "description": "Sigmund Freud", "isCorrect": false }
+		],
+		"source_explanation": "Ivan Pavlov (Prêmio Nobel de 1904) demonstrou o condicionamento clássico ao associar um estímulo neutro (sino) a um estímulo incondicionado (comida), gerando uma resposta condicionada (salivação).",
+		"source_abnt": "PAVLOV, Ivan P. *Reflexos Condicionados*. Tradução de A. R. Luria. São Paulo: Cultrix, 1970."
+	},
+	{
+		"id": "PSIC004",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "O que é uma \"fobia\"?",
+		"options": [
+			{ "description": "Um sentimento geral de tristeza.", "isCorrect": false },
+			{ "description": "Um medo intenso e irracional de um objeto ou situação específica.", "isCorrect": true },
+			{ "description": "Um comportamento repetitivo e compulsivo.", "isCorrect": false },
+			{ "description": "Uma perda de memória.", "isCorrect": false }
+		],
+		"source_explanation": "O DSM-5 (manual diagnóstico) define Fobia Específica como um medo ou ansiedade acentuada sobre um objeto ou situação específica.",
+		"source_abnt": "AMERICAN PSYCHIATRIC ASSOCIATION (APA). *DSM-5: Manual Diagnóstico e Estatístico de Transtornos Mentais*. 5. ed. Tradução de M. I. C. Nascimento. Porto Alegre: Artmed, 2014."
+	},
+	{
+		"id": "PSIC005",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "O psicólogo B.F. Skinner é famoso por qual teoria da aprendizagem, que usa reforço (recompensas) e punição?",
+		"options": [
+			{ "description": "Condicionamento Operante", "isCorrect": true },
+			{ "description": "Condicionamento Clássico", "isCorrect": false },
+			{ "description": "Psicanálise", "isCorrect": false },
+			{ "description": "Psicologia Humanista", "isCorrect": false }
+		],
+		"source_explanation": "B.F. Skinner é o pai do Behaviorismo Radical e do condicionamento operante, que estuda como o comportamento é moldado por suas consequências (reforço ou punição).",
+		"source_abnt": "SKINNER, B.F. *Ciência e Comportamento Humano*. Tradução de J. C. Todorov e R. Azzi. 11. ed. São Paulo: Martins Fontes, 2003."
+	},
+	{
+		"id": "PSIC006",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "O que é o \"Teste de Rorschach\"?",
+		"options": [
+			{ "description": "Um teste de QI para medir a inteligência.", "isCorrect": false },
+			{ "description": "Um teste de personalidade \"projetivo\" que usa manchas de tinta.", "isCorrect": true },
+			{ "description": "Um questionário sobre fobias sociais.", "isCorrect": false },
+			{ "description": "Um teste para medir o tempo de reação.", "isCorrect": false }
+		],
+		"source_explanation": "O Teste de Rorschach (1921) é um teste projetivo onde as interpretações do paciente sobre manchas de tinta são analisadas para revelar traços de personalidade e funcionamento emocional.",
+		"source_abnt": "RORSCHACH, Hermann. *Psicodiagnóstico*. Tradução de C. E. E. S. K. e E. G. O. São Paulo: Mestre Jou, 1967. (Publicado originalmente em 1921)."
+	},
+	{
+		"id": "PSIC007",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "Qual termo psicológico descreve uma pessoa que é tipicamente sociável, falante e que se energiza ao estar com outras pessoas?",
+		"options": [
+			{ "description": "Introvertido", "isCorrect": false },
+			{ "description": "Extrovertido", "isCorrect": true },
+			{ "description": "Neurótico", "isCorrect": false },
+			{ "description": "Psicopata", "isCorrect": false }
+		],
+		"source_explanation": "Carl Jung introduziu os termos \"Extroversão\" (energia direcionada para o mundo exterior) e \"Introversão\" (energia direcionada para o mundo interior).",
+		"source_abnt": "JUNG, Carl G. *Tipos Psicológicos*. Tradução de L. M. E. de M. D. Lucca. 7. ed. Petrópolis: Vozes, 2008."
+	},
+	{
+		"id": "PSIC008",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "Qual é a sigla para \"Transtorno Obsessivo-Compulsivo\"?",
+		"options": [
+			{ "description": "TDAH", "isCorrect": false },
+			{ "description": "TEPT", "isCorrect": false },
+			{ "description": "TOC", "isCorrect": true },
+			{ "description": "TAG", "isCorrect": false }
+		],
+		"source_explanation": "TOC (Transtorno Obsessivo-Compulsivo) é a sigla padrão em português para o transtorno caracterizado por obsessões e compulsões.",
+		"source_abnt": "AMERICAN PSYCHIATRIC ASSOCIATION (APA). *DSM-5: Manual Diagnóstico e Estatístico de Transtornos Mentais*. 5. ed. Porto Alegre: Artmed, 2014."
+	},
+	{
+		"id": "PSIC009",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "Na teoria de Freud, qual parte da personalidade age como o \"árbitro\" moral (a consciência), internalizando regras e ideais?",
+		"options": [
+			{ "description": "O Id", "isCorrect": false },
+			{ "description": "O Ego", "isCorrect": false },
+			{ "description": "O Superego", "isCorrect": true },
+			{ "description": "O Inconsciente", "isCorrect": false }
+		],
+		"source_explanation": "No modelo estrutural de Freud, o Superego representa a moralidade internalizada e os ideais sociais, atuando como a \"consciência\".",
+		"source_abnt": "FREUD, Sigmund. *O Ego e o Id*. Tradução de Paulo César de Souza. São Paulo: Companhia das Letras, 2011. (Publicado originalmente em 1923)."
+	},
+	{
+		"id": "PSIC010",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "Qual é a principal função da \"memória de curto prazo\"?",
+		"options": [
+			{ "description": "Armazenar memórias da infância.", "isCorrect": false },
+			{ "description": "Armazenar temporariamente uma pequena quantidade de informação que está sendo usada ativamente.", "isCorrect": true },
+			{ "description": "Controlar os sonhos.", "isCorrect": false },
+			{ "description": "Armazenar habilidades motoras (como andar de bicicleta).", "isCorrect": false }
+		],
+		"source_explanation": "A psicologia cognitiva define a memória de curto prazo (ou memória de trabalho) como um sistema de capacidade limitada para retenção temporária de informação.",
+		"source_abnt": "BADDELEY, Alan D. *Memória*. Tradução de C. A. B. da Silva. Porto Alegre: Artmed, 2011."
+	},
+	{
+		"id": "PSIC011",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "O que é o \"QI\" (Quociente de Inteligência)?",
+		"options": [
+			{ "description": "Uma medida da estabilidade emocional.", "isCorrect": false },
+			{ "description": "Um escore obtido em testes padronizados para avaliar a inteligência humana.", "isCorrect": true },
+			{ "description": "Uma medida da criatividade.", "isCorrect": false },
+			{ "description": "Uma medida da força física.", "isCorrect": false }
+		],
+		"source_explanation": "O QI (Quociente de Inteligência) é um escore derivado de testes padronizados (como a escala Wechsler) para avaliar habilidades cognitivas.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Intelligence quotient (IQ). *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/intelligence-quotient. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "PSIC012",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "O que é \"ansiedade\"?",
+		"options": [
+			{ "description": "Um estado de tristeza profunda e perda de interesse.", "isCorrect": false },
+			{ "description": "Um sentimento de preocupação, nervosismo ou medo sobre um evento ou situação com resultado incerto.", "isCorrect": true },
+			{ "description": "Ver ou ouvir coisas que não existem.", "isCorrect": false },
+			{ "description": "Um medo irracional de aranhas.", "isCorrect": false }
+		],
+		"source_explanation": "A Associação Americana de Psicologia (APA) define a ansiedade como uma emoção caracterizada por sentimentos de tensão, pensamentos preocupados e mudanças físicas.",
+		"source_abnt": "AMERICAN PSYCHOLOGICAL ASSOCIATION (APA). *APA Dictionary of Psychology*: Anxiety. Washington, D.C.: APA, [s.d.]. Disponível em: https://dictionary.apa.org/anxiety. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "PSIC013",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "Abraham Maslow é famoso por criar a \"Hierarquia das Necessidades\". Qual necessidade está na base da pirâmide?",
+		"options": [
+			{ "description": "Auto-realização", "isCorrect": false },
+			{ "description": "Necessidades Fisiológicas (comida, água, sono)", "isCorrect": true },
+			{ "description": "Estima", "isCorrect": false },
+			{ "description": "Amor e Pertencimento", "isCorrect": false }
+		],
+		"source_explanation": "Na base da pirâmide de Maslow estão as necessidades fisiológicas (ar, comida, água, sono), que devem ser satisfeitas antes das necessidades superiores.",
+		"source_abnt": "MASLOW, Abraham H. A Theory of Human Motivation. *Psychological Review*, v. 50, n. 4, p. 370-396, 1943."
+	},
+	{
+		"id": "PSIC014",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "O que é o \"Efeito Placebo\"?",
+		"options": [
+			{ "description": "Um efeito colateral severo de um medicamento.", "isCorrect": false },
+			{ "description": "Um fenômeno em que um tratamento inerte (como uma pílula de açúcar) causa uma melhora real na saúde do paciente.", "isCorrect": true },
+			{ "description": "A resistência a um medicamento.", "isCorrect": false },
+			{ "description": "Um tratamento que funciona para todos.", "isCorrect": false }
+		],
+		"source_explanation": "O efeito placebo é um fenômeno psicobiológico onde um tratamento simulado (inerte) causa uma melhora real nos sintomas do paciente.",
+		"source_abnt": "HARVARD HEALTH PUBLISHING. *The power of the placebo effect*. Boston: Harvard Medical School, 2017. Disponível em: https://www.health.harvard.edu/mental-health/the-power-of-the-placebo-effect. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "PSIC015",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "Qual psicólogo suíço é famoso por sua teoria do desenvolvimento cognitivo em crianças (dividida em estágios)?",
+		"options": [
+			{ "description": "Jean Piaget", "isCorrect": true },
+			{ "description": "Sigmund Freud", "isCorrect": false },
+			{ "description": "Erik Erikson", "isCorrect": false },
+			{ "description": "Lev Vygotsky", "isCorrect": false }
+		],
+		"source_explanation": "Jean Piaget foi o psicólogo pioneiro na teoria do desenvolvimento cognitivo, propondo estágios como o sensório-motor, pré-operacional, operacional concreto e operacional formal.",
+		"source_abnt": "PIAGET, Jean. *A Epistemologia Genética*. Tradução de Nathanael C. Caixeiro. São Paulo: Martins Fontes, 1990."
+	},
+	{
+		"id": "PSIC016",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "O que é \"depressão\" (Transtorno Depressivo Maior)?",
+		"options": [
+			{ "description": "Um transtorno de humor caracterizado por tristeza persistente e perda de interesse.", "isCorrect": true },
+			{ "description": "Um transtorno de personalidade manipuladora.", "isCorrect": false },
+			{ "description": "Um medo extremo de multidões.", "isCorrect": false },
+			{ "description": "Uma condição de esquecimento normal da idade.", "isCorrect": false }
+		],
+		"source_explanation": "O DSM-5 (manual diagnóstico) define o Transtorno Depressivo Maior por um período de humor deprimido ou perda de interesse (anedonia) e outros sintomas.",
+		"source_abnt": "AMERICAN PSYCHIATRIC ASSOCIATION (APA). *DSM-5: Manual Diagnóstico e Estatístico de Transtornos Mentais*. 5. ed. Porto Alegre: Artmed, 2014."
+	},
+	{
+		"id": "PSIC017",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "O que é \"empatia\"?",
+		"options": [
+			{ "description": "A capacidade de sentir pena de alguém.", "isCorrect": false },
+			{ "description": "A capacidade de entender e compartilhar os sentimentos de outra pessoa.", "isCorrect": true },
+			{ "description": "A capacidade de manipular os outros.", "isCorrect": false },
+			{ "description": "A capacidade de ignorar os sentimentos dos outros.", "isCorrect": false }
+		],
+		"source_explanation": "A empatia é definida na psicologia social como a capacidade de compreender (empatia cognitiva) e sentir (empatia afetiva) o estado emocional de outra pessoa.",
+		"source_abnt": "AMERICAN PSYCHOLOGICAL ASSOCIATION (APA). *APA Dictionary of Psychology*: Empathy. Washington, D.C.: APA, [s.d.]. Disponível em: https://dictionary.apa.org/empathy. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "PSIC018",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "Qual é a principal função do \"cérebro\"?",
+		"options": [
+			{ "description": "Bombear sangue.", "isCorrect": false },
+			{ "description": "Digereir alimentos.", "isCorrect": false },
+			{ "description": "Controlar os pensamentos, a memória, as emoções e os movimentos do corpo.", "isCorrect": true },
+			{ "description": "Filtrar toxinas.", "isCorrect": false }
+		],
+		"source_explanation": "O cérebro é o órgão central do sistema nervoso, responsável por integrar informações sensoriais e comandar as respostas motoras, cognitivas e emocionais.",
+		"source_abnt": "KANDEL, Eric R. [et al.]. *Princípios de Neurociências*. 5. ed. Porto Alegre: AMGH, 2014."
+	},
+	{
+		"id": "PSIC019",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "O que é o \"sonho\"?",
+		"options": [
+			{ "description": "Uma sucessão de imagens, ideias, emoções e sensações que ocorrem durante o sono.", "isCorrect": true },
+			{ "description": "Um estado de transe hipnótico.", "isCorrect": false },
+			{ "description": "Uma lembrança de eventos futuros.", "isCorrect": false },
+			{ "description": "Um tipo de meditação.", "isCorrect": false }
+		],
+		"source_explanation": "Os sonhos são experiências mentais que ocorrem predominantemente durante o sono REM (Rapid Eye Movement).",
+		"source_abnt": "AMERICAN PSYCHOLOGICAL ASSOCIATION (APA). *APA Dictionary of Psychology*: Dream. Washington, D.C.: APA, [s.d.]. Disponível em: https://dictionary.apa.org/dream. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "PSIC020",
+		"category": "Psicologia",
+		"level": "easy",
+		"question": "Qual é a sigla para \"Transtorno do Déficit de Atenção com Hiperatividade\"?",
+		"options": [
+			{ "description": "TOC", "isCorrect": false },
+			{ "description": "TDAH", "isCorrect": true },
+			{ "description": "TEPT", "isCorrect": false },
+			{ "description": "TAG", "isCorrect": false }
+		],
+		"source_explanation": "TDAH (Transtorno do Déficit de Atenção com Hiperatividade) é a sigla padrão em português para o transtorno de neurodesenvolvimento (ADHD em inglês).",
+		"source_abnt": "AMERICAN PSYCHIATRIC ASSOCIATION (APA). *DSM-5: Manual Diagnóstico e Estatístico de Transtornos Mentais*. 5. ed. Porto Alegre: Artmed, 2014."
+	},
+	{
+		"id": "PSIC021",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "O famoso experimento de Stanley Milgram (1961) testou a disposição das pessoas em fazer o quê?",
+		"options": [
+			{ "description": "Ajudar um estranho em apuros (Efeito Espectador).", "isCorrect": false },
+			{ "description": "Obedecer a uma figura de autoridade, mesmo que isso significasse aplicar choques dolorosos em outra pessoa.", "isCorrect": true },
+			{ "description": "Conformar-se com a opinião errada de um grupo (Conformidade).", "isCorrect": false },
+			{ "description": "Assumir papéis de prisioneiro e guarda (Experimento de Stanford).", "isCorrect": false }
+		],
+		"source_explanation": "O \"Experimento de Milgram\" (1961) foi um estudo sobre a obediência à autoridade, onde os participantes foram instruídos a aplicar choques (falsos) em um \"aluno\".",
+		"source_abnt": "MILGRAM, Stanley. Behavioral Study of Obedience. *The Journal of Abnormal and Social Psychology*, v. 67, n. 4, p. 371-378, 1963."
+	},
+	{
+		"id": "PSIC022",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "O que é \"Dissonância Cognitiva\", teoria de Leon Festinger?",
+		"options": [
+			{ "description": "A dificuldade em aprender duas línguas ao mesmo tempo.", "isCorrect": false },
+			{ "description": "O desconforto mental sentido quando uma pessoa tem duas crenças contraditórias ou age contra seus valores.", "isCorrect": true },
+			{ "description": "Um tipo de perda de memória de curto prazo.", "isCorrect": false },
+			{ "description": "A capacidade de realizar múltiplas tarefas simultaneamente.", "isCorrect": false }
+		],
+		"source_explanation": "A teoria de Leon Festinger (1957) postula que os indivíduos sentem um desconforto (dissonância) ao manter cognições contraditórias e são motivados a reduzir essa dissonância.",
+		"source_abnt": "FESTINGER, Leon. *A Theory of Cognitive Dissonance*. Stanford: Stanford University Press, 1957."
+	},
+	{
+		"id": "PSIC023",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "O \"Experimento da Prisão de Stanford\", de Philip Zimbardo, demonstrou o quê?",
+		"options": [
+			{ "description": "Que as pessoas obedecem à autoridade (Experimento Milgram).", "isCorrect": false },
+			{ "description": "O poder das situações sociais e dos papéis (guarda/prisioneiro) em influenciar o comportamento humano.", "isCorrect": true },
+			{ "description": "Que o medo pode ser condicionado (Pequeno Albert).", "isCorrect": false },
+			{ "description": "Que as memórias podem ser falsamente implantadas.", "isCorrect": false }
+		],
+		"source_explanation": "O experimento de 1971 (cancelado precocemente) demonstrou como indivíduos normais podiam assumir comportamentos abusivos (guardas) ou submissos (prisioneiros) rapidamente, com base no poder da situação.",
+		"source_abnt": "HANEY, C.; BANKS, W. C.; ZIMBARDO, P. G. A study of prisoners and guards in a simulated prison. *Naval Research Review*, Washington, D.C., v. 26, n. 9, p. 1-17, 1973."
+	},
+	{
+		"id": "PSIC024",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "No topo da Hierarquia das Necessidades de Maslow está qual conceito?",
+		"options": [
+			{ "description": "Segurança", "isCorrect": false },
+			{ "description": "Auto-realização (ou Autorrealização)", "isCorrect": true },
+			{ "description": "Estima", "isCorrect": false },
+			{ "description": "Fisiologia", "isCorrect": false }
+		],
+		"source_explanation": "No artigo de 1943, Maslow coloca a \"Auto-realização\" (a realização do potencial máximo do indivíduo) no topo da pirâmide, acima das necessidades fisiológicas, de segurança, de amor e de estima.",
+		"source_abnt": "MASLOW, Abraham H. A Theory of Human Motivation. *Psychological Review*, v. 50, n. 4, p. 370-396, 1943."
+	},
+	{
+		"id": "PSIC025",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "O que é o \"Viés de Confirmação\"?",
+		"options": [
+			{ "description": "A tendência de lembrar apenas das coisas boas do passado.", "isCorrect": false },
+			{ "description": "A tendência de buscar, interpretar e lembrar de informações que confirmam as crenças que já temos.", "isCorrect": true },
+			{ "description": "A crença de que você é melhor que a média.", "isCorrect": false },
+			{ "description": "A tendência de superestimar a própria competência.", "isCorrect": false }
+		],
+		"source_explanation": "O viés de confirmação é um viés cognitivo que descreve a tendência humana de favorecer informações que confirmam suas hipóteses ou crenças preexistentes.",
+		"source_abnt": "KAHNEMAN, Daniel. *Rápido e Devagar: duas formas de pensar*. Tradução de Cássio de Arantes Leite. Rio de Janeiro: Objetiva, 2012."
+	},
+	{
+		"id": "PSIC026",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "O que é o \"Efeito Dunning-Kruger\"?",
+		"options": [
+			{ "description": "Pessoas incompetentes tendem a superestimar sua própria competência, enquanto pessoas competentes tendem a subestimá-la.", "isCorrect": true },
+			{ "description": "A tendência de ajudar menos pessoas quando há muitos espectadores (Efeito Espectador).", "isCorrect": false },
+			{ "description": "A crença de que o mundo é justo e as pessoas \"têm o que merecem\".", "isCorrect": false },
+			{ "description": "A tendência de seguir o grupo, mesmo quando o grupo está errado.", "isCorrect": false }
+		],
+		"source_explanation": "Artigo seminal de 1999 que descreve o viés cognitivo da \"superioridade ilusória\" em indivíduos de baixa habilidade.",
+		"source_abnt": "KRUGER, Justin; DUNNING, David. Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments. *Journal of Personality and Social Psychology*, v. 77, n. 6, p. 1121-1134, 1999."
+	},
+	{
+		"id": "PSIC027",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "No experimento do \"Pequeno Albert\", John B. Watson condicionou um bebê a temer o quê?",
+		"options": [
+			{ "description": "Um rato branco (e outros estímulos peludos).", "isCorrect": true },
+			{ "description": "Sons altos (o estímulo incondicionado).", "isCorrect": false },
+			{ "description": "O escuro.", "isCorrect": false },
+			{ "description": "A figura de sua mãe.", "isCorrect": false }
+		],
+		"source_explanation": "O experimento behaviorista de 1920 condicionou o \"Pequeno Albert\" a temer um rato branco (estímulo neutro) ao pareá-lo com um som alto e assustador (estímulo incondicionado).",
+		"source_abnt": "WATSON, John B.; RAYNER, Rosalie. Conditioned emotional reactions. *Journal of Experimental Psychology*, v. 3, n. 1, p. 1-14, 1920."
+	},
+	{
+		"id": "PSIC028",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "O que é \"Terapia Cognitivo-Comportamental\" (TCC ou CBT)?",
+		"options": [
+			{ "description": "Uma terapia que foca em analisar os sonhos e a infância (Psicanálise).", "isCorrect": false },
+			{ "description": "Uma terapia que ajuda os pacientes a identificar e mudar padrões de pensamento e comportamento negativos ou inúteis.", "isCorrect": true },
+			{ "description": "Uma terapia que usa apenas medicamentos para tratar transtornos.", "isCorrect": false },
+			{ "description": "Uma terapia de grupo focada em aceitação incondicional.", "isCorrect": false }
+		],
+		"source_explanation": "A TCC, fundada por Aaron Beck, é uma abordagem psicoterapêutica baseada na ideia de que os pensamentos (cognições) influenciam os sentimentos e comportamentos.",
+		"source_abnt": "BECK, Judith S. *Terapia Cognitivo-Comportamental: Teoria e Prática*. 3. ed. Porto Alegre: Artmed, 2022."
+	},
+	{
+		"id": "PSIC029",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "O que é o \"Efeito Espectador\" (Bystander Effect)?",
+		"options": [
+			{ "description": "A tendência de indivíduos não oferecerem ajuda em uma emergência quando outras pessoas estão presentes.", "isCorrect": true },
+			{ "description": "O sentimento de ser constantemente observado em público.", "isCorrect": false },
+			{ "description": "A melhoria no desempenho quando se é observado por outros.", "isCorrect": false },
+			{ "description": "A tendência de superestimar o quanto os outros notam nossa aparência.", "isCorrect": false }
+		],
+		"source_explanation": "Fenômeno da psicologia social (estudado após o caso Kitty Genovese) onde a presença de outros inibe a ajuda, devido à \"difusão de responsabilidade\".",
+		"source_abnt": "DARLEY, John M.; LATANÉ, Bibb. Bystander intervention in emergencies: Diffusion of responsibility. *Journal of Personality and Social Psychology*, v. 8, n. 4, p. 377-383, 1968."
+	},
+	{
+		"id": "PSIC030",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "O que é o \"Efeito Stroop\"?",
+		"options": [
+			{ "description": "A dificuldade em lembrar nomes de pessoas.", "isCorrect": false },
+			{ "description": "A interferência que ocorre quando você tenta dizer a cor da tinta de uma palavra, mas a palavra é o nome de outra cor (ex: a palavra \"VERMELHO\" pintada de azul).", "isCorrect": true },
+			{ "description": "A tendência de se conformar com a opinião de um grupo.", "isCorrect": false },
+			{ "description": "A memória fotográfica.", "isCorrect": false }
+		],
+		"source_explanation": "O teste de Stroop (1935) demonstra a interferência no tempo de reação (atenção seletiva) entre dois estímulos (a palavra e a cor).",
+		"source_abnt": "STROOP, John Ridley. Studies of interference in serial verbal reactions. *Journal of Experimental Psychology*, v. 18, n. 6, p. 643-662, 1935."
+	},
+	{
+		"id": "PSIC031",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "O que a \"Teoria da Aprendizagem Social\" de Albert Bandura (experimento do \"Bobo Doll\") sugere?",
+		"options": [
+			{ "description": "Que a aprendizagem ocorre apenas por tentativa e erro.", "isCorrect": false },
+			{ "description": "Que as crianças aprendem comportamentos (como a agressão) observando e imitando os outros (modelos).", "isCorrect": true },
+			{ "description": "Que a inteligência é puramente genética.", "isCorrect": false },
+			{ "description": "Que o reforço negativo é mais eficaz que o positivo.", "isCorrect": false }
+		],
+		"source_explanation": "O experimento do \"Bobo Doll\" (boneco João-Bobo) demonstrou que as crianças aprendem agressão através da observação (aprendizagem vicária), não apenas por reforço direto.",
+		"source_abnt": "BANDURA, Albert; ROSS, Dorothea; ROSS, Sheila A. Transmission of aggression through imitation of aggressive models. *The Journal of Abnormal and Social Psychology*, v. 63, n. 3, p. 575-582, 1961."
+	},
+	{
+		"id": "PSIC032",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "O que é o \"Erro Fundamental de Atribuição\"?",
+		"options": [
+			{ "description": "A tendência de culpar os outros pelos nossos fracassos e levar crédito pelos nossos sucessos.", "isCorrect": false },
+			{ "description": "A tendência de superestimar fatores disposicionais (personalidade) e subestimar fatores situacionais ao explicar o comportamento dos outros.", "isCorrect": true },
+			{ "description": "O erro de acreditar que todas as nossas memórias são precisas.", "isCorrect": false },
+			{ "description": "O erro de acreditar em pseudociência.", "isCorrect": false }
+		],
+		"source_explanation": "Um viés da psicologia social onde tendemos a acreditar que o comportamento dos outros é causado por sua personalidade, ignorando o poder da situação.",
+		"source_abnt": "ROSS, Lee. The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process. *Advances in Experimental Social Psychology*, v. 10, p. 173-220, 1977."
+	},
+	{
+		"id": "PSIC033",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "Qual é a principal função do \"hipocampo\" no cérebro?",
+		"options": [
+			{ "description": "Processar o medo (Amígdala).", "isCorrect": false },
+			{ "description": "Controlar a respiração (Tronco cerebral).", "isCorrect": false },
+			{ "description": "Formar novas memórias de longo prazo.", "isCorrect": true },
+			{ "description": "Coordenar o equilíbrio (Cerebelo).", "isCorrect": false }
+		],
+		"source_explanation": "O hipocampo (parte do sistema límbico) é crucial para a consolidação da informação da memória de curto prazo para a memória de longo prazo.",
+		"source_abnt": "KANDEL, Eric R. [et al.]. *Princípios de Neurociências*. 5. ed. Porto Alegre: AMGH, 2014. (Capítulo: Hipocampo e Memória)."
+	},
+	{
+		"id": "PSIC034",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "Qual é a principal função da \"amígdala\" no cérebro?",
+		"options": [
+			{ "description": "Processar emoções centrais, especialmente o medo e a agressão.", "isCorrect": true },
+			{ "description": "Formar memórias (Hipocampo).", "isCorrect": false },
+			{ "description": "Planejar e tomar decisões (Córtex pré-frontal).", "isCorrect": false },
+			{ "description": "Processar a visão (Lobo occipital).", "isCorrect": false }
+		],
+		"source_explanation": "A amígdala (parte do sistema límbico) é o principal centro de processamento de emoções, como o medo, a ansiedade e a agressão.",
+		"source_abnt": "KANDEL, Eric R. [et al.]. *Princípios de Neurociências*. 5. ed. Porto Alegre: AMGH, 2014. (Capítulo: Emoção)."
+	},
+	{
+		"id": "PSIC035",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "O que é o \"sono REM\" (Rapid Eye Movement)?",
+		"options": [
+			{ "description": "O estágio de sono mais profundo, onde ocorrem os terrores noturnos.", "isCorrect": false },
+			{ "description": "Um estágio de sono onde o cérebro está muito ativo (ocorrem os sonhos vívidos), mas o corpo está paralisado.", "isCorrect": true },
+			{ "description": "O estágio inicial e leve do sono.", "isCorrect": false },
+			{ "description": "Um estado de sono sem sonhos.", "isCorrect": false }
+		],
+		"source_explanation": "O sono REM (Movimento Rápido dos Olhos) é um estágio caracterizado por alta atividade cerebral (similar à vigília), atonia muscular (paralisia) e sonhos vívidos.",
+		"source_abnt": "AMERICAN PSYCHOLOGICAL ASSOCIATION (APA). *APA Dictionary of Psychology*: REM sleep. Washington, D.C.: APA, [s.d.]. Disponível em: https://dictionary.apa.org/rem-sleep. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "PSIC036",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "A \"Teoria do Apego\" (Attachment Theory), de John Bowlby, foca em quê?",
+		"options": [
+			{ "description": "Como as crianças desenvolvem a lógica.", "isCorrect": false },
+			{ "description": "A importância do vínculo emocional precoce entre a criança e seu cuidador principal.", "isCorrect": true },
+			{ "description": "O desenvolvimento da moralidade em estágios.", "isCorrect": false },
+			{ "description": "O conflito entre o Id e o Superego.", "isCorrect": false }
+		],
+		"source_explanation": "A Teoria do Apego, desenvolvida por John Bowlby (e expandida por Mary Ainsworth), é uma teoria central da psicologia do desenvolvimento.",
+		"source_abnt": "BOWLBY, John. *Apego: a natureza do vínculo*. Tradução de A. Cabral. 4. ed. São Paulo: Martins Fontes, 2006. (Publicado originalmente em 1969)."
+	},
+	{
+		"id": "PSIC037",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "O que os experimentos de conformidade de Solomon Asch demonstravam?",
+		"options": [
+			{ "description": "Que as pessoas obedecem cegamente à autoridade.", "isCorrect": false },
+			{ "description": "Que as pessoas tendem a concordar com a resposta obviamente errada de um grupo para se encaixar.", "isCorrect": true },
+			{ "description": "Que as pessoas são inerentemente cruéis em posições de poder.", "isCorrect": false },
+			{ "description": "Que a memória de curto prazo é limitada.", "isCorrect": false }
+		],
+		"source_explanation": "O experimento de Asch (1951) pedia aos participantes para comparar o tamanho de linhas, demonstrando que muitos se conformavam com a resposta errada do grupo.",
+		"source_abnt": "ASCH, Solomon E. Effects of group pressure upon the modification and distortion of judgments. In: GYE, H. (ed.). *Groups, leadership and men*. Pittsburgh, PA: Carnegie Press, 1951. p. 177-190."
+	},
+	{
+		"id": "PSIC038",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "Qual psicólogo da Gestalt é famoso pela frase \"O todo é diferente da soma das partes\"?",
+		"options": [
+			{ "description": "Kurt Koffka (ou Max Wertheimer)", "isCorrect": true },
+			{ "description": "Fritz Perls", "isCorrect": false },
+			{ "description": "B.F. Skinner", "isCorrect": false },
+			{ "description": "Carl Rogers", "isCorrect": false }
+		],
+		"source_explanation": "A frase (muitas vezes atribuída a Koffka) resume o princípio central da Psicologia da Gestalt (Wertheimer, Köhler, Koffka): a percepção humana organiza o todo, não as partes isoladas.",
+		"source_abnt": "KOFFKA, Kurt. *Principles of Gestalt Psychology*. Nova York: Harcourt, Brace & Co., 1935."
+	},
+	{
+		"id": "PSIC039",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "Qual é a principal característica do \"Transtorno de Personalidade Narcisista\"?",
+		"options": [
+			{ "description": "Medo extremo de abandono e relações instáveis.", "isCorrect": false },
+			{ "description": "Um padrão de grandiosidade, necessidade de admiração e falta de empatia.", "isCorrect": true },
+			{ "description": "Desconforto social extremo e medo de avaliação negativa.", "isCorrect": false },
+			{ "description": "Comportamentos compulsivos e perfeccionismo.", "isCorrect": false }
+		],
+		"source_explanation": "O DSM-5 define o Transtorno de Personalidade Narcisista com base em critérios de grandiosidade, necessidade de admiração e falta de empatia.",
+		"source_abnt": "AMERICAN PSYCHIATRIC ASSOCIATION (APA). *DSM-5: Manual Diagnóstico e Estatístico de Transtornos Mentais*. 5. ed. Porto Alegre: Artmed, 2014."
+	},
+	{
+		"id": "PSIC040",
+		"category": "Psicologia",
+		"level": "medium",
+		"question": "O que é \"inteligência emocional\"?",
+		"options": [
+			{ "description": "A capacidade de resolver problemas matemáticos complexos.", "isCorrect": false },
+			{ "description": "A capacidade de reconhecer, entender e gerenciar as próprias emoções e as dos outros.", "isCorrect": true },
+			{ "description": "Um sinônimo de QI (Quociente de Inteligência).", "isCorrect": false },
+			{ "description": "A habilidade de memorizar longas listas de fatos.", "isCorrect": false }
+		],
+		"source_explanation": "O conceito, popularizado por Daniel Goleman, refere-se à habilidade de perceber, usar, entender e gerenciar emoções.",
+		"source_abnt": "GOLEMAN, Daniel. *Inteligência Emocional: a teoria revolucionária que redefine o que é ser inteligente*. 2. ed. Rio de Janeiro: Objetiva, 2012. (Publicado originalmente em 1995)."
+	},
+	{
+		"id": "PSIC041",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "O que é \"Teoria da Mente\" (Theory of Mind)?",
+		"options": [
+			{ "description": "A crença de que a mente e o corpo são separados (Dualismo Cartesiano).", "isCorrect": false },
+			{ "description": "A capacidade de atribuir estados mentais (crenças, desejos, intenções) a si mesmo e aos outros, entendendo que os outros têm mentes próprias.", "isCorrect": true },
+			{ "description": "A teoria de Freud sobre o Id, Ego e Superego.", "isCorrect": false },
+			{ "description": "A ideia de que a mente é uma \"tábua rasa\" (Locke).", "isCorrect": false }
+		],
+		"source_explanation": "A \"Teoria da Mente\" é um conceito da psicologia cognitiva e do desenvolvimento, crucial para a empatia e a interação social.",
+		"source_abnt": "PREMACK, David; WOODRUFF, Guy. Does the chimpanzee have a theory of mind?. *Behavioral and Brain Sciences*, v. 1, n. 4, p. 515-526, 1978."
+	},
+	{
+		"id": "PSIC042",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "Qual é a principal diferença entre a \"Área de Broca\" e a \"Área de Wernicke\" no cérebro?",
+		"options": [
+			{ "description": "Broca controla a visão; Wernicke controla a audição.", "isCorrect": false },
+			{ "description": "Broca está envolvida na *produção* da fala; Wernicke está envolvida na *compreensão* da linguagem.", "isCorrect": true },
+			{ "description": "Broca controla a emoção; Wernicke controla a lógica.", "isCorrect": false },
+			{ "description": "Broca é a memória de curto prazo; Wernicke é a de longo prazo.", "isCorrect": false }
+		],
+		"source_explanation": "Em neurociência, a Afasia de Broca afeta a produção da fala (fala não fluente), enquanto a Afasia de Wernicke afeta a compreensão (fala fluente, mas sem sentido).",
+		"source_abnt": "KANDEL, Eric R. [et al.]. *Princípios de Neurociências*. 5. ed. Porto Alegre: AMGH, 2014. (Capítulo: Linguagem)."
+	},
+	{
+		"id": "PSIC043",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "O que é \"Cegueira por Desatenção\" (Inattentional Blindness)?",
+		"options": [
+			{ "description": "A incapacidade de reconhecer rostos (Prosopagnosia).", "isCorrect": false },
+			{ "description": "A falha em perceber um objeto ou evento inesperado, mas totalmente visível, porque a atenção estava focada em outra tarefa.", "isCorrect": true },
+			{ "description": "O ponto cego literal no olho onde o nervo óptico está.", "isCorrect": false },
+			{ "description": "A perda de visão causada por trauma psicológico.", "isCorrect": false }
+		],
+		"source_explanation": "O fenômeno foi famosamente demonstrado pelo experimento do \"Gorila Invisível\" (1999), onde os observadores, focados em contar passes de basquete, não viam um gorila andando pela cena.",
+		"source_abnt": "SIMONS, Daniel J.; CHABRIS, Christopher F. Gorillas in our midst: Sustained inattentional blindness for dynamic events. *Perception*, v. 28, n. 9, p. 1059-1074, 1999."
+	},
+	{
+		"id": "PSIC044",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "Qual é a principal premissa da \"Terapia Centrada no Cliente\" de Carl Rogers?",
+		"options": [
+			{ "description": "O terapeuta deve interpretar o inconsciente do cliente (Psicanálise).", "isCorrect": false },
+			{ "description": "O terapeuta deve fornecer um ambiente de \"aceitação positiva incondicional\", empatia e congruência.", "isCorrect": true },
+			{ "description": "O terapeuta deve desafiar os pensamentos irracionais do cliente (TCC).", "isCorrect": false },
+			{ "description": "O terapeuta deve usar técnicas de condicionamento operante.", "isCorrect": false }
+		],
+		"source_explanation": "Pilar da psicologia humanista, a abordagem de Rogers (1951) defende que, dadas as condições terapêuticas corretas (aceitação, empatia), o cliente tem a capacidade inata de crescer.",
+		"source_abnt": "ROGERS, Carl R. *Terapia Centrada no Cliente*. Tradução de M. S. M. S. Netto. São Paulo: Martins Fontes, 1992. (Publicado originalmente em 1951)."
+	},
+	{
+		"id": "PSIC045",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "O que é \"Desamparo Aprendido\" (Learned Helplessness), teoria de Martin Seligman?",
+		"options": [
+			{ "description": "Um estado em que um indivíduo, após exposição repetida a eventos aversivos e incontroláveis, aprende a se comportar passivamente.", "isCorrect": true },
+			{ "description": "A incapacidade de aprender novas habilidades após os 40 anos.", "isCorrect": false },
+			{ "description": "O processo de esquecer uma informação aprendida.", "isCorrect": false },
+			{ "description": "A tendência de ajudar os outros sem esperar recompensa.", "isCorrect": false }
+		],
+		"source_explanation": "O experimento de Seligman (1967) com cães expostos a choques incontroláveis demonstrou que eles aprendiam o desamparo e não tentavam escapar, mesmo quando tinham a chance.",
+		"source_abnt": "SELIGMAN, Martin E.; MAIER, Steven F. Failure to escape traumatic shock. *Journal of Experimental Psychology*, v. 74, n. 1, p. 1-9, 1967."
+	},
+	{
+		"id": "PSIC046",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "O que é a \"Heurística da Disponibilidade\"? (Viés Cognitivo)",
+		"options": [
+			{ "description": "A tendência de julgar a probabilidade de um evento com base na facilidade com que exemplos dele vêm à mente.", "isCorrect": true },
+			{ "description": "A tendência de se ancorar em uma informação inicial ao tomar decisões.", "isCorrect": false },
+			{ "description": "A tendência de buscar informações que confirmem nossas crenças.", "isCorrect": false },
+			{ "description": "A tendência de superestimar a própria competência.", "isCorrect": false }
+		],
+		"source_explanation": "Artigo seminal de Tversky e Kahneman (1973) que introduziu a \"Heurística da Disponibilidade\" – julgamos eventos como mais prováveis se eles são mais fáceis de lembrar.",
+		"source_abnt": "TVERSKY, Amos; KAHNEMAN, Daniel. Availability: A heuristic for judging frequency and probability. *Cognitive Psychology*, v. 5, n. 2, p. 207-232, 1973."
+	},
+	{
+		"id": "PSIC047",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "No modelo \"Big Five\" (Cinco Grandes) de personalidade, quais são os cinco traços?",
+		"options": [
+			{ "description": "Id, Ego, Superego, Inconsciente e Consciente.", "isCorrect": false },
+			{ "description": "Abertura, Conscienciosidade, Extroversão, Amabilidade (Afabilidade) e Neuroticismo (Instabilidade Emocional).", "isCorrect": true },
+			{ "description": "Inteligência, Criatividade, Empatia, Coragem e Sabedoria.", "isCorrect": false },
+			{ "description": "Visual, Auditivo, Cinestésico, Olfativo e Gustativo.", "isCorrect": false }
+		],
+		"source_explanation": "O Modelo dos Cinco Grandes Fatores (ou OCEAN: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism) é o modelo de traços de personalidade mais aceito academicamente.",
+		"source_abnt": "MCCRAE, Robert R.; COSTA, Paul T. Personality in Adulthood: A Five-Factor Theory Perspective. 2. ed. Nova York: Guilford Press, 2003."
+	},
+	{
+		"id": "PSIC048",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "O que é \"Inteligência Fluida\" (Gf)?",
+		"options": [
+			{ "description": "O conhecimento acumulado e fatos que aprendemos ao longo da vida (Inteligência Cristalizada).", "isCorrect": false },
+			{ "description": "A capacidade de raciocinar, resolver problemas novos e identificar padrões, independentemente do conhecimento prévio.", "isCorrect": true },
+			{ "description": "A inteligência emocional.", "isCorrect": false },
+			{ "description": "A capacidade de aprender um instrumento musical.", "isCorrect": false }
+		],
+		"source_explanation": "A teoria de Cattell-Horn-Carroll (CHC) divide a inteligência em Gf (Fluida - capacidade de raciocínio bruto) e Gc (Cristalizada - conhecimento adquirido).",
+		"source_abnt": "CATTELL, Raymond B. Theory of fluid and crystallized intelligence: A critical experiment. *Journal of Educational Psychology*, v. 54, n. 1, p. 1-22, 1963."
+	},
+	{
+		"id": "PSIC049",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "O que é o \"Efeito Pigmaleão\" (ou Profecia Autorrealizável)?",
+		"options": [
+			{ "description": "A tendência de se apaixonar por quem nos rejeita.", "isCorrect": false },
+			{ "description": "O fenômeno em que expectativas mais altas (ex: de um professor) sobre uma pessoa levam a um melhor desempenho dessa pessoa.", "isCorrect": true },
+			{ "description": "A crença de que somos piores do que realmente somos.", "isCorrect": false },
+			{ "description": "A tendência de esquecer informações traumáticas.", "isCorrect": false }
+		],
+		"source_explanation": "O estudo clássico de Rosenthal & Jacobson (1968) em escolas demonstrou que as expectativas dos professores (a \"profecia\") influenciavam diretamente o QI dos alunos.",
+		"source_abnt": "ROSENTHAL, Robert; JACOBSON, Lenore. *Pygmalion in the Classroom: Teacher Expectation and Pupils' Intellectual Development*. Nova York: Holt, Rinehart & Winston, 1968."
+	},
+	{
+		"id": "PSIC050",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "Em que consiste o experimento do \"Gato na Caixa\" (Cat in the Box) de Schrödinger?",
+		"options": [
+			{ "description": "Um experimento real que testou a inteligência de um gato.", "isCorrect": false },
+			{ "description": "Um experimento mental (paradoxo) da mecânica quântica, ilustrando que uma partícula (e o gato) pode estar em superposição (vivo e morto) até ser observada.", "isCorrect": true },
+			{ "description": "Um experimento de condicionamento operante (como a Caixa de Skinner).", "isCorrect": false },
+			{ "description": "Um experimento sobre o apego animal.", "isCorrect": false }
+		],
+		"source_explanation": "O \"Gato de Schrödinger\" (1935) é um paradoxo da física quântica (não da psicologia) usado para ilustrar o problema da superposição quântica aplicada ao mundo macroscópico.",
+		"source_abnt": "SCHRÖDINGER, Erwin. Die gegenwärtige Situation in der Quantenmechanik (The present situation in quantum mechanics). *Naturwissenschaften*, v. 23, n. 48, p. 807-812, 1935."
+	},
+	{
+		"id": "PSIC051",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "O que é \"Pensamento de Grupo\" (Groupthink)?",
+		"options": [
+			{ "description": "Um processo de brainstorming onde um grupo gera muitas ideias.", "isCorrect": false },
+			{ "description": "Um fenômeno em que o desejo de harmonia e conformidade em um grupo leva a uma tomada de decisão irracional ou disfuncional.", "isCorrect": true },
+			{ "description": "A inteligência coletiva de um grupo (sabedoria das multidões).", "isCorrect": false },
+			{ "description": "Uma terapia de grupo.", "isCorrect": false }
+		],
+		"source_explanation": "O psicólogo Irving Janis (1972) cunhou o termo \"Groupthink\" para descrever como grupos coesos podem tomar decisões ruins (ex: Invasão da Baía dos Porcos) devido à pressão pela conformidade.",
+		"source_abnt": "JANIS, Irving L. *Victims of Groupthink: A psychological study of foreign-policy decisions and fiascoes*. Boston: Houghton Mifflin, 1972."
+	},
+	{
+		"id": "PSIC052",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "Na teoria de Carl Jung, o que é a \"Sombra\" (Shadow)?",
+		"options": [
+			{ "description": "A parte feminina da psique masculina (Anima).", "isCorrect": false },
+			{ "description": "O arquétipo que representa a parte reprimida, obscura e (muitas vezes) negativa do inconsciente.", "isCorrect": true },
+			{ "description": "A máscara social que usamos em público (Persona).", "isCorrect": false },
+			{ "description": "O arquétipo do \"eu\" unificado (Self).", "isCorrect": false }
+		],
+		"source_explanation": "Na psicologia analítica de Jung, a \"Sombra\" é um arquétipo do inconsciente (pessoal e coletivo) que contém os aspectos da personalidade que o Ego rejeita.",
+		"source_abnt": "JUNG, Carl G. *Os Arquétipos e o Inconsciente Coletivo*. Tradução de M. R. M. e D. M. T. 11. ed. Petrópolis: Vozes, 2014."
+	},
+	{
+		"id": "PSIC053",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "O que é o \"Paradoxo da Escolha\" (Barry Schwartz)?",
+		"options": [
+			{ "description": "A teoria de que ter muitas opções (escolhas) pode levar à paralisia, ansiedade e menor satisfação.", "isCorrect": true },
+			{ "description": "A ideia de que todas as escolhas são, na verdade, ilusões.", "isCorrect": false },
+			{ "description": "A tendência de escolher a primeira opção apresentada.", "isCorrect": false },
+			{ "description": "O fato de que escolhas difíceis sempre levam a bons resultados.", "isCorrect": false }
+		],
+		"source_explanation": "No livro de 2004, o psicólogo Barry Schwartz argumenta que, embora alguma escolha seja boa, o excesso de escolhas (sobrecarga) leva à paralisia e à insatisfação.",
+		"source_abnt": "SCHWARTZ, Barry. *O Paradoxo da Escolha: por que menos é mais*. Tradução de C. L. P. da Costa. São Paulo: A Girafa, 2004."
+	},
+	{
+		"id": "PSIC054",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "O que é \"plasticidade neural\" (ou neuroplasticidade)?",
+		"options": [
+			{ "description": "A rigidez do cérebro após a infância.", "isCorrect": false },
+			{ "description": "A capacidade do cérebro de se reorganizar, formar novas conexões neurais e se adaptar em resposta à aprendizagem ou lesão.", "isCorrect": true },
+			{ "description": "O material isolante que cobre os neurônios (Bainha de Mielina).", "isCorrect": false },
+			{ "description": "Um tipo de cirurgia cerebral.", "isCorrect": false }
+		],
+		"source_explanation": "A neuroplasticidade é a capacidade do cérebro de mudar sua estrutura e função em resposta à experiência, sendo a base da aprendizagem e da recuperação de lesões.",
+		"source_abnt": "KANDEL, Eric R. [et al.]. *Princípios de Neurociências*. 5. ed. Porto Alegre: AMGH, 2014. (Capítulo: Plasticidade Sináptica)."
+	},
+	{
+		"id": "PSIC055",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "O que é \"autoeficácia\" (self-efficacy), conceito de Albert Bandura?",
+		"options": [
+			{ "description": "A crença de uma pessoa em sua própria capacidade de ter sucesso em tarefas específicas ou situações.", "isCorrect": true },
+			{ "description": "Um sinônimo de autoestima (valor próprio).", "isCorrect": false },
+			{ "description": "A tendência de se culpar por fracassos (Viés de auto-serviço).", "isCorrect": false },
+			{ "description": "O narcisismo.", "isCorrect": false }
+		],
+		"source_explanation": "Na Teoria Social Cognitiva de Bandura (1977), a autoeficácia é a crença na própria capacidade de executar os comportamentos necessários para produzir resultados específicos.",
+		"source_abnt": "BANDURA, Albert. Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, v. 84, n. 2, p. 191-215, 1977."
+	},
+	{
+		"id": "PSIC056",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "No experimento de Harlow com macacos rhesus, o que os filhotes preferiam?",
+		"options": [
+			{ "description": "A \"mãe\" de arame que fornecia comida.", "isCorrect": false },
+			{ "description": "A \"mãe\" de pano macia que fornecia \"conforto de contato\", mesmo sem comida.", "isCorrect": true },
+			{ "description": "Ficar sozinhos na gaiola.", "isCorrect": false },
+			{ "description": "Apenas outros macacos reais.", "isCorrect": false }
+		],
+		"source_explanation": "O experimento de Harry Harlow (1958) demonstrou que o \"conforto de contato\" (fornecido pela mãe de pano) era mais crucial para o apego do que a simples alimentação (mãe de arame).",
+		"source_abnt": "HARLOW, Harry F. The nature of love. *American Psychologist*, v. 13, n. 12, p. 673-685, 1958."
+	},
+	{
+		"id": "PSIC057",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "O que é o \"Viés da Ancoragem\" (Anchoring Bias)?",
+		"options": [
+			{ "description": "A tendência de supervalorizar a primeira informação recebida (a \"âncora\") ao tomar decisões.", "isCorrect": true },
+			{ "description": "A tendência de se apegar ao passado.", "isCorrect": false },
+			{ "description": "A tendência de seguir o grupo (Groupthink).", "isCorrect": false },
+			{ "description": "O medo de tomar decisões (Decidofobia).", "isCorrect": false }
+		],
+		"source_explanation": "Uma heurística (atalho mental) descrita por Tversky e Kahneman (1974), onde as pessoas dependem excessivamente da primeira informação oferecida (\"âncora\") ao fazer julgamentos.",
+		"source_abnt": "TVERSKY, Amos; KAHNEMAN, Daniel. Judgment under Uncertainty: Heuristics and Biases. *Science*, v. 185, n. 4157, p. 1124-1131, 27 set. 1974."
+	},
+	{
+		"id": "PSIC058",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "O \"modelo transteórico de mudança\" (Prochaska & DiClemente) é usado para o quê?",
+		"options": [
+			{ "description": "Analisar sonhos.", "isCorrect": false },
+			{ "description": "Descrever os estágios que as pessoas passam ao tentar mudar um comportamento (ex: parar de fumar), como Pré-contemplação e Ação.", "isCorrect": true },
+			{ "description": "Diagnosticar transtornos de personalidade.", "isCorrect": false },
+			{ "description": "Mapear as funções do cérebro.", "isCorrect": false }
+		],
+		"source_explanation": "O Modelo Transteórico (TTM) é um modelo de psicologia da saúde que descreve os estágios da mudança de comportamento: Pré-contemplação, Contemplação, Preparação, Ação, Manutenção.",
+		"source_abnt": "PROCHASKA, James O.; DICLEMENTE, Carlo C. Stages and processes of self-change of smoking: Toward an integrative model of change. *Journal of Consulting and Clinical Psychology*, v. 51, n. 3, p. 390-395, 1983."
+	},
+	{
+		"id": "PSIC059",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "O que é \"prosopagnosia\"?",
+		"options": [
+			{ "description": "A incapacidade de sentir prazer (anedonia).", "isCorrect": false },
+			{ "description": "A incapacidade neurológica de reconhecer rostos, mesmo os familiares.", "isCorrect": true },
+			{ "description": "A incapacidade de falar (afasia).", "isCorrect": false },
+			{ "description": "A incapacidade de formar novas memórias (amnésia anterógrada).", "isCorrect": false }
+		],
+		"source_explanation": "A prosopagnosia (cegueira facial) é um distúrbio da percepção (neurociência cognitiva) onde a capacidade de reconhecer rostos é prejudicada, geralmente por danos ao giro fusiforme.",
+		"source_abnt": "SACKS, Oliver. *O Homem que Confundiu sua Mulher com um Chapéu*. Tradução de B. V. G. de Lemos. São Paulo: Companhia das Letras, 1997."
+	},
+	{
+		"id": "PSIC060",
+		"category": "Psicologia",
+		"level": "hard",
+		"question": "No modelo de Erik Erikson, qual é o principal conflito psicossocial da adolescência?",
+		"options": [
+			{ "description": "Confiança vs. Desconfiança (Bebê)", "isCorrect": false },
+			{ "description": "Iniciativa vs. Culpa (Pré-escolar)", "isCorrect": false },
+			{ "description": "Identidade vs. Confusão de Papéis", "isCorrect": true },
+			{ "description": "Intimidade vs. Isolamento (Jovem Adulto)", "isCorrect": false }
+		],
+		"source_explanation": "Nos \"Oito Estágios do Homem\" de Erikson, o quinto estágio (adolescência) é definido pela crise de \"Identidade vs. Confusão de Papéis\".",
+		"source_abnt": "ERIKSON, Erik H. *Infância e Sociedade*. 2. ed. Tradução de G. B. e R. S. P. Rio de Janeiro: Zahar Editores, 1971. (Publicado originalmente em 1950)."
+	}
+]

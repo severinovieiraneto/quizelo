@@ -1,0 +1,842 @@
+[
+	{
+		"id": "CTEC001",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "Qual é a fórmula química da água?",
+		"options": [
+			{ "description": "CO2", "isCorrect": false },
+			{ "description": "H2O", "isCorrect": true },
+			{ "description": "O2", "isCorrect": false },
+			{ "description": "NaCl", "isCorrect": false }
+		],
+		"source_explanation": "A União Internacional de Química Pura e Aplicada (IUPAC) define a nomenclatura química padrão. H2O representa dois átomos de hidrogênio e um de oxigênio.",
+		"source_abnt": "IUPAC. *Nomenclature of Inorganic Chemistry* (Red Book). Cambridge: Royal Society of Chemistry, 2005. ISBN 0-85404-438-8."
+	},
+	{
+		"id": "CTEC002",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "Qual força invisível puxa os objetos para o centro da Terra, fazendo as maçãs caírem?",
+		"options": [
+			{ "description": "Magnetismo", "isCorrect": false },
+			{ "description": "Fricção", "isCorrect": false },
+			{ "description": "Gravidade", "isCorrect": true },
+			{ "description": "Eletricidade Estática", "isCorrect": false }
+		],
+		"source_explanation": "Na obra 'Principia Mathematica' (1687), Isaac Newton formula a lei da gravitação universal.",
+		"source_abnt": "NEWTON, Isaac. *Princípios Matemáticos da Filosofia Natural*. Tradução de Carlos A. P. de Andrade. São Paulo: Abril Cultural, 1974. (Coleção Os Pensadores)."
+	},
+	{
+		"id": "CTEC003",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "Em biologia, qual é o processo pelo qual as plantas usam a luz solar para converter dióxido de carbono e água em alimento (glicose)?",
+		"options": [
+			{ "description": "Respiração", "isCorrect": false },
+			{ "description": "Fotossíntese", "isCorrect": true },
+			{ "description": "Evolução", "isCorrect": false },
+			{ "description": "Digestão", "isCorrect": false }
+		],
+		"source_explanation": "A definição biológica padrão da fotossíntese como o processo de conversão de energia luminosa em energia química.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Photosynthesis. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/photosynthesis. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC004",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "Qual planeta do nosso Sistema Solar é conhecido como o \"Planeta Vermelho\"?",
+		"options": [
+			{ "description": "Júpiter", "isCorrect": false },
+			{ "description": "Vênus", "isCorrect": false },
+			{ "description": "Marte", "isCorrect": true },
+			{ "description": "Mercúrio", "isCorrect": false }
+		],
+		"source_explanation": "O site oficial da NASA descreve Marte e a origem de seu apelido \"Planeta Vermelho\", devido ao óxido de ferro (ferrugem) em seu solo.",
+		"source_abnt": "NASA. *Mars Overview*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/mars/overview/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC005",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "Na informática, qual é a sigla para a \"Unidade Central de Processamento\", considerada o \"cérebro\" do computador?",
+		"options": [
+			{ "description": "RAM", "isCorrect": false },
+			{ "description": "GPU", "isCorrect": false },
+			{ "description": "HD", "isCorrect": false },
+			{ "description": "CPU", "isCorrect": true }
+		],
+		"source_explanation": "O IEEE (Instituto de Engenheiros Eletricistas e Eletrônicos) e a arquitetura de von Neumann definem a CPU (Central Processing Unit) como o componente que executa instruções.",
+		"source_abnt": "Patterson, David A.; Hennessy, John L. *Organização e Projeto de Computadores: a interface hardware/software*. 5. ed. Rio de Janeiro: LTC, 2013."
+	},
+	{
+		"id": "CTEC006",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "Quem é o famoso cientista autor da Teoria da Relatividade, conhecido pela equação $E=mc^2$?",
+		"options": [
+			{ "description": "Isaac Newton", "isCorrect": false },
+			{ "description": "Albert Einstein", "isCorrect": true },
+			{ "description": "Galileu Galilei", "isCorrect": false },
+			{ "description": "Stephen Hawking", "isCorrect": false }
+		],
+		"source_explanation": "Albert Einstein introduziu a relatividade especial em 1905. A equação de equivalência massa-energia ($E=mc^2$) é uma de suas conclusões.",
+		"source_abnt": "EINSTEIN, Albert. Sobre a Eletrodinâmica dos Corpos em Movimento. *Annalen der Physik*, Berlim, v. 17, p. 891-921, 1905."
+	},
+	{
+		"id": "CTEC007",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "Qual é o nome da molécula que carrega nossas informações genéticas?",
+		"options": [
+			{ "description": "Proteína", "isCorrect": false },
+			{ "description": "Glicose", "isCorrect": false },
+			{ "description": "DNA (Ácido Desoxirribonucleico)", "isCorrect": true },
+			{ "description": "RNA (Ácido Ribonucleico)", "isCorrect": false }
+		],
+		"source_explanation": "Artigo seminal de 1953 na revista Nature onde Watson e Crick descrevem a estrutura de dupla hélice do DNA.",
+		"source_abnt": "WATSON, James D.; CRICK, Francis H. C. Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid. *Nature*, Londres, v. 171, p. 737-738, 25 abr. 1953."
+	},
+	{
+		"id": "CTEC008",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "Qual é a estrela que fica no centro do nosso Sistema Solar?",
+		"options": [
+			{ "description": "A Lua", "isCorrect": false },
+			{ "description": "O Sol", "isCorrect": true },
+			{ "description": "Proxima Centauri", "isCorrect": false },
+			{ "description": "Sirius", "isCorrect": false }
+		],
+		"source_explanation": "A União Astronômica Internacional (IAU), autoridade em astronomia, define o Sistema Solar como o sistema planetário centrado no Sol.",
+		"source_abnt": "UNIÃO ASTRONÔMICA INTERNACIONAL (IAU). *Nomenclature: Solar System*. Paris: IAU, [s.d.]. Disponível em: https://www.iau.org/public/themes/naming_solar_system/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC009",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "Qual cientista inglês formulou a teoria da evolução através da seleção natural?",
+		"options": [
+			{ "description": "Gregor Mendel", "isCorrect": false },
+			{ "description": "Louis Pasteur", "isCorrect": false },
+			{ "description": "Charles Darwin", "isCorrect": true },
+			{ "description": "Marie Curie", "isCorrect": false }
+		],
+		"source_explanation": "A obra fundamental de 1859 de Charles Darwin, que introduz a teoria da evolução pela seleção natural.",
+		"source_abnt": "DARWIN, Charles. *A Origem das Espécies*. Tradução de Daniel Moreira. São Paulo: Edipro, 2018. (Publicado originalmente em 1859)."
+	},
+	{
+		"id": "CTEC010",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "Qual inventor americano é creditado pela invenção da lâmpada elétrica incandescente comercialmente viável?",
+		"options": [
+			{ "description": "Nikola Tesla", "isCorrect": false },
+			{ "description": "Alexander Graham Bell", "isCorrect": false },
+			{ "description": "Thomas Edison", "isCorrect": true },
+			{ "description": "Benjamin Franklin", "isCorrect": false }
+		],
+		"source_explanation": "A patente de 1880 de Thomas Edison para a lâmpada elétrica com filamento de carbono é considerada a primeira versão comercialmente viável.",
+		"source_abnt": "EDISON, Thomas A. *Electric Lamp*. Patente E.U.A. nº US223898A. 27 jan. 1880."
+	},
+	{
+		"id": "CTEC011",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "Quais são as três partículas subatômicas básicas que compõem um átomo?",
+		"options": [
+			{ "description": "Prótons, Nêutrons e Elétrons", "isCorrect": true },
+			{ "description": "Quarks, Léptons e Bósons", "isCorrect": false },
+			{ "description": "Moléculas, Íons e Cátions", "isCorrect": false },
+			{ "description": "Células, Tecidos e Órgãos", "isCorrect": false }
+		],
+		"source_explanation": "O modelo atômico padrão (baseado em Rutherford e Bohr) ensinado em química e física básica define o átomo como composto de prótons e nêutrons no núcleo, e elétrons na eletrosfera.",
+		"source_abnt": "IUPAC. *Compendium of Chemical Terminology* (Gold Book). Research Triangle Park, NC: IUPAC, 2019. (Verbete: atom)."
+	},
+	{
+		"id": "CTEC012",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "Qual é o principal órgão do corpo humano responsável por bombear o sangue?",
+		"options": [
+			{ "description": "Cérebro", "isCorrect": false },
+			{ "description": "Pulmões", "isCorrect": false },
+			{ "description": "Fígado", "isCorrect": false },
+			{ "description": "Coração", "isCorrect": true }
+		],
+		"source_explanation": "O texto de anatomia de Gray define a função primária do coração como a bomba muscular central do sistema circulatório.",
+		"source_abnt": "STANDRING, Susan (ed.). *Gray's Anatomy: The Anatomical Basis of Clinical Practice*. 41. ed. Londres: Elsevier, 2016."
+	},
+	{
+		"id": "CTEC013",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "A Lua é o satélite natural de qual planeta?",
+		"options": [
+			{ "description": "Terra", "isCorrect": true },
+			{ "description": "Marte", "isCorrect": false },
+			{ "description": "Júpiter", "isCorrect": false },
+			{ "description": "Saturno", "isCorrect": false }
+		],
+		"source_explanation": "A União Astronômica Internacional (IAU) define a Lua (Luna) como o único satélite natural da Terra.",
+		"source_abnt": "NASA. *Earth's Moon*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/moon/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC014",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "A \"Internet\" é melhor descrita como:",
+		"options": [
+			{ "description": "Um único supercomputador em Genebra.", "isCorrect": false },
+			{ "description": "Uma rede global de computadores interconectados.", "isCorrect": true },
+			{ "description": "Um software específico (como o Google Chrome).", "isCorrect": false },
+			{ "description": "O mesmo que a World Wide Web (WWW).", "isCorrect": false }
+		],
+		"source_explanation": "A Internet é a infraestrutura de rede (a \"rede de redes\"), enquanto a WWW (World Wide Web) é um serviço (um sistema de hipertexto) que roda sobre a Internet.",
+		"source_abnt": "WORLD WIDE WEB CONSORTIUM (W3C). *About the World Wide Web*. [S.l.]: W3C, [s.d.]. Disponível em: https://www.w3.org/Consortium/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC015",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "Quais são os três estados físicos comuns da matéria?",
+		"options": [
+			{ "description": "Ácido, Básico e Neutro", "isCorrect": false },
+			{ "description": "Sólido, Líquido e Gasoso", "isCorrect": true },
+			{ "description": "Metal, Madeira e Plástico", "isCorrect": false },
+			{ "description": "Quente, Frio e Morno", "isCorrect": false }
+		],
+		"source_explanation": "Livros didáticos de física e química básica definem os três estados fundamentais da matéria: sólido, líquido e gasoso.",
+		"source_abnt": "ATKINS, Peter; DE PAULA, Julio. *Atkins' Physical Chemistry*. 11. ed. Oxford: Oxford University Press, 2018."
+	},
+	{
+		"id": "CTEC016",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "Qual é o gás essencial que os seres humanos precisam respirar para sobreviver?",
+		"options": [
+			{ "description": "Dióxido de Carbono (CO2)", "isCorrect": false },
+			{ "description": "Nitrogênio (N2)", "isCorrect": false },
+			{ "description": "Oxigênio (O2)", "isCorrect": true },
+			{ "description": "Hélio (He)", "isCorrect": false }
+		],
+		"source_explanation": "O sistema respiratório humano é projetado para a troca gasosa, absorvendo Oxigênio (O2) para a respiração celular e expelindo Dióxido de Carbono (CO2).",
+		"source_abnt": "STANDRING, Susan (ed.). *Gray's Anatomy*. 41. ed. Londres: Elsevier, 2016. (Seção: Respiratory System)."
+	},
+	{
+		"id": "CTEC017",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "Qual cientista é creditado pela invenção do telefone?",
+		"options": [
+			{ "description": "Thomas Edison", "isCorrect": false },
+			{ "description": "Guglielmo Marconi", "isCorrect": false },
+			{ "description": "Alexander Graham Bell", "isCorrect": true },
+			{ "description": "Nikola Tesla", "isCorrect": false }
+		],
+		"source_explanation": "Patente de 1876 de Alexander Graham Bell para a \"Melhoria na Telegrafia\", considerada a patente fundamental do telefone.",
+		"source_abnt": "BELL, Alexander Graham. *Improvement in Telegraphy*. Patente E.U.A. nº US174465A. 7 mar. 1876."
+	},
+	{
+		"id": "CTEC018",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "A Tabela Periódica organiza quais elementos?",
+		"options": [
+			{ "description": "Os elementos químicos", "isCorrect": true },
+			{ "description": "Tipos de rochas", "isCorrect": false },
+			{ "description": "Espécies de animais", "isCorrect": false },
+			{ "description": "Constelações no céu", "isCorrect": false }
+		],
+		"source_explanation": "A Tabela Periódica dos Elementos, mantida pela IUPAC, é o documento padrão da química que organiza os elementos por número atômico e propriedades.",
+		"source_abnt": "IUPAC. *Periodic Table of Elements*. Research Triangle Park, NC: IUPAC, [s.d.]. Disponível em: https://iupac.org/what-we-do/periodic-table-of-elements/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC019",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "Qual é o maior planeta do nosso Sistema Solar?",
+		"options": [
+			{ "description": "Terra", "isCorrect": false },
+			{ "description": "Saturno", "isCorrect": false },
+			{ "description": "Júpiter", "isCorrect": true },
+			{ "description": "Netuno", "isCorrect": false }
+		],
+		"source_explanation": "O site oficial da NASA descreve Júpiter como o maior planeta do Sistema Solar, com mais que o dobro da massa de todos os outros planetas combinados.",
+		"source_abnt": "NASA. *Jupiter Overview*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/jupiter/overview/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC020",
+		"category": "Ciência e Tecnologia",
+		"level": "easy",
+		"question": "O que é um \"vírus\" de computador?",
+		"options": [
+			{ "description": "Um tipo de hardware (peça física) que acelera o computador.", "isCorrect": false },
+			{ "description": "Um programa de software malicioso (malware) que se replica e se espalha para outros computadores.", "isCorrect": true },
+			{ "description": "Uma atualização de sistema operacional.", "isCorrect": false },
+			{ "description": "Um cabo de rede defeituoso.", "isCorrect": false }
+		],
+		"source_explanation": "A agência de segurança cibernética dos EUA (CISA) define um vírus como um tipo de software malicioso (malware) que se anexa a outros programas para se replicar.",
+		"source_abnt": "CISA (CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY). *What is Malware?*. Washington, D.C.: CISA, [s.d.]. Disponível em: https://www.cisa.gov/resources-tools/guides/malware. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC021",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "Qual é a principal diferença biológica entre a Mitose e a Meiose?",
+		"options": [
+			{ "description": "A Mitose cria células sexuais (gametas); a Meiose cria células da pele.", "isCorrect": false },
+			{ "description": "A Mitose resulta em 4 células filhas; a Meiose resulta em 2 células filhas.", "isCorrect": false },
+			{ "description": "A Mitose produz células geneticamente idênticas (diploides); a Meiose produz células geneticamente diferentes (haploides) para a reprodução.", "isCorrect": true },
+			{ "description": "A Mitose só ocorre em plantas; a Meiose só ocorre em animais.", "isCorrect": false }
+		],
+		"source_explanation": "A mitose (crescimento e reparo) mantém o número de cromossomos (diploides). A meiose (reprodução sexual) reduz o número pela metade (haploides).",
+		"source_abnt": "NATURE EDUCATION. *Mitosis vs. Meiosis*. Cambridge, MA: Nature Education, 2014. Disponível em: https://www.nature.com/scitable/topicpage/mitosis-meiosis-and-inheritance-476/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC022",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "O que a escala de pH (potencial hidrogeniônico) mede?",
+		"options": [
+			{ "description": "A radioatividade de uma substância.", "isCorrect": false },
+			{ "description": "A condutividade elétrica de uma solução.", "isCorrect": false },
+			{ "description": "O ponto de ebulição de um líquido.", "isCorrect": false },
+			{ "description": "A acidez ou alcalinidade (basicidade) de uma solução aquosa.", "isCorrect": true }
+		],
+		"source_explanation": "A IUPAC define a escala de pH (0-14) como a medida da atividade dos íons de hidrogênio (H+) em uma solução, determinando sua acidez ou alcalinidade.",
+		"source_abnt": "IUPAC. *Compendium of Chemical Terminology* (Gold Book). Research Triangle Park, NC: IUPAC, 2019. (Verbete: pH)."
+	},
+	{
+		"id": "CTEC023",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "Qual é a principal função da Memória RAM (Random Access Memory) em um computador?",
+		"options": [
+			{ "description": "Armazenar permanentemente o sistema operacional e seus arquivos.", "isCorrect": false },
+			{ "description": "Armazenar temporariamente dados e programas que estão sendo usados ativamente pela CPU.", "isCorrect": true },
+			{ "description": "Processar gráficos complexos para videojogos.", "isCorrect": false },
+			{ "description": "Conectar o computador à Internet sem fios.", "isCorrect": false }
+		],
+		"source_explanation": "A RAM é uma memória volátil (perde dados quando desligada) usada para acesso rápido pela CPU (armazenamento de trabalho).",
+		"source_abnt": "Patterson, David A.; Hennessy, John L. *Organização e Projeto de Computadores: a interface hardware/software*. 5. ed. Rio de Janeiro: LTC, 2013."
+	},
+	{
+		"id": "CTEC024",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "Qual é a Segunda Lei da Termodinâmica?",
+		"options": [
+			{ "description": "A energia não pode ser criada nem destruída, apenas transformada (Primeira Lei).", "isCorrect": false },
+			{ "description": "A entropia (desordem) de um sistema isolado tende a aumentar com o tempo.", "isCorrect": true },
+			{ "description": "Para toda ação, há uma reação igual e oposta (Terceira Lei de Newton).", "isCorrect": false },
+			{ "description": "A força da gravidade é proporcional ao produto das massas e inversa ao quadrado da distância.", "isCorrect": false }
+		],
+		"source_explanation": "A Segunda Lei da Termodinâmica estabelece que a entropia total de um sistema isolado (como o universo) sempre aumenta com o tempo.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Second Law of Thermodynamics. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/second-law-of-thermodynamics. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC025",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "O que é um \"buraco negro\" em termos astronômicos?",
+		"options": [
+			{ "description": "Uma região do espaço com gravidade tão intensa que nada, nem mesmo a luz, pode escapar.", "isCorrect": true },
+			{ "description": "Um tipo de estrela fria que não emite luz.", "isCorrect": false },
+			{ "description": "Um portal para outra dimensão (buraco de minhoca).", "isCorrect": false },
+			{ "description": "A mancha escura observada na superfície do Sol.", "isCorrect": false }
+		],
+		"source_explanation": "A definição oficial da NASA, baseada na Teoria da Relatividade Geral de Einstein, descreve um buraco negro como uma região de curvatura do espaço-tempo da qual nada escapa.",
+		"source_abnt": "NASA. *What Is a Black Hole?*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/astrophysics/focus-areas/black-holes/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC026",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "Alexander Fleming descobriu o primeiro antibiótico, a penicilina. Como foi essa descoberta?",
+		"options": [
+			{ "description": "Através de um experimento planejado para testar mofos em bactérias.", "isCorrect": false },
+			{ "description": "Foi um acidente: uma cultura de bactérias foi contaminada por mofo (Penicillium) que matou as bactérias ao redor.", "isCorrect": true },
+			{ "description": "Ele sintetizou a molécula quimicamente em laboratório.", "isCorrect": false },
+			{ "description": "Ele a extraiu de uma planta medicinal na Amazônia.", "isCorrect": false }
+		],
+		"source_explanation": "A biografia oficial de Fleming (Prêmio Nobel de 1945) detalha a descoberta acidental da penicilina em 1928, quando uma placa de cultura foi contaminada por mofo.",
+		"source_abnt": "FUNDAÇÃO NOBEL. *Alexander Fleming: Biographical*. Estocolmo: Fundação Nobel, 1945. Disponível em: https://www.nobelprize.org/prizes/medicine/1945/fleming/biographical/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC027",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "Qual é a principal diferença entre a Corrente Alternada (CA) e a Corrente Contínua (CC)?",
+		"options": [
+			{ "description": "CA é usada em baterias; CC é usada em tomadas residenciais.", "isCorrect": false },
+			{ "description": "Em CC, os elétrons fluem em uma direção constante; em CA, a direção do fluxo inverte-se periodicamente.", "isCorrect": true },
+			{ "description": "CA é sem fios (wireless); CC requer cabos.", "isCorrect": false },
+			{ "description": "CA é de alta voltagem; CC é sempre de baixa voltagem.", "isCorrect": false }
+		],
+		"source_explanation": "Definições do IEEE (Instituto de Engenheiros Eletricistas e Eletrônicos) diferenciam AC (Alternating Current) de DC (Direct Current), o centro da \"Guerra das Correntes\" (Tesla vs. Edison).",
+		"source_abnt": "IEEE (INSTITUTE OF ELECTRICAL AND ELECTRONICS ENGINEERS). *IEEE Standard Dictionary of Electrical and Electronics Terms*. 6. ed. Nova York: IEEE, 1996."
+	},
+	{
+		"id": "CTEC028",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "Qual é a principal função de um endereço IP (Protocolo de Internet)?",
+		"options": [
+			{ "description": "Criptografar os dados de um site (função do SSL/TLS).", "isCorrect": false },
+			{ "description": "Traduzir um nome de domínio (como google.com) em um número (função do DNS).", "isCorrect": false },
+			{ "description": "Identificar unicamente um dispositivo (computador, telefone) em uma rede.", "isCorrect": true },
+			{ "description": "Medir a velocidade da sua conexão de internet.", "isCorrect": false }
+		],
+		"source_explanation": "O documento padrão (RFC 791) que define o Protocolo de Internet (IP) o estabelece como um sistema de endereçamento para identificar dispositivos na rede.",
+		"source_abnt": "IETF (INTERNET ENGINEERING TASK FORCE). *RFC 791: Internet Protocol*. J. Postel (ed.). set. 1981. Disponível em: https://www.ietf.org/rfc/rfc791.txt. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC029",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "No espectro eletromagnético, qual tipo de radiação tem a frequência *mais alta* (e, portanto, mais energia)?",
+		"options": [
+			{ "description": "Ondas de Rádio", "isCorrect": false },
+			{ "description": "Luz Visível", "isCorrect": false },
+			{ "description": "Raios Gama (Gamma rays)", "isCorrect": true },
+			{ "description": "Micro-ondas", "isCorrect": false }
+		],
+		"source_explanation": "O gráfico oficial da NASA do espectro eletromagnético mostra os Raios Gama com os comprimentos de onda mais curtos e as frequências/energias mais altas.",
+		"source_abnt": "NASA. *Electromagnetic Spectrum*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/ems/electromagnetic-spectrum-full/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC030",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "Qual é a teoria científica predominante que explica a origem do universo a partir de um estado extremamente quente e denso?",
+		"options": [
+			{ "description": "A Teoria das Cordas", "isCorrect": false },
+			{ "description": "A Teoria do Big Bang", "isCorrect": true },
+			{ "description": "A Teoria do Estado Estacionário", "isCorrect": false },
+			{ "description": "A Teoria da Panspermia", "isCorrect": false }
+		],
+		"source_explanation": "A NASA descreve a Teoria do Big Bang como o modelo cosmológico padrão para o universo observável, suportado pela expansão e pela radiação cósmica de fundo.",
+		"source_abnt": "NASA. *Big Bang Theory*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/astrophysics/focus-areas/what-is-the-big-bang-theory/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC031",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "Em biologia, o que é o fenômeno da \"resistência aos antibióticos\"?",
+		"options": [
+			{ "description": "Quando o corpo humano se torna alérgico a um antibiótico.", "isCorrect": false },
+			{ "description": "Quando as bactérias evoluem através da seleção natural e deixam de ser mortas por um antibiótico que antes era eficaz.", "isCorrect": true },
+			{ "description": "Um efeito colateral do antibiótico que causa resistência à insulina.", "isCorrect": false },
+			{ "description": "Quando um antibiótico destrói os vírus em vez das bactérias.", "isCorrect": false }
+		],
+		"source_explanation": "A Organização Mundial da Saúde (OMS) define a resistência antimicrobiana como a evolução de microrganismos (bactérias) que os torna resistentes a medicamentos.",
+		"source_abnt": "ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). *Antimicrobial resistance*. Genebra: OMS, 2024. Disponível em: https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC032",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "Qual é a principal diferença entre um asteroide e um cometa?",
+		"options": [
+			{ "description": "Asteroides orbitam planetas; cometas orbitam o Sol.", "isCorrect": false },
+			{ "description": "Asteroides são compostos principalmente de rocha e metal; cometas são compostos de gelo, poeira e rocha.", "isCorrect": true },
+			{ "description": "Asteroides são maiores que cometas.", "isCorrect": false },
+			{ "description": "Asteroides são encontrados apenas no Cinturão de Asteroides; cometas são encontrados apenas no Cinturão de Kuiper.", "isCorrect": false }
+		],
+		"source_explanation": "A NASA explica que os cometas (\"bolas de neve sujas\") são compostos de gelo (água, CO2), que sublima perto do Sol, criando a \"cauda\" (coma), ao contrário dos asteroides rochosos.",
+		"source_abnt": "NASA. *Asteroid vs. Comet: What's the difference?*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://spaceplace.nasa.gov/asteroid-or-comet/en/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC033",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "O que é \"Computação em Nuvem\" (Cloud Computing)?",
+		"options": [
+			{ "description": "Um tipo de supercomputador que usa hélio para refrigeração.", "isCorrect": false },
+			{ "description": "A entrega de serviços de computação (servidores, armazenamento, software) pela Internet, em vez de usar um disco rígido local.", "isCorrect": true },
+			{ "description": "Um sistema para prever o tempo usando satélites.", "isCorrect": false },
+			{ "description": "Uma rede de computadores que só funciona offline.", "isCorrect": false }
+		],
+		"source_explanation": "O Instituto Nacional de Padrões e Tecnologia dos EUA (NIST) fornece a definição padrão de \"Cloud Computing\" como um modelo para acesso on-demand a recursos de computação.",
+		"source_abnt": "NIST (NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY). *The NIST Definition of Cloud Computing*. (SP 800-145). Gaithersburg, MD: NIST, set. 2011."
+	},
+	{
+		"id": "CTEC034",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "A Terceira Lei de Newton (Ação e Reação) explica qual fenômeno?",
+		"options": [
+			{ "description": "Por que um objeto em movimento permanece em movimento (Inércia - Primeira Lei).", "isCorrect": false },
+			{ "description": "Como um foguete é impulsionado para cima (empurrando os gases de exaustão para baixo).", "isCorrect": true },
+			{ "description": "Por que é mais difícil empurrar um caminhão do que um carrinho (F=ma - Segunda Lei).", "isCorrect": false },
+			{ "description": "Por que a Lua orbita a Terra (Gravidade).", "isCorrect": false }
+		],
+		"source_explanation": "A Terceira Lei de Newton afirma que para toda ação (ex: o foguete empurrando o gás) há uma reação igual e oposta (o gás empurrando o foguete).",
+		"source_abnt": "NEWTON, Isaac. *Princípios Matemáticos da Filosofia Natural*. Tradução de Carlos A. P. de Andrade. São Paulo: Abril Cultural, 1974. (Coleção Os Pensadores)."
+	},
+	{
+		"id": "CTEC035",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "Como funciona a tecnologia de GPS (Sistema de Posicionamento Global)?",
+		"options": [
+			{ "description": "Usando radares terrestres que triangulam a posição do seu telefone.", "isCorrect": false },
+			{ "description": "Tirando fotos do solo e comparando com mapas (navegação visual).", "isCorrect": false },
+			{ "description": "Recebendo sinais de múltiplos satélites em órbita e calculando a posição através de triangulação (trilateração).", "isCorrect": true },
+			{ "description": "Conectando-se à torre de celular mais próxima.", "isCorrect": false }
+		],
+		"source_explanation": "O site oficial do governo dos EUA para o GPS explica que ele funciona usando \"trilateração\" de sinais de uma constelação de satélites em órbita.",
+		"source_abnt": "U.S. SPACE FORCE. *Global Positioning System*. Washington, D.C.: U.S. Government, [s.d.]. Disponível em: https://www.gps.gov/systems/gps/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC036",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "O processo de \"Pasteurização\", inventado por Louis Pasteur, serve para quê?",
+		"options": [
+			{ "description": "Converter leite em queijo.", "isCorrect": false },
+			{ "description": "Aquecer líquidos (como leite ou cerveja) a uma temperatura específica para matar bactérias nocivas e aumentar a validade.", "isCorrect": true },
+			{ "description": "Criar vacinas usando vírus atenuados.", "isCorrect": false },
+			{ "description": "Filtrar a água para remover impurezas.", "isCorrect": false }
+		],
+		"source_explanation": "O Institut Pasteur documenta o desenvolvimento da \"pasteurização\" por Louis Pasteur para salvar a indústria do vinho e, posteriormente, do leite, matando micróbios pelo calor.",
+		"source_abnt": "INSTITUT PASTEUR. *Louis Pasteur: The Father of Microbiology*. Paris: Institut Pasteur, [s.d.]. Disponível em: https://www.pasteur.fr/en/institut-pasteur/history/louis-pasteur-father-microbiology. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC037",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "Na química, o que é um \"isótopo\"?",
+		"options": [
+			{ "description": "Um átomo que perdeu ou ganhou elétrons (um íon).", "isCorrect": false },
+			{ "description": "Um átomo do mesmo elemento (mesmo número de prótons) mas com um número diferente de nêutrons.", "isCorrect": true },
+			{ "description": "Uma molécula composta por dois ou mais elementos diferentes.", "isCorrect": false },
+			{ "description": "Um material que conduz eletricidade perfeitamente.", "isCorrect": false }
+		],
+		"source_explanation": "O \"Livro de Ouro\" da IUPAC define isótopos como nuclídeos que têm o mesmo número atômico (prótons), mas números de massa diferentes (nêutrons). Ex: Carbono-12 vs. Carbono-14.",
+		"source_abnt": "IUPAC. *Compendium of Chemical Terminology* (Gold Book). Research Triangle Park, NC: IUPAC, 2019. (Verbete: isotopes)."
+	},
+	{
+		"id": "CTEC038",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "Como as vacinas de mRNA (como as usadas para a COVID-19) funcionam?",
+		"options": [
+			{ "description": "Elas injetam o vírus morto (inativado) no corpo.", "isCorrect": false },
+			{ "description": "Elas alteram permanentemente o DNA da pessoa para criar imunidade.", "isCorrect": false },
+			{ "description": "Elas fornecem às células do corpo \"instruções\" (mRNA) para fabricar uma proteína do vírus, ensinando o sistema imunológico a reconhecê-la.", "isCorrect": true },
+			{ "description": "Elas usam um vírus diferente e inofensivo para transportar o DNA do vírus (vetor viral).", "isCorrect": false }
+		],
+		"source_explanation": "A explicação oficial do CDC (Centro de Controle de Doenças) sobre a tecnologia de mRNA (RNA mensageiro) e como ela ensina as células a criar uma proteína para treinar o sistema imune.",
+		"source_abnt": "CENTERS FOR DISEASE CONTROL AND PREVENTION (CDC). *Understanding mRNA COVID-19 Vaccines*. Atlanta, GA: CDC, 2023. Disponível em: https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC039",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "O que é um \"algoritmo\" na ciência da computação?",
+		"options": [
+			{ "description": "Um componente físico do computador (hardware).", "isCorrect": false },
+			{ "description": "Um conjunto de regras ou instruções passo a passo para resolver um problema ou completar uma tarefa.", "isCorrect": true },
+			{ "description": "Uma linguagem de programação específica (como Python ou Java).", "isCorrect": false },
+			{ "description": "Um erro ou falha no software (um \"bug\").", "isCorrect": false }
+		],
+		"source_explanation": "A ACM (Associação para Maquinaria da Computação) define um algoritmo como o procedimento passo a passo fundamental para a computação.",
+		"source_abnt": "ASSOCIATION FOR COMPUTING MACHINERY (ACM). *ACM Computing Classification System*: Algorithm. Nova York: ACM, [s.d.]. Disponível em: https://dl.acm.org/ccs/ccs.cfm. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC040",
+		"category": "Ciência e Tecnologia",
+		"level": "medium",
+		"question": "Qual cientista é considerado o \"Pai da Genética\" por seus experimentos com ervilhas?",
+		"options": [
+			{ "description": "Charles Darwin", "isCorrect": false },
+			{ "description": "Gregor Mendel", "isCorrect": true },
+			{ "description": "Watson e Crick", "isCorrect": false },
+			{ "description": "Louis Pasteur", "isCorrect": false }
+		],
+		"source_explanation": "Artigos de referência documentam os experimentos de Gregor Mendel com ervilhas (Pisum sativum) que estabeleceram as leis da hereditariedade (Leis de Mendel).",
+		"source_abnt": "NATURE EDUCATION. *Gregor Mendel and the Principles of Inheritance*. Cambridge, MA: Nature Education, 2014. Disponível em: https://www.nature.com/scitable/topicpage/gregor-mendel-and-the-principles-of-inheritance-593/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC041",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "O que o \"Princípio da Incerteza de Heisenberg\", um pilar da mecânica quântica, afirma?",
+		"options": [
+			{ "description": "Que é impossível saber se um elétron é uma onda ou uma partícula ao mesmo tempo.", "isCorrect": false },
+			{ "description": "Que não podemos medir simultaneamente e com precisão absoluta a posição e o momento (velocidade) de uma partícula.", "isCorrect": true },
+			{ "description": "Que o ato de observar um evento quântico altera permanentemente o observador.", "isCorrect": false },
+			{ "description": "Que a energia total de um sistema quântico é sempre incerta.", "isCorrect": false }
+		],
+		"source_explanation": "O artigo original de 1927 de Werner Heisenberg introduz o princípio da incerteza, um limite fundamental na precisão com que pares de propriedades (posição e momento) podem ser conhecidos.",
+		"source_abnt": "HEISENBERG, Werner. Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik. *Zeitschrift für Physik*, Berlim, v. 43, n. 3-4, p. 172-198, 1927."
+	},
+	{
+		"id": "CTEC042",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "O que é o \"Entrelaçamento Quântico\" (Quantum Entanglement)?",
+		"options": [
+			{ "description": "Um estado em que duas ou mais partículas estão ligadas de tal forma que medir uma propriedade de uma (como o spin) afeta instantaneamente a propriedade da outra, não importa a distância.", "isCorrect": true },
+			{ "description": "A teoria de que todas as partículas estão conectadas por cordas vibratórias.", "isCorrect": false },
+			{ "description": "O processo de teletransporte de uma partícula de um local para outro.", "isCorrect": false },
+			{ "description": "A capacidade de uma partícula estar em dois lugares ao mesmo tempo (superposição).", "isCorrect": false }
+		],
+		"source_explanation": "O artigo de 1935 (Paradoxo EPR) descreveu o fenômeno, que Einstein chamou de \"ação fantasmagórica à distância\", como uma falha da mecânica quântica.",
+		"source_abnt": "EINSTEIN, Albert; PODOLSKY, Boris; ROSEN, Nathan. Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?. *Physical Review*, v. 47, n. 10, p. 777-780, 15 maio 1935."
+	},
+	{
+		"id": "CTEC043",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "Em biologia molecular, qual é a função da enzima \"Transcriptase Reversa\", encontrada em retrovírus como o HIV?",
+		"options": [
+			{ "description": "Ela traduz o mRNA em proteínas no ribossomo.", "isCorrect": false },
+			{ "description": "Ela corta o DNA do hospedeiro em locais específicos (como o CRISPR).", "isCorrect": false },
+			{ "description": "Ela sintetiza DNA a partir de um molde de RNA, invertendo o \"Dogma Central\" da biologia.", "isCorrect": true },
+			{ "description": "Ela corrige erros durante a replicação do DNA.", "isCorrect": false }
+		],
+		"source_explanation": "A descoberta independente da enzima por Baltimore e Temin (Prêmio Nobel de 1975) provou que a informação genética podia fluir \"para trás\", de RNA para DNA.",
+		"source_abnt": "BALTIMORE, David. RNA-dependent DNA polymerase in virions of RNA tumour viruses. *Nature*, Londres, v. 226, p. 1209-1211, 27 jun. 1970."
+	},
+	{
+		"id": "CTEC044",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "Na cosmologia, qual é a diferença fundamental entre \"Matéria Escura\" e \"Energia Escura\"?",
+		"options": [
+			{ "description": "São o mesmo fenômeno; a Matéria Escura é a causa e a Energia Escura é o efeito.", "isCorrect": false },
+			{ "description": "A Matéria Escura atua como uma \"cola\" gravitacional que mantém as galáxias unidas; a Energia Escura atua como uma força repulsiva que acelera a expansão do universo.", "isCorrect": true },
+			{ "description": "A Matéria Escura é encontrada dentro de buracos negros; a Energia Escura está no espaço vazio entre eles.", "isCorrect": false },
+			{ "description": "A Matéria Escura bloqueia a luz (é escura); a Energia Escura emite luz em alta frequência.", "isCorrect": false }
+		],
+		"source_explanation": "A NASA explica que a Matéria Escura (gravitacional) e a Energia Escura (repulsiva) são os dois maiores mistérios da cosmologia, compondo >95% do universo.",
+		"source_abnt": "NASA. *Dark Energy, Dark Matter*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/astrophysics/focus-areas/what-is-dark-energy/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC045",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "O que é o \"Limite de Chandrasekhar\" na astrofísica?",
+		"options": [
+			{ "description": "A distância máxima que a luz pode percorrer desde o Big Bang.", "isCorrect": false },
+			{ "description": "A massa máxima que uma estrela anã branca pode ter (cerca de 1.4 massas solares) antes de colapsar em uma supernova ou estrela de nêutrons.", "isCorrect": true },
+			{ "description": "O ponto em que um buraco negro começa a evaporar (Radiação Hawking).", "isCorrect": false },
+			{ "description": "A temperatura mínima possível no universo (Zero Absoluto).", "isCorrect": false }
+		],
+		"source_explanation": "Artigo do astrofísico Subrahmanyan Chandrasekhar (1931) que calculou o limite de massa (c. 1.4 M☉) que uma anã branca pode ter antes de colapsar.",
+		"source_abnt": "CHANDRASEKHAR, Subrahmanyan. The Maximum Mass of Ideal White Dwarfs. *The Astrophysical Journal*, v. 74, p. 81, 1931."
+	},
+	{
+		"id": "CTEC046",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "Qual é a função da tecnologia CRISPR-Cas9, uma revolução na engenharia genética?",
+		"options": [
+			{ "description": "É um sistema de \"edição de genes\" que usa a enzima Cas9 (uma \"tesoura\" molecular) guiada por um RNA para cortar o DNA em locais precisos.", "isCorrect": true },
+			{ "description": "É um algoritmo de computador que prevê a estrutura de proteínas (como o AlphaFold).", "isCorrect": false },
+			{ "description": "É um método para clonar organismos inteiros (como a Ovelha Dolly).", "isCorrect": false },
+			{ "description": "É um tipo de vacina de mRNA.", "isCorrect": false }
+		],
+		"source_explanation": "O artigo seminal (Prêmio Nobel 2020) que descreveu como o sistema CRISPR-Cas9, originalmente bacteriano, poderia ser programado para edição precisa de genomas.",
+		"source_abnt": "JINEK, Martin; CHYLINSKI, Krzysztof; FONFARA, Ines; HAUER, Michael; DOUDNA, Jennifer A.; CHARPENTIER, Emmanuelle. A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity. *Science*, v. 337, n. 6096, p. 816-821, 17 ago. 2012."
+	},
+	{
+		"id": "CTEC047",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "Na química, o que a \"Energia Livre de Gibbs\" (ΔG) prevê?",
+		"options": [
+			{ "description": "A velocidade (cinética) de uma reação química.", "isCorrect": false },
+			{ "description": "A espontaneidade de uma reação química (se ela pode ocorrer sem intervenção externa).", "isCorrect": true },
+			{ "description": "O pH de uma solução.", "isCorrect": false },
+			{ "description": "A quantidade de calor liberada em uma combustão (entalpia).", "isCorrect": false }
+		],
+		"source_explanation": "Em termodinâmica, a Energia Livre de Gibbs (G) é usada para determinar se uma reação será espontânea em temperatura e pressão constantes (ΔG < 0).",
+		"source_abnt": "ATKINS, Peter; DE PAULA, Julio. *Atkins' Physical Chemistry*. 11. ed. Oxford: Oxford University Press, 2018."
+	},
+	{
+		"id": "CTEC048",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "O que é \"Epigenética\"?",
+		"options": [
+			{ "description": "O estudo da herança genética que não altera a sequência de DNA subjacente (como metilação do DNA), but afeta a expressão dos genes.", "isCorrect": true },
+			{ "description": "O estudo de como o DNA de diferentes espécies (como Neandertais) se misturou com o Homo Sapiens.", "isCorrect": false },
+			{ "description": "A ciência da criação de vida artificial (biologia sintética).", "isCorrect": false },
+			{ "description": "O campo da genética focado exclusivamente em mutações que causam câncer.", "isCorrect": false }
+		],
+		"source_explanation": "Artigos de revisão na Nature definem epigenética como o estudo de mudanças hereditárias na função dos genes que ocorrem sem uma mudança na sequência do DNA.",
+		"source_abnt": "BIRD, Adrian. Epigenetics: The Definition. *Nature Reviews Genetics*, v. 8, p. 379, 2007."
+	},
+	{
+		"id": "CTEC049",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "Na ciência da computação, qual é o problema central da classe \"P vs. NP\"?",
+		"options": [
+			{ "description": "Se um computador quântico pode quebrar a criptografia (problema de Shor).", "isCorrect": false },
+			{ "description": "Se um problema cuja solução pode ser *verificada* rapidamente (NP) também pode ser *resolvido* rapidamente (P).", "isCorrect": true },
+			{ "description": "Se um computador pode se tornar consciente (Inteligência Artificial Forte).", "isCorrect": false },
+			{ "description": "Se a memória RAM pode ser mais rápida que a CPU.", "isCorrect": false }
+		],
+		"source_explanation": "A descrição oficial de um dos sete \"Problemas do Milênio\" do Clay Mathematics Institute questiona se P (tempo polinomial) é igual a NP (tempo polinomial não determinístico).",
+		"source_abnt": "CLAY MATHEMATICS INSTITUTE. *Millennium Problems: P vs NP Problem*. Cambridge, MA: CMI, [s.d.]. Disponível em: https://www.claymath.org/millennium-problems/p-vs-np-problem. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC050",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "Qual é a principal diferença entre a Relatividade Especial e a Relatividade Geral de Einstein?",
+		"options": [
+			{ "description": "A Especial trata da gravidade; a Geral trata da velocidade da luz.", "isCorrect": false },
+			{ "description": "A Especial trata de referenciais inerciais (velocidade constante); a Geral explica a gravidade como a curvatura do espaço-tempo causada pela massa/energia.", "isCorrect": true },
+			{ "description": "A Especial é sobre o tempo; a Geral é sobre o espaço.", "isCorrect": false },
+			{ "description": "A Especial foi provada; a Geral ainda é apenas uma teoria.", "isCorrect": false }
+		],
+		"source_explanation": "A Relatividade Especial (1905) trata de referenciais inerciais. A Relatividade Geral (1915) é a teoria da gravidade.",
+		"source_abnt": "EINSTEIN, Albert. *Relatividade: a teoria especial e geral*. Tradução de Carlos A. P. de Andrade. Rio de Janeiro: Contraponto, 1999."
+	},
+	{
+		"id": "CTEC051",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "O \"Modelo Padrão\" da física de partículas é incompleto por quê?",
+		"options": [
+			{ "description": "Ele não inclui a força gravitacional nem explica a matéria escura.", "isCorrect": true },
+			{ "description": "Ele não explica a força eletromagnética.", "isCorrect": false },
+			{ "description": "Ele foi provado errado pelo Bóson de Higgs.", "isCorrect": false },
+			{ "description": "Ele não inclui elétrons ou prótons.", "isCorrect": false }
+		],
+		"source_explanation": "A descrição oficial do CERN sobre o Modelo Padrão (que é altamente bem-sucedido) menciona que ele não incorpora a gravidade nem explica a matéria escura.",
+		"source_abnt": "CERN. *The Standard Model*. Genebra: CERN, [s.d.]. Disponível em: https://home.cern/science/physics/standard-model. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC052",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "Como funciona o \"Teste de Turing\", proposto por Alan Turing para a inteligência artificial?",
+		"options": [
+			{ "description": "Um teste de matemática que apenas um supercomputador pode resolver.", "isCorrect": false },
+			{ "description": "Um juiz humano conversa (via texto) com um humano e uma máquina. Se o juiz não conseguir diferenciar quem é a máquina, ela \"passa\" no teste.", "isCorrect": true },
+			{ "description": "Um robô deve navegar por um labirinto físico.", "isCorrect": false },
+			{ "description": "Um teste que mede a capacidade de uma IA de escrever música clássica.", "isCorrect": false }
+		],
+		"source_explanation": "O artigo seminal de 1950 de Alan Turing, \"Computing Machinery and Intelligence\", propõe o \"Jogo da Imitação\" (agora Teste de Turing).",
+		"source_abnt": "TURING, Alan M. Computing Machinery and Intelligence. *Mind*, Oxford, v. LIX, n. 236, p. 433-460, out. 1950."
+	},
+	{
+		"id": "CTEC053",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "Em química orgânica, o que é um \"enantiômero\" (ou estereoisômero óptico)?",
+		"options": [
+			{ "description": "Moléculas com a mesma fórmula, mas diferentes pontos de ebulição.", "isCorrect": false },
+			{ "description": "Moléculas que são imagens espelhadas não sobreponíveis uma da outra (como as mãos esquerda e direita).", "isCorrect": true },
+			{ "description": "Moléculas que mudam de cor na presença de luz.", "isCorrect": false },
+			{ "description": "Isótopos radioativos de carbono.", "isCorrect": false }
+		],
+		"source_explanation": "O \"Livro de Ouro\" da IUPAC define enantiômeros como um par de estereoisômeros que são imagens especulares um do outro e não são sobreponíveis.",
+		"source_abnt": "IUPAC. *Compendium of Chemical Terminology* (Gold Book). Research Triangle Park, NC: IUPAC, 2019. (Verbete: enantiomer)."
+	},
+	{
+		"id": "CTEC054",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "Em informática, o que é \"Blockchain\" (cadeia de blocos) em seu nível mais fundamental?",
+		"options": [
+			{ "description": "Um tipo de supercomputador usado para mineração de Bitcoin.", "isCorrect": false },
+			{ "description": "Um banco de dados (livro-razão) distribuído, imutável e criptografado, onde as transações são registradas em \"blocos\" ligados.", "isCorrect": true },
+			{ "description": "Um software antivírus que bloqueia sites maliciosos.", "isCorrect": false },
+			{ "description": "Um algoritmo de compressão de arquivos.", "isCorrect": false }
+		],
+		"source_explanation": "A definição técnica do NIST descreve blockchain como um livro-razão distribuído e imutável de transações.",
+		"source_abnt": "NIST (NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY). *Blockchain Technology Overview*. (NISTIR 8202). Gaithersburg, MD: NIST, jan. 2018."
+	},
+	{
+		"id": "CTEC055",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "Em biologia, o que a \"Hipótese do Mundo do RNA\" (RNA World Hypothesis) sugere?",
+		"options": [
+			{ "description": "Que o RNA foi a primeira forma de vida na Terra, capaz tanto de armazenar informação (como o DNA) quanto de catalisar reações (como as proteínas).", "isCorrect": true },
+			{ "description": "Que o RNA irá eventualmente substituir o DNA como o principal material genético.", "isCorrect": false },
+			{ "description": "Que os vírus de RNA (como o da gripe) são mais evoluídos que os vírus de DNA.", "isCorrect": false },
+			{ "description": "Que a vida na Terra foi trazida por um meteorito contendo RNA.", "isCorrect": false }
+		],
+		"source_explanation": "Artigo de 1986 de Walter Gilbert na revista Nature que cunhou o termo e propôs a hipótese do RNA como a molécula primordial da vida.",
+		"source_abnt": "GILBERT, Walter. The RNA World. *Nature*, Londres, v. 319, p. 618, 20 fev. 1986."
+	},
+	{
+		"id": "CTEC056",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "O que as Equações de Maxwell, formuladas no século XIX, unificaram?",
+		"options": [
+			{ "description": "A gravidade e a mecânica quântica.", "isCorrect": false },
+			{ "description": "A eletricidade, o magnetismo e a luz (como ondas eletromagnéticas).", "isCorrect": true },
+			{ "description": "A termodinâmica e a mecânica estatística.", "isCorrect": false },
+			{ "description": "A química orgânica e a inorgânica.", "isCorrect": false }
+		],
+		"source_explanation": "O artigo seminal de 1865 de James Clerk Maxwell unificou matematicamente a eletricidade e o magnetismo, prevendo que a luz era uma onda eletromagnética.",
+		"source_abnt": "MAXWELL, James Clerk. A Dynamical Theory of the Electromagnetic Field. *Philosophical Transactions of the Royal Society of London*, Londres, v. 155, p. 459-512, 1865."
+	},
+	{
+		"id": "CTEC057",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "O que é o \"Efeito Fotoelétrico\", pelo qual Albert Einstein ganhou o Prêmio Nobel?",
+		"options": [
+			{ "description": "A emissão de elétrons de um material quando a luz incide sobre ele, provando que a luz se comporta como partícula (fóton).", "isCorrect": true },
+			{ "description": "A criação de fotografias usando reações químicas à luz.", "isCorrect": false },
+			{ "description": "A curvatura da luz pela gravidade.", "isCorrect": false },
+			{ "description": "A produção de eletricidade a partir do calor (efeito termoelétrico).", "isCorrect": false }
+		],
+		"source_explanation": "A citação oficial do Prêmio Nobel de Física de 1921 de Einstein foi \"por seus serviços à Física Teórica e, especialmente, pela descoberta da lei do efeito fotoelétrico\".",
+		"source_abnt": "FUNDAÇÃO NOBEL. *The Nobel Prize in Physics 1921*. Estocolmo: Fundação Nobel, 1921. Disponível em: https://www.nobelprize.org/prizes/physics/1921/summary/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CTEC058",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "Na ciência da computação, qual é a principal diferença entre Inteligência Artificial \"Fraca\" (Weak AI) e \"Forte\" (Strong AI)?",
+		"options": [
+			{ "description": "IA Fraca roda em computadores lentos; IA Forte roda em supercomputadores.", "isCorrect": false },
+			{ "description": "IA Fraca é focada em uma tarefa específica (ex: jogar xadrez); IA Forte teria senciência e consciência humana geral.", "isCorrect": true },
+			{ "description": "IA Fraca usa lógica; IA Forte usa redes neurais.", "isCorrect": false },
+			{ "description": "IA Fraca é teórica; IA Forte já existe (ex: ChatGPT).", "isCorrect": false }
+		],
+		"source_explanation": "O artigo do filósofo John Searle (1980) introduz a distinção filosófica entre IA Fraca (simulação de inteligência) e IA Forte (consciência real).",
+		"source_abnt": "SEARLE, John R. Minds, Brains, and Programs. *Behavioral and Brain Sciences*, Cambridge, v. 3, n. 3, p. 417-457, set. 1980."
+	},
+	{
+		"id": "CTEC059",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "Em astronomia, o que é a \"Esfera de Roche\" (ou Limite de Roche)?",
+		"options": [
+			{ "description": "O ponto em que a gravidade de um buraco negro se torna infinita (singularidade).", "isCorrect": false },
+			{ "description": "A distância mínima que um satélite (como uma lua) pode chegar de um corpo maior (como um planeta) antes de ser destruído pelas forças de maré.", "isCorrect": true },
+			{ "description": "A \"zona habitável\" ao redor de uma estrela onde a água líquida pode existir.", "isCorrect": false },
+			{ "description": "A fronteira do sistema solar (heliopausa).", "isCorrect": false }
+		],
+		"source_explanation": "Os trabalhos acadêmicos de Édouard Roche (c. 1849) calcularam o limite teórico onde as forças de maré de um corpo primário (planeta) superam a autogravidade de um satélite.",
+		"source_abnt": "ROCHE, Édouard. La figure d'une masse fluide soumise à l'attraction d'un point éloigné. *Mémoires de l'Académie des Sciences de Montpellier*, Montpellier, v. 1, p. 243-262, 1849."
+	},
+	{
+		"id": "CTEC060",
+		"category": "Ciência e Tecnologia",
+		"level": "hard",
+		"question": "O que é um \"Quasar\" (Fonte de Rádio Quase Estelar)?",
+		"options": [
+			{ "description": "Uma estrela de nêutrons que gira rapidamente (um pulsar).", "isCorrect": false },
+			{ "description": "Um núcleo galáctico extremamente luminoso e distante, alimentado por um buraco negro supermassivo que está consumindo matéria.", "isCorrect": true },
+			{ "description": "Uma galáxia recém-formada que consiste apenas de estrelas jovens e azuis.", "isCorrect": false },
+			{ "description": "Um tipo de nebulosa que emite fortes sinais de rádio.", "isCorrect": false }
+		],
+		"source_explanation": "A definição oficial da NASA descreve Quasares (Quasi-Stellar Objects) como os objetos mais luminosos do universo, alimentados por buracos negros supermassivos.",
+		"source_abnt": "NASA. *What Is a Quasar?*. Washington, D.C.: NASA, [s.d.]. Disponível em: https://science.nasa.gov/astrophysics/focus-areas/black-holes/quasars/. Acesso em: 6 nov. 2025."
+	}
+]

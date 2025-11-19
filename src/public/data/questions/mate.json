@@ -1,0 +1,842 @@
+[
+  {
+    "id": "MATE001",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "Qual é o valor aproximado da constante matemática Pi (π), usada para calcular a circunferência de um círculo?",
+    "options": [
+      { "description": "3,14", "isCorrect": true },
+      { "description": "2,50", "isCorrect": false },
+      { "description": "4,12", "isCorrect": false },
+      { "description": "1,61", "isCorrect": false }
+    ],
+    "source_explanation": "Pi (π) é a razão entre a circunferência de um círculo e seu diâmetro, sendo aproximadamente 3,14159.",
+    "source_abnt": "BOYER, Carl B. *História da Matemática*. Tradução de Elza F. Gomide. 3. ed. São Paulo: Blucher, 2010."
+  },
+  {
+    "id": "MATE002",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "Qual teorema famoso estabelece que, em um triângulo retângulo, o quadrado da hipotenusa é igual à soma dos quadrados dos catetos?",
+    "options": [
+      { "description": "Teorema de Tales", "isCorrect": false },
+      { "description": "Teorema de Pitágoras", "isCorrect": true },
+      { "description": "Teorema de Bháskara", "isCorrect": false },
+      { "description": "Teorema de Fermat", "isCorrect": false }
+    ],
+    "source_explanation": "O Teorema de Pitágoras (a² = b² + c²) é uma das relações fundamentais na geometria euclidiana.",
+    "source_abnt": "EVES, Howard. *Introdução à História da Matemática*. Tradução de Hygino H. Domingues. Campinas: Editora da UNICAMP, 2004."
+  },
+  {
+    "id": "MATE003",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "O que é um \"número primo\"?",
+    "options": [
+      { "description": "Um número que é divisível por 2.", "isCorrect": false },
+      { "description": "Um número que possui apenas dois divisores: o número 1 e ele mesmo.", "isCorrect": true },
+      { "description": "Um número que termina em 0 ou 5.", "isCorrect": false },
+      { "description": "Um número negativo.", "isCorrect": false }
+    ],
+    "source_explanation": "Números primos são os blocos de construção da aritmética, divisíveis apenas por 1 e por si mesmos (ex: 2, 3, 5, 7).",
+    "source_abnt": "ENCYCLOPÆDIA BRITANNICA. Prime number. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/prime-number. Acesso em: 7 nov. 2025."
+  },
+  {
+    "id": "MATE004",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "Quem é considerado o \"pai da computação\" moderna e decifrou o código Enigma na Segunda Guerra Mundial?",
+    "options": [
+      { "description": "Bill Gates", "isCorrect": false },
+      { "description": "Isaac Newton", "isCorrect": false },
+      { "description": "Alan Turing", "isCorrect": true },
+      { "description": "Steve Jobs", "isCorrect": false }
+    ],
+    "source_explanation": "Alan Turing formalizou os conceitos de algoritmo e computação com a máquina de Turing e foi crucial na quebra dos códigos nazistas.",
+    "source_abnt": "HODGES, Andrew. *Alan Turing: The Enigma*. Londres: Burnett Books, 1983."
+  },
+  {
+    "id": "MATE005",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "Qual sistema numérico é usado internamente pelos computadores, composto apenas por 0 e 1?",
+    "options": [
+      { "description": "Decimal", "isCorrect": false },
+      { "description": "Hexadecimal", "isCorrect": false },
+      { "description": "Binário", "isCorrect": true },
+      { "description": "Romano", "isCorrect": false }
+    ],
+    "source_explanation": "O sistema binário (base 2) é a linguagem fundamental dos computadores, representando estados de ligado/desligado.",
+    "source_abnt": "PATTERSON, David A.; HENNESSY, John L. *Organização e Projeto de Computadores*. 5. ed. Rio de Janeiro: LTC, 2014."
+  },
+  {
+    "id": "MATE006",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "Em lógica, se \"A implica B\" e \"A é verdadeiro\", o que podemos concluir?",
+    "options": [
+      { "description": "B é falso.", "isCorrect": false },
+      { "description": "B é verdadeiro.", "isCorrect": true },
+      { "description": "A é falso.", "isCorrect": false },
+      { "description": "Nada podemos concluir.", "isCorrect": false }
+    ],
+    "source_explanation": "Esta é a regra de inferência básica chamada *Modus Ponens*.",
+    "source_abnt": "COPI, Irving M. *Introdução à Lógica*. Tradução de Álvaro Cabral. 2. ed. São Paulo: Mestre Jou, 1978."
+  },
+  {
+    "id": "MATE007",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "Qual é o único número primo que é par?",
+    "options": [
+      { "description": "4", "isCorrect": false },
+      { "description": "1", "isCorrect": false },
+      { "description": "2", "isCorrect": true },
+      { "description": "0", "isCorrect": false }
+    ],
+    "source_explanation": "O número 2 é o único número par que tem apenas dois divisores (1 e 2). Todos os outros pares são divisíveis por 2.",
+    "source_abnt": "BOYER, Carl B. *História da Matemática*. 3. ed. São Paulo: Blucher, 2010."
+  },
+  {
+    "id": "MATE008",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "Qual matemático grego antigo é famoso por gritar \"Eureka!\" ao descobrir o princípio do deslocamento de fluidos na banheira?",
+    "options": [
+      { "description": "Euclides", "isCorrect": false },
+      { "description": "Arquimedes", "isCorrect": true },
+      { "description": "Pitágoras", "isCorrect": false },
+      { "description": "Platão", "isCorrect": false }
+    ],
+    "source_explanation": "A lenda diz que Arquimedes descobriu como medir o volume da coroa do rei (Princípio de Arquimedes) ao entrar no banho.",
+    "source_abnt": "VITRÚVIO. *De Architectura*. Livro IX. Tradução de M. Justino Maciel. São Paulo: Hucitec, 1999."
+  },
+  {
+    "id": "MATE009",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "O que é um algoritmo?",
+    "options": [
+      { "description": "Um tipo de vírus de computador.", "isCorrect": false },
+      { "description": "Uma sequência finita de passos bem definidos para resolver um problema.", "isCorrect": true },
+      { "description": "Um número infinito.", "isCorrect": false },
+      { "description": "Um erro de cálculo.", "isCorrect": false }
+    ],
+    "source_explanation": "Algoritmo é o conceito central da ciência da computação, nomeado em homenagem ao matemático persa Al-Khwarizmi.",
+    "source_abnt": "CORMEN, Thomas H. et al. *Algoritmos: Teoria e Prática*. Rio de Janeiro: Elsevier, 2012."
+  },
+  {
+    "id": "MATE010",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "Qual é a soma dos ângulos internos de um triângulo?",
+    "options": [
+      { "description": "90 graus", "isCorrect": false },
+      { "description": "360 graus", "isCorrect": false },
+      { "description": "180 graus", "isCorrect": true },
+      { "description": "270 graus", "isCorrect": false }
+    ],
+    "source_explanation": "Na geometria euclidiana, a soma dos ângulos internos de qualquer triângulo é sempre 180 graus.",
+    "source_abnt": "EUCLIDES. *Os Elementos*. Tradução de Irineu Bicudo. São Paulo: Editora Unesp, 2009."
+  },
+  {
+    "id": "MATE011",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "Quem foi Ada Lovelace?",
+    "options": [
+      { "description": "Uma rainha da Inglaterra.", "isCorrect": false },
+      { "description": "A primeira pessoa a escrever um algoritmo para ser processado por uma máquina (a primeira programadora).", "isCorrect": true },
+      { "description": "A inventora da calculadora.", "isCorrect": false },
+      { "description": "Uma astrônoma famosa.", "isCorrect": false }
+    ],
+    "source_explanation": "Ada Lovelace escreveu o primeiro algoritmo para a Máquina Analítica de Charles Babbage em 1843.",
+    "source_abnt": "ESSINGER, James. *Ada's Algorithm: How Lord Byron's Daughter Ada Lovelace Launched the Digital Age*. Londres: Gibson Square, 2013."
+  },
+  {
+    "id": "MATE012",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "O que é um polígono de 5 lados?",
+    "options": [
+      { "description": "Hexágono", "isCorrect": false },
+      { "description": "Quadrado", "isCorrect": false },
+      { "description": "Pentágono", "isCorrect": true },
+      { "description": "Octógono", "isCorrect": false }
+    ],
+    "source_explanation": "Do grego *pente* (cinco) e *gonia* (ângulo).",
+    "source_abnt": "DOLCE, Osvaldo; POMPEO, José Nicolau. *Fundamentos de Matemática Elementar: Geometria Plana*. São Paulo: Atual, 2013."
+  },
+  {
+    "id": "MATE013",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "Qual é o resultado de qualquer número (exceto zero) elevado à potência de zero?",
+    "options": [
+      { "description": "Zero", "isCorrect": false },
+      { "description": "O próprio número", "isCorrect": false },
+      { "description": "Um", "isCorrect": true },
+      { "description": "Infinito", "isCorrect": false }
+    ],
+    "source_explanation": "Por definição e regras de exponenciação, x^0 = 1 (para x ≠ 0).",
+    "source_abnt": "IEZZI, Gelson. *Fundamentos de Matemática Elementar: Logaritmos*. São Paulo: Atual, 2013."
+  },
+  {
+    "id": "MATE014",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "Na sequência de Fibonacci (0, 1, 1, 2, 3, 5...), qual é o próximo número?",
+    "options": [
+      { "description": "6", "isCorrect": false },
+      { "description": "7", "isCorrect": false },
+      { "description": "8", "isCorrect": true },
+      { "description": "10", "isCorrect": false }
+    ],
+    "source_explanation": "Cada número é a soma dos dois anteriores (3 + 5 = 8).",
+    "source_abnt": "BOYER, Carl B. *História da Matemática*. 3. ed. São Paulo: Blucher, 2010. (Capítulo sobre Fibonacci)."
+  },
+  {
+    "id": "MATE015",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "Qual matemático e físico inglês desenvolveu o Cálculo (simultaneamente com Leibniz)?",
+    "options": [
+      { "description": "Galileu Galilei", "isCorrect": false },
+      { "description": "Isaac Newton", "isCorrect": true },
+      { "description": "Albert Einstein", "isCorrect": false },
+      { "description": "Stephen Hawking", "isCorrect": false }
+    ],
+    "source_explanation": "Newton desenvolveu o \"método das fluxões\" (cálculo) em 1666, embora Leibniz tenha publicado primeiro.",
+    "source_abnt": "WESTFALL, Richard S. *A Vida de Isaac Newton*. Tradução de Vera Ribeiro. Rio de Janeiro: Nova Fronteira, 1995."
+  },
+  {
+    "id": "MATE016",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "O que é um \"googol\"?",
+    "options": [
+      { "description": "O número 1 seguido de 100 zeros.", "isCorrect": true },
+      { "description": "Um site de busca.", "isCorrect": false },
+      { "description": "O infinito.", "isCorrect": false },
+      { "description": "O número 1000.", "isCorrect": false }
+    ],
+    "source_explanation": "O termo foi cunhado em 1920 por Milton Sirotta (sobrinho do matemático Edward Kasner) para descrever 10 elevado a 100.",
+    "source_abnt": "KASNER, Edward; NEWMAN, James. *Mathematics and the Imagination*. Nova York: Simon & Schuster, 1940."
+  },
+  {
+    "id": "MATE017",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "Qual é a probabilidade de obter \"cara\" ao lançar uma moeda justa?",
+    "options": [
+      { "description": "25%", "isCorrect": false },
+      { "description": "50% (1/2)", "isCorrect": true },
+      { "description": "75%", "isCorrect": false },
+      { "description": "100%", "isCorrect": false }
+    ],
+    "source_explanation": "Existem dois resultados possíveis (cara ou coroa), então a chance é de 1 em 2.",
+    "source_abnt": "MOORE, David S. *A Estatística Básica e sua Prática*. 3. ed. Rio de Janeiro: LTC, 2005."
+  },
+  {
+    "id": "MATE018",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "O que significa o símbolo ∞?",
+    "options": [
+      { "description": "Zero", "isCorrect": false },
+      { "description": "Pi", "isCorrect": false },
+      { "description": "Infinito", "isCorrect": true },
+      { "description": "Conjunto Vazio", "isCorrect": false }
+    ],
+    "source_explanation": "A lemniscata (∞) é o símbolo matemático padrão para o conceito de infinito, introduzido por John Wallis em 1655.",
+    "source_abnt": "CAJORI, Florian. *A History of Mathematical Notations*. Nova York: Dover Publications, 1993."
+  },
+  {
+    "id": "MATE019",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "Qual é o instrumento usado para desenhar círculos perfeitos?",
+    "options": [
+      { "description": "Régua", "isCorrect": false },
+      { "description": "Transferidor", "isCorrect": false },
+      { "description": "Compasso", "isCorrect": true },
+      { "description": "Esquadro", "isCorrect": false }
+    ],
+    "source_explanation": "O compasso é a ferramenta clássica da geometria euclidiana para traçar arcos e círculos.",
+    "source_abnt": "EUCLIDES. *Os Elementos*. (Definições e Postulados). Tradução de Irineu Bicudo. São Paulo: Editora Unesp, 2009."
+  },
+  {
+    "id": "MATE020",
+    "category": "Matemática e Lógica",
+    "level": "easy",
+    "question": "Se um trem viaja a 100 km/h, quanto tempo ele leva para percorrer 200 km?",
+    "options": [
+      { "description": "1 hora", "isCorrect": false },
+      { "description": "30 minutos", "isCorrect": false },
+      { "description": "2 horas", "isCorrect": true },
+      { "description": "3 horas", "isCorrect": false }
+    ],
+    "source_explanation": "Fórmula básica: Tempo = Distância / Velocidade (200 / 100 = 2).",
+    "source_abnt": "HALLIDAY, David; RESNICK, Robert. *Fundamentos de Física*. Vol 1. Rio de Janeiro: LTC, 2012."
+  },
+  {
+    "id": "MATE021",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "Qual é o valor aproximado da \"Proporção Áurea\" (Phi - φ)?",
+    "options": [
+      { "description": "1,414", "isCorrect": false },
+      { "description": "1,618", "isCorrect": true },
+      { "description": "2,718", "isCorrect": false },
+      { "description": "3,141", "isCorrect": false }
+    ],
+    "source_explanation": "O Número de Ouro (Phi) é (1 + √5) / 2, aproximadamente 1,618, famoso por sua estética na arte e natureza.",
+    "source_abnt": "LIVIO, Mario. *A Razão Áurea: A História do Fi*. Rio de Janeiro: Record, 2006."
+  },
+  {
+    "id": "MATE022",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "O \"Gato de Schrödinger\" é um experimento mental que ilustra qual conceito?",
+    "options": [
+      { "description": "A gravidade", "isCorrect": false },
+      { "description": "A evolução das espécies", "isCorrect": false },
+      { "description": "A superposição quântica (estar vivo e morto ao mesmo tempo)", "isCorrect": true },
+      { "description": "O efeito placebo", "isCorrect": false }
+    ],
+    "source_explanation": "Erwin Schrödinger propôs o paradoxo em 1935 para mostrar o absurdo da interpretação de Copenhague quando aplicada a objetos macroscópicos.",
+    "source_abnt": "SCHRÖDINGER, Erwin. Die gegenwärtige Situation in der Quantenmechanik. *Naturwissenschaften*, v. 23, p. 807-812, 1935."
+  },
+  {
+    "id": "MATE023",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "Em lógica booleana (usada em computação), qual é o resultado de: 1 AND 0?",
+    "options": [
+      { "description": "1 (Verdadeiro)", "isCorrect": false },
+      { "description": "0 (Falso)", "isCorrect": true },
+      { "description": "Indefinido", "isCorrect": false },
+      { "description": "2", "isCorrect": false }
+    ],
+    "source_explanation": "Na lógica E (AND), o resultado só é verdadeiro (1) se *ambas* as entradas forem verdadeiras. Se uma é falsa (0), o resultado é falso.",
+    "source_abnt": "BOOLE, George. *The Laws of Thought*. Londres: Walton and Maberly, 1854."
+  },
+  {
+    "id": "MATE024",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "O \"Paradoxo de Zenão\" (Aquiles e a Tartaruga) argumenta que...",
+    "options": [
+      { "description": "O movimento é uma ilusão, pois para chegar a um ponto, deve-se percorrer a metade do caminho infinitas vezes.", "isCorrect": true },
+      { "description": "Aquiles sempre vencerá porque é mais rápido.", "isCorrect": false },
+      { "description": "O tempo é circular.", "isCorrect": false },
+      { "description": "A tartaruga é mais inteligente que Aquiles.", "isCorrect": false }
+    ],
+    "source_explanation": "Aristóteles relata os paradoxos de Zenão de Eleia, que usavam a divisão infinita do espaço para negar a realidade do movimento.",
+    "source_abnt": "ARISTÓTELES. *Física*. Tradução de Guillermo R. de Echandía. Madrid: Gredos, 1995. (Livro VI)."
+  },
+  {
+    "id": "MATE025",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "O que é um \"fractal\"?",
+    "options": [
+      { "description": "Um erro de cálculo em computadores.", "isCorrect": false },
+      { "description": "Uma forma geométrica que exibe autossimilaridade em diferentes escalas (parece a mesma de perto ou de longe).", "isCorrect": true },
+      { "description": "Um tipo de triângulo impossível.", "isCorrect": false },
+      { "description": "Uma fração que nunca termina.", "isCorrect": false }
+    ],
+    "source_explanation": "Benoit Mandelbrot cunhou o termo em 1975 para descrever formas complexas da natureza (como o litoral) que a geometria euclidiana não conseguia explicar.",
+    "source_abnt": "MANDELBROT, Benoit B. *The Fractal Geometry of Nature*. Nova York: W.H. Freeman and Company, 1982."
+  },
+  {
+    "id": "MATE026",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "Qual matemático persa escreveu o livro \"Al-Jabr\", que deu origem à palavra \"Álgebra\"?",
+    "options": [
+      { "description": "Avicena", "isCorrect": false },
+      { "description": "Al-Khwarizmi", "isCorrect": true },
+      { "description": "Omar Khayyam", "isCorrect": false },
+      { "description": "Euclides", "isCorrect": false }
+    ],
+    "source_explanation": "Muhammad ibn Musa al-Khwarizmi (c. 820 d.C.) escreveu o \"Livro Compendioso sobre o Cálculo por Restauração e Balanceamento\" (Al-Jabr).",
+    "source_abnt": "KATZ, Victor J. *A History of Mathematics: An Introduction*. 3. ed. Boston: Addison-Wesley, 2009."
+  },
+  {
+    "id": "MATE027",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "O que diz a \"Lei dos Grandes Números\" em probabilidade?",
+    "options": [
+      { "description": "Que é possível ganhar na loteria se você jogar muitas vezes.", "isCorrect": false },
+      { "description": "Que, conforme o número de experimentos aumenta, a média dos resultados obtidos se aproxima da média esperada (teórica).", "isCorrect": true },
+      { "description": "Que números maiores têm mais chance de serem sorteados.", "isCorrect": false },
+      { "description": "Que o acaso não existe.", "isCorrect": false }
+    ],
+    "source_explanation": "Bernoulli provou que a frequência de um evento converge para sua probabilidade teórica à medida que o número de tentativas cresce.",
+    "source_abnt": "BERNOULLI, Jakob. *Ars Conjectandi*. Basileia: Thurneysen Brothers, 1713."
+  },
+  {
+    "id": "MATE028",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "O que é um \"Palíndromo\" (em lógica e linguística)?",
+    "options": [
+      { "description": "Uma palavra ou número que se lê da mesma forma de trás para frente (ex: OVO, 121).", "isCorrect": true },
+      { "description": "Uma palavra com todas as vogais.", "isCorrect": false },
+      { "description": "Um número que não pode ser dividido.", "isCorrect": false },
+      { "description": "Um argumento falso.", "isCorrect": false }
+    ],
+    "source_explanation": "A definição de palíndromo se aplica tanto a sequências de caracteres quanto a números capicuas.",
+    "source_abnt": "HOUAISS, Antônio. *Dicionário Houaiss da Língua Portuguesa*. Rio de Janeiro: Objetiva, 2001."
+  },
+  {
+    "id": "MATE029",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "Qual é a base do sistema numérico hexadecimal, muito usado em programação (cores, endereços)?",
+    "options": [
+      { "description": "Base 10", "isCorrect": false },
+      { "description": "Base 2", "isCorrect": false },
+      { "description": "Base 16", "isCorrect": true },
+      { "description": "Base 8", "isCorrect": false }
+    ],
+    "source_explanation": "O sistema hexadecimal usa 16 símbolos (0-9 e A-F) para representar valores, facilitando a leitura de códigos binários longos.",
+    "source_abnt": "PATTERSON, David A.; HENNESSY, John L. *Organização e Projeto de Computadores*. 5. ed. Rio de Janeiro: LTC, 2014."
+  },
+  {
+    "id": "MATE030",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "O \"Problema de Monty Hall\" (das três portas e o prêmio) demonstra que...",
+    "options": [
+      { "description": "Não faz diferença trocar de porta.", "isCorrect": false },
+      { "description": "É estatisticamente vantajoso trocar de porta, dobrando suas chances de ganhar (de 1/3 para 2/3).", "isCorrect": true },
+      { "description": "O apresentador sempre tenta te enganar.", "isCorrect": false },
+      { "description": "A probabilidade é 50/50 em qualquer caso.", "isCorrect": false }
+    ],
+    "source_explanation": "O paradoxo estatístico mostra que, ao revelar uma porta vazia, o apresentador adiciona informação ao sistema, tornando a troca matematicamente favorável.",
+    "source_abnt": "VOS SAVANT, Marilyn. Ask Marilyn. *Parade Magazine*, Nova York, 9 set. 1990."
+  },
+  {
+    "id": "MATE031",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "Qual mulher afro-americana da NASA calculou as trajetórias para o voo de John Glenn e a missão Apollo 11?",
+    "options": [
+      { "description": "Marie Curie", "isCorrect": false },
+      { "description": "Katherine Johnson", "isCorrect": true },
+      { "description": "Grace Hopper", "isCorrect": false },
+      { "description": "Rosalind Franklin", "isCorrect": false }
+    ],
+    "source_explanation": "A história de Katherine Johnson foi popularizada pelo livro e filme \"Estrelas Além do Tempo\", destacando seu papel vital na corrida espacial.",
+    "source_abnt": "SHETTERLY, Margot Lee. *Estrelas Além do Tempo*. Tradução de Cássia Zanon. Rio de Janeiro: HarperCollins Brasil, 2017."
+  },
+  {
+    "id": "MATE032",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "O que é um \"silogismo\"?",
+    "options": [
+      { "description": "Um tipo de gráfico.", "isCorrect": false },
+      { "description": "Um argumento lógico onde uma conclusão é inferida de duas premissas (ex: Todo homem é mortal; Sócrates é homem; logo...).", "isCorrect": true },
+      { "description": "Um erro de cálculo.", "isCorrect": false },
+      { "description": "Um número irracional.", "isCorrect": false }
+    ],
+    "source_explanation": "Aristóteles definiu o silogismo como a forma central do raciocínio dedutivo em sua obra \"Analíticos Anteriores\".",
+    "source_abnt": "ARISTÓTELES. *Organon*. Tradução de Edson Bini. Bauru, SP: Edipro, 2010."
+  },
+  {
+    "id": "MATE033",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "Qual é o nome do número de Euler (e), a base dos logaritmos naturais?",
+    "options": [
+      { "description": "2,718...", "isCorrect": true },
+      { "description": "3,141...", "isCorrect": false },
+      { "description": "1,618...", "isCorrect": false },
+      { "description": "1,414...", "isCorrect": false }
+    ],
+    "source_explanation": "A constante matemática 'e' é irracional e transcendente, fundamental no cálculo e crescimento exponencial.",
+    "source_abnt": "MAOR, Eli. *e: A História de um Número*. Tradução de Jorge Caldas. Lisboa: Gradiva, 2008."
+  },
+  {
+    "id": "MATE034",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "A \"Navalha de Hanlon\" é um aforismo lógico que sugere:",
+    "options": [
+      { "description": "A solução mais simples é a correta.", "isCorrect": false },
+      { "description": "Nunca atribua à malícia o que pode ser adequadamente explicado pela estupidez.", "isCorrect": true },
+      { "description": "O que pode dar errado, dará errado (Lei de Murphy).", "isCorrect": false },
+      { "description": "O trabalho se expande para preencher o tempo disponível.", "isCorrect": false }
+    ],
+    "source_explanation": "Este princípio filosófico ajuda a eliminar paranoias desnecessárias ao julgar o comportamento humano.",
+    "source_abnt": "BLOCh, Arthur. *Murphy's Law Book Two: More Reasons Why Things Go Wrong!*. Los Angeles: Price Stern Sloan, 1980."
+  },
+  {
+    "id": "MATE035",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "Em geometria, o que é a \"fita de Möbius\"?",
+    "options": [
+      { "description": "Uma superfície com apenas um lado e uma borda (não orientável).", "isCorrect": true },
+      { "description": "Uma esfera perfeita.", "isCorrect": false },
+      { "description": "Um cubo de quatro dimensões.", "isCorrect": false },
+      { "description": "Uma linha infinita.", "isCorrect": false }
+    ],
+    "source_explanation": "Descoberta por August Möbius em 1858, é uma superfície topológica fascinante formada ao torcer uma tira de papel e unir as pontas.",
+    "source_abnt": "BOYER, Carl B. *História da Matemática*. 3. ed. São Paulo: Blucher, 2010."
+  },
+  {
+    "id": "MATE036",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "O que são \"algarismos romanos\"?",
+    "options": [
+      { "description": "Um sistema posicional com zero.", "isCorrect": false },
+      { "description": "Um sistema numérico aditivo/subtrativo usando letras (I, V, X, L, C, D, M).", "isCorrect": true },
+      { "description": "Um sistema binário.", "isCorrect": false },
+      { "description": "Números usados apenas em relógios.", "isCorrect": false }
+    ],
+    "source_explanation": "O sistema romano dominou a Europa até a introdução dos algarismos indo-arábicos, sendo baseado em letras do alfabeto latino.",
+    "source_abnt": "IFRAH, Georges. *História Universal dos Algarismos*. Tradução de Alberto Muñoz e Ana Beatriz Katinsky. Rio de Janeiro: Nova Fronteira, 1997."
+  },
+  {
+    "id": "MATE037",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "Qual é a probabilidade de tirar um 6 em um dado de 6 lados?",
+    "options": [
+      { "description": "1/2", "isCorrect": false },
+      { "description": "1/6", "isCorrect": true },
+      { "description": "1/10", "isCorrect": false },
+      { "description": "1/3", "isCorrect": false }
+    ],
+    "source_explanation": "Há 6 resultados igualmente prováveis, então a chance de um específico ocorrer é 1 dividido por 6.",
+    "source_abnt": "MOORE, David S. *A Estatística Básica e sua Prática*. 3. ed. Rio de Janeiro: LTC, 2005."
+  },
+  {
+    "id": "MATE038",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "O que significa a falácia lógica \"Ad Hominem\"?",
+    "options": [
+      { "description": "Atacar o argumento com lógica.", "isCorrect": false },
+      { "description": "Atacar a pessoa que fez o argumento, em vez de responder ao argumento em si.", "isCorrect": true },
+      { "description": "Apelar para a emoção.", "isCorrect": false },
+      { "description": "Dizer que algo é verdade porque todos acreditam.", "isCorrect": false }
+    ],
+    "source_explanation": "Do latim \"ao homem\", é uma falácia de relevância onde o caráter do oponente é atacado para invalidar sua tese.",
+    "source_abnt": "COPI, Irving M. *Introdução à Lógica*. Tradução de Álvaro Cabral. 2. ed. São Paulo: Mestre Jou, 1978."
+  },
+  {
+    "id": "MATE039",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "O que é um \"ano bissexto\"?",
+    "options": [
+      { "description": "Um ano com 366 dias, para corrigir a diferença entre o ano calendário e o ano solar.", "isCorrect": true },
+      { "description": "Um ano com 364 dias.", "isCorrect": false },
+      { "description": "Um ano com 13 meses.", "isCorrect": false },
+      { "description": "Um ano que ocorre a cada 100 anos.", "isCorrect": false }
+    ],
+    "source_explanation": "Instituído por Júlio César e reformado por Gregório XIII, adiciona um dia em fevereiro a cada 4 anos (com exceções seculares) para alinhar o calendário.",
+    "source_abnt": "DUNCAN, David Ewing. *Calendar: Humanity's Epic Struggle to Determine a True and Accurate Year*. Nova York: Avon Books, 1998."
+  },
+  {
+    "id": "MATE040",
+    "category": "Matemática e Lógica",
+    "level": "medium",
+    "question": "Na geometria, o que é um ângulo de 90 graus chamado?",
+    "options": [
+      { "description": "Ângulo Agudo", "isCorrect": false },
+      { "description": "Ângulo Reto", "isCorrect": true },
+      { "description": "Ângulo Obtuso", "isCorrect": false },
+      { "description": "Ângulo Raso", "isCorrect": false }
+    ],
+    "source_explanation": "Um ângulo reto é formado pela interseção de duas retas perpendiculares, medindo exatamente 90°.",
+    "source_abnt": "DOLCE, Osvaldo; POMPEO, José Nicolau. *Fundamentos de Matemática Elementar: Geometria Plana*. São Paulo: Atual, 2013."
+  },
+  {
+    "id": "MATE041",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "O \"Último Teorema de Fermat\" ficou sem solução por 358 anos. Quem finalmente o provou em 1994?",
+    "options": [
+      { "description": "Isaac Newton", "isCorrect": false },
+      { "description": "Andrew Wiles", "isCorrect": true },
+      { "description": "Alan Turing", "isCorrect": false },
+      { "description": "Euler", "isCorrect": false }
+    ],
+    "source_explanation": "O britânico Andrew Wiles provou o teorema (xⁿ + yⁿ = zⁿ não tem solução para n > 2) usando curvas elípticas e formas modulares.",
+    "source_abnt": "WILES, Andrew. Modular elliptic curves and Fermat's Last Theorem. *Annals of Mathematics*, v. 141, n. 3, p. 443-551, 1995."
+  },
+  {
+    "id": "MATE042",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "O problema \"P vs NP\" é um dos 7 Problemas do Milênio. O que ele questiona fundamentalmente?",
+    "options": [
+      { "description": "Se computadores quânticos funcionam.", "isCorrect": false },
+      { "description": "Se todo problema cuja solução pode ser *verificada* rapidamente por um computador também pode ser *resolvido* rapidamente por um computador.", "isCorrect": true },
+      { "description": "Se a criptografia é segura.", "isCorrect": false },
+      { "description": "Se números primos são infinitos.", "isCorrect": false }
+    ],
+    "source_explanation": "É a questão central da teoria da complexidade computacional. Se P=NP, problemas complexos (como criptografia) seriam fáceis de resolver.",
+    "source_abnt": "COOK, Stephen. *The P versus NP Problem*. Clay Mathematics Institute, 2000. Disponível em: https://www.claymath.org/millennium-problems/p-vs-np-problem. Acesso em: 7 nov. 2025."
+  },
+  {
+    "id": "MATE043",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "Os \"Teoremas da Incompletude\" de Kurt Gödel abalaram a matemática ao provar que...",
+    "options": [
+      { "description": "A matemática é perfeita e completa.", "isCorrect": false },
+      { "description": "Em qualquer sistema axiomático consistente (como a aritmética), existem verdades que não podem ser provadas dentro desse sistema.", "isCorrect": true },
+      { "description": "O infinito não existe.", "isCorrect": false },
+      { "description": "1 + 1 nem sempre é 2.", "isCorrect": false }
+    ],
+    "source_explanation": "Publicado em 1931, o teorema acabou com o sonho de Hilbert de formalizar toda a matemática, provando que sempre haverá afirmações indecidíveis.",
+    "source_abnt": "GÖDEL, Kurt. Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I. *Monatshefte für Mathematik und Physik*, v. 38, p. 173-198, 1931."
+  },
+  {
+    "id": "MATE044",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "A \"Identidade de Euler\" (e^(iπ) + 1 = 0) é frequentemente chamada de \"a equação mais bela da matemática\" porque...",
+    "options": [
+      { "description": "É fácil de desenhar.", "isCorrect": false },
+      { "description": "Combina as cinco constantes matemáticas mais importantes (0, 1, e, i, π) em uma única fórmula simples.", "isCorrect": true },
+      { "description": "Resolve a quadratura do círculo.", "isCorrect": false },
+      { "description": "Prova a existência de Deus.", "isCorrect": false }
+    ],
+    "source_explanation": "A fórmula conecta aritmética (0, 1), álgebra (i), geometria (π) e análise (e) de forma surpreendente.",
+    "source_abnt": "NAHIN, Paul J. *Dr. Euler's Fabulous Formula: Cures Many Mathematical Ills*. Princeton: Princeton University Press, 2006."
+  },
+  {
+    "id": "MATE045",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "Na Teoria dos Jogos, o que é o \"Equilíbrio de Nash\" (John Nash)?",
+    "options": [
+      { "description": "Quando todos os jogadores ganham a mesma quantia.", "isCorrect": false },
+      { "description": "Uma situação onde nenhum jogador tem incentivo para mudar sua estratégia individualmente, dadas as estratégias dos outros.", "isCorrect": true },
+      { "description": "Um jogo que nunca termina.", "isCorrect": false },
+      { "description": "Quando o jogo é justo.", "isCorrect": false }
+    ],
+    "source_explanation": "O conceito, que rendeu o Nobel a Nash, modela situações de competição onde a cooperação ou traição se estabilizam (ex: Dilema do Prisioneiro).",
+    "source_abnt": "NASH, John. Non-Cooperative Games. *Annals of Mathematics*, v. 54, n. 2, p. 286-295, 1951."
+  },
+  {
+    "id": "MATE046",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "O \"Paradoxo de Russell\" (O conjunto de todos os conjuntos que não contêm a si mesmos) revelou uma falha em qual área?",
+    "options": [
+      { "description": "Na geometria euclidiana.", "isCorrect": false },
+      { "description": "Na Teoria Ingênua dos Conjuntos (Set Theory) de Gottlob Frege.", "isCorrect": true },
+      { "description": "No cálculo integral.", "isCorrect": false },
+      { "description": "Na estatística.", "isCorrect": false }
+    ],
+    "source_explanation": "Bertrand Russell descobriu que a definição livre de conjuntos levava a contradições, forçando a reestruturação da lógica matemática (Teoria dos Tipos).",
+    "source_abnt": "RUSSELL, Bertrand. *Letter to Frege*. In: VAN HEIJENOORT, Jean (ed.). *From Frege to Gödel*. Cambridge, MA: Harvard University Press, 1967. p. 124-125. (Carta de 1902)."
+  },
+  {
+    "id": "MATE047",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "A \"Hipótese de Riemann\", um dos maiores problemas não resolvidos, diz respeito à distribuição de quê?",
+    "options": [
+      { "description": "Buracos negros.", "isCorrect": false },
+      { "description": "Números Primos (através da função Zeta de Riemann).", "isCorrect": true },
+      { "description": "Dígitos de Pi.", "isCorrect": false },
+      { "description": "Polígonos perfeitos.", "isCorrect": false }
+    ],
+    "source_explanation": "Bernhard Riemann (1859) conjecturou que todos os zeros não triviais da função zeta têm parte real 1/2, o que implica uma regularidade na distribuição dos primos.",
+    "source_abnt": "RIEMANN, Bernhard. Ueber die Anzahl der Primzahlen unter einer gegebenen Grösse. *Monatsberichte der Königlich Preußischen Akademie der Wissenschaften zu Berlin*, nov. 1859."
+  },
+  {
+    "id": "MATE048",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "O que são \"Quatérnios\" (Quaternions), descobertos por William Rowan Hamilton?",
+    "options": [
+      { "description": "Um tipo de fração.", "isCorrect": false },
+      { "description": "Uma extensão dos números complexos (usando i, j, k) que é fundamental para calcular rotações em gráficos 3D.", "isCorrect": true },
+      { "description": "Quatro números primos consecutivos.", "isCorrect": false },
+      { "description": "Um erro lógico.", "isCorrect": false }
+    ],
+    "source_explanation": "Hamilton descobriu os quatérnios em 1843 (gravando a fórmula numa ponte). Eles são não-comutativos e essenciais hoje para computação gráfica.",
+    "source_abnt": "HAMILTON, William Rowan. On Quaternions; or on a new System of Imaginaries in Algebra. *Philosophical Magazine*, v. 25, n. 3, p. 489-495, 1844."
+  },
+  {
+    "id": "MATE049",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "O que é o \"Hotel de Hilbert\"?",
+    "options": [
+      { "description": "Um hotel famoso onde matemáticos se reúnem.", "isCorrect": false },
+      { "description": "Um experimento mental sobre o infinito, mostrando que um hotel com infinitos quartos cheios ainda pode aceitar mais hóspedes.", "isCorrect": true },
+      { "description": "Um problema de geometria.", "isCorrect": false },
+      { "description": "Uma teoria sobre hospitalidade.", "isCorrect": false }
+    ],
+    "source_explanation": "David Hilbert usou essa analogia em 1924 para demonstrar as propriedades contraintuitivas de conjuntos infinitos contáveis (Aleph-zero).",
+    "source_abnt": "GAMOW, George. *One Two Three... Infinity: Facts and Speculations of Science*. Nova York: Viking Press, 1947."
+  },
+  {
+    "id": "MATE050",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "O que prova o Teorema de Cantor sobre conjuntos infinitos?",
+    "options": [
+      { "description": "Que todos os infinitos são iguais.", "isCorrect": false },
+      { "description": "Que existem diferentes tamanhos de infinito (ex: os números reais são um infinito \"maior\" que os números naturais).", "isCorrect": true },
+      { "description": "Que o infinito não existe.", "isCorrect": false },
+      { "description": "Que não podemos contar até o infinito.", "isCorrect": false }
+    ],
+    "source_explanation": "Georg Cantor usou o \"Argumento da Diagonal\" para provar que o conjunto dos números reais é não-enumerável, ou seja, maior que o dos naturais.",
+    "source_abnt": "CANTOR, Georg. Über eine elementare Frage der Mannigfaltigkeitslehre. *Jahresbericht der Deutschen Mathematiker-Vereinigung*, v. 1, p. 75-78, 1891."
+  },
+  {
+    "id": "MATE051",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "O que é a \"Conjectura de Goldbach\"?",
+    "options": [
+      { "description": "A ideia de que todo mapa pode ser colorido com 4 cores.", "isCorrect": false },
+      { "description": "A afirmação de que todo número par maior que 2 é a soma de dois números primos.", "isCorrect": true },
+      { "description": "A fórmula para encontrar primos.", "isCorrect": false },
+      { "description": "A prova de que Pi é infinito.", "isCorrect": false }
+    ],
+    "source_explanation": "Proposta em 1742 numa carta a Euler, esta é uma das mais antigas conjecturas não resolvidas da matemática. Foi testada para números gigantescos, mas nunca provada.",
+    "source_abnt": "GOLDBACH, Christian. *Carta para Leonhard Euler*. 7 jun. 1742. (Arquivo Histórico)."
+  },
+  {
+    "id": "MATE052",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "Na criptografia moderna (RSA), a segurança baseia-se na dificuldade de resolver qual problema matemático?",
+    "options": [
+      { "description": "Somar números grandes.", "isCorrect": false },
+      { "description": "Fatorar o produto de dois números primos muito grandes.", "isCorrect": true },
+      { "description": "Calcular a raiz quadrada de Pi.", "isCorrect": false },
+      { "description": "Resolver equações quadráticas.", "isCorrect": false }
+    ],
+    "source_explanation": "O algoritmo RSA depende do fato de que é fácil multiplicar dois primos grandes, mas computacionalmente inviável fatorar o resultado de volta.",
+    "source_abnt": "RIVEST, R. L.; SHAMIR, A.; ADLEMAN, L. A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. *Communications of the ACM*, v. 21, n. 2, p. 120-126, 1978."
+  },
+  {
+    "id": "MATE053",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "O que é a \"Topologia\" na matemática?",
+    "options": [
+      { "description": "O estudo de mapas.", "isCorrect": false },
+      { "description": "O estudo de propriedades geométricas que são preservadas sob deformações contínuas (como esticar e dobrar, mas não rasgar).", "isCorrect": true },
+      { "description": "O estudo de topos de montanhas.", "isCorrect": false },
+      { "description": "A aritmética avançada.", "isCorrect": false }
+    ],
+    "source_explanation": "Na topologia, uma xícara de café e uma rosquinha são equivalentes (homeomorfos) porque ambos têm um buraco.",
+    "source_abnt": "MUNKRES, James R. *Topology*. 2. ed. Upper Saddle River, NJ: Prentice Hall, 2000."
+  },
+  {
+    "id": "MATE054",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "O que é o \"Problema das Sete Pontes de Königsberg\"?",
+    "options": [
+      { "description": "Um problema de engenharia civil.", "isCorrect": false },
+      { "description": "O problema que Euler resolveu (provando ser impossível), dando origem à Teoria dos Grafos.", "isCorrect": true },
+      { "description": "Um enigma sobre como atravessar rios sem se molhar.", "isCorrect": false },
+      { "description": "Uma estratégia de guerra.", "isCorrect": false }
+    ],
+    "source_explanation": "Euler provou em 1736 que era impossível cruzar todas as 7 pontes uma única vez e voltar ao início, criando a base da teoria dos grafos.",
+    "source_abnt": "EULER, Leonhard. Solutio problematis ad geometriam situs pertinentis. *Commentarii academiae scientiarum Petropolitanae*, v. 8, p. 128-140, 1736."
+  },
+  {
+    "id": "MATE055",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "O que é um \"grupo\" em álgebra abstrata?",
+    "options": [
+      { "description": "Vários números juntos.", "isCorrect": false },
+      { "description": "Um conjunto equipado com uma operação binária que satisfaz quatro axiomas: fechamento, associatividade, identidade e inverso.", "isCorrect": true },
+      { "description": "Uma reunião de matemáticos.", "isCorrect": false },
+      { "description": "Um tipo de equação sem solução.", "isCorrect": false }
+    ],
+    "source_explanation": "A Teoria dos Grupos é fundamental para estudar simetria na matemática e física.",
+    "source_abnt": "DUMMIT, David S.; FOOTE, Richard M. *Abstract Algebra*. 3. ed. Hoboken, NJ: Wiley, 2004."
+  },
+  {
+    "id": "MATE056",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "O que é a \"Navalha de Occam\"?",
+    "options": [
+      { "description": "Um instrumento cirúrgico.", "isCorrect": false },
+      { "description": "O princípio heurístico de que, diante de múltiplas explicações, a mais simples (com menos suposições) tende a ser a correta.", "isCorrect": true },
+      { "description": "Um teorema geométrico sobre cortes.", "isCorrect": false },
+      { "description": "Uma regra para dividir números.", "isCorrect": false }
+    ],
+    "source_explanation": "Atribuído a Guilherme de Ockham (séc. XIV), o princípio 'Pluralitas non est ponenda sine necessitate' guia a ciência e a lógica.",
+    "source_abnt": "ARIW, Roger. *Ockham's Razor: A Historical and Philosophical Analysis of Ockham's Principle of Parsimony*. Cambridge: Cambridge University Press, 1976."
+  },
+  {
+    "id": "MATE057",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "O que diz o \"Teorema da Incompletude de Gödel\" sobre a própria matemática?",
+    "options": [
+      { "description": "Que a matemática é falha.", "isCorrect": false },
+      { "description": "Que não podemos provar a consistência de um sistema formal usando apenas os meios desse próprio sistema.", "isCorrect": true },
+      { "description": "Que computadores nunca serão inteligentes.", "isCorrect": false },
+      { "description": "Que não existem números infinitos.", "isCorrect": false }
+    ],
+    "source_explanation": "O segundo teorema de Gödel destrói a esperança de provar a consistência da matemática \"de dentro para fora\".",
+    "source_abnt": "NAGEL, Ernest; NEWMAN, James R. *Gödel's Proof*. Nova York: New York University Press, 1958."
+  },
+  {
+    "id": "MATE058",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "O que é a \"Constante de Kaprekar\" (6174)?",
+    "options": [
+      { "description": "O ano em que o mundo vai acabar.", "isCorrect": false },
+      { "description": "O resultado final de uma rotina iterativa (pegar 4 dígitos, ordenar maior-menor e subtrair) para quase qualquer número de 4 dígitos.", "isCorrect": true },
+      { "description": "Um número primo gigante.", "isCorrect": false },
+      { "description": "A velocidade da luz em milhas.", "isCorrect": false }
+    ],
+    "source_explanation": "Descoberta pelo matemático indiano D.R. Kaprekar em 1949. O processo sempre converge para 6174.",
+    "source_abnt": "KAPREKAR, D. R. Another Solitaire Game. *Scripta Mathematica*, v. 15, p. 244-245, 1949."
+  },
+  {
+    "id": "MATE059",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "O que é um \"Silogismo Hipotético\"?",
+    "options": [
+      { "description": "Uma regra de inferência da forma: Se P então Q; Se Q então R; Logo, se P então R.", "isCorrect": true },
+      { "description": "Um argumento baseado em mentiras.", "isCorrect": false },
+      { "description": "Uma falácia lógica.", "isCorrect": false },
+      { "description": "Uma prova por contradição.", "isCorrect": false }
+    ],
+    "source_explanation": "É uma regra válida na lógica clássica que expressa a transitividade da implicação.",
+    "source_abnt": "HURLEY, Patrick J. *A Concise Introduction to Logic*. 12. ed. Stamford, CT: Cengage Learning, 2015."
+  },
+  {
+    "id": "MATE060",
+    "category": "Matemática e Lógica",
+    "level": "hard",
+    "question": "O que é o \"Problema do Caixeiro Viajante\"?",
+    "options": [
+      { "description": "Como vender mais produtos.", "isCorrect": false },
+      { "description": "Um problema de otimização NP-difícil: dada uma lista de cidades, qual é a rota mais curta que visita cada cidade exatamente uma vez e volta à origem?", "isCorrect": true },
+      { "description": "Como calcular o troco.", "isCorrect": false },
+      { "description": "Um problema de física quântica.", "isCorrect": false }
+    ],
+    "source_explanation": "O TSP (Traveling Salesman Problem) é um dos problemas mais estudados em otimização combinatória e computação.",
+    "source_abnt": "APPLEGATE, David L. et al. *The Traveling Salesman Problem: A Computational Study*. Princeton: Princeton University Press, 2006."
+  }
+]

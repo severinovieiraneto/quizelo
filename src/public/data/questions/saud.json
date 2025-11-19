@@ -1,0 +1,842 @@
+[
+	{
+		"id": "SAUD001",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Qual é o principal órgão responsável por bombear o sangue para todo o corpo?",
+		"options": [
+			{ "description": "Pulmão", "isCorrect": false },
+			{ "description": "Cérebro", "isCorrect": false },
+			{ "description": "Coração", "isCorrect": true },
+			{ "description": "Fígado", "isCorrect": false }
+		],
+		"source_explanation": "A anatomia humana básica define o coração como a bomba muscular central do sistema circulatório.",
+		"source_abnt": "STANDRING, Susan (ed.). *Gray's Anatomy: The Anatomical Basis of Clinical Practice*. 41. ed. Londres: Elsevier, 2016. (Seção: Coração)."
+	},
+	{
+		"id": "SAUD002",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Quais órgãos em forma de feijão filtram o sangue e produzem a urina?",
+		"options": [
+			{ "description": "Pulmões", "isCorrect": false },
+			{ "description": "Rins", "isCorrect": true },
+			{ "description": "Estômago", "isCorrect": false },
+			{ "description": "Pâncreas", "isCorrect": false }
+		],
+		"source_explanation": "Os rins são os órgãos centrais do sistema urinário, responsáveis pela filtração do sangue e homeostase.",
+		"source_abnt": "STANDRING, Susan (ed.). *Gray's Anatomy: The Anatomical Basis of Clinical Practice*. 41. ed. Londres: Elsevier, 2016. (Seção: Rins)."
+	},
+	{
+		"id": "SAUD003",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Qual é o nome comum para o aumento da temperatura corporal acima do normal, geralmente como sinal de infecção?",
+		"options": [
+			{ "description": "Hipotermia", "isCorrect": false },
+			{ "description": "Febre", "isCorrect": true },
+			{ "description": "Anemia", "isCorrect": false },
+			{ "description": "Alergia", "isCorrect": false }
+		],
+		"source_explanation": "Febre (ou pirexia) é o termo médico para a elevação da temperatura corporal, uma resposta comum do sistema imunológico a infecções.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Fever. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/fever. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "SAUD004",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Qual vitamina, encontrada em frutas cítricas como laranja e limão, é essencial para prevenir o escorbuto?",
+		"options": [
+			{ "description": "Vitamina D", "isCorrect": false },
+			{ "description": "Vitamina A", "isCorrect": false },
+			{ "description": "Vitamina C", "isCorrect": true },
+			{ "description": "Vitamina B12", "isCorrect": false }
+		],
+		"source_explanation": "A Vitamina C (ácido ascórbico) é essencial para a síntese de colágeno. Sua deficiência severa causa o escorbuto.",
+		"source_abnt": "ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). *Vitamin and mineral requirements in human nutrition*. 2. ed. Genebra: OMS, 2004."
+	},
+	{
+		"id": "SAUD005",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Quem descobriu a penicilina, o primeiro antibiótico amplamente utilizado?",
+		"options": [
+			{ "description": "Louis Pasteur", "isCorrect": false },
+			{ "description": "Alexander Fleming", "isCorrect": true },
+			{ "description": "Marie Curie", "isCorrect": false },
+			{ "description": "Edward Jenner", "isCorrect": false }
+		],
+		"source_explanation": "Alexander Fleming recebeu o Prêmio Nobel de 1945 por sua descoberta acidental da penicilina (produzida pelo mofo Penicillium) em 1928.",
+		"source_abnt": "FUNDAÇÃO NOBEL. *Alexander Fleming: Biographical*. Estocolmo: Fundação Nobel, 1945. Disponível em: https://www.nobelprize.org/prizes/medicine/1945/fleming/biographical/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "SAUD006",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Qual é o principal objetivo das \"vacinas\"?",
+		"options": [
+			{ "description": "Curar doenças bacterianas.", "isCorrect": false },
+			{ "description": "Prevenir doenças \"treinando\" o sistema imunológico.", "isCorrect": true },
+			{ "description": "Aliviar a dor muscular.", "isCorrect": false },
+			{ "description": "Fornecer nutrientes essenciais.", "isCorrect": false }
+		],
+		"source_explanation": "As vacinas (imunização) funcionam introduzindo um antígeno (agente morto, enfraquecido ou seu mRNA) para \"treinar\" o sistema imunológico a reconhecer e combater o patógeno.",
+		"source_abnt": "ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). *Vaccines and immunization*. Genebra: OMS, 2024. Disponível em: https://www.who.int/health-topics/vaccines-and-immunization. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "SAUD007",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Qual é o nome do osso longo localizado na parte superior do braço?",
+		"options": [
+			{ "description": "Fêmur", "isCorrect": false },
+			{ "description": "Tíbia", "isCorrect": false },
+			{ "description": "Úmero", "isCorrect": true },
+			{ "description": "Rádio", "isCorrect": false }
+		],
+		"source_explanation": "O úmero é o osso do braço, que se articula com a escápula (no ombro) e com o rádio e a ulna (no cotovelo). O Fêmur é o osso da coxa.",
+		"source_abnt": "STANDRING, Susan (ed.). *Gray's Anatomy*. 41. ed. Londres: Elsevier, 2016. (Seção: Membro Superior)."
+	},
+	{
+		"id": "SAUD008",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Qual gás que respiramos do ar é essencial para a nossa sobrevivência?",
+		"options": [
+			{ "description": "Oxigênio (O2)", "isCorrect": true },
+			{ "description": "Dióxido de Carbono (CO2)", "isCorrect": false },
+			{ "description": "Nitrogênio (N2)", "isCorrect": false },
+			{ "description": "Hélio (He)", "isCorrect": false }
+		],
+		"source_explanation": "O oxigênio (O2) é o gás essencial para a respiração celular aeróbica, o processo que libera energia para o corpo.",
+		"source_abnt": "HALL, John E. *Guyton and Hall Textbook of Medical Physiology*. 13. ed. Filadélfia: Elsevier, 2016. (Capítulo: Respiração)."
+	},
+	{
+		"id": "SAUD009",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Qual gás é o principal resíduo que exalamos na respiração?",
+		"options": [
+			{ "description": "Oxigênio (O2)", "isCorrect": false },
+			{ "description": "Dióxido de Carbono (CO2)", "isCorrect": true },
+			{ "description": "Hidrogênio (H2)", "isCorrect": false },
+			{ "description": "Monóxido de Carbono (CO)", "isCorrect": false }
+		],
+		"source_explanation": "O Dióxido de Carbono (CO2) é o principal produto residual da respiração celular, transportado pelo sangue até os pulmões para ser exalado.",
+		"source_abnt": "HALL, John E. *Guyton and Hall Textbook of Medical Physiology*. 13. ed. Filadélfia: Elsevier, 2016. (Capítulo: Troca Gasosa)."
+	},
+	{
+		"id": "SAUD010",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Qual mineral é crucial para manter os ossos e dentes fortes?",
+		"options": [
+			{ "description": "Ferro", "isCorrect": false },
+			{ "description": "Cálcio", "isCorrect": true },
+			{ "description": "Potássio", "isCorrect": false },
+			{ "description": "Iodo", "isCorrect": false }
+		],
+		"source_explanation": "O cálcio é o mineral mais abundante no corpo humano, sendo um componente estrutural vital dos ossos e dentes (na forma de hidroxiapatita).",
+		"source_abnt": "ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). *Vitamin and mineral requirements in human nutrition*. 2. ed. Genebra: OMS, 2004. (Capítulo: Cálcio)."
+	},
+	{
+		"id": "SAUD011",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Qual é o termo comum para o profissional médico que realiza operações?",
+		"options": [
+			{ "description": "Clínico Geral", "isCorrect": false },
+			{ "description": "Cirurgião", "isCorrect": true },
+			{ "description": "Cardiologista", "isCorrect": false },
+			{ "description": "Farmacêutico", "isCorrect": false }
+		],
+		"source_explanation": "Um cirurgião é um médico especializado na prática da cirurgia (intervenção manual ou instrumental no paciente).",
+		"source_abnt": "OXFORD ENGLISH DICTIONARY. *Surgeon*. Oxford: Oxford University Press, [s.d.]. (Definição de termo)."
+	},
+	{
+		"id": "SAUD012",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Qual é o maior órgão do corpo humano?",
+		"options": [
+			{ "description": "Cérebro", "isCorrect": false },
+			{ "description": "Fígado", "isCorrect": false },
+			{ "description": "Pele", "isCorrect": true },
+			{ "description": "Intestino", "isCorrect": false }
+		],
+		"source_explanation": "A pele é o maior órgão do corpo humano em área de superfície e massa, compondo o sistema tegumentar.",
+		"source_abnt": "STANDRING, Susan (ed.). *Gray's Anatomy*. 41. ed. Londres: Elsevier, 2016. (Seção: Pele)."
+	},
+	{
+		"id": "SAUD013",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "O que é \"insônia\"?",
+		"options": [
+			{ "description": "A dificuldade persistente em adormecer ou permanecer dormindo.", "isCorrect": true },
+			{ "description": "O ato de respirar muito rápido.", "isCorrect": false },
+			{ "description": "Uma dor de cabeça muito forte.", "isCorrect": false },
+			{ "description": "A perda de memória.", "isCorrect": false }
+		],
+		"source_explanation": "Insônia é um distúrbio do sono comum, definido como a dificuldade em iniciar, manter o sono ou ter um sono não restaurador.",
+		"source_abnt": "DSM-5. *Manual Diagnóstico e Estatístico de Transtornos Mentais*. 5. ed. Tradução de M. I. C. Nascimento. Porto Alegre: Artmed, 2014. (Seção: Transtornos do Sono-Vigília)."
+	},
+	{
+		"id": "SAUD014",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Qual órgão é o principal responsável pela digestão e absorção de nutrientes?",
+		"options": [
+			{ "description": "Estômago", "isCorrect": false },
+			{ "description": "Fígado", "isCorrect": false },
+			{ "description": "Intestino Delgado", "isCorrect": true },
+			{ "description": "Intestino Grosso", "isCorrect": false }
+		],
+		"source_explanation": "Enquanto o estômago digere proteínas, a grande maioria da digestão química e da absorção de nutrientes ocorre no intestino delgado.",
+		"source_abnt": "HALL, John E. *Guyton and Hall Textbook of Medical Physiology*. 13. ed. Filadélfia: Elsevier, 2016. (Capítulo: Sistema Gastrointestinal)."
+	},
+	{
+		"id": "SAUD015",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Qual é o termo médico para um osso quebrado?",
+		"options": [
+			{ "description": "Entorse", "isCorrect": false },
+			{ "description": "Contusão", "isCorrect": false },
+			{ "description": "Fratura", "isCorrect": true },
+			{ "description": "Luxação", "isCorrect": false }
+		],
+		"source_explanation": "Fratura é o termo médico que define a perda da continuidade de um osso (uma quebra). Entorse é uma lesão de ligamento.",
+		"source_abnt": "AMERICAN ACADEMY OF ORTHOPAEDIC SURGEONS (AAOS). *Fractures (Broken Bones)*. Rosemont, IL: AAOS, [s.d.]. Disponível em: https://orthoinfo.aaos.org/en/diseases--conditions/fractures-broken-bones/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "SAUD016",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Qual tipo de célula sanguínea é responsável por combater infecções?",
+		"options": [
+			{ "description": "Glóbulos vermelhos (Hemácias)", "isCorrect": false },
+			{ "description": "Glóbulos brancos (Leucócitos)", "isCorrect": true },
+			{ "description": "Plaquetas", "isCorrect": false },
+			{ "description": "Neurônios", "isCorrect": false }
+		],
+		"source_explanation": "Os glóbulos brancos (Leucócitos) são os componentes celulares do sistema imunológico, responsáveis pela defesa do corpo contra patógenos.",
+		"source_abnt": "HALL, John E. *Guyton and Hall Textbook of Medical Physiology*. 13. ed. Filadélfia: Elsevier, 2016. (Capítulo: Leucócitos e Sistema Imune)."
+	},
+	{
+		"id": "SAUD017",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Qual substância nos glóbulos vermelhos é responsável por transportar o oxigênio?",
+		"options": [
+			{ "description": "Hemoglobina", "isCorrect": true },
+			{ "description": "Melanina", "isCorrect": false },
+			{ "description": "Insulina", "isCorrect": false },
+			{ "description": "Colágeno", "isCorrect": false }
+		],
+		"source_explanation": "A hemoglobina é a metaloproteína (contendo ferro) nos glóbulos vermelhos que se liga ao oxigênio nos pulmões e o transporta para os tecidos.",
+		"source_abnt": "HALL, John E. *Guyton and Hall Textbook of Medical Physiology*. 13. ed. Filadélfia: Elsevier, 2016. (Capítulo: Hemácias, Anemia e Policitemia)."
+	},
+	{
+		"id": "SAUD018",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Qual é o \"cérebro\" da célula, que contém o material genético (DNA)?",
+		"options": [
+			{ "description": "Mitocôndria", "isCorrect": false },
+			{ "description": "Núcleo", "isCorrect": true },
+			{ "description": "Ribossomo", "isCorrect": false },
+			{ "description": "Membrana Celular", "isCorrect": false }
+		],
+		"source_explanation": "O núcleo é a organela celular (em eucariotos) que contém a maior parte do material genético (DNA) da célula e controla suas atividades.",
+		"source_abnt": "ALBERTS, Bruce [et al.]. *Biologia Molecular da Célula*. 6. ed. Porto Alegre: Artmed, 2017. (Capítulo: O Núcleo)."
+	},
+	{
+		"id": "SAUD019",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "Qual instrumento médico é usado para ouvir os sons internos do corpo, como o coração e os pulmões?",
+		"options": [
+			{ "description": "Termômetro", "isCorrect": false },
+			{ "description": "Estetoscópio", "isCorrect": true },
+			{ "description": "Otoscópio", "isCorrect": false },
+			{ "description": "Esfigmomanômetro", "isCorrect": false }
+		],
+		"source_explanation": "O estetoscópio (inventado por René Laennec) é o dispositivo acústico usado para a ausculta dos sons cardíacos, respiratórios e intestinais.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Stethoscope. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/stethoscope. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "SAUD020",
+		"category": "Saúde e Medicina",
+		"level": "easy",
+		"question": "O que é \"anemia\"?",
+		"options": [
+			{ "description": "Uma condição com nível de açúcar no sangue muito alto.", "isCorrect": false },
+			{ "description": "Uma condição caracterizada pela falta de glóbulos vermelhos ou hemoglobina saudáveis.", "isCorrect": true },
+			{ "description": "Uma infecção nos pulmões.", "isCorrect": false },
+			{ "description": "Uma pressão arterial muito alta.", "isCorrect": false }
+		],
+		"source_explanation": "A OMS define anemia como uma condição em que a contagem de glóbulos vermelhos ou a concentração de hemoglobina dentro deles está abaixo do normal, prejudicando o transporte de oxigênio.",
+		"source_abnt": "ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). *Anaemia*. Genebra: OMS, 2024. Disponível em: https://www.who.int/health-topics/anaemia. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "SAUD021",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "Qual é a principal função do fígado no corpo humano?",
+		"options": [
+			{ "description": "Produzir insulina para controlar o açúcar no sangue.", "isCorrect": false },
+			{ "description": "Metabolizar toxinas, produzir bile e sintetizar proteínas.", "isCorrect": true },
+			{ "description": "Bombear sangue para os pulmões.", "isCorrect": false },
+			{ "description": "Absorver nutrientes dos alimentos digeridos.", "isCorrect": false }
+		],
+		"source_explanation": "O fígado é um órgão complexo com mais de 500 funções, incluindo a desintoxicação (metabolismo), a produção de bile (para digestão) e a síntese de proteínas (como a albumina).",
+		"source_abnt": "STANDRING, Susan (ed.). *Gray's Anatomy*. 41. ed. Londres: Elsevier, 2016. (Seção: Fígado)."
+	},
+	{
+		"id": "SAUD022",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "Qual é a principal diferença entre uma artéria e uma veia?",
+		"options": [
+			{ "description": "Artérias carregam sangue oxigenado e veias carregam sangue desoxigenado (com exceção das pulmonares).", "isCorrect": false },
+			{ "description": "Artérias levam sangue *para longe* do coração; Veias levam sangue *em direção* ao coração.", "isCorrect": true },
+			{ "description": "Artérias são finas; Veias são grossas.", "isCorrect": false },
+			{ "description": "Artérias são azuis; Veias são vermelhas.", "isCorrect": false }
+		],
+		"source_explanation": "A definição anatômica baseia-se na direção do fluxo: Artérias (Aferentes - saem do coração); Veias (Eferentes - entram no coração). A exceção de oxigenação é a artéria pulmonar (leva sangue desoxigenado).",
+		"source_abnt": "STANDRING, Susan (ed.). *Gray's Anatomy*. 41. ed. Londres: Elsevier, 2016. (Seção: Sistema Cardiovascular)."
+	},
+	{
+		"id": "SAUD023",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "Como funciona uma vacina tradicional (de vírus atenuado ou inativado)?",
+		"options": [
+			{ "description": "Ela mata os vírus que já estão no corpo.", "isCorrect": false },
+			{ "description": "Ela introduz uma forma inofensiva (morta ou enfraquecida) do patógeno para \"ensinar\" o sistema imunológico a combatê-lo.", "isCorrect": true },
+			{ "description": "Ela fortalece as paredes celulares para que os vírus não possam entrar.", "isCorrect": false },
+			{ "description": "Ela altera o DNA do paciente para torná-lo imune.", "isCorrect": false }
+		],
+		"source_explanation": "A imunização ativa (vacinação) funciona introduzindo antígenos (vírus mortos, atenuados ou partes dele) para estimular uma resposta imune primária e criar memória imunológica.",
+		"source_abnt": "ABBAS, Abul K.; LICHTMAN, Andrew H.; PILLAI, Shiv. *Imunologia Celular e Molecular*. 9. ed. Rio de Janeiro: Elsevier, 2019."
+	},
+	{
+		"id": "SAUD024",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "O que é \"hipertensão\"?",
+		"options": [
+			{ "description": "Nível de açúcar no sangue muito alto.", "isCorrect": false },
+			{ "description": "O termo médico para pressão arterial cronicamente alta.", "isCorrect": true },
+			{ "description": "Batimento cardíaco acelerado (taquicardia).", "isCorrect": false },
+			{ "description": "Excesso de atividade da tireoide.", "isCorrect": false }
+		],
+		"source_explanation": "A OMS define hipertensão (pressão alta) como uma condição em que a pressão nos vasos sanguíneos está cronicamente elevada (geralmente ≥ 140/90 mmHg).",
+		"source_abnt": "ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). *Hypertension*. Genebra: OMS, 2024. Disponível em: https://www.who.int/health-topics/hypertension. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "SAUD025",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "Qual é a função da insulina, hormônio produzido pelo pâncreas?",
+		"options": [
+			{ "description": "Ajuda na digestão de gorduras.", "isCorrect": false },
+			{ "description": "Regula o ciclo do sono.", "isCorrect": false },
+			{ "description": "Permite que as células do corpo absorvam glicose (açúcar) do sangue.", "isCorrect": true },
+			{ "description": "Controla a taxa de crescimento.", "isCorrect": false }
+		],
+		"source_explanation": "A insulina é um hormônio peptídeo produzido pelas células beta do pâncreas, essencial para regular o metabolismo da glicose, sinalizando para as células absorverem glicose do sangue.",
+		"source_abnt": "HALL, John E. *Guyton and Hall Textbook of Medical Physiology*. 13. ed. Filadélfia: Elsevier, 2016. (Capítulo: Insulina, Glucagon e Diabetes Mellitus)."
+	},
+	{
+		"id": "SAUD026",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "Uma deficiência severa de Vitamina D pode causar qual condição em crianças, caracterizada por ossos fracos e deformados?",
+		"options": [
+			{ "description": "Escorbuto", "isCorrect": false },
+			{ "description": "Raquitismo", "isCorrect": true },
+			{ "description": "Anemia", "isCorrect": false },
+			{ "description": "Pelagra", "isCorrect": false }
+		],
+		"source_explanation": "O raquitismo é uma doença de mineralização óssea em crianças, causada primariamente pela deficiência de Vitamina D, que é essencial para a absorção de cálcio.",
+		"source_abnt": "ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). *Vitamin and mineral requirements in human nutrition*. 2. ed. Genebra: OMS, 2004. (Capítulo: Vitamina D)."
+	},
+	{
+		"id": "SAUD027",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "O que é o \"microbioma\" humano?",
+		"options": [
+			{ "description": "O material genético dentro do núcleo da célula.", "isCorrect": false },
+			{ "description": "A comunidade de trilhões de microrganismos (bactérias, fungos, vírus) que vivem dentro e sobre o corpo humano.", "isCorrect": true },
+			{ "description": "A menor parte de um osso.", "isCorrect": false },
+			{ "description": "Um tipo de equipamento de laboratório.", "isCorrect": false }
+		],
+		"source_explanation": "O microbioma (ou microbiota) refere-se ao coletivo de microrganismos que habitam um ambiente, como o intestino humano.",
+		"source_abnt": "HUMAN MICROBIOME PROJECT CONSORTIUM. Structure, function and diversity of the healthy human microbiome. *Nature*, v. 486, p. 207–214, 13 jun. 2012."
+	},
+	{
+		"id": "SAUD028",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "Um \"cardiologista\" é um médico especializado em qual sistema do corpo?",
+		"options": [
+			{ "description": "Sistema nervoso (cérebro e nervos).", "isCorrect": false },
+			{ "description": "Sistema digestivo (estômago e intestinos).", "isCorrect": false },
+			{ "description": "Coração e sistema cardiovascular (vasos sanguíneos).", "isCorrect": true },
+			{ "description": "Pele, cabelo e unhas.", "isCorrect": false }
+		],
+		"source_explanation": "Cardiologia (do grego \"kardia\", coração) é a especialidade médica focada no diagnóstico e tratamento de doenças do coração e dos vasos sanguíneos.",
+		"source_abnt": "AMERICAN COLLEGE OF CARDIOLOGY (ACC). *About Cardiology*. Washington, D.C.: ACC, [s.d.]. Disponível em: https://www.acc.org/about-acc/i-am-acc/what-is-a-cardiologist. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "SAUD029",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "O que é o \"efeito placebo\"?",
+		"options": [
+			{ "description": "Um efeito colateral negativo de um medicamento.", "isCorrect": false },
+			{ "description": "A melhora na saúde de um paciente que acredita estar recebendo um tratamento, mesmo que seja uma substância inerte (sem efeito).", "isCorrect": true },
+			{ "description": "A resistência do corpo a um antibiótico.", "isCorrect": false },
+			{ "description": "A dose correta de um medicamento.", "isCorrect": false }
+		],
+		"source_explanation": "O efeito placebo é um fenômeno psicobiológico onde um tratamento simulado (inerte) causa uma melhora real nos sintomas do paciente, sendo fundamental em testes clínicos.",
+		"source_abnt": "HARVARD HEALTH PUBLISHING. *The power of the placebo effect*. Boston: Harvard Medical School, 2017. Disponível em: https://www.health.harvard.edu/mental-health/the-power-of-the-placebo-effect. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "SAUD030",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "Qual é a principal diferença entre um vírus e uma bactéria?",
+		"options": [
+			{ "description": "Vírus são visíveis a olho nu; bactérias não.", "isCorrect": false },
+			{ "description": "Bactérias são células vivas que se reproduzem sozinhas; Vírus são partículas que precisam de uma célula hospedeira para se replicar.", "isCorrect": true },
+			{ "description": "Vírus causam febre; bactérias causam dor.", "isCorrect": false },
+			{ "description": "Antibióticos matam vírus; vacinas previnem bactérias.", "isCorrect": false }
+		],
+		"source_explanation": "Bactérias são procariotos unicelulares vivos. Vírus são agentes infecciosos acelulares (contendo apenas material genético e proteínas) que são parasitas intracelulares obrigatórios.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Virus. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/virus. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "SAUD031",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "Qual parte do cérebro controla funções vitais básicas e involuntárias, como a respiração e os batimentos cardíacos?",
+		"options": [
+			{ "description": "Córtex Frontal", "isCorrect": false },
+			{ "description": "Cerebelo", "isCorrect": false },
+			{ "description": "Tronco encefálico (Tronco cerebral)", "isCorrect": true },
+			{ "description": "Hipocampo", "isCorrect": false }
+		],
+		"source_explanation": "O tronco encefálico (composto pelo bulbo, ponte e mesencéfalo) controla funções autônomas vitais, como o ritmo cardíaco e a respiração.",
+		"source_abnt": "STANDRING, Susan (ed.). *Gray's Anatomy*. 41. ed. Londres: Elsevier, 2016. (Seção: Tronco Encefálico)."
+	},
+	{
+		"id": "SAUD032",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "O que é uma \"doença autoimune\"? (ex: Lúpus, Artrite Reumatoide)",
+		"options": [
+			{ "description": "Uma doença causada por um sistema imunológico enfraquecido.", "isCorrect": false },
+			{ "description": "Uma doença em que o sistema imunológico ataca por engano as próprias células saudáveis do corpo.", "isCorrect": true },
+			{ "description": "Uma doença transmitida de animais para humanos.", "isCorrect": false },
+			{ "description": "Uma doença causada por uma bactéria específica.", "isCorrect": false }
+		],
+		"source_explanation": "A autoimunidade é uma falha do sistema imunológico em reconhecer os próprios tecidos (\"self\"), levando a uma resposta imune contra as células saudáveis do corpo.",
+		"source_abnt": "ABBAS, Abul K.; LICHTMAN, Andrew H.; PILLAI, Shiv. *Imunologia Celular e Molecular*. 9. ed. Rio de Janeiro: Elsevier, 2019. (Capítulo: Autoimunidade)."
+	},
+	{
+		"id": "SAUD033",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "Qual é a função das \"plaquetas\" (trombócitos) no sangue?",
+		"options": [
+			{ "description": "Transportar oxigênio.", "isCorrect": false },
+			{ "description": "Combater infecções.", "isCorrect": false },
+			{ "description": "Ajudar na coagulação do sangue (estancar sangramentos).", "isCorrect": true },
+			{ "description": "Produzir hormônios.", "isCorrect": false }
+		],
+		"source_explanation": "As plaquetas (trombócitos) são fragmentos celulares no sangue que são essenciais para a hemostasia (parar o sangramento), formando o tampão plaquetário.",
+		"source_abnt": "HALL, John E. *Guyton and Hall Textbook of Medical Physiology*. 13. ed. Filadélfia: Elsevier, 2016. (Capítulo: Hemostasia e Coagulação Sanguínea)."
+	},
+	{
+		"id": "SAUD034",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "Edward Jenner, o \"pai da imunologia\", desenvolveu a primeira vacina usando o vírus da varíola bovina para proteger contra qual doença?",
+		"options": [
+			{ "description": "Raiva", "isCorrect": false },
+			{ "description": "Varíola (humana)", "isCorrect": true },
+			{ "description": "Poliomielite", "isCorrect": false },
+			{ "description": "Tuberculose", "isCorrect": false }
+		],
+		"source_explanation": "Em 1796, Edward Jenner usou o pus da varíola bovina (cowpox), uma doença mais branda, para inocular e proteger pessoas contra a varíola humana, criando a \"vacinação\".",
+		"source_abnt": "ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). *Smallpox*. Genebra: OMS, [s.d.]. Disponível em: https://www.who.int/health-topics/smallpox. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "SAUD035",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "Qual é o termo médico para a \"caixa de voz\", onde as cordas vocais estão localizadas?",
+		"options": [
+			{ "description": "Faringe", "isCorrect": false },
+			{ "description": "Traqueia", "isCorrect": false },
+			{ "description": "Laringe", "isCorrect": true },
+			{ "description": "Esôfago", "isCorrect": false }
+		],
+		"source_explanation": "A laringe (\"caixa de voz\") é o órgão no topo do pescoço envolvido na respiração, produção de som (fonação) e proteção da traqueia.",
+		"source_abnt": "STANDRING, Susan (ed.). *Gray's Anatomy*. 41. ed. Londres: Elsevier, 2016. (Seção: Laringe)."
+	},
+	{
+		"id": "SAUD036",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "O que é o \"apêndice vermiforme\"?",
+		"options": [
+			{ "description": "A parte final do intestino grosso.", "isCorrect": false },
+			{ "description": "Uma pequena bolsa em forma de dedo ligada ao intestino grosso, considerada um órgão vestigial.", "isCorrect": true },
+			{ "description": "O órgão que produz a bile.", "isCorrect": false },
+			{ "description": "Um osso na base da coluna.", "isCorrect": false }
+		],
+		"source_explanation": "O apêndice vermiforme é um tubo de fundo cego conectado ao ceco (início do intestino grosso), cuja inflamação é a apendicite.",
+		"source_abnt": "STANDRING, Susan (ed.). *Gray's Anatomy*. 41. ed. Londres: Elsevier, 2016. (Seção: Intestino Grosso)."
+	},
+	{
+		"id": "SAUD037",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "O que é o \"colesterol\"?",
+		"options": [
+			{ "description": "Um tipo de açúcar encontrado no sangue.", "isCorrect": false },
+			{ "description": "Uma substância gordurosa (lipídio) vital para construir células, mas que pode causar bloqueios nas artérias em excesso.", "isCorrect": true },
+			{ "description": "Uma proteína que combate infecções.", "isCorrect": false },
+			{ "description": "Um hormônio que regula o crescimento.", "isCorrect": false }
+		],
+		"source_explanation": "O colesterol é um esterol (lipídio) essencial para as membranas celulares e hormônios, mas o excesso (LDL) está associado a doenças cardiovasculares.",
+		"source_abnt": "AMERICAN HEART ASSOCIATION (AHA). *What is Cholesterol?*. Dallas, TX: AHA, [s.d.]. Disponível em: https://www.heart.org/en/health-topics/cholesterol/about-cholesterol. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "SAUD038",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "Qual é a principal função do \"cerebelo\", localizado na parte de trás do cérebro?",
+		"options": [
+			{ "description": "Controlar a memória e a emoção.", "isCorrect": false },
+			{ "description": "Processar informações visuais.", "isCorrect": false },
+			{ "description": "Coordenar o movimento voluntário, o equilíbrio e a postura.", "isCorrect": true },
+			{ "description": "Regular a fome e a sede.", "isCorrect": false }
+		],
+		"source_explanation": "O cerebelo (\"pequeno cérebro\") é a região do cérebro crucial para a coordenação motora, precisão e equilíbrio.",
+		"source_abnt": "STANDRING, Susan (ed.). *Gray's Anatomy*. 41. ed. Londres: Elsevier, 2016. (Seção: Cerebelo)."
+	},
+	{
+		"id": "SAUD039",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "O processo de \"pasteurização\", desenvolvido por Louis Pasteur, foi criado para...",
+		"options": [
+			{ "description": "Tornar o leite mais nutritivo.", "isCorrect": false },
+			{ "description": "Matar bactérias nocivas em líquidos (como leite e vinho) através do aquecimento.", "isCorrect": true },
+			{ "description": "Criar as primeiras vacinas.", "isCorrect": false },
+			{ "description": "Curar a raiva.", "isCorrect": false }
+		],
+		"source_explanation": "O Institut Pasteur documenta o desenvolvimento da \"pasteurização\" por Louis Pasteur para salvar a indústria do vinho e, posteriormente, do leite, matando micróbios pelo calor.",
+		"source_abnt": "INSTITUT PASTEUR. *Louis Pasteur: The Father of Microbiology*. Paris: Institut Pasteur, [s.d.]. Disponível em: https://www.pasteur.fr/en/institut-pasteur/history/louis-pasteur-father-microbiology. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "SAUD040",
+		"category": "Saúde e Medicina",
+		"level": "medium",
+		"question": "O que são \"anticorpos\" (imunoglobulinas)?",
+		"options": [
+			{ "description": "Pequenos invasores (vírus) que causam doenças.", "isCorrect": false },
+			{ "description": "Proteínas produzidas pelo sistema imunológico para identificar e neutralizar patógenos (como vírus).", "isCorrect": true },
+			{ "description": "Células que transportam oxigênio no sangue.", "isCorrect": false },
+			{ "description": "Medicamentos que matam bactérias.", "isCorrect": false }
+		],
+		"source_explanation": "Anticorpos (Imunoglobulinas) são proteínas em forma de Y, produzidas por células B (plasmócitos), que identificam e neutralizam antígenos específicos.",
+		"source_abnt": "ABBAS, Abul K.; LICHTMAN, Andrew H.; PILLAI, Shiv. *Imunologia Celular e Molecular*. 9. ed. Rio de Janeiro: Elsevier, 2019. (Capítulo: Anticorpos)."
+	},
+	{
+		"id": "SAUD041",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "O que é o \"néfron\" (nephron)?",
+		"options": [
+			{ "description": "A unidade funcional do fígado que produz bile.", "isCorrect": false },
+			{ "description": "A unidade microscópica de filtragem no rim, responsável por formar a urina.", "isCorrect": true },
+			{ "description": "A sinapse entre dois neurônios no cérebro.", "isCorrect": false },
+			{ "description": "O alvéolo no pulmão onde ocorrem as trocas gasosas.", "isCorrect": false }
+		],
+		"source_explanation": "O néfron é a unidade estrutural e funcional básica do rim, composta pelo glomérulo (filtração) e pelo túbulo (reabsorção/secreção).",
+		"source_abnt": "HALL, John E. *Guyton and Hall Textbook of Medical Physiology*. 13. ed. Filadélfia: Elsevier, 2016. (Capítulo: O Rim)."
+	},
+	{
+		"id": "SAUD042",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "Qual é o mecanismo de ação da Penicilina (e antibióticos beta-lactâmicos)?",
+		"options": [
+			{ "description": "Ela impede a replicação do DNA da bactéria.", "isCorrect": false },
+			{ "description": "Ela interfere na síntese da parede celular da bactéria (peptidoglicano), levando à lise (ruptura) celular.", "isCorrect": true },
+			{ "description": "Ela bloqueia a produção de proteínas no ribossomo bacteriano.", "isCorrect": false },
+			{ "description": "Ela neutraliza as toxinas produzidas pela bactéria.", "isCorrect": false }
+		],
+		"source_explanation": "Os antibióticos beta-lactâmicos (como a penicilina) funcionam inibindo a enzima transpeptidase, que é essencial para a síntese da parede celular de peptidoglicano da bactéria.",
+		"source_abnt": "BRUNTON, Laurence L.; CHABNER, Bruce A.; KNOLLMANN, Björn C. (ed.). *As Bases Farmacológicas da Terapêutica de Goodman & Gilman*. 13. ed. Porto Alegre: AMGH, 2019."
+	},
+	{
+		"id": "SAUD043",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "Qual é a diferença fundamental entre \"apoptose\" e \"necrose\"?",
+		"options": [
+			{ "description": "Apoptose é a morte celular causada por vírus; Necrose é por bactéria.", "isCorrect": false },
+			{ "description": "Apoptose é a \"morte celular programada\" (suicídio celular), um processo limpo; Necrose é a morte celular traumática (por lesão), que causa inflamação.", "isCorrect": true },
+			{ "description": "Apoptose é a divisão celular; Necrose é a morte celular.", "isCorrect": false },
+			{ "description": "Apoptose ocorre em células animais; Necrose ocorre em células vegetais.", "isCorrect": false }
+		],
+		"source_explanation": "Apoptose é a morte celular programada, um processo ordenado que não causa inflamação. Necrose é a morte celular patológica devido a lesão, que libera o conteúdo celular e causa inflamação.",
+		"source_abnt": "ALBERTS, Bruce [et al.]. *Biologia Molecular da Célula*. 6. ed. Porto Alegre: Artmed, 2017. (Capítulo: Morte Celular Programada)."
+	},
+	{
+		"id": "SAUD044",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "Qual é a função do \"hipotálamo\" no cérebro?",
+		"options": [
+			{ "description": "É o principal centro da memória de longo prazo.", "isCorrect": false },
+			{ "description": "Controla a coordenação motora fina.", "isCorrect": false },
+			{ "description": "Atua como o \"termostato\" do corpo, regulando a temperatura, a fome, a sede e controlando a glândula pituitária (hormônios).", "isCorrect": true },
+			{ "description": "Processa o medo e as emoções (função da amígdala).", "isCorrect": false }
+		],
+		"source_explanation": "O hipotálamo é o centro de controle do sistema nervoso autônomo e o principal elo entre o sistema nervoso e o sistema endócrino (via glândula pituitária).",
+		"source_abnt": "STANDRING, Susan (ed.). *Gray's Anatomy*. 41. ed. Londres: Elsevier, 2016. (Seção: Hipotálamo)."
+	},
+	{
+		"id": "SAUD045",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "Como funcionam as vacinas de mRNA (como as da Pfizer e Moderna para COVID-19)?",
+		"options": [
+			{ "description": "Elas injetam o vírus morto (inativado).", "isCorrect": false },
+			{ "description": "Elas usam um vírus de chimpanzé inofensivo (vetor adenoviral).", "isCorrect": false },
+			{ "description": "Elas fornecem \"instruções\" (mRNA) para as células do corpo produzirem uma proteína do vírus (ex: proteína Spike), treinando o sistema imune.", "isCorrect": true },
+			{ "description": "Elas alteram permanentemente o DNA do paciente.", "isCorrect": false }
+		],
+		"source_explanation": "A tecnologia de mRNA fornece um \"manual de instruções\" (o mRNA) para que as células do próprio vacinado produzam a proteína Spike, treinando o sistema imune.",
+		"source_abnt": "CENTERS FOR DISEASE CONTROL AND PREVENTION (CDC). *Understanding mRNA COVID-19 Vaccines*. Atlanta, GA: CDC, 2023. Disponível em: https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "SAUD046",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "A doença \"Beribéri\" (Beri-beri), comum em populações que comiam arroz polido, é causada pela deficiência de qual vitamina?",
+		"options": [
+			{ "description": "Vitamina C (Ácido Ascórbico)", "isCorrect": false },
+			{ "description": "Vitamina B1 (Tiamina)", "isCorrect": true },
+			{ "description": "Vitamina B3 (Niacina)", "isCorrect": false },
+			{ "description": "Vitamina A (Retinol)", "isCorrect": false }
+		],
+		"source_explanation": "O Beribéri é a doença neurológica e cardiovascular causada pela deficiência de Tiamina (Vitamina B1), essencial no metabolismo de carboidratos.",
+		"source_abnt": "ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). *Thiamine deficiency and its prevention and control in major emergencies*. Genebra: OMS, 1999."
+	},
+	{
+		"id": "SAUD047",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "O que é um \"Forame Oval Patente\" (FOP) em cardiologia?",
+		"options": [
+			{ "description": "Um bloqueio total de uma artéria coronária.", "isCorrect": false },
+			{ "description": "Uma pequena abertura entre as duas câmaras superiores (átrios) do coração que não se fechou corretamente após o nascimento.", "isCorrect": true },
+			{ "description": "Uma válvula cardíaca que não fecha (prolapso).", "isCorrect": false },
+			{ "description": "Um ritmo cardíaco irregular.", "isCorrect": false }
+		],
+		"source_explanation": "O Forame Oval é uma abertura normal no feto que permite o sangue contornar os pulmões, mas que deve fechar após o nascimento. A falha no fechamento é chamada de Forame Oval Patente (FOP).",
+		"source_abnt": "AMERICAN HEART ASSOCIATION (AHA). *Patent Foramen Ovale (PFO)*. Dallas, TX: AHA, [s.d.]. Disponível em: https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/patent-foramen-ovale-pfo. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "SAUD048",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "Qual é a função do \"retículo sarcoplasmático\" dentro de uma célula muscular?",
+		"options": [
+			{ "description": "Produzir ATP (energia).", "isCorrect": false },
+			{ "description": "Armazenar e liberar íons de cálcio ($Ca^{2+}$) para iniciar a contração muscular.", "isCorrect": true },
+			{ "description": "Sintetizar proteínas contráteis (actina e miosina).", "isCorrect": false },
+			{ "description": "Transmitir o impulso nervoso para o músculo.", "isCorrect": false }
+		],
+		"source_explanation": "O retículo sarcoplasmático (uma forma especializada de retículo endoplasmático) atua como o principal reservatório de cálcio ($Ca^{2+}$) na célula muscular, liberando-o para permitir a interação actina-miosina.",
+		"source_abnt": "HALL, John E. *Guyton and Hall Textbook of Medical Physiology*. 13. ed. Filadélfia: Elsevier, 2016. (Capítulo: Contração Muscular)."
+	},
+	{
+		"id": "SAUD049",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "O que são \"príons\" (prions)?",
+		"options": [
+			{ "description": "Vírus que infectam bactérias.", "isCorrect": false },
+			{ "description": "Agentes infecciosos compostos apenas por proteínas mal dobradas, que causam doenças neurodegenerativas (ex: Doença de Creutzfeldt-Jakob).", "isCorrect": true },
+			{ "description": "Um tipo de antibiótico de largo espectro.", "isCorrect": false },
+			{ "description": "A forma adormecida de uma bactéria (esporo).", "isCorrect": false }
+		],
+		"source_explanation": "O conceito de \"príon\" (partícula infecciosa proteica) foi desenvolvido por Stanley Prusiner (Prêmio Nobel de 1997) para descrever o agente causador de doenças como a \"doença da vaca louca\".",
+		"source_abnt": "PRUSINER, Stanley B. Novel proteinaceous infectious particles cause scrapie. *Science*, v. 216, n. 4542, p. 136-144, 9 abr. 1982."
+	},
+	{
+		"id": "SAUD050",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "O que é o \"Reflexo de Bainbridge\" (ou reflexo atrial)?",
+		"options": [
+			{ "description": "A contração da pupila em resposta à luz.", "isCorrect": false },
+			{ "description": "O \"chute\" do joelho ao bater no tendão (reflexo patelar).", "isCorrect": false },
+			{ "description": "Um aumento na frequência cardíaca devido a um aumento no retorno de sangue venoso (pressão atrial).", "isCorrect": true },
+			{ "description": "A queda da pressão arterial ao se levantar rapidamente.", "isCorrect": false }
+		],
+		"source_explanation": "O reflexo de Bainbridge (reflexo atrial) é um aumento na frequência cardíaca mediado pelo sistema nervoso autônomo, causado pelo estiramento dos receptores no átrio direito devido ao aumento do volume sanguíneo.",
+		"source_abnt": "HALL, John E. *Guyton and Hall Textbook of Medical Physiology*. 13. ed. Filadélfia: Elsevier, 2016. (Capítulo: Regulação Cardíaca)."
+	},
+	{
+		"id": "SAUD051",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "Qual é a função primária dos \"Linfócitos B\" (Células B) no sistema imunológico?",
+		"options": [
+			{ "description": "Atacar e destruir células infectadas diretamente (função dos Linfócitos T CD8+).", "isCorrect": false },
+			{ "description": "Produzir e secretar anticorpos.", "isCorrect": true },
+			{ "description": "Engolfar e digerir patógenos (função dos macrófagos).", "isCorrect": false },
+			{ "description": "Liberar histamina durante reações alérgicas.", "isCorrect": false }
+		],
+		"source_explanation": "Os Linfócitos B são os pilares da imunidade humoral (adaptativa). Quando ativados (transformando-se em plasmócitos), sua principal função é a produção de anticorpos.",
+		"source_abnt": "ABBAS, Abul K.; LICHTMAN, Andrew H.; PILLAI, Shiv. *Imunologia Celular e Molecular*. 9. ed. Rio de Janeiro: Elsevier, 2019. (Capítulo: Linfócitos B)."
+	},
+	{
+		"id": "SAUD052",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "O que é \"anosognosia\"?",
+		"options": [
+			{ "description": "A perda total do sentido do olfato.", "isCorrect": false },
+			{ "description": "Uma condição neurológica em que o paciente não tem consciência (ou nega) sua própria deficiência (ex: paralisia após um AVC).", "isCorrect": true },
+			{ "description": "A incapacidade de reconhecer rostos (prosopagnosia).", "isCorrect": false },
+			{ "description": "Um medo irracional de hospitais.", "isCorrect": false }
+		],
+		"source_explanation": "A anosognosia é um déficit neurológico (geralmente por lesão no hemisfério direito) que causa falta de consciência ou negação da própria doença ou deficiência.",
+		"source_abnt": "KANDEL, Eric R. [et al.]. *Princípios de Neurociências*. 5. ed. Porto Alegre: AMGH, 2014."
+	},
+	{
+		"id": "SAUD053",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "Qual é a função da \"Alça de Henle\" no néfron renal?",
+		"options": [
+			{ "description": "Ajustar o pH da urina.", "isCorrect": false },
+			{ "description": "Criar um gradiente de concentração (salinidade) na medula renal, permitindo a reabsorção de água.", "isCorrect": true },
+			{ "description": "Filtrar o sangue (função do glomérulo).", "isCorrect": false },
+			{ "description": "Secretar creatinina ativamente.", "isCorrect": false }
+		],
+		"source_explanation": "A Alça de Henle funciona como um \"multiplicador de contracorrente\", criando um gradiente hipertônico na medula renal que é essencial para a reabsorção de água no ducto coletor.",
+		"source_abnt": "HALL, John E. *Guyton and Hall Textbook of Medical Physiology*. 13. ed. Filadélfia: Elsevier, 2016. (Capítulo: O Rim)."
+	},
+	{
+		"id": "SAUD054",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "O que é o \"Efeito Warburg\" na oncologia?",
+		"options": [
+			{ "description": "O fenômeno em que as células cancerígenas preferem produzir energia através da glicólise (fermentação), mesmo na presença de oxigênio.", "isCorrect": true },
+			{ "description": "A resistência das células cancerígenas à quimioterapia.", "isCorrect": false },
+			{ "description": "A capacidade do câncer de se espalhar para outros órgãos (metástase).", "isCorrect": false },
+			{ "description": "O encolhimento de um tumor após a radioterapia.", "isCorrect": false }
+		],
+		"source_explanation": "O Efeito Warburg (glicólise aeróbica), observado por Otto Warburg (Prêmio Nobel de 1931), é uma característica metabólica fundamental das células cancerígenas.",
+		"source_abnt": "WARBURG, Otto. On the origin of cancer cells. *Science*, v. 123, n. 3191, p. 309-314, 24 fev. 1956."
+	},
+	{
+		"id": "SAUD055",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "Qual é o nome técnico do dispositivo usado para medir a pressão arterial?",
+		"options": [
+			{ "description": "Estetoscópio", "isCorrect": false },
+			{ "description": "Oxímetro de pulso", "isCorrect": false },
+			{ "description": "Esfigmomanômetro", "isCorrect": true },
+			{ "description": "Glicosímetro", "isCorrect": false }
+		],
+		"source_explanation": "O esfigmomanômetro (do grego sphygmus, pulso) é o dispositivo, geralmente com um manguito inflável, usado para medir a pressão arterial.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Sphygmomanometer. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/sphygmomanometer. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "SAUD056",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "Qual é a função dos \"telômeros\" (telomeres)?",
+		"options": [
+			{ "description": "São as \"usinas de energia\" da célula (mitocôndrias).", "isCorrect": false },
+			{ "description": "São as estruturas nas extremidades dos cromossomos que protegem o DNA e encurtam a cada divisão celular.", "isCorrect": true },
+			{ "description": "São os genes que causam o câncer (oncogenes).", "isCorrect": false },
+			{ "description": "São os locais onde as proteínas são fabricadas (ribossomos).", "isCorrect": false }
+		],
+		"source_explanation": "Os telômeros são \"capas\" protetoras nas extremidades dos cromossomos. Seu encurtamento a cada divisão celular (associado à enzima telomerase) está ligado ao envelhecimento.",
+		"source_abnt": "ALBERTS, Bruce [et al.]. *Biologia Molecular da Célula*. 6. ed. Porto Alegre: Artmed, 2017. (Capítulo: Cromossomos)."
+	},
+	{
+		"id": "SAUD057",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "O que é \"Miastenia Gravis\"?",
+		"options": [
+			{ "description": "Uma doença degenerativa do cérebro (como Alzheimer).", "isCorrect": false },
+			{ "description": "Uma doença autoimune que causa fraqueza muscular ao bloquear a comunicação entre nervos e músculos.", "isCorrect": true },
+			{ "description": "Um tipo de distrofia muscular genética.", "isCorrect": false },
+			{ "description": "Uma infecção viral da medula espinhal.", "isCorrect": false }
+		],
+		"source_explanation": "A Miastenia Gravis é uma doença autoimune onde anticorpos bloqueiam ou destroem os receptores de acetilcolina na junção neuromuscular.",
+		"source_abnt": "ABBAS, Abul K.; LICHTMAN, Andrew H.; PILLAI, Shiv. *Imunologia Celular e Molecular*. 9. ed. Rio de Janeiro: Elsevier, 2019. (Capítulo: Autoimunidade)."
+	},
+	{
+		"id": "SAUD058",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "O que é o \"Círculo de Willis\" (Polígono de Willis)?",
+		"options": [
+			{ "description": "Um anel de artérias na base do cérebro que fornece sangue ao cérebro.", "isCorrect": true },
+			{ "description": "O caminho que a bile percorre do fígado ao intestino.", "isCorrect": false },
+			{ "description": "Um grupo de ossos no ouvido médio.", "isCorrect": false },
+			{ "description": "A área do cérebro responsável pela fala (Área de Broca).", "isCorrect": false }
+		],
+		"source_explanation": "O Círculo Arterial Cerebral (ou Polígono de Willis) é uma estrutura anastomótica (anel de artérias) na base do cérebro que fornece circulação colateral.",
+		"source_abnt": "STANDRING, Susan (ed.). *Gray's Anatomy*. 41. ed. Londres: Elsevier, 2016. (Seção: Artérias Cerebrais)."
+	},
+	{
+		"id": "SAUD059",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "Qual é o mecanismo de ação das \"Estatinas\" (ex: Atorvastatina), usadas para baixar o colesterol?",
+		"options": [
+			{ "description": "Elas impedem a absorção de gordura no intestino.", "isCorrect": false },
+			{ "description": "Elas inibem a enzima HMG-CoA redutase no fígado, que é chave na produção de colesterol.", "isCorrect": true },
+			{ "description": "Elas dissolvem as placas de colesterol já existentes nas artérias.", "isCorrect": false },
+			{ "description": "Elas aumentam a excreção de colesterol pela urina.", "isCorrect": false }
+		],
+		"source_explanation": "As estatinas são inibidores da HMG-CoA redutase, a enzima limitante na via de síntese do colesterol no fígado.",
+		"source_abnt": "BRUNTON, Laurence L.; CHABNER, Bruce A.; KNOLLMANN, Björn C. (ed.). *As Bases Farmacológicas da Terapêutica de Goodman & Gilman*. 13. ed. Porto Alegre: AMGH, 2019."
+	},
+	{
+		"id": "SAUD060",
+		"category": "Saúde e Medicina",
+		"level": "hard",
+		"question": "O que é \"Hemocromatose\"?",
+		"options": [
+			{ "description": "A incapacidade do sangue de coagular (Hemofilia).", "isCorrect": false },
+			{ "description": "Um distúrbio genético que causa o acúmulo excessivo de ferro no corpo.", "isCorrect": true },
+			{ "description": "Um tipo de câncer do sangue (Leucemia).", "isCorrect": false },
+			{ "description": "Uma doença autoimune que destrói glóbulos vermelhos.", "isCorrect": false }
+		],
+		"source_explanation": "A hemocromatose hereditária é um distúrbio genético que leva o corpo a absorver e armazenar ferro em excesso, causando danos a órgãos.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Hemochromatosis. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/science/hemochromatosis. Acesso em: 6 nov. 2025."
+	}
+]

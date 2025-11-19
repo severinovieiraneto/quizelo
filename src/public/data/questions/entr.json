@@ -1,0 +1,842 @@
+[
+	{
+		"id": "ENTR001",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Qual é o nome do encanador bigodudo da Nintendo que resgata a Princesa Peach?",
+		"options": [
+			{ "description": "Link", "isCorrect": false },
+			{ "description": "Mario", "isCorrect": true },
+			{ "description": "Sonic", "isCorrect": false },
+			{ "description": "Donkey Kong", "isCorrect": false }
+		],
+		"source_explanation": "Mario é o protagonista do jogo \"Super Mario Bros.\" (1985) e o mascote oficial da Nintendo.",
+		"source_abnt": "SUPER MARIO BROS. [Jogo de videogame]. Direção: Shigeru Miyamoto. Kyoto: Nintendo, 1985."
+	},
+	{
+		"id": "ENTR002",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Qual é o nome do Pokémon amarelo, mascote da franquia, que solta choques elétricos?",
+		"options": [
+			{ "description": "Charmander", "isCorrect": false },
+			{ "description": "Pikachu", "isCorrect": true },
+			{ "description": "Bulbasaur", "isCorrect": false },
+			{ "description": "Squirtle", "isCorrect": false }
+		],
+		"source_explanation": "Pikachu é o Pokémon número 25 e o mascote principal da franquia Pokémon, introduzido nos jogos Red/Blue.",
+		"source_abnt": "POKÉMON RED. [Jogo de videogame]. Direção: Satoshi Tajiri. Tóquio: Game Freak/Nintendo, 1996."
+	},
+	{
+		"id": "ENTR003",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Qual super-herói da DC Comics é conhecido como o \"Homem de Aço\" e veio do planeta Krypton?",
+		"options": [
+			{ "description": "Batman", "isCorrect": false },
+			{ "description": "Superman", "isCorrect": true },
+			{ "description": "Flash", "isCorrect": false },
+			{ "description": "Homem-Aranha", "isCorrect": false }
+		],
+		"source_explanation": "Superman (Clark Kent/Kal-El) é um super-herói de Krypton, cuja primeira aparição foi em Action Comics #1 (1938).",
+		"source_abnt": "DC COMICS. *Action Comics* #1. Burbank, CA: DC Comics, jun. 1938."
+	},
+	{
+		"id": "ENTR004",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Qual é o nome do super-herói bilionário da Marvel que usa uma armadura de alta tecnologia?",
+		"options": [
+			{ "description": "Capitão América", "isCorrect": false },
+			{ "description": "Homem-Formiga", "isCorrect": false },
+			{ "description": "Homem de Ferro (Tony Stark)", "isCorrect": true },
+			{ "description": "Thor", "isCorrect": false }
+		],
+		"source_explanation": "Tony Stark (Homem de Ferro) é um industrial bilionário que constrói uma armadura. Sua primeira aparição foi em Tales of Suspense #39 (1963).",
+		"source_abnt": "MARVEL COMICS. *Tales of Suspense* #39. Nova York: Marvel Comics, mar. 1963."
+	},
+	{
+		"id": "ENTR005",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "No anime \"Dragon Ball Z\", qual é o nome do protagonista Saiyajin que busca as Esferas do Dragão?",
+		"options": [
+			{ "description": "Vegeta", "isCorrect": false },
+			{ "description": "Goku", "isCorrect": true },
+			{ "description": "Naruto", "isCorrect": false },
+			{ "description": "Luffy", "isCorrect": false }
+		],
+		"source_explanation": "Goku é o protagonista do mangá \"Dragon Ball\" (1984), de Akira Toriyama, que deu origem ao anime \"Dragon Ball Z\".",
+		"source_abnt": "TORIYAMA, Akira. *Dragon Ball*. Vol. 1. Tóquio: Shueisha, 1985. (Mangá)."
+	},
+	{
+		"id": "ENTR006",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Qual é o nome do jogo de tabuleiro clássico onde o objetivo é comprar propriedades e levar os oponentes à falência?",
+		"options": [
+			{ "description": "Xadrez", "isCorrect": false },
+			{ "description": "War", "isCorrect": false },
+			{ "description": "Monopoly (Banco Imobiliário)", "isCorrect": true },
+			{ "description": "Catan", "isCorrect": false }
+		],
+		"source_explanation": "O jogo Monopoly (Banco Imobiliário no Brasil) é um jogo de tabuleiro focado na compra, aluguel e venda de propriedades.",
+		"source_abnt": "HASBRO. *Monopoly: Regras Oficiais*. Pawtucket, RI: Hasbro, [s.d.]. Disponível em: https://www.hasbro.com/common/instruct/monins.pdf. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ENTR007",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Qual é o nome da equipe de super-heróis da Marvel que inclui Homem de Ferro, Capitão América, Thor e Hulk?",
+		"options": [
+			{ "description": "Liga da Justiça", "isCorrect": false },
+			{ "description": "X-Men", "isCorrect": false },
+			{ "description": "Quarteto Fantástico", "isCorrect": false },
+			{ "description": "Os Vingadores (The Avengers)", "isCorrect": true }
+		],
+		"source_explanation": "A equipe original dos Vingadores (1963) consistia em Homem de Ferro, Thor, Hulk, Homem-Formiga e Vespa. O Capitão América juntou-se na edição #4.",
+		"source_abnt": "MARVEL COMICS. *The Avengers* #1. Nova York: Marvel Comics, set. 1963."
+	},
+	{
+		"id": "ENTR008",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Qual é o nome do jogo de videogame onde os jogadores constroem estruturas usando blocos em um mundo 3D?",
+		"options": [
+			{ "description": "Fortnite", "isCorrect": false },
+			{ "description": "Minecraft", "isCorrect": true },
+			{ "description": "The Sims", "isCorrect": false },
+			{ "description": "Tetris", "isCorrect": false }
+		],
+		"source_explanation": "Minecraft (2011), criado por Markus Persson (Notch), é um jogo \"sandbox\" focado na construção com blocos.",
+		"source_abnt": "MINECRAFT. [Jogo de videogame]. Estocolmo: Mojang Studios, 2011."
+	},
+	{
+		"id": "ENTR009",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Qual é o nome do anime e mangá sobre um jovem ninja chamado Naruto Uzumaki que sonha em se tornar Hokage?",
+		"options": [
+			{ "description": "Bleach", "isCorrect": false },
+			{ "description": "One Piece", "isCorrect": false },
+			{ "description": "Naruto", "isCorrect": true },
+			{ "description": "Dragon Ball", "isCorrect": false }
+		],
+		"source_explanation": "Naruto Uzumaki é o protagonista do mangá \"Naruto\" (1999), de Masashi Kishimoto, cujo objetivo é se tornar o líder (Hokage) de sua vila.",
+		"source_abnt": "KISHIMOTO, Masashi. *Naruto*. Vol. 1. Tóquio: Shueisha, 1999. (Mangá)."
+	},
+	{
+		"id": "ENTR010",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Qual é a identidade secreta do Batman?",
+		"options": [
+			{ "description": "Clark Kent", "isCorrect": false },
+			{ "description": "Peter Parker", "isCorrect": false },
+			{ "description": "Bruce Wayne", "isCorrect": true },
+			{ "description": "Tony Stark", "isCorrect": false }
+		],
+		"source_explanation": "A identidade secreta do Batman como o bilionário Bruce Wayne foi estabelecida em \"Detective Comics #27\" (1939).",
+		"source_abnt": "DC COMICS. *Detective Comics* #27. Burbank, CA: DC Comics, maio 1939."
+	},
+	{
+		"id": "ENTR011",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Qual é a identidade secreta do Homem-Aranha?",
+		"options": [
+			{ "description": "Bruce Banner", "isCorrect": false },
+			{ "description": "Steve Rogers", "isCorrect": false },
+			{ "description": "Clark Kent", "isCorrect": false },
+			{ "description": "Peter Parker", "isCorrect": true }
+		],
+		"source_explanation": "A identidade secreta do Homem-Aranha como o estudante Peter Parker foi estabelecida em \"Amazing Fantasy #15\" (1962).",
+		"source_abnt": "MARVEL COMICS. *Amazing Fantasy* #15. Nova York: Marvel Comics, ago. 1962."
+	},
+	{
+		"id": "ENTR012",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Qual é o nome do jogo de videogame de quebra-cabeça onde blocos de diferentes formas (Tetriminos) caem e devem ser encaixados?",
+		"options": [
+			{ "description": "Pac-Man", "isCorrect": false },
+			{ "description": "Tetris", "isCorrect": true },
+			{ "description": "Bejeweled", "isCorrect": false },
+			{ "description": "Candy Crush", "isCorrect": false }
+		],
+		"source_explanation": "Tetris (1984), criado pelo engenheiro russo Alexey Pajitnov, é o jogo de quebra-cabeça de encaixe de blocos.",
+		"source_abnt": "PAJITNOV, Alexey. *Tetris*. [Jogo de videogame]. União Soviética: Centro de Computação Dorodnitsyn, 1984."
+	},
+	{
+		"id": "ENTR013",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Em \"Dragon Ball Z\", o que acontece quando Goku atinge a forma de \"Super Saiyajin\"?",
+		"options": [
+			{ "description": "Ele fica azul e mais rápido.", "isCorrect": false },
+			{ "description": "Seu cabelo fica loiro (dourado) e seu poder aumenta drasticamente.", "isCorrect": true },
+			{ "description": "Ele se funde com Vegeta.", "isCorrect": false },
+			{ "description": "Ele aprende a voar.", "isCorrect": false }
+		],
+		"source_explanation": "A primeira transformação em Super Saiyajin ocorre na luta contra Freeza (mangá, capítulo 317), marcada pelo cabelo loiro e um vasto aumento de poder.",
+		"source_abnt": "TORIYAMA, Akira. *Dragon Ball*. Vol. 27. Tóquio: Shueisha, 1991. (Mangá)."
+	},
+	{
+		"id": "ENTR014",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Qual é o nome do jogo de tabuleiro de estratégia militar onde o objetivo é dominar o mundo?",
+		"options": [
+			{ "description": "Detetive", "isCorrect": false },
+			{ "description": "War (Risco)", "isCorrect": true },
+			{ "description": "Xadrez", "isCorrect": false },
+			{ "description": "Damas", "isCorrect": false }
+		],
+		"source_explanation": "O jogo \"Risk\" (Risco), conhecido no Brasil como \"War\", é um jogo de estratégia onde os jogadores tentam conquistar territórios do mundo.",
+		"source_abnt": "HASBRO. *Risk: Regras Oficiais*. Pawtucket, RI: Hasbro, [s.d.]. (Publicado originalmente em 1957 por Albert Lamorisse)."
+	},
+	{
+		"id": "ENTR015",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Qual é o nome do ouriço azul super rápido, mascote da SEGA?",
+		"options": [
+			{ "description": "Tails", "isCorrect": false },
+			{ "description": "Knuckles", "isCorrect": false },
+			{ "description": "Sonic", "isCorrect": true },
+			{ "description": "Dr. Robotnik", "isCorrect": false }
+		],
+		"source_explanation": "Sonic the Hedgehog é o mascote da SEGA, introduzido no jogo homônimo de 1991 para o Mega Drive/Genesis.",
+		"source_abnt": "SONIC THE HEDGEHOG. [Jogo de videogame]. Tóquio: Sega (Sonic Team), 1991."
+	},
+	{
+		"id": "ENTR016",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Qual é o nome do estúdio de animação japonês co-fundado por Hayao Miyazaki, famoso por \"A Viagem de Chihiro\"?",
+		"options": [
+			{ "description": "Studio Ghibli", "isCorrect": true },
+			{ "description": "Toei Animation", "isCorrect": false },
+			{ "description": "Madhouse", "isCorrect": false },
+			{ "description": "Sunrise", "isCorrect": false }
+		],
+		"source_explanation": "O Studio Ghibli foi fundado em 1985 por Hayao Miyazaki, Isao Takahata e Toshio Suzuki, e produziu \"A Viagem de Chihiro\" (2001).",
+		"source_abnt": "STUDIO GHIBLI. *Filmografia*. Tóquio: Studio Ghibli, [s.d.]. Disponível em: https://www.ghibli.jp/films/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ENTR017",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Qual é o nome da equipe de super-heróis da DC Comics que inclui Superman, Batman e Mulher-Maravilha?",
+		"options": [
+			{ "description": "Os Vingadores", "isCorrect": false },
+			{ "description": "X-Men", "isCorrect": false },
+			{ "description": "Liga da Justiça", "isCorrect": true },
+			{ "description": "Guardiões da Galáxia", "isCorrect": false }
+		],
+		"source_explanation": "A Liga da Justiça da América (Justice League of America) é a principal equipe de super-heróis da DC Comics, cuja primeira aparição foi em 1960.",
+		"source_abnt": "DC COMICS. *The Brave and the Bold* #28. Burbank, CA: DC Comics, mar. 1960."
+	},
+	{
+		"id": "ENTR018",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "No jogo de Xadrez, qual é a peça mais poderosa do tabuleiro?",
+		"options": [
+			{ "description": "Rei", "isCorrect": false },
+			{ "description": "Torre", "isCorrect": false },
+			{ "description": "Cavalo", "isCorrect": false },
+			{ "description": "Rainha (Dama)", "isCorrect": true }
+		],
+		"source_explanation": "As regras oficiais da FIDE (Federação Internacional de Xadrez) definem o movimento da Rainha como a combinação dos movimentos da Torre e do Bispo.",
+		"source_abnt": "FIDE (FÉDÉRATION INTERNATIONALE DES ÉCHECS). *Leis do Xadrez da FIDE*. Lausanne: FIDE, 2023. (Artigo 3: O movimento das peças)."
+	},
+	{
+		"id": "ENTR019",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Qual é o nome do herói da Nintendo que veste roupas verdes, usa espada e escudo e salva a Princesa Zelda?",
+		"options": [
+			{ "description": "Link", "isCorrect": true },
+			{ "description": "Zelda", "isCorrect": false },
+			{ "description": "Ganondorf", "isCorrect": false },
+			{ "description": "Samus Aran", "isCorrect": false }
+		],
+		"source_explanation": "Link é o protagonista jogável da série \"The Legend of Zelda\" (1986). Zelda é a princesa que ele frequentemente resgata.",
+		"source_abnt": "THE LEGEND OF ZELDA. [Jogo de videogame]. Direção: Shigeru Miyamoto. Kyoto: Nintendo, 1986."
+	},
+	{
+		"id": "ENTR020",
+		"category": "Entretenimento",
+		"level": "easy",
+		"question": "Qual mangá e anime segue Monkey D. Luffy, um garoto que sonha em se tornar o Rei dos Piratas?",
+		"options": [
+			{ "description": "One-Punch Man", "isCorrect": false },
+			{ "description": "One Piece", "isCorrect": true },
+			{ "description": "Naruto", "isCorrect": false },
+			{ "description": "Bleach", "isCorrect": false }
+		],
+		"source_explanation": "O mangá \"One Piece\" (1997), de Eiichiro Oda, segue o protagonista Monkey D. Luffy em sua busca pelo tesouro \"One Piece\" para se tornar o Rei dos Piratas.",
+		"source_abnt": "ODA, Eiichiro. *One Piece*. Vol. 1. Tóquio: Shueisha, 1997. (Mangá)."
+	},
+	{
+		"id": "ENTR021",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "No universo Marvel, o \"Adamantium\" é o metal indestrutível ligado ao esqueleto de qual herói?",
+		"options": [
+			{ "description": "Homem de Ferro", "isCorrect": false },
+			{ "description": "Pantera Negra", "isCorrect": false },
+			{ "description": "Wolverine", "isCorrect": true },
+			{ "description": "Capitão América", "isCorrect": false }
+		],
+		"source_explanation": "O programa Arma X (Weapon X) ligou o metal fictício Adamantium ao esqueleto e às garras do mutante Wolverine.",
+		"source_abnt": "MARVEL COMICS. *The Incredible Hulk* #181. Nova York: Marvel Comics, nov. 1974. (Primeira aparição completa de Wolverine)."
+	},
+	{
+		"id": "ENTR022",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "Qual é o nome do jogo de videogame de 1993 que popularizou o gênero \"First-Person Shooter\" (FPS)?",
+		"options": [
+			{ "description": "Wolfenstein 3D", "isCorrect": false },
+			{ "description": "Doom", "isCorrect": true },
+			{ "description": "Quake", "isCorrect": false },
+			{ "description": "Half-Life", "isCorrect": false }
+		],
+		"source_explanation": "Embora \"Wolfenstein 3D\" (1992) tenha criado a base, \"Doom\" (1993) da id Software é considerado o jogo que popularizou massivamente o gênero FPS e o \"deathmatch\" (multijogador).",
+		"source_abnt": "DOOM. [Jogo de videogame]. Mesquite, TX: id Software, 1993."
+	},
+	{
+		"id": "ENTR023",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "Em \"Attack on Titan\" (Shingeki no Kyojin), qual é o objetivo principal dos protagonistas que vivem dentro das muralhas?",
+		"options": [
+			{ "description": "Lutar e matar os Titãs (gigantes) que ameaçam a humanidade.", "isCorrect": true },
+			{ "description": "Encontrar o tesouro One Piece.", "isCorrect": false },
+			{ "description": "Tornar-se o maior Mestre Pokémon.", "isCorrect": false },
+			{ "description": "Vencer o Torneio de Artes Marciais.", "isCorrect": false }
+		],
+		"source_explanation": "A premissa do mangá \"Attack on Titan\" (2009) é a luta da humanidade pela sobrevivência contra gigantes humanoides (Titãs).",
+		"source_abnt": "ISAYAMA, Hajime. *Attack on Titan*. Vol. 1. Tóquio: Kodansha, 2009. (Mangá)."
+	},
+	{
+		"id": "ENTR024",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "Qual é o nome do jogo de tabuleiro alemão, lançado em 1995, onde os jogadores competem para construir assentamentos e cidades na ilha de Catan?",
+		"options": [
+			{ "description": "Carcassonne", "isCorrect": false },
+			{ "description": "Ticket to Ride", "isCorrect": false },
+			{ "description": "Catan (Os Descobridores de Catan)", "isCorrect": true },
+			{ "description": "Pandemic", "isCorrect": false }
+		],
+		"source_explanation": "Criado por Klaus Teuber, \"Catan\" (1995) venceu o prêmio Spiel des Jahres e popularizou os \"Eurogames\" (jogos de estilo alemão) globalmente.",
+		"source_abnt": "TEUBER, Klaus. *Catan*. [Jogo de tabuleiro]. Darmstadt: KOSMOS, 1995."
+	},
+	{
+		"id": "ENTR025",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "Qual é o nome da série de graphic novels de Alan Moore e Dave Gibbons que critica super-heróis e se passa em uma Guerra Fria alternativa?",
+		"options": [
+			{ "description": "V de Vingança", "isCorrect": false },
+			{ "description": "Watchmen", "isCorrect": true },
+			{ "description": "Do Inferno", "isCorrect": false },
+			{ "description": "A Piada Mortal", "isCorrect": false }
+		],
+		"source_explanation": "A série \"Watchmen\" (1986-1987) é uma desconstrução do gênero de super-heróis ambientada em uma história alternativa.",
+		"source_abnt": "MOORE, Alan; GIBBONS, Dave. *Watchmen*. Nova York: DC Comics, 1987. (Graphic novel)."
+	},
+	{
+		"id": "ENTR026",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "Qual é o nome do gênero de anime e mangá focado em robôs gigantes pilotáveis?",
+		"options": [
+			{ "description": "Shojo (Garotas)", "isCorrect": false },
+			{ "description": "Isekai (Outro Mundo)", "isCorrect": false },
+			{ "description": "Mecha (Mecânico)", "isCorrect": true },
+			{ "description": "Shonen (Garotos)", "isCorrect": false }
+		],
+		"source_explanation": "O gênero \"Mecha\" (derivado de \"mechanical\") é definido por robôs gigantes, com exemplos clássicos como \"Mobile Suit Gundam\" e \"Neon Genesis Evangelion\".",
+		"source_abnt": "ENCYCLOPEDIA OF SCIENCE FICTION (SFE). *Mecha*. Londres: SFE Ltd, 2021. Disponível em: https://sf-encyclopedia.com/entry/mecha. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ENTR027",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "No videogame \"The Last of Us\", qual é a causa da infecção que transforma humanos em \"Infectados\"?",
+		"options": [
+			{ "description": "Um vírus criado em laboratório.", "isCorrect": false },
+			{ "description": "Uma mutação do fungo Cordyceps.", "isCorrect": true },
+			{ "description": "Radiação de uma bomba nuclear.", "isCorrect": false },
+			{ "description": "Uma praga alienígena.", "isCorrect": false }
+		],
+		"source_explanation": "A premissa do jogo (2013) é baseada na mutação fictícia do fungo parasita real Ophiocordyceps (Cordyceps), que passa a infectar humanos.",
+		"source_abnt": "THE LAST OF US. [Jogo de videogame]. Direção: Bruce Straley, Neil Druckmann. San Mateo, CA: Naughty Dog/Sony, 2013."
+	},
+	{
+		"id": "ENTR028",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "Qual é o nome da mecânica principal no jogo de tabuleiro \"Carcassonne\"?",
+		"options": [
+			{ "description": "Leilão (Auction)", "isCorrect": false },
+			{ "description": "Construção de Baralho (Deck Building)", "isCorrect": false },
+			{ "description": "Colocação de Peças (Tile Placement) e controle de área.", "isCorrect": true },
+			{ "description": "Alocação de Trabalhadores (Worker Placement)", "isCorrect": false }
+		],
+		"source_explanation": "A mecânica central de \"Carcassonne\" (2000) é a \"Colocação de Peças\" (tiles), onde os jogadores constroem o mapa, e o controle de área com \"meeples\".",
+		"source_abnt": "BOARDGAMEGEEK (BGG). *Carcassonne (2000)*. [S.l.]: BoardGameGeek, LLC, [s.d.]. Disponível em: https://boardgamegeek.com/boardgame/822/carcassonne. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ENTR029",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "Em \"Vingadores: Guerra Infinita\", qual é o objetivo de Thanos ao coletar as Joias do Infinito?",
+		"options": [
+			{ "description": "Tornar-se o ser mais rico do universo.", "isCorrect": false },
+			{ "description": "Destruir a Terra para vingar seu povo.", "isCorrect": false },
+			{ "description": "Eliminar metade de toda a vida no universo para trazer \"equilíbrio\".", "isCorrect": true },
+			{ "description": "Conquistar Asgard e derrotar Odin.", "isCorrect": false }
+		],
+		"source_explanation": "A motivação central de Thanos no filme (2018) é sua crença malthusiana de que o universo precisa de \"equilíbrio\", o que ele alcança ao estalar os dedos.",
+		"source_abnt": "VINGADORES: GUERRA INFINITA. Direção: Anthony Russo, Joe Russo. Produção: Marvel Studios. [Filme]. Estados Unidos: Disney, 2018."
+	},
+	{
+		"id": "ENTR030",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "No anime \"Death Note\", o que acontece se o nome de uma pessoa for escrito no caderno?",
+		"options": [
+			{ "description": "A pessoa se apaixona pelo portador.", "isCorrect": false },
+			{ "description": "A pessoa esquece suas memórias.", "isCorrect": false },
+			{ "description": "A pessoa morre.", "isCorrect": true },
+			{ "description": "A pessoa ganha superpoderes.", "isCorrect": false }
+		],
+		"source_explanation": "A regra principal do mangá \"Death Note\" (2003) é: \"O humano cujo nome for escrito neste caderno morrerá\".",
+		"source_abnt": "OHBA, Tsugumi; OBATA, Takeshi. *Death Note*. Vol. 1. Tóquio: Shueisha, 2003. (Mangá)."
+	},
+	{
+		"id": "ENTR031",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "Qual é o nome do grupo de mutantes da Marvel Comics que luta pelos direitos dos mutantes?",
+		"options": [
+			{ "description": "Defensores", "isCorrect": false },
+			{ "description": "X-Men", "isCorrect": true },
+			{ "description": "Inumanos", "isCorrect": false },
+			{ "description": "Quarteto Fantástico", "isCorrect": false }
+		],
+		"source_explanation": "Os X-Men (1963) são uma equipe de super-heróis mutantes fundada por Charles Xavier para promover a coexistência pacífica.",
+		"source_abnt": "MARVEL COMICS. *The X-Men* #1. Nova York: Marvel Comics, set. 1963."
+	},
+	{
+		"id": "ENTR032",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "Qual jogo de videogame é considerado o pioneiro do gênero \"Battle Royale\"?",
+		"options": [
+			{ "description": "PlayerUnknown's Battlegrounds (PUBG)", "isCorrect": true },
+			{ "description": "Fortnite", "isCorrect": false },
+			{ "description": "Apex Legends", "isCorrect": false },
+			{ "description": "Call of Duty: Warzone", "isCorrect": false }
+		],
+		"source_explanation": "Brendan Greene (PlayerUnknown) criou o mod \"Battle Royale\" (baseado no filme japonês) para ARMA 2, que evoluiu para o jogo standalone \"PUBG\" (2017), definindo o gênero.",
+		"source_abnt": "PLAYERUNKNOWN'S BATTLEGROUNDS. [Jogo de videogame]. Bluehole/PUBG Corporation, 2017."
+	},
+	{
+		"id": "ENTR033",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "Em \"O Senhor dos Anéis\", qual é o nome do anel que Frodo deve destruir?",
+		"options": [
+			{ "description": "O Um Anel (The One Ring)", "isCorrect": true },
+			{ "description": "Nenya (Anel da Água)", "isCorrect": false },
+			{ "description": "Vilya (Anel do Ar)", "isCorrect": false },
+			{ "description": "O Anel de Barahir", "isCorrect": false }
+		],
+		"source_explanation": "A trama central da obra de Tolkien é a destruição do \"Um Anel\", o anel mestre forjado por Sauron para controlar os outros Anéis de Poder.",
+		"source_abnt": "TOLKIEN, J.R.R. *A Sociedade do Anel*. Tradução de Lenita Maria Rímoli Esteves. São Paulo: Martins Fontes, 1994."
+	},
+	{
+		"id": "ENTR034",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "Qual é o nome do criador de videogames japonês, famoso por dirigir a série \"Metal Gear\" e \"Death Stranding\"?",
+		"options": [
+			{ "description": "Shigeru Miyamoto", "isCorrect": false },
+			{ "description": "Hideo Kojima", "isCorrect": true },
+			{ "description": "Hidetaka Miyazaki", "isCorrect": false },
+			{ "description": "Yoko Taro", "isCorrect": false }
+		],
+		"source_explanation": "Hideo Kojima é o diretor e designer de jogos creditado como a força criativa por trás das séries \"Metal Gear\" (Konami) e \"Death Stranding\" (Kojima Productions).",
+		"source_abnt": "KOJIMA PRODUCTIONS. *Hideo Kojima*. Tóquio: Kojima Productions, [s.d.]. Disponível em: https://www.kojimaproductions.jp/en/hideo-kojima. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ENTR035",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "No jogo de tabuleiro \"Dungeons & Dragons\", qual é o nome dado ao mestre do jogo que narra a história?",
+		"options": [
+			{ "description": "O Jogador (Player)", "isCorrect": false },
+			{ "description": "O Mestre da Masmorra (Dungeon Master - DM)", "isCorrect": true },
+			{ "description": "O Herói (Hero)", "isCorrect": false },
+			{ "description": "O Mago (Wizard)", "isCorrect": false }
+		],
+		"source_explanation": "O \"Guia do Mestre\" (Dungeon Master's Guide) define o papel do DM como o árbitro e narrador do jogo.",
+		"source_abnt": "GYGAX, Gary; ARNESON, Dave. *Dungeons & Dragons*. Lake Geneva, WI: TSR, 1974. (Revisado por WIZARDS OF THE COAST. *Dungeon Master's Guide*. 5. ed. 2014)."
+	},
+	{
+		"id": "ENTR036",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "Qual é o nome da editora de quadrinhos independente famosa por \"The Walking Dead\", \"Spawn\" e \"Invincible\"?",
+		"options": [
+			{ "description": "Dark Horse Comics", "isCorrect": false },
+			{ "description": "Valiant Comics", "isCorrect": false },
+			{ "description": "Image Comics", "isCorrect": true },
+			{ "description": "IDW Publishing", "isCorrect": false }
+		],
+		"source_explanation": "A Image Comics foi fundada em 1992 por artistas (incluindo Todd McFarlane, criador de Spawn) para que os criadores mantivessem os direitos autorais de suas obras.",
+		"source_abnt": "IMAGE COMICS. *About*. Portland, OR: Image Comics, [s.d.]. Disponível em: https://imagecomics.com/about. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ENTR037",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "Qual é o nome do protagonista de \"Neon Genesis Evangelion\", que é forçado a pilotar o EVA Unidade-01?",
+		"options": [
+			{ "description": "Asuka Langley Soryu", "isCorrect": false },
+			{ "description": "Shinji Ikari", "isCorrect": true },
+			{ "description": "Rei Ayanami", "isCorrect": false },
+			{ "description": "Kaworu Nagisa", "isCorrect": false }
+		],
+		"source_explanation": "O anime de 1995, \"Neon Genesis Evangelion\", é centrado em Shinji Ikari, a \"Terceira Criança\", que pilota a Unidade-01.",
+		"source_abnt": "NEON GENESIS EVANGELION. [Série de anime]. Direção: Hideaki Anno. Tóquio: Gainax/Tatsunoko, 1995."
+	},
+	{
+		"id": "ENTR038",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "Em \"Batman: O Cavaleiro das Trevas Ressurge\", qual vilão quebra as costas do Batman?",
+		"options": [
+			{ "description": "Coringa", "isCorrect": false },
+			{ "description": "Espantalho", "isCorrect": false },
+			{ "description": "Duas-Caras", "isCorrect": false },
+			{ "description": "Bane", "isCorrect": true }
+		],
+		"source_explanation": "A cena do filme de 2012 é uma referência direta ao arco de quadrinhos \"A Queda do Morcego\" (1993), onde Bane quebra a coluna de Batman.",
+		"source_abnt": "DC COMICS. *Batman* #497 (Knightfall, Part 11). Burbank, CA: DC Comics, jul. 1993."
+	},
+	{
+		"id": "ENTR039",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "Qual é o nome do prêmio mais prestigiado dos jogos de tabuleiro alemães, frequentemente traduzido como \"Jogo do Ano\"?",
+		"options": [
+			{ "description": "The Golden Geek Award", "isCorrect": false },
+			{ "description": "Spiel des Jahres", "isCorrect": true },
+			{ "description": "Deutscher Spiele Preis", "isCorrect": false },
+			{ "description": "The Dice Tower Award", "isCorrect": false }
+		],
+		"source_explanation": "O \"Spiel des Jahres\" (Jogo do Ano) é o prêmio alemão mais influente da indústria de jogos de tabuleiro, crucial para o sucesso de jogos como \"Catan\".",
+		"source_abnt": "SPIEL DES JAHRES. *Der Preis*. [S.l.]: Spiel des Jahres e.V., [s.d.]. Disponível em: https://www.spiel-des-jahres.de/der-preis/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ENTR040",
+		"category": "Entretenimento",
+		"level": "medium",
+		"question": "No videogame \"World of Warcraft\", qual é a facção rival da \"Aliança\" (Alliance)?",
+		"options": [
+			{ "description": "A Horda (The Horde)", "isCorrect": true },
+			{ "description": "O Enxame (The Swarm)", "isCorrect": false },
+			{ "description": "Os Templários (The Templars)", "isCorrect": false },
+			{ "description": "A Legião (The Legion)", "isCorrect": false }
+		],
+		"source_explanation": "O conflito central do MMORPG \"World of Warcraft\" (2004) é entre as duas facções jogáveis: a Aliança e a Horda.",
+		"source_abnt": "WORLD OF WARCRAFT. [Jogo de videogame]. Irvine, CA: Blizzard Entertainment, 2004."
+	},
+	{
+		"id": "ENTR041",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "Qual é o nome da mecânica de jogo de tabuleiro onde os jogadores colocam seus \"peões\" (trabalhadores) em locais do tabuleiro para executar ações?",
+		"options": [
+			{ "description": "Construção de Baralho (Deck Building)", "isCorrect": false },
+			{ "description": "Alocação de Trabalhadores (Worker Placement)", "isCorrect": true },
+			{ "description": "Controle de Área (Area Control)", "isCorrect": false },
+			{ "description": "Rondel", "isCorrect": false }
+		],
+		"source_explanation": "O banco de dados de referência BoardGameGeek (BGG) define \"Worker Placement\" (Alocação de Trabalhadores) como a mecânica popularizada por jogos como \"Agricola\" e \"Caylus\".",
+		"source_abnt": "BOARDGAMEGEEK (BGG). *Mechanic: Worker Placement*. [S.l.]: BoardGameGeek, LLC, [s.d.]. Disponível em: https://boardgamegeek.com/boardgamemechanic/2082/worker-placement. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ENTR042",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "No anime \"Cowboy Bebop\", qual é o nome da caçadora de recompensas com amnésia que se junta à tripulação da nave Bebop?",
+		"options": [
+			{ "description": "Faye Valentine", "isCorrect": true },
+			{ "description": "Ed (Edward Wong Hau Pepelu Tivrusky IV)", "isCorrect": false },
+			{ "description": "Julia", "isCorrect": false },
+			{ "description": "Elektra Ovirowa", "isCorrect": false }
+		],
+		"source_explanation": "Faye Valentine é uma das protagonistas do anime \"Cowboy Bebop\" (1998), que acorda de um sono criogênico com uma dívida imensa e amnésia.",
+		"source_abnt": "COWBOY BEBOP. [Série de anime]. Direção: Shinichirō Watanabe. Tóquio: Sunrise, 1998."
+	},
+	{
+		"id": "ENTR043_FIXED",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "Qual autor de quadrinhos \"underground\" é famoso por sua série autobiográfica \"American Splendor\", que narra sua vida cotidiana em Cleveland?",
+		"options": [
+			{ "description": "Robert Crumb", "isCorrect": false },
+			{ "description": "Harvey Pekar", "isCorrect": true },
+			{ "description": "Daniel Clowes", "isCorrect": false },
+			{ "description": "Art Spiegelman", "isCorrect": false }
+		],
+		"source_explanation": "Harvey Pekar foi o autor da série autobiográfica \"American Splendor\" (publicada de 1976 a 2008), que narrava sua vida como arquivista em Cleveland.",
+		"source_abnt": "PEKAR, Harvey. *American Splendor*. Cleveland, OH: [Auto-publicado], 1976. (Quadrinhos)."
+	},
+	{
+		"id": "ENTR044",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "No universo DC, o que é a \"Equação Antivida\" (Anti-Life Equation), o objetivo final de Darkseid?",
+		"options": [
+			{ "description": "Uma fórmula matemática que prova que o livre-arbítrio não existe, permitindo ao usuário controlar todas as mentes sencientes.", "isCorrect": true },
+			{ "description": "Um vírus que mata todas as formas de vida orgânica.", "isCorrect": false },
+			{ "description": "Um dispositivo que reverte o tempo até o início do universo.", "isCorrect": false },
+			{ "description": "Uma arma que destrói a \"Fonte\" (The Source) da realidade.", "isCorrect": false }
+		],
+		"source_explanation": "A Equação Antivida, introduzida na saga \"Quarto Mundo\" de Jack Kirby, é uma fórmula que oblitera o livre-arbítrio.",
+		"source_abnt": "DC COMICS. *Mister Miracle* #4. Burbank, CA: DC Comics, out. 1971."
+	},
+	{
+		"id": "ENTR045",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "Qual diretor de anime é famoso por seus filmes de suspense psicológico e temas de \"realidade vs. sonho\", como \"Perfect Blue\" e \"Paprika\"?",
+		"options": [
+			{ "description": "Hayao Miyazaki", "isCorrect": false },
+			{ "description": "Katsuhiro Otomo", "isCorrect": false },
+			{ "description": "Mamoru Oshii", "isCorrect": false },
+			{ "description": "Satoshi Kon", "isCorrect": true }
+		],
+		"source_explanation": "Satoshi Kon foi um diretor aclamado por seus filmes (\"Perfect Blue\", \"Paprika\", \"Millennium Actress\") que exploram a intersecção da realidade, sonho e memória.",
+		"source_abnt": "PERFECT BLUE. [Filme]. Direção: Satoshi Kon. Tóquio: Madhouse, 1997."
+	},
+	{
+		"id": "ENTR046",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "O jogo \"Chrono Trigger\" (1995) para SNES é famoso por ter uma equipe de desenvolvimento \"Dream Team\" que incluía Hironobu Sakaguchi (Final Fantasy), Yuji Horii (Dragon Quest) e quem mais?",
+		"options": [
+			{ "description": "Shigeru Miyamoto (Mario)", "isCorrect": false },
+			{ "description": "Akira Toriyama (Dragon Ball)", "isCorrect": true },
+			{ "description": "Hideo Kojima (Metal Gear)", "isCorrect": false },
+			{ "description": "Koji Kondo (Zelda)", "isCorrect": false }
+		],
+		"source_explanation": "Os créditos do jogo \"Chrono Trigger\" (1995) listam o \"Dream Team\" incluindo Akira Toriyama (Dragon Ball) como designer de personagens.",
+		"source_abnt": "CHRONO TRIGGER. [Jogo de videogame]. Direção: Akihiko Matsui, Takashi Tokita, Yoshinori Kitase. Tóquio: Square, 1995."
+	},
+	{
+		"id": "ENTR047",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "No jogo de tabuleiro \"Twilight Struggle\", que simula a Guerra Fria, qual é a condição de vitória imediata (autovictory)?",
+		"options": [
+			{ "description": "Ser o primeiro jogador a controlar a China.", "isCorrect": false },
+			{ "description": "Alcançar 20 Pontos de Vitória (VP).", "isCorrect": true },
+			{ "description": "Controlar todas as regiões da Europa simultaneamente.", "isCorrect": false },
+			{ "description": "Causar uma Guerra Nuclear (o que na verdade causa derrota para quem a iniciou).", "isCorrect": false }
+		],
+		"source_explanation": "O livro de regras oficial de \"Twilight Struggle\" afirma que uma vitória automática ocorre se um jogador atingir 20 Pontos de Vitória (VP). (O controle da Europa apenas concede VP, não vitória imediata).",
+		"source_abnt": "GUPTA, Ananda; MATTHEWS, Jason. *Twilight Struggle: Regras do Jogo*. 4. ed. Hanford, CA: GMT Games, 2005. (Seção: 10.1 - Condições de Vitória)."
+	},
+	{
+		"id": "ENTR048",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "O que é um \"Metroidvania\"?",
+		"options": [
+			{ "description": "Um subgênero de RPG focado em coletar monstros.", "isCorrect": false },
+			{ "description": "Um gênero de jogo de plataforma e ação não linear, onde o jogador ganha novas habilidades que abrem áreas anteriormente inacessíveis.", "isCorrect": true },
+			{ "description": "Um jogo de terror de sobrevivência em primeira pessoa.", "isCorrect": false },
+			{ "description": "Um jogo de ritmo musical.", "isCorrect": false }
+		],
+		"source_explanation": "O termo, cunhado por críticos, combina os nomes das séries \"Metroid\" e \"Castlevania\" (especificamente \"Symphony of the Night\") para descrever este gênero não linear focado em exploração e aquisição de habilidades.",
+		"source_abnt": "ENCYCLOPEDIA OF SCIENCE FICTION (SFE). *Metroidvania*. Londres: SFE Ltd, 2021. Disponível em: https://sf-encyclopedia.com/entry/metroidvania. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ENTR049",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "A graphic novel \"Maus\", de Art Spiegelman, é notável por retratar os Judeus como qual tipo de animal?",
+		"options": [
+			{ "description": "Ratos", "isCorrect": true },
+			{ "description": "Gatos (Nazistas)", "isCorrect": false },
+			{ "description": "Porcos (Poloneses)", "isCorrect": false },
+			{ "description": "Cães (Americanos)", "isCorrect": false }
+		],
+		"source_explanation": "A alegoria animal é a metáfora central do livro, onde Judeus são ratos (Maus), Alemães são gatos, Poloneses são porcos e Americanos são cães.",
+		"source_abnt": "SPIEGELMAN, Art. *Maus: a história de um sobrevivente*. São Paulo: Companhia das Letras, 1997."
+	},
+	{
+		"id": "ENTR050",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "No jogo de cartas \"Magic: The Gathering\", qual é o nome do plano (mundo) onde fica a academia de magos de Strixhaven?",
+		"options": [
+			{ "description": "Innistrad", "isCorrect": false },
+			{ "description": "Ravnica", "isCorrect": false },
+			{ "description": "Arcavios", "isCorrect": true },
+			{ "description": "Zendikar", "isCorrect": false }
+		],
+		"source_explanation": "A coleção \"Strixhaven: Escola de Magos\" (2021) é ambientada no plano de Arcavios, que abriga as cinco faculdades da universidade.",
+		"source_abnt": "WIZARDS OF THE COAST. *Strixhaven: School of Mages*. Renton, WA: Wizards of the Coast, 2021. Disponível em: https://magic.wizards.com/en/products/strixhaven. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ENTR051",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "Qual é a mecânica central do jogo de tabuleiro \"Gloomhaven\", que o diferencia da maioria dos \"dungeon crawlers\"?",
+		"options": [
+			{ "description": "Um sistema de combate tático baseado em cartas (card-driven), onde as cartas também funcionam como \"stamina\" (vida útil).", "isCorrect": true },
+			{ "description": "O uso de um aplicativo de celular obrigatório para narrar a história.", "isCorrect": false },
+			{ "description": "Um sistema \"legacy\" onde os jogadores rolam dados para determinar o destino do mundo.", "isCorrect": false },
+			{ "description": "Não há combate; o jogo é focado apenas em negociação econômica.", "isCorrect": false }
+		],
+		"source_explanation": "O livro de regras de \"Gloomhaven\" (2017) detalha seu sistema de combate inovador, onde os jogadores gerenciam um baralho de cartas que serve tanto para ações quanto como \"stamina\".",
+		"source_abnt": "CHILDRES, Isaac. *Gloomhaven: Livro de Regras*. [Jogo de tabuleiro]. Cephalofair Games, 2017."
+	},
+	{
+		"id": "ENTR052",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "Na série de quadrinhos \"Sandman\", de Neil Gaiman, Morpheus (Sonho) pertence a qual grupo de seres?",
+		"options": [
+			{ "description": "A Liga da Justiça Sombria", "isCorrect": false },
+			{ "description": "Os Perpétuos (The Endless)", "isCorrect": true },
+			{ "description": "Os Novos Deuses", "isCorrect": false },
+			{ "description": "O Parlamento das Árvores", "isCorrect": false }
+		],
+		"source_explanation": "A série \"Sandman\" (1989) é centrada nos Perpétuos (The Endless), sete irmãos que são personificações de conceitos: Destino, Morte, Sonho (Morpheus), Destruição, Desejo, Desespero e Delírio.",
+		"source_abnt": "GAIMAN, Neil. *Sandman: Prelúdios e Noturnos*. Vol. 1. São Paulo: Conrad, 2005. (Publicado originalmente em 1989)."
+	},
+	{
+		"id": "ENTR053",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "O videogame \"Undertale\" (2015) é famoso por qual mecânica de jogo subversiva?",
+		"options": [
+			{ "description": "Um sistema onde o jogador pode terminar o jogo inteiro sem matar um único inimigo, usando a opção \"Agir\" (Act).", "isCorrect": true },
+			{ "description": "Um sistema de viagem no tempo que afeta o mundo do jogo.", "isCorrect": false },
+			{ "description": "Gráficos fotorrealistas que quebram a quarta parede.", "isCorrect": false },
+			{ "description": "Um sistema de \"permadeath\" (morte permanente) em um jogo de RPG.", "isCorrect": false }
+		],
+		"source_explanation": "A rota \"Pacifista\", onde o jogador usa a opção \"Agir\" (Act) para poupar todos os inimigos, é central para a filosofia do jogo e leva ao final verdadeiro.",
+		"source_abnt": "UNDERTALE. [Jogo de videogame]. Criador: Toby Fox. [S.l.]: Toby Fox, 2015."
+	},
+	{
+		"id": "ENTR054",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "Qual é a principal diferença entre um mangá \"Shonen\" e um mangá \"Seinen\"?",
+		"options": [
+			{ "description": "Shonen é sobre robôs (Mecha); Seinen é sobre romance (Shojo).", "isCorrect": false },
+			{ "description": "Shonen é focado no público masculino adolescente (luta, aventura); Seinen é focado no público masculino adulto (temas mais complexos, psicológicos).", "isCorrect": true },
+			{ "description": "Shonen é sempre colorido; Seinen é sempre preto e branco.", "isCorrect": false },
+			{ "description": "Shonen é publicado no Japão; Seinen é publicado na Coreia (Manhwa).", "isCorrect": false }
+		],
+		"source_explanation": "Definições demográficas de mangá. Shonen (Ex: Dragon Ball, Naruto, One Piece). Seinen (Ex: Berserk, Vinland Saga, Ghost in the Shell).",
+		"source_abnt": "THOMPSON, Jason. *Manga: The Complete Guide*. Nova York: Del Rey, 2007."
+	},
+	{
+		"id": "ENTR055",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "No videogame \"Dark Souls\", a narrativa e a \"lore\" do mundo são contadas principalmente através de qual método?",
+		"options": [
+			{ "description": "Longas cenas de diálogo (cutscenes) expositivas.", "isCorrect": false },
+			{ "description": "Descrições de itens (armas, armaduras, almas) e diálogos crípticos.", "isCorrect": true },
+			{ "description": "Um narrador onisciente que explica a história.", "isCorrect": false },
+			{ "description": "Livros encontrados no jogo que detalham a história.", "isCorrect": false }
+		],
+		"source_explanation": "A narrativa ambiental e a \"lore\" (história do mundo) nos jogos de Hidetaka Miyazaki (Dark Souls) são famosas por serem contadas através das descrições de itens.",
+		"source_abnt": "DARK SOULS. [Jogo de videogame]. Direção: Hidetaka Miyazaki. Tóquio: FromSoftware/Namco Bandai, 2011."
+	},
+	{
+		"id": "ENTR056",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "O que é o \"Prêmio Eisner\" (Eisner Award)?",
+		"options": [
+			{ "description": "O prêmio de \"Jogo do Ano\" no Japão.", "isCorrect": false },
+			{ "description": "O prêmio mais prestigiado da indústria de quadrinhos (comics), considerado o \"Oscar\" dos quadrinhos.", "isCorrect": true },
+			{ "description": "Um prêmio para o melhor jogo de tabuleiro de estratégia (wargame).", "isCorrect": false },
+			{ "description": "O prêmio principal do Festival de Cinema de Animação de Annecy.", "isCorrect": false }
+		],
+		"source_explanation": "Os Prêmios Eisner (nomeados em homenagem ao quadrinista Will Eisner) são apresentados anualmente na San Diego Comic-Con e são considerados os \"Oscars\" da indústria de quadrinhos.",
+		"source_abnt": "COMIC-CON INTERNATIONAL. *Will Eisner Comic Industry Awards*. San Diego, CA: Comic-Con, [s.d.]. Disponível em: https://www.comic-con.org/awards/eisner-awards. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ENTR057",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "Qual foi o primeiro console de videogame doméstico a usar cartuchos intercambiáveis?",
+		"options": [
+			{ "description": "Magnavox Odyssey", "isCorrect": false },
+			{ "description": "Atari 2600", "isCorrect": false },
+			{ "description": "Fairchild Channel F", "isCorrect": true },
+			{ "description": "Nintendo Entertainment System (NES)", "isCorrect": false }
+		],
+		"source_explanation": "O Fairchild Channel F (1976) foi o primeiro console a usar cartuchos de ROM (jogos programáveis), lançado um ano antes do Atari 2600.",
+		"source_abnt": "THE STRONG NATIONAL MUSEUM OF PLAY. *Fairchild Channel F*. Rochester, NY: The Strong, [s.d.]. Disponível em: https://www.museumofplay.org/online-collections/1/36/112.4841. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ENTR058",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "Em \"Magic: The Gathering\", qual é a \"Pilha\" (The Stack)?",
+		"options": [
+			{ "description": "O baralho do jogador (grimório).", "isCorrect": false },
+			{ "description": "O cemitério do jogador (graveyard).", "isCorrect": false },
+			{ "description": "Uma zona de jogo abstrata onde as mágicas e habilidades são colocadas em ordem (LIFO - Last In, First Out) antes de serem resolvidas.", "isCorrect": true },
+			{ "description": "As cartas de terreno (land) em jogo.", "isCorrect": false }
+		],
+		"source_explanation": "As Regras Abrangentes de Magic definem \"A Pilha\" (The Stack) na Seção 405 como a zona onde mágicas e habilidades esperam para serem resolvidas em ordem LIFO.",
+		"source_abnt": "WIZARDS OF THE COAST. *Magic: The Gathering Comprehensive Rules*. Renton, WA: Wizards of the Coast, 2024. (Seção 405: The Stack)."
+	},
+	{
+		"id": "ENTR059",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "O filme \"Akira\" (1988), de Katsuhiro Otomo, é um marco da animação. Qual é a sua principal contribuição técnica?",
+		"options": [
+			{ "description": "Foi o primeiro anime a usar CGI (Computação Gráfica).", "isCorrect": false },
+			{ "description": "Estabeleceu um novo padrão de fluidez (24 quadros por segundo) e detalhe na animação (cel animation), especialmente em cenas de destruição.", "isCorrect": true },
+			{ "description": "Foi o primeiro anime a ser dublado em inglês.", "isCorrect": false },
+			{ "description": "Usou a técnica de \"rotoscopia\" (desenhar sobre filmagem real).", "isCorrect": false }
+		],
+		"source_explanation": "Análises técnicas (como as da Criterion Collection) destacam \"Akira\" por seu uso de animação de alta contagem de quadros (muitas vezes 24fps) e detalhes meticulosos.",
+		"source_abnt": "AKIRA. [Filme]. Direção: Katsuhiro Otomo. Tóquio: TMS Entertainment, 1988."
+	},
+	{
+		"id": "ENTR060",
+		"category": "Entretenimento",
+		"level": "hard",
+		"question": "Qual é a mecânica central do jogo de tabuleiro \"Puerto Rico\", projetado por Andreas Seyfarth?",
+		"options": [
+			{ "description": "Rolar dados e mover (Roll and Move).", "isCorrect": false },
+			{ "description": "Um sistema de \"Seleção de Papéis\" (Role Selection), onde cada jogador escolhe um papel (ex: Construtor, Capitão) que todos podem usar, mas o selecionador ganha um bônus.", "isCorrect": true },
+			{ "description": "Construção de Baralho (Deck Building).", "isCorrect": false },
+			{ "description": "Leilão de rotas (Route Bidding).", "isCorrect": false }
+		],
+		"source_explanation": "O livro de regras de \"Puerto Rico\" (2002) detalha a mecânica de \"Seleção de Papéis\" (ação variável), onde a escolha de um jogador beneficia (mas de forma diferente) todos os outros.",
+		"source_abnt": "SEYFARTH, Andreas. *Puerto Rico: Livro de Regras*. [Jogo de tabuleiro]. Ravensburg: Alea, 2002."
+	}
+]

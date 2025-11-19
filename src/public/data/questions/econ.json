@@ -1,0 +1,842 @@
+[
+	{
+		"id": "ECON001",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "O que é \"inflação\"?",
+		"options": [
+			{ "description": "Um aumento geral nos preços de bens e serviços, diminuindo o poder de compra.", "isCorrect": true },
+			{ "description": "Uma diminuição geral nos preços de bens e serviços (deflação).", "isCorrect": false },
+			{ "description": "O valor total de todos os bens produzidos por um país.", "isCorrect": false },
+			{ "description": "Um imposto cobrado sobre produtos importados.", "isCorrect": false }
+		],
+		"source_explanation": "A inflação é definida como o aumento sustentado do nível geral de preços, o que resulta na diminuição do poder de compra da moeda.",
+		"source_abnt": "MANKIW, N. Gregory. *Princípios de Macroeconomia*. 6. ed. Tradução de Maria José Cyhlar Monteiro. São Paulo: Cengage Learning, 2013."
+	},
+	{
+		"id": "ECON002",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "Qual é a sigla para \"Produto Interno Bruto\", que mede o valor de todos os bens e serviços produzidos em um país?",
+		"options": [
+			{ "description": "INPC", "isCorrect": false },
+			{ "description": "PIB", "isCorrect": true },
+			{ "description": "FMI", "isCorrect": false },
+			{ "description": "OPEP", "isCorrect": false }
+		],
+		"source_explanation": "O PIB (Produto Interno Bruto) é o principal indicador da macroeconomia para medir a atividade econômica de um país.",
+		"source_abnt": "IBGE (INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA). *O que é o PIB*. Rio de Janeiro: IBGE, [s.d.]. Disponível em: https://www.ibge.gov.br/explica/pib.php. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON003",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "Qual empresa de tecnologia foi co-fundada por Bill Gates?",
+		"options": [
+			{ "description": "Apple", "isCorrect": false },
+			{ "description": "Amazon", "isCorrect": false },
+			{ "description": "Microsoft", "isCorrect": true },
+			{ "description": "Google", "isCorrect": false }
+		],
+		"source_explanation": "A Microsoft foi fundada por Bill Gates e Paul Allen em 1975 para desenvolver software para os primeiros computadores pessoais.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Microsoft Corporation. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/Microsoft-Corporation. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON004",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "Qual empreendedor é o CEO da Tesla e fundador da SpaceX?",
+		"options": [
+			{ "description": "Jeff Bezos", "isCorrect": false },
+			{ "description": "Elon Musk", "isCorrect": true },
+			{ "description": "Mark Zuckerberg", "isCorrect": false },
+			{ "description": "Warren Buffett", "isCorrect": false }
+		],
+		"source_explanation": "Elon Musk é o CEO e arquiteto de produtos da Tesla, Inc. e o fundador, CEO e engenheiro-chefe da SpaceX.",
+		"source_abnt": "TESLA. *Elon Musk, CEO*. Palo Alto, CA: Tesla, [s.d.]. Disponível em: https://www.tesla.com/elon-musk. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON005",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "Qual empresa criou o smartphone \"iPhone\"?",
+		"options": [
+			{ "description": "Samsung", "isCorrect": false },
+			{ "description": "Google", "isCorrect": false },
+			{ "description": "Microsoft", "isCorrect": false },
+			{ "description": "Apple", "isCorrect": true }
+		],
+		"source_explanation": "O iPhone foi lançado por Steve Jobs, CEO da Apple, em 9 de janeiro de 2007, revolucionando a indústria de telefonia.",
+		"source_abnt": "APPLE. *Apple reinvents the phone with iPhone*. [Press Release]. Cupertino, CA: Apple Inc., 9 jan. 2007. Disponível em: https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON006",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "O que significa a sigla \"IPO\" (ou OPI, em português)?",
+		"options": [
+			{ "description": "Índice de Preços Otimizado", "isCorrect": false },
+			{ "description": "Oferta Pública Inicial (quando uma empresa abre seu capital na bolsa).", "isCorrect": true },
+			{ "description": "Organização de Patentes Internacionais", "isCorrect": false },
+			{ "description": "Operação Padrão de Indústria", "isCorrect": false }
+		],
+		"source_explanation": "Um IPO (Initial Public Offering), ou OPI (Oferta Pública Inicial), é o processo pelo qual uma empresa privada vende suas ações ao público pela primeira vez.",
+		"source_abnt": "INVESTOPEDIA. *Initial Public Offering (IPO): What It Is and How It Works*. Nova York: Investopedia, 2024. Disponível em: https://www.investopedia.com/terms/i/ipo.asp. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON007",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "Qual é a moeda oficial da maior parte da União Europeia?",
+		"options": [
+			{ "description": "Libra", "isCorrect": false },
+			{ "description": "Dólar", "isCorrect": false },
+			{ "description": "Franco", "isCorrect": false },
+			{ "description": "Euro", "isCorrect": true }
+		],
+		"source_explanation": "O Euro (€) é a moeda oficial da Zona Euro, que compreende 20 dos 27 estados-membros da União Europeia.",
+		"source_abnt": "BANCO CENTRAL EUROPEU (BCE). *O Euro*. Frankfurt: BCE, [s.d.]. Disponível em: https://www.ecb.europa.eu/euro/html/index.pt.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON008",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "Qual conceito econômico descreve a relação entre a quantidade de um produto que os produtores querem vender e a quantidade que os consumidores querem comprar?",
+		"options": [
+			{ "description": "Oferta e Demanda (Procura)", "isCorrect": true },
+			{ "description": "Marketing e Vendas", "isCorrect": false },
+			{ "description": "Lucro e Prejuízo", "isCorrect": false },
+			{ "description": "Inflação e Deflação", "isCorrect": false }
+		],
+		"source_explanation": "A Lei da Oferta e da Procura (ou Demanda) é o princípio fundamental da microeconomia que determina o preço de mercado de um bem.",
+		"source_abnt": "MANKIW, N. Gregory. *Princípios de Microeconomia*. 6. ed. Tradução de Maria José Cyhlar Monteiro. São Paulo: Cengage Learning, 2013."
+	},
+	{
+		"id": "ECON009",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "O que é um \"monopólio\"?",
+		"options": [
+			{ "description": "Um mercado com muitos vendedores competindo.", "isCorrect": false },
+			{ "description": "Um mercado dominado por um único vendedor ou produtor.", "isCorrect": true },
+			{ "description": "Um mercado onde o governo controla todos os preços.", "isCorrect": false },
+			{ "description": "Um tipo de jogo de tabuleiro.", "isCorrect": false }
+		],
+		"source_explanation": "Na teoria das estruturas de mercado, um monopólio é o oposto da concorrência perfeita, caracterizado por um único fornecedor.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Monopoly (economics). *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/money/monopoly-economics. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON010",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "Qual empresa de comércio eletrônico foi fundada por Jeff Bezos?",
+		"options": [
+			{ "description": "eBay", "isCorrect": false },
+			{ "description": "Alibaba", "isCorrect": false },
+			{ "description": "Amazon", "isCorrect": true },
+			{ "description": "Shopify", "isCorrect": false }
+		],
+		"source_explanation": "Jeff Bezos fundou a Amazon em 1994, começando como uma livraria online antes de se tornar a gigante global do comércio eletrônico.",
+		"source_abnt": "AMAZON. *About Amazon: History*. Seattle, WA: Amazon, [s.d.]. Disponível em: https://www.aboutamazon.com/about-us/company-history. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON011",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "Qual empresa de tecnologia é mundialmente famosa por seu mecanismo de busca na internet?",
+		"options": [
+			{ "description": "Facebook (Meta)", "isCorrect": false },
+			{ "description": "Apple", "isCorrect": false },
+			{ "description": "Google (Alphabet)", "isCorrect": true },
+			{ "description": "Netflix", "isCorrect": false }
+		],
+		"source_explanation": "O Google Search, desenvolvido por Larry Page e Sergey Brin, é o mecanismo de busca dominante mundialmente e a empresa principal da holding Alphabet Inc.",
+		"source_abnt": "GOOGLE. *Nossa história*. Mountain View, CA: Google, [s.d.]. Disponível em: https://about.google/intl/pt-BR/our-story/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON012",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "O que é a \"Bolsa de Valores\"?",
+		"options": [
+			{ "description": "Um mercado onde se negociam moedas estrangeiras.", "isCorrect": false },
+			{ "description": "Um mercado onde se compram e vendem ações (partes de empresas).", "isCorrect": true },
+			{ "description": "Um banco que empresta dinheiro para o governo.", "isCorrect": false },
+			{ "description": "O local onde o ouro de um país é guardado.", "isCorrect": false }
+		],
+		"source_explanation": "A Bolsa de Valores (Stock Exchange) é um mercado organizado onde investidores compram e vendem títulos, como ações de empresas de capital aberto.",
+		"source_abnt": "B3 (BRASIL, BOLSA, BALCÃO). *O que é a Bolsa de Valores*. São Paulo: B3, [s.d.]. Disponível em: https://www.b3.com.br/pt_br/b3/b3/para-voce/o-que-e-a-b3.htm. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON013",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "Qual empresa é famosa pela rede social \"Facebook\" e é dona do Instagram e WhatsApp?",
+		"options": [
+			{ "description": "Meta Platforms", "isCorrect": true },
+			{ "description": "Google", "isCorrect": false },
+			{ "description": "Twitter (X)", "isCorrect": false },
+			{ "description": "Microsoft", "isCorrect": false }
+		],
+		"source_explanation": "A empresa Facebook Inc. mudou seu nome para Meta Platforms em 2021 e é proprietária das plataformas Facebook, Instagram, WhatsApp e Messenger.",
+		"source_abnt": "META. *Nossos produtos*. Menlo Park, CA: Meta, [s.d.]. Disponível em: https://about.meta.com/br/company-info/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON014",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "Em finanças pessoais, o que é \"lucro\"?",
+		"options": [
+			{ "description": "O valor total recebido em vendas.", "isCorrect": false },
+			{ "description": "O dinheiro que sobra após subtrair todas as despesas da receita.", "isCorrect": true },
+			{ "description": "O dinheiro gasto para iniciar um negócio.", "isCorrect": false },
+			{ "description": "Um empréstimo do banco.", "isCorrect": false }
+		],
+		"source_explanation": "O conceito básico de contabilidade define Lucro (ou resultado líquido) como a Receita Total menos a Despesa Total.",
+		"source_abnt": "ROSS, Stephen A.; WESTERFIELD, Randolph W.; JAFFE, Jeffrey. *Administração Financeira: Corporate Finance*. 11. ed. Porto Alegre: AMGH Editora, 2018."
+	},
+	{
+		"id": "ECON015",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "Qual é a moeda oficial do Japão?",
+		"options": [
+			{ "description": "Yuan", "isCorrect": false },
+			{ "description": "Won", "isCorrect": false },
+			{ "description": "Iene (Yen)", "isCorrect": true },
+			{ "description": "Rupia", "isCorrect": false }
+		],
+		"source_explanation": "O Iene (JPY) é a moeda oficial do Japão, administrada pelo Banco do Japão.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Yen. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/money/yen. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON016",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "O que é \"marketing\"?",
+		"options": [
+			{ "description": "O processo de contabilidade e auditoria de uma empresa.", "isCorrect": false },
+			{ "description": "A contratação e treinamento de funcionários.", "isCorrect": false },
+			{ "description": "O conjunto de atividades para criar, comunicar e entregar valor aos clientes (promover e vender produtos).", "isCorrect": true },
+			{ "description": "A fabricação física de um produto.", "isCorrect": false }
+		],
+		"source_explanation": "A AMA (American Marketing Association) define marketing como a atividade de criar, comunicar, entregar e trocar ofertas que tenham valor para os clientes.",
+		"source_abnt": "AMERICAN MARKETING ASSOCIATION (AMA). *Definitions of Marketing*. Chicago: AMA, [s.d.]. Disponível em: https://www.ama.org/the-definition-of-marketing/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON017",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "Qual é a principal função de um \"Banco Central\" (como o Federal Reserve nos EUA ou o Banco Central do Brasil)?",
+		"options": [
+			{ "description": "Controlar a política monetária do país (taxa de juros e inflação).", "isCorrect": true },
+			{ "description": "Oferecer contas correntes e empréstimos para o público geral.", "isCorrect": false },
+			{ "description": "Imprimir selos postais.", "isCorrect": false },
+			{ "description": "Gerenciar a bolsa de valores.", "isCorrect": false }
+		],
+		"source_explanation": "A principal função de um Banco Central (BC) é executar a política monetária, visando controlar a inflação, regular a oferta de moeda e definir a taxa básica de juros.",
+		"source_abnt": "BANCO CENTRAL DO BRASIL. *Sobre o BC: Missão*. Brasília: BCB, [s.d.]. Disponível em: https://www.bcb.gov.br/sobre/missao. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON018",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "Qual empresa de streaming começou como um serviço de aluguel de DVDs pelo correio?",
+		"options": [
+			{ "description": "Hulu", "isCorrect": false },
+			{ "description": "Netflix", "isCorrect": true },
+			{ "description": "Amazon Prime Video", "isCorrect": false },
+			{ "description": "HBO Max", "isCorrect": false }
+		],
+		"source_explanation": "A Netflix foi fundada em 1997 como um serviço de aluguel de DVDs por correspondência, antes de pivotar para o streaming em 2007.",
+		"source_abnt": "NETFLIX. *Sobre a Netflix: A nossa história*. Los Gatos, CA: Netflix, [s.d.]. Disponível em: https://about.netflix.com/pt_br/company-history. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON019",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "O que significa \"CEO\" em uma empresa?",
+		"options": [
+			{ "description": "Diretor Financeiro (CFO)", "isCorrect": false },
+			{ "description": "Diretor de Operações (COO)", "isCorrect": false },
+			{ "description": "Diretor Executivo Chefe (Chief Executive Officer)", "isCorrect": true },
+			{ "description": "Presidente do Conselho (Chairman)", "isCorrect": false }
+		],
+		"source_explanation": "CEO (Chief Executive Officer) é o cargo mais alto na estrutura de gestão executiva de uma empresa.",
+		"source_abnt": "HARVARD BUSINESS REVIEW. *What Is a CEO?*. Brighton, MA: HBR, 2021. Disponível em: https://hbr.org/2021/05/what-is-a-ceo. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON020",
+		"category": "Negócios e Economia",
+		"level": "easy",
+		"question": "Em finanças pessoais, o que é um \"orçamento\" (budget)?",
+		"options": [
+			{ "description": "Um plano de gastos e receitas para um período futuro.", "isCorrect": true },
+			{ "description": "Uma dívida no cartão de crédito.", "isCorrect": false },
+			{ "description": "O valor total de seus investimentos.", "isCorrect": false },
+			{ "description": "O salário que você recebe.", "isCorrect": false }
+		],
+		"source_explanation": "Um orçamento é a ferramenta fundamental de finanças pessoais para planejar como o dinheiro será ganho e gasto.",
+		"source_abnt": "RAMSEY, Dave. *A Transformação Financeira Total*. Tradução de G. C. Z. L. Franco. Rio de Janeiro: Thomas Nelson Brasil, 2017."
+	},
+	{
+		"id": "ECON021",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "Qual é a diferença entre um \"Mercado em Alta\" (Bull Market) e um \"Mercado em Baixa\" (Bear Market)?",
+		"options": [
+			{ "description": "Bull market é quando os preços caem; Bear market é quando sobem.", "isCorrect": false },
+			{ "description": "Bull market é um período de otimismo e alta dos preços (ações); Bear market é um período de pessimismo e queda.", "isCorrect": true },
+			{ "description": "Bull market se refere a ações; Bear market se refere a títulos.", "isCorrect": false },
+			{ "description": "Bull market é rápido; Bear market é lento.", "isCorrect": false }
+		],
+		"source_explanation": "Terminologia padrão do mercado financeiro, onde \"Bull\" (Touro) ataca para cima e \"Bear\" (Urso) ataca para baixo, simbolizando a direção dos preços.",
+		"source_abnt": "SEC (U.S. SECURITIES AND EXCHANGE COMMISSION). *Bull and Bear Markets*. Washington, D.C.: SEC, [s.d.]. Disponível em: https://www.investor.gov/introduction-investing/investing-basics/market-commentary/bull-and-bear-markets. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON022",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "O que é \"diversificação\" no contexto de investimentos?",
+		"options": [
+			{ "description": "Investir todo o seu dinheiro na ação mais lucrativa do momento.", "isCorrect": false },
+			{ "description": "Espalhar seus investimentos por diferentes ativos (ações, títulos, imóveis) para reduzir o risco.", "isCorrect": true },
+			{ "description": "Um tipo de imposto sobre ganhos de capital.", "isCorrect": false },
+			{ "description": "A fusão de duas empresas do mesmo setor.", "isCorrect": false }
+		],
+		"source_explanation": "A diversificação, um pilar da Teoria Moderna do Portfólio (Markowitz), é a estratégia de \"não colocar todos os ovos na mesma cesta\" para reduzir o risco não sistêmico.",
+		"source_abnt": "MARKOWITZ, Harry. Portfolio Selection. *The Journal of Finance*, v. 7, n. 1, p. 77-91, mar. 1952."
+	},
+	{
+		"id": "ECON023",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "Qual investidor, conhecido como o \"Oráculo de Omaha\", dirige a Berkshire Hathaway?",
+		"options": [
+			{ "description": "George Soros", "isCorrect": false },
+			{ "description": "Ray Dalio", "isCorrect": false },
+			{ "description": "Warren Buffett", "isCorrect": true },
+			{ "description": "Peter Lynch", "isCorrect": false }
+		],
+		"source_explanation": "Warren Buffett é o CEO e presidente da Berkshire Hathaway, famoso por sua filosofia de \"investimento em valor\" (value investing) e seu apelido \"Oráculo de Omaha\".",
+		"source_abnt": "BERKSHIRE HATHAWAY. *Relatório Anual*. Omaha, NE: Berkshire Hathaway, 2023. (Carta aos Acionistas)."
+	},
+	{
+		"id": "ECON024",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "Qual é a diferença entre \"Política Monetária\" e \"Política Fiscal\"?",
+		"options": [
+			{ "description": "Monetária controla impostos (Governo); Fiscal controla taxas de juros (Banco Central).", "isCorrect": false },
+			{ "description": "Monetária controla taxas de juros (Banco Central); Fiscal controla gastos do governo e impostos (Governo).", "isCorrect": true },
+			{ "description": "São a mesma coisa, apenas nomes diferentes.", "isCorrect": false },
+			{ "description": "Monetária lida com dinheiro; Fiscal lida com comércio internacional.", "isCorrect": false }
+		],
+		"source_explanation": "Definição padrão de macroeconomia: a Política Monetária é controlada pelo Banco Central (juros, oferta de moeda); a Política Fiscal é controlada pelo Governo (impostos, gastos).",
+		"source_abnt": "MANKIW, N. Gregory. *Princípios de Macroeconomia*. 6. ed. Tradução de Maria José Cyhlar Monteiro. São Paulo: Cengage Learning, 2013."
+	},
+	{
+		"id": "ECON025",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "O que foi a \"Bolha Ponto-com\" (Dot-com Bubble) do final dos anos 1990?",
+		"options": [
+			{ "description": "Uma crise imobiliária causada por empréstimos de alto risco.", "isCorrect": false },
+			{ "description": "A invenção da internet de banda larga.", "isCorrect": false },
+			{ "description": "Uma bolha especulativa no mercado de ações, onde empresas de internet foram supervalorizadas e depois quebraram.", "isCorrect": true },
+			{ "description": "O escândalo de contabilidade da empresa Enron.", "isCorrect": false }
+		],
+		"source_explanation": "A \"Bolha Ponto-com\" (c. 1997-2001) foi uma bolha especulativa no índice NASDAQ, onde empresas de tecnologia (muitas sem lucro) atingiram valores irreais antes do colapso.",
+		"source_abnt": "INVESTOPEDIA. *Dot-com Bubble: What It Is, Causes, and What We Learned*. Nova York: Investopedia, 2023. Disponível em: https://www.investopedia.com/terms/d/dotcom-bubble.asp. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON026",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "O que é \"Custo de Oportunidade\"?",
+		"options": [
+			{ "description": "O preço exato que você paga por um produto.", "isCorrect": false },
+			{ "description": "O valor da melhor alternativa que você abre mão ao fazer uma escolha.", "isCorrect": true },
+			{ "description": "O custo de iniciar um novo negócio.", "isCorrect": false },
+			{ "description": "Um desconto especial oferecido por tempo limitado.", "isCorrect": false }
+		],
+		"source_explanation": "O Custo de Oportunidade é o conceito fundamental da escolha em microeconomia: o custo de algo é o que você sacrifica para obtê-lo.",
+		"source_abnt": "MANKIW, N. Gregory. *Princípios de Microeconomia*. 6. ed. Tradução de Maria José Cyhlar Monteiro. São Paulo: Cengage Learning, 2013. (Capítulo 1: Dez Princípios de Economia)."
+	},
+	{
+		"id": "ECON027",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "Quem escreveu \"A Riqueza das Nações\" (1776), uma obra fundadora da economia clássica?",
+		"options": [
+			{ "description": "Karl Marx", "isCorrect": false },
+			{ "description": "John Maynard Keynes", "isCorrect": false },
+			{ "description": "Adam Smith", "isCorrect": true },
+			{ "description": "Milton Friedman", "isCorrect": false }
+		],
+		"source_explanation": "A obra \"Uma Investigação sobre a Natureza e as Causas da Riqueza das Nações\" (1776), de Adam Smith, é considerada o texto fundador da economia clássica e do liberalismo.",
+		"source_abnt": "SMITH, Adam. *A Riqueza das Nações*. Tradução de Norberto de Paula Lima. São Paulo: Abril Cultural, 1983. (Publicado originalmente em 1776)."
+	},
+	{
+		"id": "ECON028",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "O que é uma \"recessão\" econômica?",
+		"options": [
+			{ "description": "Um período de inflação extremamente alta (hiperinflação).", "isCorrect": false },
+			{ "description": "Um declínio significativo na atividade econômica (geralmente medido por queda no PIB) por vários meses.", "isCorrect": true },
+			{ "description": "Um aumento rápido nos preços das ações.", "isCorrect": false },
+			{ "description": "Quando o governo gasta mais do que arrecada em impostos.", "isCorrect": false }
+		],
+		"source_explanation": "O NBER (National Bureau of Economic Research) nos EUA define uma recessão como um declínio significativo na atividade econômica espalhado por toda a economia, durando mais do que alguns meses.",
+		"source_abnt": "NATIONAL BUREAU OF ECONOMIC RESEARCH (NBER). *Business Cycle Dating*. Cambridge, MA: NBER, [s.d.]. Disponível em: https://www.nber.org/research/business-cycle-dating. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON029",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "O que é \"Capital de Risco\" (Venture Capital)?",
+		"options": [
+			{ "description": "Um empréstimo bancário com juros muito altos.", "isCorrect": false },
+			{ "description": "Financiamento (investimento) fornecido a startups e empresas em estágio inicial com alto potencial de crescimento.", "isCorrect": true },
+			{ "description": "Dinheiro que o governo usa para resgatar bancos falidos.", "isCorrect": false },
+			{ "description": "Investir em ações de empresas que estão falindo.", "isCorrect": false }
+		],
+		"source_explanation": "O Capital de Risco (VC) é uma forma de private equity que investe em empresas emergentes em troca de participação acionária.",
+		"source_abnt": "INVESTOPEDIA. *Venture Capital: What It Is and How It Works*. Nova York: Investopedia, 2024. Disponível em: https://www.investopedia.com/terms/v/venturecapital.asp. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON030",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "O que é \"Globalização\" no contexto econômico?",
+		"options": [
+			{ "description": "A política de um país de proibir todas as importações.", "isCorrect": false },
+			{ "description": "A crescente interconexão das economias mundiais através do comércio, investimento e fluxos de capital.", "isCorrect": true },
+			{ "description": "A tendência de todas as empresas se tornarem monopólios.", "isCorrect": false },
+			{ "description": "O uso de uma única moeda (como o dólar) por todos os países.", "isCorrect": false }
+		],
+		"source_explanation": "O FMI define a globalização como a interdependência econômica crescente entre países, impulsionada pelo comércio, fluxos de capital e tecnologia.",
+		"source_abnt": "FMI (FUNDO MONETÁRIO INTERNACIONAL). *Globalization: A Brief Overview*. Washington, D.C.: FMI, 2008. Disponível em: https://www.imf.org/external/np/exr/ib/2008/053008.htm. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON031",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "A teoria econômica de John Maynard Keynes (Keynesianismo) defende o quê?",
+		"options": [
+			{ "description": "Que o governo deve intervir na economia (aumentando gastos) para combater recessões.", "isCorrect": true },
+			{ "description": "Que o governo nunca deve intervir na economia (laissez-faire).", "isCorrect": false },
+			{ "description": "Que o controle da oferta de moeda é a única forma de controlar a inflação.", "isCorrect": false },
+			{ "description": "Que a propriedade privada deve ser abolida.", "isCorrect": false }
+		],
+		"source_explanation": "A obra \"A Teoria Geral\" (1936) de Keynes argumenta que, durante recessões, o governo deve usar a política fiscal (gastos) para estimular a demanda agregada.",
+		"source_abnt": "KEYNES, John Maynard. *A Teoria Geral do Emprego, do Juro e da Moeda*. Tradução de Mário R. da Cruz. São Paulo: Abril Cultural, 1983. (Publicado originalmente em 1936)."
+	},
+	{
+		"id": "ECON032",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "O que é \"Capitalização de Mercado\" (Market Cap) de uma empresa?",
+		"options": [
+			{ "description": "O valor total de suas dívidas.", "isCorrect": false },
+			{ "description": "O lucro total da empresa em um ano.", "isCorrect": false },
+			{ "description": "O valor total de suas ações em circulação (Preço da Ação x Número de Ações).", "isCorrect": true },
+			{ "description": "O valor de seus ativos físicos (prédios, máquinas).", "isCorrect": false }
+		],
+		"source_explanation": "A Capitalização de Mercado é a medida padrão do valor total de uma empresa de capital aberto, calculada multiplicando o preço atual da ação pelo número total de ações.",
+		"source_abnt": "INVESTOPEDIA. *Market Capitalization: What It Is and How It Works*. Nova York: Investopedia, 2024. Disponível em: https://www.investopedia.com/terms/m/marketcapitalization.asp. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON033",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "O que faz o FMI (Fundo Monetário Internacional)?",
+		"options": [
+			{ "description": "Regula o comércio internacional e resolve disputas (papel da OMC).", "isCorrect": false },
+			{ "description": "Fornece empréstimos a países em desenvolvimento para projetos de infraestrutura (papel do Banco Mundial).", "isCorrect": false },
+			{ "description": "Fornece empréstimos a países com crises de balanço de pagamentos e promove a estabilidade monetária global.", "isCorrect": true },
+			{ "description": "Controla o preço mundial do petróleo (papel da OPEP).", "isCorrect": false }
+		],
+		"source_explanation": "O FMI atua como um credor de último recurso para países com crises de balanço de pagamentos, visando garantir a estabilidade do sistema financeiro global.",
+		"source_abnt": "FMI (FUNDO MONETÁRIO INTERNACIONAL). *About the IMF*. Washington, D.C.: FMI, [s.d.]. Disponível em: https://www.imf.org/en/About. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON034",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "O que é uma ação \"Blue Chip\"?",
+		"options": [
+			{ "description": "Uma ação de uma empresa de tecnologia nova e arriscada (startup).", "isCorrect": false },
+			{ "description": "Uma ação de uma empresa grande, financeiramente estável e bem estabelecida (ex: Coca-Cola, IBM).", "isCorrect": true },
+			{ "description": "Uma ação que custa menos de $1 (penny stock).", "isCorrect": false },
+			{ "description": "Uma ação que paga dividendos muito altos, mas é muito volátil.", "isCorrect": false }
+		],
+		"source_explanation": "O termo \"Blue Chip\", originado do pôquer (onde as fichas azuis são as mais valiosas), refere-se a ações de empresas grandes, estáveis e lucrativas.",
+		"source_abnt": "SEC (U.S. SECURITIES AND EXCHANGE COMMISSION). *Blue Chip Stocks*. Washington, D.C.: SEC, [s.d.]. Disponível em: https://www.investor.gov/introduction-investing/investing-basics/glossary/blue-chip-stock. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON035",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "A crise financeira de 2008 foi causada principalmente pelo colapso de uma bolha em qual setor?",
+		"options": [
+			{ "description": "Empresas de internet (Bolha Ponto-com).", "isCorrect": false },
+			{ "description": "O mercado imobiliário (hipotecas subprime).", "isCorrect": true },
+			{ "description": "O mercado de petróleo.", "isCorrect": false },
+			{ "description": "Moedas digitais (Criptomoedas).", "isCorrect": false }
+		],
+		"source_explanation": "A crise de 2008 (Crise do Subprime) foi desencadeada pelo colapso da bolha imobiliária nos EUA, baseada em hipotecas de alto risco.",
+		"source_abnt": "LEWIS, Michael. *A Jogada do Século: a história do colapso financeiro de 2008*. Tradução de A. T. M. C. da Costa. São Paulo: Companhia das Letras, 2011."
+	},
+	{
+		"id": "ECON036",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "Qual é a principal diferença entre uma empresa pública (de capital aberto) e uma privada (de capital fechado)?",
+		"options": [
+			{ "description": "Pública pertence ao governo; Privada pertence a pessoas.", "isCorrect": false },
+			{ "description": "Pública tem suas ações negociadas na bolsa de valores; Privada não tem.", "isCorrect": true },
+			{ "description": "Pública só pode operar no seu país; Privada pode ser multinacional.", "isCorrect": false },
+			{ "description": "Pública é sem fins lucrativos; Privada visa o lucro.", "isCorrect": false }
+		],
+		"source_explanation": "Em direito empresarial, uma empresa de capital aberto (pública) é aquela cujas ações são negociadas publicamente em uma bolsa de valores (ex: B3, NYSE).",
+		"source_abnt": "CVM (COMISSÃO DE VALORES MOBILIÁRIOS). *O que é uma Companhia Aberta*. Rio de Janeiro: CVM, [s.d.]. Disponível em: https://www.gov.br/cvm/pt-br/assuntos/protecao-e-educacao-ao-investidor/protecao/tipos-de-fraudes-e-crimes/companhias-abertas. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON037",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "O que é \"SWOT\" em análise de negócios?",
+		"options": [
+			{ "description": "Uma técnica de contabilidade para calcular impostos.", "isCorrect": false },
+			{ "description": "Um modelo de análise de Forças (Strengths), Fraquezas (Weaknesses), Oportunidades (Opportunities) e Ameaças (Threats).", "isCorrect": true },
+			{ "description": "Um software de gerenciamento de projetos.", "isCorrect": false },
+			{ "description": "Um tipo de contrato de investimento.", "isCorrect": false }
+		],
+		"source_explanation": "A Análise SWOT (ou FOFA, em português) é uma ferramenta de planejamento estratégico usada para identificar os ambientes interno (Forças, Fraquezas) e externo (Oportunidades, Ameaças).",
+		"source_abnt": "HARVARD BUSINESS REVIEW. *HBR Guide to Better Business Writing*. Boston: HBR Press, 2012. (Capítulo sobre Planejamento Estratégico)."
+	},
+	{
+		"id": "ECON038",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "Qual empresa japonesa de eletrônicos foi pioneira com o \"Walkman\"?",
+		"options": [
+			{ "description": "Panasonic", "isCorrect": false },
+			{ "description": "Nintendo", "isCorrect": false },
+			{ "description": "Sony", "isCorrect": true },
+			{ "description": "Toyota", "isCorrect": false }
+		],
+		"source_explanation": "A Sony lançou o \"Walkman\" (modelo TPS-L2) em 1979, criando o mercado de áudio portátil.",
+		"source_abnt": "SONY. *Product & Technology Milestones: Walkman*. Tóquio: Sony Group Corporation, [s.d.]. Disponível em: https://www.sony.com/en/SonyInfo/CorporateInfo/History/sonyhistory-c.html. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON039",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "O que é \"Laissez-faire\"?",
+		"options": [
+			{ "description": "Uma teoria econômica que defende a mínima intervenção do governo na economia.", "isCorrect": true },
+			{ "description": "Uma teoria econômica que defende o controle total do governo sobre a produção.", "isCorrect": false },
+			{ "description": "Uma estratégia de marketing focada no luxo.", "isCorrect": false },
+			{ "description": "Um tipo de imposto sobre herança.", "isCorrect": false }
+		],
+		"source_explanation": "O termo francês \"Laissez-faire\" (deixai fazer) é o princípio central da economia clássica (associado a Adam Smith) que defende a não intervenção governamental nos mercados.",
+		"source_abnt": "SMITH, Adam. *A Riqueza das Nações*. Tradução de Norberto de Paula Lima. São Paulo: Abril Cultural, 1983. (Publicado originalmente em 1776)."
+	},
+	{
+		"id": "ECON040",
+		"category": "Negócios e Economia",
+		"level": "medium",
+		"question": "A \"Lei da Procura\" (Law of Demand) afirma que, se o preço de um bem aumenta...",
+		"options": [
+			{ "description": "A quantidade procurada desse bem geralmente aumenta.", "isCorrect": false },
+			{ "description": "A quantidade procurada desse bem geralmente diminui.", "isCorrect": true },
+			{ "description": "A quantidade ofertada desse bem diminui.", "isCorrect": false },
+			{ "description": "O preço de outros bens também aumentará.", "isCorrect": false }
+		],
+		"source_explanation": "A Lei da Procura (Demanda) é um princípio fundamental da microeconomia que afirma que, *ceteris paribus* (tudo o mais constante), há uma relação inversa entre preço e quantidade demandada.",
+		"source_abnt": "MANKIW, N. Gregory. *Princípios de Microeconomia*. 6. ed. Tradução de Maria José Cyhlar Monteiro. São Paulo: Cengage Learning, 2013."
+	},
+	{
+		"id": "ECON041",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "O que é \"Flexibilização Quantitativa\" (Quantitative Easing - QE)?",
+		"options": [
+			{ "description": "A política de aumentar impostos para reduzir a inflação.", "isCorrect": false },
+			{ "description": "Uma política monetária onde o Banco Central compra títulos (dívida) em larga escala para injetar dinheiro na economia e baixar os juros.", "isCorrect": true },
+			{ "description": "A redução de regulamentações sobre empresas (desregulamentação).", "isCorrect": false },
+			{ "description": "Um método de contabilidade para avaliar ativos tóxicos.", "isCorrect": false }
+		],
+		"source_explanation": "Quantitative Easing (QE) é uma política monetária não convencional onde o banco central compra ativos de longo prazo para aumentar a oferta de moeda e baixar as taxas de juros, usada após a crise de 2008.",
+		"source_abnt": "FMI (FUNDO MONETÁRIO INTERNACIONAL). *Quantitative Easing: What Is It?*. Washington, D.C.: FMI, 2021. Disponível em: https://www.imf.org/en/About/Factsheets/Sheets/2023/quantitative-easing-what-is-it. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON042",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "O que a \"Curva de Phillips\" descreve na economia?",
+		"options": [
+			{ "description": "A relação entre gastos do governo e crescimento do PIB.", "isCorrect": false },
+			{ "description": "A relação histórica inversa entre a taxa de desemprego e a taxa de inflação.", "isCorrect": true },
+			{ "description": "O ponto em que o aumento de impostos começa a reduzir a receita fiscal (Curva de Laffer).", "isCorrect": false },
+			{ "description": "A distribuição de renda em uma população (Curva de Lorenz).", "isCorrect": false }
+		],
+		"source_explanation": "A teoria, desenvolvida por A.W. Phillips, descreve a relação empírica (trade-off) de curto prazo entre desemprego e inflação.",
+		"source_abnt": "PHILLIPS, A. W. The Relation Between Unemployment and the Rate of Change of Money Wage Rates in the United Kingdom, 1861–1957. *Economica*, v. 25, n. 100, p. 283-299, nov. 1958."
+	},
+	{
+		"id": "ECON043",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "O que é \"Estagflação\" (Stagflation)?",
+		"options": [
+			{ "description": "Um período de crescimento econômico muito rápido e inflação baixa.", "isCorrect": false },
+			{ "description": "Uma situação econômica com alta inflação, alto desemprego e baixo crescimento econômico (estagnação).", "isCorrect": true },
+			{ "description": "A transição de uma economia controlada pelo Estado para uma economia de mercado.", "isCorrect": false },
+			{ "description": "Uma bolha no mercado de ações prestes a estourar.", "isCorrect": false }
+		],
+		"source_explanation": "O fenômeno da Estagflação (Estagnação + Inflação) marcou a década de 1970, desafiando a Curva de Phillips tradicional.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Stagflation. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/money/stagflation. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON044",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "O que foi o \"Sistema de Bretton Woods\", estabelecido em 1944?",
+		"options": [
+			{ "description": "Um acordo de livre comércio entre EUA, Canadá e México (NAFTA).", "isCorrect": false },
+			{ "description": "O sistema que estabeleceu o Dólar Americano como a moeda de reserva mundial, atrelado ao ouro, e criou o FMI e o Banco Mundial.", "isCorrect": true },
+			{ "description": "A criação da União Europeia e do Euro.", "isCorrect": false },
+			{ "description": "Um pacto militar para conter a União Soviética (OTAN).", "isCorrect": false }
+		],
+		"source_explanation": "Os acordos da conferência de Bretton Woods (1944) estabeleceram a arquitetura financeira global pós-Segunda Guerra Mundial, com o padrão dólar-ouro.",
+		"source_abnt": "FMI (FUNDO MONETÁRIO INTERNACIONAL). *The Bretton Woods Agreement*. Washington, D.C.: FMI, [s.d.]. Disponível em: https://www.imf.org/external/about/histend.htm. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON045",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "O que é \"Destruição Criativa\", conceito do economista Joseph Schumpeter?",
+		"options": [
+			{ "description": "O processo capitalista onde novas inovações (como o smartphone) destroem indústrias e empresas antigas (como as de câmeras analógicas).", "isCorrect": true },
+			{ "description": "Uma crise financeira causada por especulação.", "isCorrect": false },
+			{ "description": "A política de sabotar a infraestrutura de um concorrente.", "isCorrect": false },
+			{ "description": "A quebra intencional de uma empresa para evitar o pagamento de dívidas.", "isCorrect": false }
+		],
+		"source_explanation": "Em sua obra de 1942, Schumpeter define a \"destruição criativa\" como o \"processo de mutação industrial... que incessantemente revoluciona a estrutura econômica por dentro\".",
+		"source_abnt": "SCHUMPETER, Joseph A. *Capitalismo, Socialismo e Democracia*. Tradução de Ruy Jungmann. Rio de Janeiro: Zahar Editores, 1984. (Publicado originalmente em 1942)."
+	},
+	{
+		"id": "ECON046",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "O que é um \"Leveraged Buyout\" (LBO)?",
+		"options": [
+			{ "description": "A compra de uma empresa usando uma grande quantidade de dinheiro emprestado (dívida), usando os ativos da própria empresa comprada como garantia.", "isCorrect": true },
+			{ "description": "Quando os funcionários de uma empresa se unem para comprá-la.", "isCorrect": false },
+			{ "description": "Uma fusão amigável entre duas empresas de igual tamanho.", "isCorrect": false },
+			{ "description": "Um investimento inicial em uma startup (Seed money).", "isCorrect": false }
+		],
+		"source_explanation": "Uma Aquisição Alavancada (LBO) é uma transação de finanças corporativas onde uma empresa (geralmente de Private Equity) adquire outra usando um alto nível de dívida.",
+		"source_abnt": "ROSS, Stephen A.; WESTERFIELD, Randolph W.; JAFFE, Jeffrey. *Administração Financeira: Corporate Finance*. 11. ed. Porto Alegre: AMGH Editora, 2018."
+	},
+	{
+		"id": "ECON047",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "O que o \"Coeficiente de Gini\" mede?",
+		"options": [
+			{ "description": "A inflação de um país.", "isCorrect": false },
+			{ "description": "O nível de desigualdade na distribuição de renda ou riqueza em uma população.", "isCorrect": true },
+			{ "description": "O risco de um país não pagar sua dívida (default).", "isCorrect": false },
+			{ "description": "O crescimento do PIB per capita.", "isCorrect": false }
+		],
+		"source_explanation": "O Coeficiente de Gini (ou Índice de Gini) é uma medida estatística da desigualdade (0 = igualdade perfeita; 1 = desigualdade perfeita).",
+		"source_abnt": "BANCO MUNDIAL. *Gini index*. Washington, D.C.: World Bank, [s.d.]. Disponível em: https://data.worldbank.org/indicator/SI.POV.GINI. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON048",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "O que é \"Risco Moral\" (Moral Hazard)?",
+		"options": [
+			{ "description": "O risco de um investimento ir contra os valores éticos de uma pessoa.", "isCorrect": false },
+			{ "description": "Uma situação em que uma parte, protegida de consequências (ex: por um seguro), age de forma mais arriscada do que agiria se não estivesse protegida.", "isCorrect": true },
+			{ "description": "A prática de mentir em relatórios financeiros.", "isCorrect": false },
+			{ "description": "O risco de um governo confiscar ativos de uma empresa.", "isCorrect": false }
+		],
+		"source_explanation": "Em economia da informação, o Risco Moral descreve como a assimetria de informação após um contrato (ex: seguro) pode levar a comportamentos arriscados.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Moral hazard. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/money/moral-hazard. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON049",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "O que é \"Arbitragem\" no mercado financeiro?",
+		"options": [
+			{ "description": "A prática de comprar e vender o mesmo ativo em mercados diferentes para lucrar com uma pequena diferença de preço.", "isCorrect": true },
+			{ "description": "Um método de mediação legal para resolver disputas entre empresas.", "isCorrect": false },
+			{ "description": "Investir com base em informações privilegiadas (insider trading).", "isCorrect": false },
+			{ "description": "Uma previsão de longo prazo sobre o crescimento de uma ação.", "isCorrect": false }
+		],
+		"source_explanation": "A arbitragem é a compra e venda simultânea de um ativo em diferentes mercados para lucrar com a diferença de preço, explorando uma ineficiência do mercado.",
+		"source_abnt": "INVESTOPEDIA. *Arbitrage: What It Is, How It Works, and Examples*. Nova York: Investopedia, 2024. Disponível em: https://www.investopedia.com/terms/a/arbitrage.asp. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON050",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "O que é a \"Tragédia dos Comuns\"?",
+		"options": [
+			{ "description": "A teoria de que o livre comércio sempre leva à pobreza.", "isCorrect": false },
+			{ "description": "Um problema econômico onde indivíduos, agindo por autointeresse, esgotam um recurso compartilhado (como um pasto ou área de pesca).", "isCorrect": true },
+			{ "description": "Um tipo de falha de mercado onde existe um monopólio.", "isCorrect": false },
+			{ "description": "Uma peça de teatro sobre a Revolução Industrial.", "isCorrect": false }
+		],
+		"source_explanation": "O ensaio seminal de Garrett Hardin (1968) descreve como recursos compartilhados (comuns) são inevitavelmente esgotados pelo autointeresse individual.",
+		"source_abnt": "HARDIN, Garrett. The Tragedy of the Commons. *Science*, v. 162, n. 3859, p. 1243-1248, 13 dez. 1968."
+	},
+	{
+		"id": "ECON051",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "O que é um \"Credit Default Swap\" (CDS)?",
+		"options": [
+			{ "description": "Um tipo de conta bancária que troca moedas automaticamente.", "isCorrect": false },
+			{ "description": "Um contrato de seguro financeiro (derivativo) que paga ao comprador caso um título de dívida (ex: um título de empresa) não seja pago (default).", "isCorrect": true },
+			{ "description": "A falha de um banco em honrar seus depósitos.", "isCorrect": false },
+			{ "description": "A troca de uma hipoteca por outra.", "isCorrect": false }
+		],
+		"source_explanation": "Um CDS é um derivativo de crédito que funciona como um seguro contra o \"default\" (calote) de um título de dívida. Foi central na crise de 2008.",
+		"source_abnt": "INVESTOPEDIA. *Credit Default Swap (CDS): What It Is, How It Works, and Risks*. Nova York: Investopedia, 2024. Disponível em: https://www.investopedia.com/terms/c/creditdefaultswap.asp. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON052",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "O que a teoria da \"Vantagem Comparativa\", de David Ricardo, sugere?",
+		"options": [
+			{ "description": "Que um país só deve exportar, nunca importar.", "isCorrect": false },
+			{ "description": "Que os países devem se especializar em produzir e exportar bens que podem produzir com o menor custo de oportunidade, mesmo que não sejam os melhores em produzi-los (vantagem absoluta).", "isCorrect": true },
+			{ "description": "Que um país deve ser autossuficiente e produzir tudo o que consome.", "isCorrect": false },
+			{ "description": "Que a vantagem militar é mais importante que a econômica.", "isCorrect": false }
+		],
+		"source_explanation": "A teoria de David Ricardo (1817) é a base do comércio internacional, argumentando que a especialização baseada no custo de oportunidade (vantagem comparativa) beneficia todos os países.",
+		"source_abnt": "RICARDO, David. *Princípios de Economia Política e Tributação*. Tradução de Paulo H. de A. Somavilla. São Paulo: Martins Fontes, 1996. (Publicado originalmente em 1817)."
+	},
+	{
+		"id": "ECON053",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "A \"Hipótese do Mercado Eficiente\" (HME) afirma que...",
+		"options": [
+			{ "description": "Os mercados são sempre irracionais e movidos pelo pânico.", "isCorrect": false },
+			{ "description": "É fácil \"bater\" o mercado (ter lucros acima da média) com análises simples.", "isCorrect": false },
+			{ "description": "Os preços das ações já refletem todas as informações publicamente disponíveis, tornando impossível \"bater\" o mercado consistentemente.", "isCorrect": true },
+			{ "description": "Apenas empresas eficientes sobrevivem no mercado.", "isCorrect": false }
+		],
+		"source_explanation": "A HME, formalizada por Eugene Fama (Prêmio Nobel), é uma teoria central em finanças que postula que os preços dos ativos refletem todas as informações disponíveis.",
+		"source_abnt": "FAMA, Eugene F. Efficient Capital Markets: A Review of Theory and Empirical Work. *The Journal of Finance*, v. 25, n. 2, p. 383-417, maio 1970."
+	},
+	{
+		"id": "ECON054",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "O que é uma \"Aquisição Hostil\" (Hostile Takeover)?",
+		"options": [
+			{ "description": "A compra de uma empresa com a aprovação total do conselho de administração.", "isCorrect": false },
+			{ "description": "A aquisição de uma empresa contra a vontade de sua administração, geralmente comprando a maioria das ações diretamente dos acionistas.", "isCorrect": true },
+			{ "description": "Uma fusão entre duas empresas concorrentes.", "isCorrect": false },
+			{ "description": "Quando o governo toma o controle de uma empresa privada (nacionalização).", "isCorrect": false }
+		],
+		"source_explanation": "Em M&A (Fusões e Aquisições), uma aquisição hostil ocorre quando a empresa adquirente passa por cima da administração da empresa-alvo.",
+		"source_abnt": "HARVARD BUSINESS REVIEW. *A Guide to Hostile Takeovers*. Brighton, MA: HBR, 2022. Disponível em: https://hbr.org/2022/04/a-guide-to-hostile-takeovers. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON055",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "As \"Cinco Forças de Porter\" é um modelo para analisar o quê?",
+		"options": [
+			{ "description": "O balanço financeiro de uma empresa.", "isCorrect": false },
+			{ "description": "A atratividade e a competição dentro de uma indústria.", "isCorrect": true },
+			{ "description": "O ciclo de vida de um produto.", "isCorrect": false },
+			{ "description": "A macroeconomia de um país.", "isCorrect": false }
+		],
+		"source_explanation": "O modelo das \"Cinco Forças\" de Michael Porter (1980) é uma ferramenta de análise estratégica da competição industrial (Rivalidade, Novos Entrantes, Substitutos, Poder do Comprador, Poder do Fornecedor).",
+		"source_abnt": "PORTER, Michael E. *Estratégia Competitiva: técnicas para análise de indústrias e da concorrência*. 2. ed. Rio de Janeiro: Elsevier, 2004."
+	},
+	{
+		"id": "ECON056",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "O que a \"Curva de Laffer\" propõe?",
+		"options": [
+			{ "description": "Que a felicidade aumenta com a renda, mas até certo ponto.", "isCorrect": false },
+			{ "description": "A relação entre as alíquotas de impostos e a receita fiscal, sugerindo que, a partir de certo ponto, aumentar os impostos pode diminuir a receita.", "isCorrect": true },
+			{ "description": "O ciclo de vida de uma empresa (crescimento, maturidade, declínio).", "isCorrect": false },
+			{ "description": "A relação entre oferta e demanda.", "isCorrect": false }
+		],
+		"source_explanation": "A Curva de Laffer é uma teoria da \"economia do lado da oferta\" (supply-side economics) que ilustra uma relação teórica entre alíquotas de impostos e receita do governo.",
+		"source_abnt": "INVESTOPEDIA. *Laffer Curve: What It Is and How It Works*. Nova York: Investopedia, 2024. Disponível em: https://www.investopedia.com/terms/l/laffercurve.asp. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON057",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "No debate de governança corporativa, qual a diferença entre o modelo \"Shareholder\" (Acionista) e \"Stakeholder\" (Partes Interessadas)?",
+		"options": [
+			{ "description": "Shareholder foca no lucro de curto prazo; Stakeholder foca no lucro de longo prazo.", "isCorrect": false },
+			{ "description": "Shareholder afirma que a empresa deve focar em maximizar o retorno dos acionistas; Stakeholder afirma que a empresa deve considerar os interesses de todos (funcionários, clientes, sociedade).", "isCorrect": true },
+			{ "description": "Shareholder é usado nos EUA; Stakeholder é usado na China.", "isCorrect": false },
+			{ "description": "São o mesmo modelo, mas \"Stakeholder\" é o termo mais moderno.", "isCorrect": false }
+		],
+		"source_explanation": "O debate central da governança: Teoria do Shareholder (Milton Friedman) vs. Teoria do Stakeholder (Edward Freeman).",
+		"source_abnt": "FRIEDMAN, Milton. The Social Responsibility of Business is to Increase its Profits. *The New York Times Magazine*, 13 set. 1970. (Comparado com FREEMAN, R. Edward. *Strategic Management: A Stakeholder Approach*)."
+	},
+	{
+		"id": "ECON058",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "O que é \"Insider Trading\"?",
+		"options": [
+			{ "description": "Negociar ações com base em informações públicas e análises de mercado.", "isCorrect": false },
+			{ "description": "A prática ilegal de negociar ações de uma empresa com base em informações materiais e não públicas.", "isCorrect": true },
+			{ "description": "Quando o CEO de uma empresa compra ações de sua própria empresa legalmente.", "isCorrect": false },
+			{ "description": "Um tipo de estratégia de investimento de alto risco.", "isCorrect": false }
+		],
+		"source_explanation": "A SEC (EUA) e a CVM (Brasil) definem \"Insider Trading\" como a negociação ilegal de títulos com base em informações materiais confidenciais.",
+		"source_abnt": "SEC (U.S. SECURITIES AND EXCHANGE COMMISSION). *Insider Trading*. Washington, D.C.: SEC, [s.d.]. Disponível em: https://www.investor.gov/introduction-investing/investing-basics/glossary/insider-trading. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "ECON059",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "O que é o \"Paradoxo da Parcimônia\" (Paradox of Thrift), associado a Keynes?",
+		"options": [
+			{ "description": "A ideia de que se todos tentarem poupar mais dinheiro durante uma recessão, a demanda agregada cairá, e a economia (e a poupança total) encolherá.", "isCorrect": true },
+			{ "description": "A teoria de que poupar dinheiro é sempre ruim para o indivíduo.", "isCorrect": false },
+			{ "description": "O fato de que os ricos poupam mais que os pobres.", "isCorrect": false },
+			{ "description": "A ideia de que gastos do governo sempre levam à inflação.", "isCorrect": false }
+		],
+		"source_explanation": "Em sua \"Teoria Geral\", Keynes argumenta que o \"Paradoxo da Parcimônia\" (Paradox of Thrift) invalida a ideia de que poupar é sempre bom para a economia como um todo, especialmente em recessões.",
+		"source_abnt": "KEYNES, John Maynard. *A Teoria Geral do Emprego, do Juro e da Moeda*. Tradução de Mário R. da Cruz. São Paulo: Abril Cultural, 1983. (Capítulo 23)."
+	},
+	{
+		"id": "ECON060",
+		"category": "Negócios e Economia",
+		"level": "hard",
+		"question": "O que é \"Prospecção\" (Prospect Theory) de Kahneman e Tversky?",
+		"options": [
+			{ "description": "Uma teoria de que as pessoas são sempre racionais ao tomar decisões financeiras.", "isCorrect": false },
+			{ "description": "Uma teoria da economia comportamental que diz que as pessoas sentem mais a dor de uma perda do que o prazer de um ganho equivalente (aversão à perda).", "isCorrect": true },
+			{ "description": "Um método para encontrar novos clientes (prospectar).", "isCorrect": false },
+			{ "description": "A teoria de que os mercados sempre encontram o equilíbrio.", "isCorrect": false }
+		],
+		"source_explanation": "O artigo seminal de 1979 que fundou a Economia Comportamental. A \"Teoria da Perspectiva\" (Prospect Theory) descreve como os indivíduos avaliam perdas e ganhos de forma assimétrica (aversão à perda).",
+		"source_abnt": "KAHNEMAN, Daniel; TVERSKY, Amos. Prospect Theory: An Analysis of Decision under Risk. *Econometrica*, v. 47, n. 2, p. 263-291, mar. 1979."
+	}
+]

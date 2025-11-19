@@ -1,0 +1,842 @@
+[
+	{
+		"id": "FILO001",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "Qual filósofo grego é famoso por dizer \"Só sei que nada sei\" e é considerado o pai da ética?",
+		"options": [
+			{ "description": "Aristóteles", "isCorrect": false },
+			{ "description": "Platão", "isCorrect": false },
+			{ "description": "Sócrates", "isCorrect": true },
+			{ "description": "Heráclito", "isCorrect": false }
+		],
+		"source_explanation": "A obra 'Apologia de Sócrates', escrita por seu discípulo Platão, é a principal fonte que relata a defesa, o método e as frases famosas de Sócrates.",
+		"source_abnt": "PLATÃO. *Apologia de Sócrates*. In: ______. *Diálogos Socráticos*. Tradução de Carlos Alberto Nunes. 3. ed. Belém: EDUFPA, 2001."
+	},
+	{
+		"id": "FILO002",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "Quem escreveu a obra \"A República\", que descreve uma cidade-estado ideal governada por filósofos-reis?",
+		"options": [
+			{ "description": "Platão", "isCorrect": true },
+			{ "description": "Sócrates", "isCorrect": false },
+			{ "description": "Diógenes", "isCorrect": false },
+			{ "description": "Epicuro", "isCorrect": false }
+		],
+		"source_explanation": "Obra fundamental de Platão onde ele discute os conceitos de justiça, política e a Teoria das Formas.",
+		"source_abnt": "PLATÃO. *A República*. Tradução de Maria Helena da Rocha Pereira. 9. ed. Lisboa: Fundação Calouste Gulbenkian, 2001."
+	},
+	{
+		"id": "FILO003",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "Qual filósofo, aluno de Platão e tutor de Alexandre, o Grande, é conhecido por suas vastas contribuições à lógica, metafísica e ética?",
+		"options": [
+			{ "description": "Parmênides", "isCorrect": false },
+			{ "description": "Aristóteles", "isCorrect": true },
+			{ "description": "Zenão", "isCorrect": false },
+			{ "description": "Demócrito", "isCorrect": false }
+		],
+		"source_explanation": "A biografia de Aristóteles confirma sua relação como aluno de Platão e tutor de Alexandre, o Grande.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Aristotle. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/biography/Aristotle. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "FILO004",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "A famosa frase \"Penso, logo existo\" (Cogito, ergo sum) é a base do pensamento de qual filósofo moderno?",
+		"options": [
+			{ "description": "John Locke", "isCorrect": false },
+			{ "description": "Baruch Spinoza", "isCorrect": false },
+			{ "description": "Francis Bacon", "isCorrect": false },
+			{ "description": "René Descartes", "isCorrect": true }
+		],
+		"source_explanation": "Obra de 1637 onde o argumento \"Cogito, ergo sum\" é apresentado como a fundação do racionalismo cartesiano.",
+		"source_abnt": "DESCARTES, René. *Discurso do Método*. Tradução de Jacob Guinsburg e Bento Prado Júnior. São Paulo: Martins Fontes, 2000."
+	},
+	{
+		"id": "FILO005",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "Qual é o ramo da filosofia que estuda a natureza do conhecimento, a crença e a justificação?",
+		"options": [
+			{ "description": "Metafísica", "isCorrect": false },
+			{ "description": "Epistemologia", "isCorrect": true },
+			{ "description": "Ética", "isCorrect": false },
+			{ "description": "Estética", "isCorrect": false }
+		],
+		"source_explanation": "Verbete da Enciclopédia de Filosofia de Stanford (SEP) que define o campo como o estudo do conhecimento.",
+		"source_abnt": "TRUNCER, Jonathan. Epistemology. *The Stanford Encyclopedia of Philosophy* (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.). Disponível em: https://plato.stanford.edu/archives/win2023/entries/epistemology/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "FILO006",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "Qual é o ramo da filosofia que investiga os princípios fundamentais da realidade, do ser e da existência?",
+		"options": [
+			{ "description": "Metafísica", "isCorrect": true },
+			{ "description": "Lógica", "isCorrect": false },
+			{ "description": "Filosofia Política", "isCorrect": false },
+			{ "description": "Epistemologia", "isCorrect": false }
+		],
+		"source_explanation": "Verbete da Enciclopédia de Filosofia de Stanford (SEP) que define o campo como o estudo da natureza fundamental da realidade.",
+		"source_abnt": "VAN INWAGEN, Peter; SULLIVAN, Meghan. Metaphysics. *The Stanford Encyclopedia of Philosophy* (Spring 2024 Edition), Edward N. Zalta (ed.). Disponível em: https://plato.stanford.edu/archives/spr2024/entries/metaphysics/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "FILO007",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "O que a Ética, como ramo da filosofia, estuda principalmente?",
+		"options": [
+			{ "description": "A estrutura da linguagem", "isCorrect": false },
+			{ "description": "Os princípios da beleza e da arte", "isCorrect": false },
+			{ "description": "Os valores morais e a conduta humana (o certo e o errado)", "isCorrect": true },
+			{ "description": "A natureza da existência de Deus", "isCorrect": false }
+		],
+		"source_explanation": "A ética (ou filosofia moral) é a disciplina que se preocupa com o que é moralmente bom e mau, certo e errado.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Ethics (philosophy). *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/ethics-philosophy. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "FILO008",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "Qual teoria ética afirma que a melhor ação é aquela que maximiza a felicidade e o bem-estar para o maior número de pessoas?",
+		"options": [
+			{ "description": "Deontologia", "isCorrect": false },
+			{ "description": "Ética das Virtudes", "isCorrect": false },
+			{ "description": "Existencialismo", "isCorrect": false },
+			{ "description": "Utilitarismo", "isCorrect": true }
+		],
+		"source_explanation": "Texto fundador do Utilitarismo clássico, escrito por Jeremy Bentham, que introduz o \"princípio da maior felicidade\".",
+		"source_abnt": "BENTHAM, Jeremy. *Uma Introdução aos Princípios da Moral e da Legislação*. Tradução de Luiz João Baraúna. São Paulo: Abril Cultural, 1974. (Coleção Os Pensadores)."
+	},
+	{
+		"id": "FILO009",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "Qual filósofo político italiano escreveu \"O Príncipe\", um tratado sobre como um governante pode adquirir e manter o poder?",
+		"options": [
+			{ "description": "Maquiavel (Niccolò Machiavelli)", "isCorrect": true },
+			{ "description": "Montesquieu", "isCorrect": false },
+			{ "description": "Rousseau", "isCorrect": false },
+			{ "description": "Thomas Hobbes", "isCorrect": false }
+		],
+		"source_explanation": "Obra clássica de Maquiavel (publicada em 1532) que oferece conselhos pragmáticos (e muitas vezes controversos) sobre governança e poder.",
+		"source_abnt": "MAQUIAVEL, Nicolau. *O Príncipe*. Tradução de Maria Júlia Goldwasser. São Paulo: Martins Fontes, 1996."
+	},
+	{
+		"id": "FILO010",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "A teoria do \"Contrato Social\", que sugere que as pessoas consentem em se submeter à autoridade do Estado para obter proteção, é central para qual filósofo?",
+		"options": [
+			{ "description": "Thomas Hobbes", "isCorrect": true },
+			{ "description": "Immanuel Kant", "isCorrect": false },
+			{ "description": "Karl Marx", "isCorrect": false },
+			{ "description": "Friedrich Nietzsche", "isCorrect": false }
+		],
+		"source_explanation": "Obra de 1651 onde Hobbes argumenta a favor de um contrato social para escapar do 'estado de natureza', que ele descreve como 'guerra de todos contra todos'.",
+		"source_abnt": "HOBBES, Thomas. *Leviatã ou Matéria, Forma e Poder de um Estado Eclesiástico e Civil*. Tradução de João Paulo Monteiro e Maria Beatriz Nizza da Silva. São Paulo: Martins Fontes, 2003."
+	},
+	{
+		"id": "FILO011",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "O que é Lógica, no contexto filosófico?",
+		"options": [
+			{ "description": "O estudo da beleza", "isCorrect": false },
+			{ "description": "O estudo do governo", "isCorrect": false },
+			{ "description": "O estudo da mente inconsciente", "isCorrect": false },
+			{ "description": "O estudo dos princípios do raciocínio válido e da argumentação", "isCorrect": true }
+		],
+		"source_explanation": "A coletânea de tratados lógicos de Aristóteles é considerada a fundação do campo da lógica formal.",
+		"source_abnt": "ARISTÓTELES. *Organon*. Tradução de Edson Bini. Bauru, SP: Edipro, 2010."
+	},
+	{
+		"id": "FILO012",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "A \"Alegoria da Caverna\", que ilustra a diferença entre percepção e realidade, é uma famosa passagem de qual obra?",
+		"options": [
+			{ "description": "\"A República\" de Platão", "isCorrect": true },
+			{ "description": "\"Leviatã\" de Hobbes", "isCorrect": false },
+			{ "description": "\"Ética a Nicômaco\" de Aristóteles", "isCorrect": false },
+			{ "description": "\"O Banquete\" de Platão", "isCorrect": false }
+		],
+		"source_explanation": "A alegoria é apresentada por Sócrates no Livro VII da obra \"A República\", de Platão.",
+		"source_abnt": "PLATÃO. *A República*. Tradução de Maria Helena da Rocha Pereira. 9. ed. Lisboa: Fundação Calouste Gulbenkian, 2001. (Livro VII)."
+	},
+	{
+		"id": "FILO013",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "Qual filósofo alemão é conhecido por sua análise crítica do capitalismo e coautor do \"Manifesto Comunista\"?",
+		"options": [
+			{ "description": "Arthur Schopenhauer", "isCorrect": false },
+			{ "description": "Karl Marx", "isCorrect": true },
+			{ "description": "Georg Hegel", "isCorrect": false },
+			{ "description": "Immanuel Kant", "isCorrect": false }
+		],
+		"source_explanation": "Panfleto seminal, publicado em 1848, que delineia os princípios e a teoria do comunismo.",
+		"source_abnt": "MARX, Karl; ENGELS, Friedrich. *Manifesto do Partido Comunista*. Tradução de Sueli Tomazzini. São Paulo: Boitempo, 2010."
+	},
+	{
+		"id": "FILO014",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "Qual filósofo prussiano escreveu \"Crítica da Razão Pura\" e propôs o \"Imperativo Categórico\" como princípio moral?",
+		"options": [
+			{ "description": "Gottfried Leibniz", "isCorrect": false },
+			{ "description": "David Hume", "isCorrect": false },
+			{ "description": "Immanuel Kant", "isCorrect": true },
+			{ "description": "John Locke", "isCorrect": false }
+		],
+		"source_explanation": "Obra de 1785 onde Immanuel Kant formula seu princípio ético central, o Imperativo Categórico.",
+		"source_abnt": "KANT, Immanuel. *Fundamentação da Metafísica dos Costumes*. Tradução de Paulo Quintela. Lisboa: Edições 70, 2007."
+	},
+	{
+		"id": "FILO015",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "O Empirismo é a teoria epistemológica que afirma que todo conhecimento se origina primariamente de...",
+		"options": [
+			{ "description": "Autoridade religiosa", "isCorrect": false },
+			{ "description": "Experiência sensorial", "isCorrect": true },
+			{ "description": "Razão pura e lógica", "isCorrect": false },
+			{ "description": "Intuição inata", "isCorrect": false }
+		],
+		"source_explanation": "Texto fundamental do empirismo, onde John Locke propõe a mente como uma \"tábua rasa\" (folha em branco) a ser preenchida pela experiência.",
+		"source_abnt": "LOCKE, John. *Ensaio acerca do Entendimento Humano*. Tradução de Anoar Aiex. São Paulo: Abril Cultural, 1973. (Coleção Os Pensadores)."
+	},
+	{
+		"id": "FILO016",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "O Racionalismo é a teoria epistemológica que enfatiza a... como fonte primária do conhecimento.",
+		"options": [
+			{ "description": "Tradição cultural", "isCorrect": false },
+			{ "description": "Observação empírica", "isCorrect": false },
+			{ "description": "Fé e revelação", "isCorrect": false },
+			{ "description": "Razão e o intelecto", "isCorrect": true }
+		],
+		"source_explanation": "Obra que exemplifica o método racionalista de René Descartes, duvidando de tudo, exceto da própria razão.",
+		"source_abnt": "DESCARTES, René. *Meditações Metafísicas*. Tradução de Diskin, E. São Paulo: Martins Fontes, 2000."
+	},
+	{
+		"id": "FILO017",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "Na filosofia política, o conceito de \"separação dos poderes\" (legislativo, executivo, judiciário) foi famosamente articulado por qual pensador?",
+		"options": [
+			{ "description": "Montesquieu", "isCorrect": true },
+			{ "description": "Voltaire", "isCorrect": false },
+			{ "description": "Jean-Jacques Rousseau", "isCorrect": false },
+			{ "description": "John Locke", "isCorrect": false }
+		],
+		"source_explanation": "Obra de 1748 onde Montesquieu detalha a teoria da separação dos poderes como essencial para evitar a tirania.",
+		"source_abnt": "MONTESQUIEU, Charles de Secondat, Barão de. *O Espírito das Leis*. Tradução de Pedro Vieira. São Paulo: Martins Fontes, 1996."
+	},
+	{
+		"id": "FILO018",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "A \"Ética das Virtudes\", que foca no caráter moral do indivíduo em vez de nas regras ou consequências, é mais associada a qual filósofo?",
+		"options": [
+			{ "description": "Platão", "isCorrect": false },
+			{ "description": "Jeremy Bentham", "isCorrect": false },
+			{ "description": "Aristóteles", "isCorrect": true },
+			{ "description": "Immanuel Kant", "isCorrect": false }
+		],
+		"source_explanation": "A principal obra de Aristóteles sobre ética, onde ele desenvolve o conceito de virtude (aretē) e a busca pela eudaimonia (florescimento).",
+		"source_abnt": "ARISTÓTELES. *Ética a Nicômaco*. Tradução de Mário da Gama Kury. 4. ed. Brasília: Editora UnB, 2001."
+	},
+	{
+		"id": "FILO019",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "Qual filósofo alemão do século XIX declarou \"Deus está morto\" e escreveu obras como \"Assim Falou Zaratustra\"?",
+		"options": [
+			{ "description": "Georg Hegel", "isCorrect": false },
+			{ "description": "Søren Kierkegaard", "isCorrect": false },
+			{ "description": "Arthur Schopenhauer", "isCorrect": false },
+			{ "description": "Friedrich Nietzsche", "isCorrect": true }
+		],
+		"source_explanation": "A famosa frase \"Deus está morto\" é proferida pelo personagem \"homem louco\" na Seção 125 desta obra de Nietzsche.",
+		"source_abnt": "NIETZSCHE, Friedrich. *A Gaia Ciência*. Tradução de Paulo César de Souza. São Paulo: Companhia das Letras, 2001. (Seção 125)."
+	},
+	{
+		"id": "FILO020",
+		"category": "Filosofia",
+		"level": "easy",
+		"question": "Um argumento lógico que parece válido, mas contém um erro no raciocínio, é conhecido como:",
+		"options": [
+			{ "description": "Um paradoxo", "isCorrect": false },
+			{ "description": "Uma falácia", "isCorrect": true },
+			{ "description": "Um silogismo", "isCorrect": false },
+			{ "description": "Uma axioma", "isCorrect": false }
+		],
+		"source_explanation": "Define falácia como um erro no raciocínio que torna um argumento inválido.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Fallacy. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/fallacy. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "FILO021",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "Na epistemologia, John Locke defendeu que a mente humana ao nascer é uma \"tábula rasa\". O que isso significa?",
+		"options": [
+			{ "description": "Que a mente já nasce com conhecimento inato sobre o mundo.", "isCorrect": false },
+			{ "description": "Que todo conhecimento é derivado exclusivamente da razão pura.", "isCorrect": false },
+			{ "description": "Que a mente é uma \"folha em branco\" preenchida pela experiência.", "isCorrect": true },
+			{ "description": "Que a mente é incapaz de compreender a realidade.", "isCorrect": false }
+		],
+		"source_explanation": "No Livro II, Cap. 1, Locke introduz o conceito de \"tábua rasa\" (blank slate) para refutar a doutrina das ideias inatas.",
+		"source_abnt": "LOCKE, John. *Ensaio acerca do Entendimento Humano*. Tradução de Anoar Aiex. São Paulo: Abril Cultural, 1973. (Coleção Os Pensadores)."
+	},
+	{
+		"id": "FILO022",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "O \"Imperativo Categórico\" de Immanuel Kant é um princípio central de sua ética deontológica. O que ele afirma?",
+		"options": [
+			{ "description": "Age de modo a maximizar a felicidade geral.", "isCorrect": false },
+			{ "description": "Age apenas segundo a máxima pela qual possas querer que ela se torne uma lei universal.", "isCorrect": true },
+			{ "description": "Age de acordo com a virtude e a moderação (o \"caminho do meio\").", "isCorrect": false },
+			{ "description": "Age buscando o autointeresse racional acima de tudo.", "isCorrect": false }
+		],
+		"source_explanation": "Na Seção 2 da obra, Kant apresenta a formulação principal do Imperativo Categórico, a base de sua moralidade.",
+		"source_abnt": "KANT, Immanuel. *Fundamentação da Metafísica dos Costumes*. Tradução de Paulo Quintela. Lisboa: Edições 70, 2007."
+	},
+	{
+		"id": "FILO023",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "O \"Dualismo Cartesiano\", proposto por René Descartes, divide fundamentalmente a realidade em quais duas substâncias?",
+		"options": [
+			{ "description": "Matéria e Energia", "isCorrect": false },
+			{ "description": "Bem e Mal", "isCorrect": false },
+			{ "description": "Forma e Matéria (Aristotélico)", "isCorrect": false },
+			{ "description": "Res Cogitans (coisa pensante/mente) e Res Extensa (coisa extensa/matéria)", "isCorrect": true }
+		],
+		"source_explanation": "Na Meditação VI, Descartes argumenta pela distinção real entre a mente (coisa pensante) e o corpo (coisa extensa).",
+		"source_abnt": "DESCARTES, René. *Meditações Metafísicas*. Tradução de Diskin, E. São Paulo: Martins Fontes, 2000."
+	},
+	{
+		"id": "FILO024",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "Jean-Jacques Rousseau, em sua filosofia política, cunhou o conceito do \"bom selvagem\". O que ele queria expressar com isso?",
+		"options": [
+			{ "description": "Que os humanos pré-sociais eram moralmente superiores e foram corrompidos pela sociedade.", "isCorrect": true },
+			{ "description": "Que a vida em sociedade é o único caminho para a virtude moral.", "isCorrect": false },
+			{ "description": "Que os seres humanos são inerentemente maus e precisam de um Estado forte (Leviatã).", "isCorrect": false },
+			{ "description": "Que os povos nativos eram militarmente superiores aos europeus.", "isCorrect": false }
+		],
+		"source_explanation": "Nesta obra, Rousseau argumenta que o homem natural (o \"bom selvagem\") é virtuoso, e que a sociedade e a propriedade privada o corrompem.",
+		"source_abnt": "ROUSSEAU, Jean-Jacques. *Discurso sobre a Origem e os Fundamentos da Desigualdade entre os Homens*. Tradução de Lourdes Santos Machado. São Paulo: Abril Cultural, 1973. (Coleção Os Pensadores)."
+	},
+	{
+		"id": "FILO025",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "Qual é o conceito central na filosofia de Friedrich Nietzsche que descreve a força motriz fundamental da vida, uma busca por auto-superação e poder?",
+		"options": [
+			{ "description": "O Eterno Retorno", "isCorrect": false },
+			{ "description": "A Vontade de Poder (Wille zur Macht)", "isCorrect": true },
+			{ "description": "O Übermensch (Além-do-homem)", "isCorrect": false },
+			{ "description": "A Moralidade Escrava", "isCorrect": false }
+		],
+		"source_explanation": "Embora o conceito permeie toda a sua obra tardia, 'Assim Falou Zaratustra' explora extensivamente a Vontade de Poder como a força vital de superação.",
+		"source_abnt": "NIETZSCHE, Friedrich. *Assim Falou Zaratustra: um livro para todos e para ninguém*. Tradução de Paulo César de Souza. São Paulo: Companhia das Letras, 2011."
+	},
+	{
+		"id": "FILO026",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "Na lógica aristotélica, um \"silogismo\" é uma forma de argumento dedutivo. Qual é sua estrutura clássica?",
+		"options": [
+			{ "description": "Uma pergunta que leva a uma contradição (Paradoxo).", "isCorrect": false },
+			{ "description": "Uma premissa maior, uma premissa menor e uma conclusão.", "isCorrect": true },
+			{ "description": "Uma observação empírica que leva a uma generalização (Indução).", "isCorrect": false },
+			{ "description": "Uma afirmação que é verdadeira por definição (Axioma).", "isCorrect": false }
+		],
+		"source_explanation": "Parte da coletânea 'Organon', esta obra de Aristóteles é onde a teoria do silogismo dedutivo é formalmente desenvolvida.",
+		"source_abnt": "ARISTÓTELES. *Organon*. Volume III: Analíticos Anteriores. Tradução de Pinharanda Gomes. Lisboa: Guimarães Editores, 1985."
+	},
+	{
+		"id": "FILO027",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "David Hume, um cético proeminente, argumentou contra a certeza da \"causalidade\". Qual era sua principal crítica?",
+		"options": [
+			{ "description": "Acreditamos na causalidade por hábito (conjunção constante), não por percepção racional da \"conexão necessária\".", "isCorrect": true },
+			{ "description": "A causalidade é uma lei divina que não podemos questionar.", "isCorrect": false },
+			{ "description": "Apenas eventos mentais causam eventos físicos, e não o contrário.", "isCorrect": false },
+			{ "description": "A causalidade só se aplica em matemática, não no mundo real.", "isCorrect": false }
+		],
+		"source_explanation": "Na Seção VII desta obra, Hume analisa a ideia de \"conexão necessária\" entre causa e efeito, concluindo que ela não pode ser observada empiricamente.",
+		"source_abnt": "HUME, David. *Uma Investigação sobre o Entendimento Humano*. Tradução de José Oscar de Almeida Marques. São Paulo: Editora UNESP, 1999."
+	},
+	{
+		"id": "FILO028",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "Na metafísica, qual é a diferença fundamental entre Idealismo e Materialismo?",
+		"options": [
+			{ "description": "O Idealismo foca na ética; o Materialismo foca na política.", "isCorrect": false },
+			{ "description": "O Idealismo vê a mente/consciência como primária; o Materialismo vê a matéria/física como primária.", "isCorrect": true },
+			{ "description": "O Idealismo é otimista; o Materialismo é pessimista.", "isCorrect": false },
+			{ "description": "O Idealismo é ateísta; o Materialismo é teísta.", "isCorrect": false }
+		],
+		"source_explanation": "Verbetes da Enciclopédia de Filosofia de Stanford que definem as posições metafísicas opostas sobre a primazia da mente ou da matéria.",
+		"source_abnt": "GUYER, Paul; ZOELLER, Guenter. Idealism. *The Stanford Encyclopedia of Philosophy* (Fall 2024 Edition), Edward N. Zalta (ed.). Disponível em: https://plato.stanford.edu/archives/fall2024/entries/idealism/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "FILO029",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "Para o existencialista Jean-Paul Sartre, a frase \"a existência precede a essência\" significa o quê?",
+		"options": [
+			{ "description": "Que os humanos nascem com um propósito divino (essência) que devem descobrir.", "isCorrect": false },
+			{ "description": "Que os humanos primeiro existem (nascem) e só depois definem quem são (sua essência) através de suas escolhas.", "isCorrect": true },
+			{ "description": "Que a essência de uma pessoa é determinada pela sua classe social.", "isCorrect": false },
+			{ "description": "Que a existência humana é uma ilusão, e apenas a essência (Ideia) é real.", "isCorrect": false }
+		],
+		"source_explanation": "Palestra de 1945 onde esta tese central do existencialismo ateu é apresentada de forma clara.",
+		"source_abnt": "SARTRE, Jean-Paul. *O Existencialismo é um Humanismo*. Tradução de Rita Correia Guedes. São Paulo: Abril Cultural, 1973. (Coleção Os Pensadores)."
+	},
+	{
+		"id": "FILO030",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "Na \"Teoria das Formas\" de Platão, o que são as \"Formas\" ou \"Ideias\"?",
+		"options": [
+			{ "description": "Opiniões subjetivas que mudam de pessoa para pessoa.", "isCorrect": false },
+			{ "description": "Objetos físicos que podemos tocar e ver no mundo cotidiano.", "isCorrect": false },
+			{ "description": "Conceitos perfeitos, eternos e imutáveis (como a \"Justiça\" ou o \"Círculo perfeito\") que existem fora do mundo sensível.", "isCorrect": true },
+			{ "description": "Regras lógicas de argumentação.", "isCorrect": false }
+		],
+		"source_explanation": "Nos Livros VI-VII de \"A República\", Platão discute extensivamente a Teoria das Formas, incluindo a Alegoria da Caverna.",
+		"source_abnt": "PLATÃO. *A República*. Tradução de Maria Helena da Rocha Pereira. 9. ed. Lisboa: Fundação Calouste Gulbenkian, 2001."
+	},
+	{
+		"id": "FILO031",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "O \"Problema da Indução\", mais famosamente articulado por David Hume, questiona qual aspecto do método científico?",
+		"options": [
+			{ "description": "A validade de usar a matemática para descrever a natureza.", "isCorrect": false },
+			{ "description": "A confiabilidade de nossos sentidos (visão, audição).", "isCorrect": false },
+			{ "description": "A justificação para acreditar que o futuro se assemelhará ao passado (fazer generalizações a partir de observações passadas).", "isCorrect": true },
+			{ "description": "A capacidade da lógica dedutiva de provar qualquer coisa sobre o mundo real.", "isCorrect": false }
+		],
+		"source_explanation": "Na Seção IV desta obra, Hume analisa o raciocínio indutivo e sua dependência do princípio (injustificável) da uniformidade da natureza.",
+		"source_abnt": "HUME, David. *Uma Investigação sobre o Entendimento Humano*. Tradução de José Oscar de Almeida Marques. São Paulo: Editora UNESP, 1999."
+	},
+	{
+		"id": "FILO032",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "Qual filósofo político argumentou no \"Leviatã\" que, no \"estado de natureza\", a vida seria \"solitária, pobre, sórdida, bruta e curta\"?",
+		"options": [
+			{ "description": "John Locke", "isCorrect": false },
+			{ "description": "Thomas Hobbes", "isCorrect": true },
+			{ "description": "Jean-Jacques Rousseau", "isCorrect": false },
+			{ "description": "Barão de Montesquieu", "isCorrect": false }
+		],
+		"source_explanation": "No Capítulo XIII, Hobbes descreve o estado de natureza como uma \"guerra de todos contra todos\" para justificar a necessidade de um soberano absoluto.",
+		"source_abnt": "HOBBES, Thomas. *Leviatã*. Tradução de João Paulo Monteiro e Maria Beatriz Nizza da Silva. São Paulo: Martins Fontes, 2003. (Capítulo XIII)."
+	},
+	{
+		"id": "FILO033",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "A \"Navalha de Ockham\" é um princípio metodológico (lógico) que sugere o quê?",
+		"options": [
+			{ "description": "Que a explicação mais complexa é provavelmente a correta.", "isCorrect": false },
+			{ "description": "Que todas as teorias são igualmente válidas.", "isCorrect": false },
+			{ "description": "Que \"as entidades não devem ser multiplicadas além da necessidade\" (a explicação mais simples tende a ser a certa).", "isCorrect": true },
+			{ "description": "Que um problema deve ser \"cortado\" em partes menores para ser resolvido.", "isCorrect": false }
+		],
+		"source_explanation": "Embora a frase exata não esteja em suas obras, o princípio da parcimônia (escolher a explicação mais simples) é central no pensamento de Guilherme de Ockham.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Occam's razor. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/Ockhams-razor. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "FILO034",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "Na filosofia política de Aristóteles, o que significa a afirmação de que o homem é um \"Zoon Politikon\" (animal político)?",
+		"options": [
+			{ "description": "Que os humanos são inerentemente egoístas e buscam apenas o poder.", "isCorrect": false },
+			{ "description": "Que os humanos são seres sociais por natureza, feitos para viver na \"pólis\" (cidade-estado).", "isCorrect": true },
+			{ "description": "Que os humanos devem evitar a política e focar na contemplação.", "isCorrect": false },
+			{ "description": "Que a forma ideal de governo é uma monarquia absoluta.", "isCorrect": false }
+		],
+		"source_explanation": "No Livro I de \"Política\", Aristóteles argumenta que a pólis é uma comunidade natural e que o homem é, por natureza, feito para ela.",
+		"source_abnt": "ARISTÓTELES. *Política*. Tradução de Mário da Gama Kury. 3. ed. Brasília: Editora UnB, 1997."
+	},
+	{
+		"id": "FILO035",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "Søren Kierkegaard, considerado o pai do existencialismo, descreveu três \"estágios da existência\" ou \"esferas da vida\". Quais são eles?",
+		"options": [
+			{ "description": "Estético, Ético e Religioso.", "isCorrect": true },
+			{ "description": "Infância, Maturidade e Velhice.", "isCorrect": false },
+			{ "description": "Tese, Antítese e Síntese.", "isCorrect": false },
+			{ "description": "Ignorância, Aprendizado e Iluminação.", "isCorrect": false }
+		],
+		"source_explanation": "Em obras como \"Ou-Ou\" e \"Estádios no Caminho da Vida\", Kierkegaard explora a progressão do estágio estético (baseado no prazer) para o ético (baseado no dever) e, finalmente, para o religioso (baseado na fé).",
+		"source_abnt": "KIERKEGAARD, Søren. *Estádios no Caminho da Vida*. Tradução de Álvaro Valls. São Paulo: Editora Unesp, 2010."
+	},
+	{
+		"id": "FILO036",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "O que Arthur Schopenhauer identificou como a força metafísica irracional, cega e incessante que move toda a realidade, causando o sofrimento?",
+		"options": [
+			{ "description": "A Razão (Logos)", "isCorrect": false },
+			{ "description": "A Vontade (especificamente, a Vontade de Viver)", "isCorrect": true },
+			{ "description": "O Espírito Absoluto (Hegel)", "isCorrect": false },
+			{ "description": "O Amor (Eros)", "isCorrect": false }
+		],
+		"source_explanation": "Esta é a obra magna de Schopenhauer, onde a \"Vontade\" (Wille) é o pilar central de sua metafísica pessimista.",
+		"source_abnt": "SCHOPENHAUER, Arthur. *O Mundo como Vontade e Representação*. Tradução de M. F. Sá Correia. Porto: Rés-Editora, 1995."
+	},
+	{
+		"id": "FILO037",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "Em filosofia política, qual é a principal diferença entre os direitos defendidos por John Locke e a \"vontade geral\" de Rousseau?",
+		"options": [
+			{ "description": "Locke focava nos direitos individuais (vida, liberdade, propriedade); Rousseau focava na soberania coletiva da \"vontade geral\".", "isCorrect": true },
+			{ "description": "Locke defendia a monarquia absoluta; Rousseau defendia a democracia direta.", "isCorrect": false },
+			{ "description": "Locke era ateu; Rousseau era profundamente religioso.", "isCorrect": false },
+			{ "description": "Não há diferença, ambos defendiam o contrato social da mesma forma.", "isCorrect": false }
+		],
+		"source_explanation": "Uma comparação entre o \"Segundo Tratado\" (que defende direitos individuais contra o Estado) e o \"Contrato Social\" (que defende a soberania do coletivo).",
+		"source_abnt": "LOCKE, John. *Segundo Tratado sobre o Governo Civil*. Tradução de Alex Marins. São Paulo: Martin Claret, 2002. (Comparado com ROUSSEAU, J-J. *Do Contrato Social*)."
+	},
+	{
+		"id": "FILO038",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "A escola filosófica do Estoicismo, de Sêneca e Marco Aurélio, ensinava que o caminho para a \"eudaimonia\" (felicidade) era...",
+		"options": [
+			{ "description": "Maximizar o prazer e minimizar a dor (Hedonismo).", "isCorrect": false },
+			{ "description": "Aceitar o que não podemos mudar (destino) e focar em nossa resposta virtuosa (razão).", "isCorrect": true },
+			{ "description": "Acumular o máximo de riqueza e poder político.", "isCorrect": false },
+			{ "description": "Retirar-se da sociedade e viver em comunhão com a natureza.", "isCorrect": false }
+		],
+		"source_explanation": "A obra de Marco Aurélio é um diário pessoal e um exemplo prático da aplicação da filosofia estoica, focando na aceitação e na virtude interna.",
+		"source_abnt": "MARCO AURÉLIO. *Meditações*. Tradução de E. P. G. L. Alves. São Paulo: Edipro, 2019."
+	},
+	{
+		"id": "FILO039",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "O que é o \"Livre-Arbítrio\" no debate metafísico?",
+		"options": [
+			{ "description": "A crença de que todas as ações são pré-determinadas pelo destino ou por leis físicas.", "isCorrect": false },
+			{ "description": "A crença de que a vontade humana é uma ilusão e não temos controle sobre nossas ações.", "isCorrect": false },
+			{ "description": "A crença de que os seres humanos podem escolher genuinamente entre diferentes cursos de ação.", "isCorrect": true },
+			{ "description": "A crença de que o governo não deve interferir na economia.", "isCorrect": false }
+		],
+		"source_explanation": "Verbete da Enciclopédia de Filosofia de Stanford que define o conceito central do debate contra o determinismo.",
+		"source_abnt": "O'CONNOR, Timothy; FRANKLIN, Christopher. Free Will. *The Stanford Encyclopedia of Philosophy* (Spring 2024 Edition), Edward N. Zalta (ed.). Disponível em: https://plato.stanford.edu/archives/spr2024/entries/freewill/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "FILO040",
+		"category": "Filosofia",
+		"level": "medium",
+		"question": "O conceito de \"Banalidade do Mal\", de Hannah Arendt, surgiu da observação do julgamento de Adolf Eichmann. O que o conceito sugere?",
+		"options": [
+			{ "description": "Que o mal extremo é sempre cometido por monstros sádicos e psicopatas.", "isCorrect": false },
+			{ "description": "Que o mal pode ser praticado por pessoas comuns que simplesmente seguem ordens e não refletem sobre seus atos.", "isCorrect": true },
+			{ "description": "Que o mal é uma força metafísica que corrompe as pessoas.", "isCorrect": false },
+			{ "description": "Que o capitalismo é a fonte de todo o mal no mundo.", "isCorrect": false }
+		],
+		"source_explanation": "O livro é um relato do julgamento de Adolf Eichmann, onde Arendt propõe que o mal pode ser burocrático, comum e \"banal\", não necessariamente demoníaco.",
+		"source_abnt": "ARENDT, Hannah. *Eichmann em Jerusalém: um relato sobre a banalidade do mal*. Tradução de José Rubens Siqueira. São Paulo: Companhia das Letras, 1999."
+	},
+	{
+		"id": "FILO041",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "Na \"Crítica da Razão Pura\", Immanuel Kant introduz os \"juízos sintéticos a priori\". Por que eles são centrais para sua epistemologia?",
+		"options": [
+			{ "description": "Porque provam que todo conhecimento vem da experiência (empirismo).", "isCorrect": false },
+			{ "description": "Porque são tautologias lógicas que não nos ensinam nada de novo sobre o mundo.", "isCorrect": false },
+			{ "description": "Porque demonstram como podemos ter conhecimento universal e necessário (a priori) que também expande nosso conhecimento do mundo (sintético).", "isCorrect": true },
+			{ "description": "Porque mostram que a metafísica é impossível e deve ser abandonada.", "isCorrect": false }
+		],
+		"source_explanation": "Na Introdução (Seções IV-V) da obra, Kant define os tipos de juízo (analítico/sintético, a priori/a posteriori) e coloca o \"sintético a priori\" como o problema central da filosofia.",
+		"source_abnt": "KANT, Immanuel. *Crítica da Razão Pura*. Tradução de Manuela Pinto dos Santos e Alexandre Fradique Morujão. 5. ed. Lisboa: Fundação Calouste Gulbenkian, 2001."
+	},
+	{
+		"id": "FILO042",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "O \"Problema de Gettier\", em epistemologia, ataca qual definição tradicional de conhecimento?",
+		"options": [
+			{ "description": "A definição de conhecimento como \"crença verdadeira justificada\" (JTB).", "isCorrect": true },
+			{ "description": "A definição de conhecimento como \"intuição racional\" (Racionalismo).", "isCorrect": false },
+			{ "description": "A definição de conhecimento como \"experiência sensorial\" (Empirismo).", "isCorrect": false },
+			{ "description": "A definição de conhecimento como \"o que é revelado pela fé\".", "isCorrect": false }
+		],
+		"source_explanation": "Artigo seminal de 1963 que apresenta contraexemplos (os \"casos Gettier\") à definição clássica de conhecimento como \"crença verdadeira justificada\" (JTB).",
+		"source_abnt": "GETTIER, Edmund L. Is Justified True Belief Knowledge?. *Analysis*, Oxford, v. 23, n. 6, p. 121-123, jun. 1963."
+	},
+	{
+		"id": "FILO043",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "Para Baruch Spinoza, em sua obra \"Ética\", qual é a relação entre Deus e a Natureza?",
+		"options": [
+			{ "description": "Deus é um criador transcendente que deu corda no universo (Deísmo).", "isCorrect": false },
+			{ "description": "Deus e Natureza são duas substâncias distintas que interagem (Dualismo).", "isCorrect": false },
+			{ "description": "Deus é a única substância, e tudo o que existe é um modo de Deus (\"Deus sive Natura\" - Deus ou Natureza).", "isCorrect": true },
+			{ "description": "Deus não existe, apenas a Natureza material (Materialismo).", "isCorrect": false }
+		],
+		"source_explanation": "Na Parte I (Proposições 14-15), Spinoza estabelece seu monismo panteísta, identificando Deus com a Natureza como a única substância existente.",
+		"source_abnt": "SPINOZA, Baruch. *Ética*. Tradução de Tomaz Tadeu. 4. ed. Belo Horizonte: Autêntica Editora, 2011."
+	},
+	{
+		"id": "FILO044",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "Na metafísica de Martin Heidegger, qual é a distinção fundamental entre \"Ser\" (Sein) e \"ente\" (Seiendes)?",
+		"options": [
+			{ "description": "\"Ser\" é a existência de Deus; \"ente\" é a criação (humanos e objetos).", "isCorrect": false },
+			{ "description": "\"Ser\" é o próprio ato de existir, o \"quê\" da existência; \"ente\" é qualquer coisa que existe, uma entidade particular.", "isCorrect": true },
+			{ "description": "\"Ser\" é o mundo material; \"ente\" é o mundo mental ou das ideias.", "isCorrect": false },
+			{ "description": "Não há distinção; Heidegger usava os termos como sinônimos.", "isCorrect": false }
+		],
+		"source_explanation": "Na introdução de \"Ser e Tempo\", Heidegger estabelece a \"diferença ontológica\" (a distinção entre o Ser e os entes) como a base de sua investigação.",
+		"source_abnt": "HEIDEGGER, Martin. *Ser e Tempo*. Tradução de Fausto Castilho. 10. ed. Petrópolis: Vozes, 2015."
+	},
+	{
+		"id": "FILO045",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "O \"Argumento da Linguagem Privada\", de Ludwig Wittgenstein, sugere que...",
+		"options": [
+			{ "description": "A melhor forma de filosofia é criar uma linguagem lógica perfeita, privada de ambiguidades.", "isCorrect": false },
+			{ "description": "A ideia de uma linguagem cujo significado só pode ser conhecido por um único indivíduo é incoerente, pois as regras da linguagem são públicas.", "isCorrect": true },
+			{ "description": "Todo ser humano possui uma \"linguagem do pensamento\" interna e privada.", "isCorrect": false },
+			{ "description": "A tradução entre línguas é fundamentalmente impossível.", "isCorrect": false }
+		],
+		"source_explanation": "Nas seções §§ 243-315 de sua obra, Wittgenstein desenvolve o argumento de que uma linguagem privada é impossível, pois o significado é determinado pelo uso público.",
+		"source_abnt": "WITTGENSTEIN, Ludwig. *Investigações Filosóficas*. Tradução de José Carlos Bruni. São Paulo: Abril Cultural, 1975. (Coleção Os Pensadores)."
+	},
+	{
+		"id": "FILO046",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "Em \"O Nascimento da Tragédia\", Nietzsche introduz a dualidade entre o \"Apolíneo\" e o \"Dionisíaco\". O que eles representam?",
+		"options": [
+			{ "description": "O Apolíneo representa a razão e a ordem; o Dionisíaco representa a desordem, a embriaguez e o caos primordial.", "isCorrect": true },
+			{ "description": "O Apolíneo representa o paganismo; o Dionisíaco representa o cristianismo primitivo.", "isCorrect": false },
+			{ "description": "O Apolíneo representa o bem moral; o Dionisíaco representa o mal.", "isCorrect": false },
+			{ "description": "O Apolíneo representa a Alemanha; o Dionisíaco representa a França.", "isCorrect": false }
+		],
+		"source_explanation": "Obra de 1872 que utiliza essa dualidade (Ordem de Apolo vs. Caos de Dionísio) para analisar a tragédia grega e a cultura ocidental.",
+		"source_abnt": "NIETZSCHE, Friedrich. *O Nascimento da Tragédia*. Tradução de J. Guinsburg. São Paulo: Companhia das Letras, 1992."
+	},
+	{
+		"id": "FILO047",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "O que W. V. O. Quine ataca em seu famoso artigo \"Dois Dogmas do Empirismo\"?",
+		"options": [
+			{ "description": "A crença no mundo exterior e a crença na causalidade.", "isCorrect": false },
+			{ "description": "A distinção entre filosofia continental e analítica.", "isCorrect": false },
+			{ "description": "A distinção entre juízos \"analíticos\" (verdadeiros por definição) e \"sintéticos\" (verdadeiros pelos fatos).", "isCorrect": true },
+			{ "description": "O empirismo de Locke e o racionalismo de Descartes.", "isCorrect": false }
+		],
+		"source_explanation": "Artigo de 1951 onde Quine critica os dois pilares do positivismo lógico: a distinção analítico-sintético e o reducionismo.",
+		"source_abnt": "QUINE, Willard Van Orman. Dois Dogmas do Empirismo. In: ______. *De um Ponto de Vista Lógico*. Tradução de António Zilhão. Lisboa: Guerra e Paz, 2011."
+	},
+	{
+		"id": "FILO048",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "Em \"Uma Teoria da Justiça\", John Rawls usa o conceito do \"Véu da Ignorância\". Qual é a sua finalidade?",
+		"options": [
+			{ "description": "Provar que os humanos são inerentemente ignorantes e não podem conhecer a justiça.", "isCorrect": false },
+			{ "description": "Demonstrar que a justiça é um conceito relativo que varia com a cultura.", "isCorrect": false },
+			{ "description": "Criar uma situação hipotética (a Posição Original) onde as pessoas escolhem princípios de justiça sem saber suas próprias posições sociais, talentos ou crenças.", "isCorrect": true },
+			{ "description": "Criticar o utilitarismo por ignorar a felicidade da maioria.", "isCorrect": false }
+		],
+		"source_explanation": "Na Seção 4 da Parte 1, Rawls introduz o conceito do \"Véu da Ignorância\" como o método central para derivar os princípios da \"justiça como equidade\".",
+		"source_abnt": "RAWLS, John. *Uma Teoria da Justiça*. Tradução de Almiro Pisetta e Lenita M. R. Esteves. São Paulo: Martins Fontes, 1997."
+	},
+	{
+		"id": "FILO049",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "O que Edmund Husserl, o pai da fenomenologia, chama de \"Epoché\" (ou Redução Fenomenológica)?",
+		"options": [
+			{ "description": "A análise histórica de como os conceitos filosóficos mudaram ao longo das eras.", "isCorrect": false },
+			{ "description": "A \"suspensão\" ou \"colocação entre parênteses\" de nossa crença na existência do mundo exterior para focar na própria consciência.", "isCorrect": true },
+			{ "description": "O processo lógico de deduzir conclusões a partir de axiomas.", "isCorrect": false },
+			{ "description": "A busca pela felicidade máxima através do cálculo utilitarista.", "isCorrect": false }
+		],
+		"source_explanation": "Nesta obra, Husserl descreve a Epoché (suspensão da \"atitude natural\") como o método fundamental da fenomenologia.",
+		"source_abnt": "HUSSERL, Edmund. *Ideias para uma Fenomenologia Pura e uma Filosofia Fenomenológica*. Tradução de Márcio Suzuki. Aparecida, SP: Ideias & Letras, 2006."
+	},
+	{
+		"id": "FILO050",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "Na ética de Aristóteles, qual é o papel da \"Phronesis\" (Sabedoria Prática)?",
+		"options": [
+			{ "description": "É o conhecimento teórico das Formas e da matemática (Sophia).", "isCorrect": false },
+			{ "description": "É a virtude de saber aplicar o conhecimento moral na prática, encontrando a \"justa medida\" (meio-termo) em situações particulares.", "isCorrect": true },
+			{ "description": "É a coragem no campo de batalha, a principal virtude do cidadão.", "isCorrect": false },
+			{ "description": "É a obediência estrita às leis divinas, independentemente das circunstâncias.", "isCorrect": false }
+		],
+		"source_explanation": "No Livro VI da \"Ética a Nicômaco\", Aristóteles distingue as virtudes intelectuais, definindo Phronesis como a sabedoria prática, distinta da Sophia (sabedoria teórica).",
+		"source_abnt": "ARISTÓTELES. *Ética a Nicômaco*. Tradução de Mário da Gama Kury. 4. ed. Brasília: Editora UnB, 2001. (Livro VI)."
+	},
+	{
+		"id": "FILO051",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "Em filosofia política, qual é a principal tese de \"Vigiar e Punir\", de Michel Foucault?",
+		"options": [
+			{ "description": "A sociedade moderna se tornou mais humana ao abolir a tortura pública e focar na reabilitação dos prisioneiros.", "isCorrect": false },
+			{ "description": "O poder na sociedade moderna não é exercido apenas pela repressão (soberania), mas por uma \"microfísica\" de poder disciplinar que vigia e normaliza os indivíduos.", "isCorrect": true },
+			{ "description": "A única forma de governo justa é a democracia direta, como na Grécia Antiga.", "isCorrect": false },
+			{ "description": "O capitalismo será inevitavelmente derrubado por uma revolução do proletariado.", "isCorrect": false }
+		],
+		"source_explanation": "Obra de 1975 onde Foucault analisa a transição do poder soberano (tortura pública) para o poder disciplinar (a prisão e a vigilância constante).",
+		"source_abnt": "FOUCAULT, Michel. *Vigiar e Punir: nascimento da prisão*. Tradução de Raquel Ramalhete. 20. ed. Petrópolis: Vozes, 1999."
+	},
+	{
+		"id": "FILO052",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "Na metafísica de G. W. Leibniz, o que são as \"Mônadas\"?",
+		"options": [
+			{ "description": "Os átomos físicos indivisíveis que compõem a matéria (como em Demócrito).", "isCorrect": false },
+			{ "description": "Pontos de energia psíquica que conectam a mente humana a Deus.", "isCorrect": false },
+			{ "description": "Substâncias simples, imateriais, \"sem janelas\", que percebem o universo de seu próprio ponto de vista, em \"harmonia pré-estabelecida\" por Deus.", "isCorrect": true },
+			{ "description": "Erros lógicos no raciocínio que levam a paradoxos.", "isCorrect": false }
+		],
+		"source_explanation": "Texto de 1714 onde Leibniz apresenta seu sistema metafísico baseado nas mônadas como as substâncias fundamentais e indivisíveis da realidade.",
+		"source_abnt": "LEIBNIZ, Gottfried Wilhelm. *Monadologia*. In: ______. *Os Pensadores*. Tradução de Carlos Lopes de Mattos. São Paulo: Abril Cultural, 1974."
+	},
+	{
+		"id": "FILO053",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "O que é \"Ataraxia\", o objetivo central das escolas filosóficas helenísticas como o Epicurismo e o Estoicismo?",
+		"options": [
+			{ "description": "A busca pelo conhecimento científico de todas as coisas.", "isCorrect": false },
+			{ "description": "Um estado de imperturbabilidade, tranquilidade da alma e ausência de medo (especialmente da morte).", "isCorrect": true },
+			{ "description": "O engajamento ativo na política para reformar a cidade-estado.", "isCorrect": false },
+			{ "description": "A autonegação ascética para purificar o espírito do corpo.", "isCorrect": false }
+		],
+		"source_explanation": "Nesta carta, Epicuro descreve a filosofia como o caminho para a ataraxia (imperturbabilidade) e a aponia (ausência de dor).",
+		"source_abnt": "EPICURO. *Carta sobre a Felicidade (a Meneceu)*. Tradução de Álvaro Lorencini e Enzo Del Carratore. São Paulo: Editora UNESP, 1997."
+	},
+	{
+		"id": "FILO054",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "Qual é a principal diferença entre o \"Utilitarismo de Ato\" e o \"Utilitarismo de Regra\"?",
+		"options": [
+			{ "description": "O de Ato foca na felicidade; o de Regra foca na justiça.", "isCorrect": false },
+			{ "description": "O de Ato avalia a moralidade de cada ação individualmente; o de Regra avalia a moralidade com base na adesão a regras que, se seguidas por todos, maximizariam a felicidade.", "isCorrect": true },
+			{ "description": "O de Ato é de Bentham; o de Regra é de Kant.", "isCorrect": false },
+			{ "description": "O de Ato é religioso; o de Regra é secular.", "isCorrect": false }
+		],
+		"source_explanation": "Verbete da Enciclopédia de Filosofia de Stanford que detalha a distinção entre as formas de utilitarismo/consequencialismo.",
+		"source_abnt": "HOOKER, Brad. Rule Consequentialism. *The Stanford Encyclopedia of Philosophy* (Spring 2024 Edition), Edward N. Zalta (ed.). Disponível em: https://plato.stanford.edu/archives/spr2024/entries/consequentialism-rule/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "FILO055",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "O que o filósofo pré-socrático Anaximandro chamou de \"Ápeiron\"?",
+		"options": [
+			{ "description": "A água, como o princípio (arché) de todas as coisas.", "isCorrect": false },
+			{ "description": "Uma substância primordial indefinida, ilimitada e eterna da qual tudo se origina e para a qual tudo retorna.", "isCorrect": true },
+			{ "description": "Os números, como a base de toda a realidade (Pitágoras).", "isCorrect": false },
+			{ "description": "Os átomos e o vazio (Demócrito).", "isCorrect": false }
+		],
+		"source_explanation": "As fontes primárias pré-socráticas são fragmentárias. A descrição do Ápeiron (o \"ilimitado\") de Anaximandro é preservada por Simplício e Teofrasto.",
+		"source_abnt": "KIRK, G. S.; RAVEN, J. E.; SCHOFIELD, M. *Os Filósofos Pré-Socráticos*. Tradução de Carlos Alberto Louro Fonseca. 4. ed. Lisboa: Fundação Calouste Gulbenkian, 1994. (Fragmentos de Anaximandro)."
+	},
+	{
+		"id": "FILO056",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "Para Simone de Beauvoir, em \"O Segundo Sexo\", o que significa a famosa afirmação \"Não se nasce mulher: torna-se\"?",
+		"options": [
+			{ "description": "Que a identidade de gênero é uma escolha biológica determinada ao nascer.", "isCorrect": false },
+			{ "description": "Que o conceito de \"mulher\" (feminilidade) é uma construção social e cultural imposta sobre o indivíduo do sexo feminino, e não um destino biológico.", "isCorrect": true },
+			{ "description": "Que as mulheres são biologicamente superiores aos homens.", "isCorrect": false },
+			{ "description": "Que apenas através da maternidade uma mulher se realiza plenamente.", "isCorrect": false }
+		],
+		"source_explanation": "A famosa frase, que funda a distinção entre sexo e gênero no feminismo, abre o Volume II da obra.",
+		"source_abnt": "BEAUVOIR, Simone de. *O Segundo Sexo*. Tradução de Sérgio Milliet. 4. ed. Rio de Janeiro: Nova Fronteira, 2019."
+	},
+	{
+		"id": "FILO057",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "O \"Paradoxo de Russell\", descoberto por Bertrand Russell, expôs uma contradição em qual sistema?",
+		"options": [
+			{ "description": "Na teoria da gravidade de Newton.", "isCorrect": false },
+			{ "description": "Na \"Teoria das Formas\" de Platão.", "isCorrect": false },
+			{ "description": "Na \"Teoria Ingênua dos Conjuntos\" de Gottlob Frege.", "isCorrect": true },
+			{ "description": "Na ética deontológica de Kant.", "isCorrect": false }
+		],
+		"source_explanation": "O paradoxo (o conjunto de todos os conjuntos que não se contêm a si mesmos) expôs uma falha fatal na fundação da lógica de Frege.",
+		"source_abnt": "RUSSELL, Bertrand. *Os Princípios da Matemática*. Tradução de Homero Santiago. São Paulo: Edipro, 2013. (Publicado originalmente em 1903)."
+	},
+	{
+		"id": "FILO058",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "Na filosofia da ciência, qual é o \"critério de demarcação\" proposto por Karl Popper para distinguir a ciência da pseudociência?",
+		"options": [
+			{ "description": "A Verificabilidade (a capacidade de provar que uma teoria é verdadeira).", "isCorrect": false },
+			{ "description": "A Falsificabilidade (a capacidade de uma teoria ser testada e potencialmente provada como falsa).", "isCorrect": true },
+			{ "description": "A Complexidade Matemática (a elegância da fórmula).", "isCorrect": false },
+			{ "description": "O Consenso da Comunidade (o número de cientistas que acreditam nela).", "isCorrect": false }
+		],
+		"source_explanation": "Nesta obra, Popper propõe a falsificabilidade (ou refutabilidade) como a solução para o problema da demarcação entre ciência e não-ciência.",
+		"source_abnt": "POPPER, Karl R. *A Lógica da Pesquisa Científica*. Tradução de Leonidas Hegenberg e Octanny Silveira da Mota. São Paulo: Cultrix, 2003."
+	},
+	{
+		"id": "FILO059",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "Na metafísica de G. W. F. Hegel, o que é o \"Geist\" (Espírito/Mente)?",
+		"options": [
+			{ "description": "Um fantasma ou entidade sobrenatural que assombra o mundo.", "isCorrect": false },
+			{ "description": "A razão individual de cada ser humano, separada das outras.", "isCorrect": false },
+			{ "description": "A consciência coletiva e racionalidade da realidade, que se desenvolve historicamente através de um processo dialético até alcançar o \"Saber Absoluto\".", "isCorrect": true },
+			{ "description": "O conjunto de leis físicas imutáveis que governam o universo.", "isCorrect": false }
+		],
+		"source_explanation": "A obra de 1807 mapeia o desenvolvimento fenomenológico do Espírito (Geist) desde a consciência sensorial até o Saber Absoluto.",
+		"source_abnt": "HEGEL, G. W. F. *Fenomenologia do Espírito*. Tradução de Paulo Meneses. 11. ed. Petrópolis: Vozes, 2017."
+	},
+	{
+		"id": "FILO060",
+		"category": "Filosofia",
+		"level": "hard",
+		"question": "O que o idealista subjetivo George Berkeley queria dizer com \"Esse est percipi\" (Ser é ser percebido)?",
+		"options": [
+			{ "description": "Que os objetos materiais existem independentemente de nós, mas só podemos conhecê-los através da percepção.", "isCorrect": false },
+			{ "description": "Que os objetos só existem quando uma pessoa olha para eles, e desaparecem quando ela se vira.", "isCorrect": false },
+			{ "description": "Que os objetos materiais não existem; o que chamamos de \"objetos\" são apenas conjuntos de ideias ou sensações na mente de um perceptor (Deus ou humano).", "isCorrect": true },
+			{ "description": "Que a realidade é uma ilusão criada por nossos próprios cérebros (Solipsismo).", "isCorrect": false }
+		],
+		"source_explanation": "Nesta obra, Berkeley (um imaterialista) argumenta que a matéria não existe e que a existência das coisas consiste em serem percebidas.",
+		"source_abnt": "BERKELEY, George. *Tratado sobre os Princípios do Conhecimento Humano*. Tradução de Jaimir Conte. São Paulo: Editora UNESP, 2010."
+	}
+]

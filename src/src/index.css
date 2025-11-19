@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+/* 1. Definição das Variáveis de Cor (Padrão = Dark) */
+:root {
+  --color-brand-dark: #0A0A0A;      /* Fundo Escuro */
+  --color-brand-card: #1F2937;      /* Card Escuro */
+  --color-brand-purple: #8B5CF6;    /* Roxo */
+  --color-brand-text: #F9FAFB;      /* Texto Claro (quase branco) */
+  --color-brand-text-muted: #9CA3AF; /* Texto Cinza */
+  --color-brand-success: #10B981;
+  --color-brand-error: #EF4444;
+}
+
+/* 2. Sobrescrita para o Tema Claro */
+/* A classe .light deve ser aplicada na tag <html> */
+:root.light {
+  --color-brand-dark: #F3F4F6;      /* Fundo Claro */
+  --color-brand-card: #FFFFFF;      /* Card Branco */
+  --color-brand-purple: #7C3AED;    /* Roxo mais forte para contraste */
+  --color-brand-text: #111827;      /* Texto Escuro (quase preto) */
+  --color-brand-text-muted: #4B5563; /* Texto Cinza Escuro */
+  /* Mantemos success/error iguais ou ajustamos se necessário */
+}
+
+/* 3. Configuração do Tema Tailwind v4 */
+@theme {
+  --color-brand-dark: var(--color-brand-dark);
+  --color-brand-card: var(--color-brand-card);
+  --color-brand-purple: var(--color-brand-purple);
+  --color-brand-text: var(--color-brand-text);
+  --color-brand-text-muted: var(--color-brand-text-muted);
+  --color-brand-success: var(--color-brand-success);
+  --color-brand-error: var(--color-brand-error);
+
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+/* 4. Reset e Aplicação Global */
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    /* Transição suave para não piscar ao trocar de tema */
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Força o background e a cor do texto a usarem as variáveis do tema */
+body {
+    background-color: var(--color-brand-dark);
+    color: var(--color-brand-text);
+    font-family: var(--font-sans);
+}
+
+#root {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

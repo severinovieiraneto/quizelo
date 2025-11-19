@@ -1,0 +1,842 @@
+[
+	{
+		"id": "CULT001",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "Qual é a festa popular mais famosa do Brasil, conhecida mundialmente por seus desfiles e música?",
+		"options": [
+			{ "description": "Festa Junina", "isCorrect": false },
+			{ "description": "Carnaval", "isCorrect": true },
+			{ "description": "Círio de Nazaré", "isCorrect": false },
+			{ "description": "Oktoberfest", "isCorrect": false }
+		],
+		"source_explanation": "O Carnaval do Brasil, especialmente o do Rio de Janeiro, é reconhecido pelo Guinness World Records como o maior do mundo.",
+		"source_abnt": "GUINNESS WORLD RECORDS. *Largest carnival*. Londres: Guinness World Records, [s.d.]. Disponível em: https://www.guinnessworldrecords.com/world-records/largest-carnival. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT002",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "O que é a \"Feijoada\" na cultura brasileira?",
+		"options": [
+			{ "description": "Uma dança típica do Nordeste.", "isCorrect": false },
+			{ "description": "Um prato tradicional à base de feijão preto e carne de porco.", "isCorrect": true },
+			{ "description": "Um festival de música em São Paulo.", "isCorrect": false },
+			{ "description": "Um tipo de artesanato indígena.", "isCorrect": false }
+		],
+		"source_explanation": "A Feijoada é amplamente considerada o prato nacional do Brasil, tradicionalmente servida às quartas-feiras e sábados.",
+		"source_abnt": "CÂMARA CASCUDO, Luís da. *História da Alimentação no Brasil*. 3. ed. São Paulo: Global Editora, 2004."
+	},
+	{
+		"id": "CULT003",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "O que é o \"Samba\"?",
+		"options": [
+			{ "description": "Um gênero musical e de dança brasileiro, considerado um símbolo da identidade nacional.", "isCorrect": true },
+			{ "description": "Um prato típico do Rio Grande do Sul.", "isCorrect": false },
+			{ "description": "Uma luta marcial.", "isCorrect": false },
+			{ "description": "Uma festa religiosa.", "isCorrect": false }
+		],
+		"source_explanation": "O Samba (especialmente o Samba de Roda do Recôncavo Baiano) é reconhecido como Patrimônio Cultural Imaterial da Humanidade pela UNESCO.",
+		"source_abnt": "UNESCO. *Patrimônio Cultural Imaterial*. Samba de Roda of the Recôncavo of Bahia. Paris: UNESCO, 2005. Disponível em: https://ich.unesco.org/en/RL/samba-de-roda-of-the-reconcavo-of-bahia-00101. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT004",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "As \"Festas Juninas\" no Brasil celebram quais santos?",
+		"options": [
+			{ "description": "São Jorge e São Miguel.", "isCorrect": false },
+			{ "description": "São Pedro, Santo Antônio e São João.", "isCorrect": true },
+			{ "description": "São Francisco e Santa Clara.", "isCorrect": false },
+			{ "description": "Nossa Senhora Aparecida.", "isCorrect": false }
+		],
+		"source_explanation": "As Festas Juninas são uma celebração cultural e religiosa que homenageia Santo Antônio (13/06), São João (24/06) e São Pedro (29/06).",
+		"source_abnt": "IPHAN (INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL). *Festas Juninas*. Brasília: IPHAN, [s.d.]. Disponível em: https://www.gov.br/iphan/pt-br/assuntos/noticias/festas-juninas. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT005",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "O que é a \"Capoeira\"?",
+		"options": [
+			{ "description": "Um tipo de comida apimentada.", "isCorrect": false },
+			{ "description": "Uma expressão cultural afro-brasileira que mistura luta, dança e música.", "isCorrect": true },
+			{ "description": "Um instrumento musical de sopro.", "isCorrect": false },
+			{ "description": "Uma pintura corporal indígena.", "isCorrect": false }
+		],
+		"source_explanation": "A Roda de Capoeira é reconhecida pela UNESCO como Patrimônio Cultural Imaterial, combinando elementos de dança, música e artes marciais.",
+		"source_abnt": "UNESCO. *Patrimônio Cultural Imaterial*. Capoeira circle. Paris: UNESCO, 2014. Disponível em: https://ich.unesco.org/en/RL/capoeira-circle-00892. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT006",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "Qual é o nome do festival alemão de cerveja, famoso mundialmente, realizado em Munique?",
+		"options": [
+			{ "description": "La Tomatina", "isCorrect": false },
+			{ "description": "Oktoberfest", "isCorrect": true },
+			{ "description": "Pampelune", "isCorrect": false },
+			{ "description": "Carnaval de Veneza", "isCorrect": false }
+		],
+		"source_explanation": "A Oktoberfest é o maior festival de cerveja do mundo, realizado anualmente em Munique, na Baviera (Alemanha).",
+		"source_abnt": "CIDADE DE MUNIQUE. *Oktoberfest: Facts and Figures*. Munique: Portal Oficial da Cidade de Munique, [s.d.]. Disponível em: https://www.muenchen.de/en/events/oktoberfest/oktoberfest-facts. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT007",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "O \"Dia de los Muertos\" (Dia dos Mortos) é uma celebração cultural icônica de qual país?",
+		"options": [
+			{ "description": "Espanha", "isCorrect": false },
+			{ "description": "Argentina", "isCorrect": false },
+			{ "description": "México", "isCorrect": true },
+			{ "description": "Portugal", "isCorrect": false }
+		],
+		"source_explanation": "A festividade indígena mexicana dedicada aos mortos (Día de Muertos) é reconhecida pela UNESCO como Patrimônio Cultural Imaterial.",
+		"source_abnt": "UNESCO. *Patrimônio Cultural Imaterial*. Indigenous festivity dedicated to the dead (Día de Muertos). Paris: UNESCO, 2008. Disponível em: https://ich.unesco.org/en/RL/indigenous-festivity-dedicated-to-the-dead-00054. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT008",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "Qual artista luso-brasileira se tornou um ícone mundial nos anos 1940 usando um chapéu de frutas?",
+		"options": [
+			{ "description": "Elza Soares", "isCorrect": false },
+			{ "description": "Gal Costa", "isCorrect": false },
+			{ "description": "Carmen Miranda", "isCorrect": true },
+			{ "description": "Elis Regina", "isCorrect": false }
+		],
+		"source_explanation": "Carmen Miranda, a \"Pequena Notável\", tornou-se um símbolo do Brasil e a estrela de Hollywood mais bem paga nos anos 40, famosa pelo seu traje de \"baiana\" estilizado.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Carmen Miranda. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/biography/Carmen-Miranda. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT009",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "A \"Bossa Nova\" é um gênero musical brasileiro que se tornou mundialmente famoso nos anos 60. Qual é sua canção mais icônica?",
+		"options": [
+			{ "description": "Aquarela do Brasil", "isCorrect": false },
+			{ "description": "Garota de Ipanema", "isCorrect": true },
+			{ "description": "Asa Branca", "isCorrect": false },
+			{ "description": "Mas que Nada", "isCorrect": false }
+		],
+		"source_explanation": "\"Garota de Ipanema\" (1962), de Tom Jobim e Vinicius de Moraes, é a canção símbolo da Bossa Nova e uma das músicas mais gravadas da história.",
+		"source_abnt": "JOBIM, Antônio Carlos; MORAES, Vinicius de. *Garota de Ipanema*. [Gravação]. Rio de Janeiro: Verve Records, 1964. (Álbum: Getz/Gilberto)."
+	},
+	{
+		"id": "CULT010",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "Qual é o nome do festival na Índia conhecido como o \"Festival das Cores\"?",
+		"options": [
+			{ "description": "Diwali", "isCorrect": false },
+			{ "description": "Holi", "isCorrect": true },
+			{ "description": "Navaratri", "isCorrect": false },
+			{ "description": "Vesak", "isCorrect": false }
+		],
+		"source_explanation": "Holi é um festival hindu da primavera, celebrado na Índia e no Nepal, famoso pelas pessoas atirarem pós coloridos (gulal) umas nas outras.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Holi. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/Holi. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT011",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "Qual é a prática indiana de disciplina física e mental que se tornou popular no Ocidente como forma de exercício e meditação?",
+		"options": [
+			{ "description": "Kung Fu", "isCorrect": false },
+			{ "description": "Tai Chi", "isCorrect": false },
+			{ "description": "Yoga", "isCorrect": true },
+			{ "description": "Karatê", "isCorrect": false }
+		],
+		"source_explanation": "A Yoga, uma prática física, mental e espiritual originária da Índia antiga, é reconhecida pela UNESCO como Patrimônio Cultural Imaterial.",
+		"source_abnt": "UNESCO. *Patrimônio Cultural Imaterial*. Yoga. Paris: UNESCO, 2016. Disponível em: https://ich.unesco.org/en/RL/yoga-01163. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT012",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "Qual é o nome do principal instrumento musical usado na roda de Capoeira?",
+		"options": [
+			{ "description": "Violão", "isCorrect": false },
+			{ "description": "Berimbau", "isCorrect": true },
+			{ "description": "Atabaque", "isCorrect": false },
+			{ "description": "Sanfona", "isCorrect": false }
+		],
+		"source_explanation": "O berimbau (um arco musical) é o instrumento que comanda o ritmo e o estilo do jogo dentro da roda de capoeira.",
+		"source_abnt": "IPHAN (INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL). *Roda de Capoeira*. Brasília: IPHAN, [s.d.]. (Dossiê de Registro como Patrimônio Cultural do Brasil)."
+	},
+	{
+		"id": "CULT013",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "Quem é considerado o maior escritor da literatura brasileira, autor de \"Dom Casmurro\" e \"Memórias Póstumas de Brás Cubas\"?",
+		"options": [
+			{ "description": "José de Alencar", "isCorrect": false },
+			{ "description": "Carlos Drummond de Andrade", "isCorrect": false },
+			{ "description": "Machado de Assis", "isCorrect": true },
+			{ "description": "Jorge Amado", "isCorrect": false }
+		],
+		"source_explanation": "Joaquim Maria Machado de Assis é universalmente considerado o maior nome da literatura brasileira, fundador da Academia Brasileira de Letras.",
+		"source_abnt": "ACADEMIA BRASILEIRA DE LETRAS. *Machado de Assis*. Rio de Janeiro: ABL, [s.d.]. Disponível em: https://www.academia.org.br/academicos/machado-de-assis/biografia. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT014",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "Qual é o nome do \"pai da aviação\", o inventor brasileiro que realizou o primeiro voo público de um avião (o 14-Bis)?",
+		"options": [
+			{ "description": "Irmãos Wright", "isCorrect": false },
+			{ "description": "Alberto Santos Dumont", "isCorrect": true },
+			{ "description": "Oswald de Andrade", "isCorrect": false },
+			{ "description": "Vital Brazil", "isCorrect": false }
+		],
+		"source_explanation": "Alberto Santos Dumont é considerado o \"Pai da Aviação\" no Brasil (e em muitos outros países) por seu voo público com o 14-Bis em Paris, em 1906.",
+		"source_abnt": "MUSEU AEROESPACIAL (MUSAL). *Santos Dumont: Pai da Aviação*. Rio de Janeiro: Força Aérea Brasileira, [s.d.]. Disponível em: https://www2.fab.mil.br/musal/santos-dumont-pai-da-aviacao-e-heroi-nacional/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT015",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "O que é o \"Candomblé\"?",
+		"options": [
+			{ "description": "Uma religião de matriz africana, muito popular no Brasil, que cultua os Orixás.", "isCorrect": true },
+			{ "description": "Um tipo de samba rápido.", "isCorrect": false },
+			{ "description": "Um prato da culinária mineira.", "isCorrect": false },
+			{ "description": "Uma festa de Ano Novo.", "isCorrect": false }
+		],
+		"source_explanation": "O Candomblé é uma religião de matriz africana (iorubá, banto) desenvolvida no Brasil, centrada no culto aos Orixás (divindades).",
+		"source_abnt": "IPHAN (INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL). *Terreiros de Candomblé*. Brasília: IPHAN, [s.d.]. (Dossiê de Registro como Patrimônio Cultural)."
+	},
+	{
+		"id": "CULT016",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "O \"Haka\" é uma dança de guerra tradicional e culturalmente icônica de qual povo indígena?",
+		"options": [
+			{ "description": "Maori (Nova Zelândia)", "isCorrect": true },
+			{ "description": "Aborígenes (Austrália)", "isCorrect": false },
+			{ "description": "Sioux (América do Norte)", "isCorrect": false },
+			{ "description": "Vikings (Escandinávia)", "isCorrect": false }
+		],
+		"source_explanation": "O Haka é uma dança postural tradicional do povo Maori da Nova Zelândia, famosa mundialmente pela performance da seleção de rugby All Blacks.",
+		"source_abnt": "NEW ZEALAND. *Haka*. Wellington: 100% Pure New Zealand, [s.d.]. Disponível em: https://www.newzealand.com/int/feature/haka/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT017",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "O que é o \"Acarajé\"?",
+		"options": [
+			{ "description": "Um bolinho de feijão-fradinho frito no azeite de dendê, um prato central da culinária baiana e do Candomblé.", "isCorrect": true },
+			{ "description": "Uma dança de salão de Pernambuco.", "isCorrect": false },
+			{ "description": "Um tipo de renda artesanal do Ceará.", "isCorrect": false },
+			{ "description": "Um instrumento musical de percussão.", "isCorrect": false }
+		],
+		"source_explanation": "O \"Ofício das Baianas de Acarajé\" é registrado pelo IPHAN como Patrimônio Cultural do Brasil, sendo o acarajé central na culinária afro-brasileira.",
+		"source_abnt": "IPHAN (INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL). *Ofício das Baianas de Acarajé*. Brasília: IPHAN, 2005. (Dossiê de Registro)."
+	},
+	{
+		"id": "CULT018",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "Qual é a bebida destilada nacional do Brasil, feita a partir da cana-de-açúcar?",
+		"options": [
+			{ "description": "Tequila", "isCorrect": false },
+			{ "description": "Rum", "isCorrect": false },
+			{ "description": "Cachaça", "isCorrect": true },
+			{ "description": "Vodca", "isCorrect": false }
+		],
+		"source_explanation": "A Cachaça é a aguardente de cana-de-açúcar, a bebida destilada típica do Brasil e ingrediente principal da Caipirinha.",
+		"source_abnt": "IPHAN (INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL). *Cachaça*. Brasília: IPHAN, [s.d.]. Disponível em: https://www.gov.br/iphan/pt-br/assuntos/noticias/cachaca-e-registrada-como-patrimonio-cultural-do-brasil. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT019",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "O que é o \"Hanami\" no Japão?",
+		"options": [
+			{ "description": "A cerimônia do chá.", "isCorrect": false },
+			{ "description": "A arte de arranjar flores (Ikebana).", "isCorrect": false },
+			{ "description": "O costume tradicional de observar o florescimento das cerejeiras (Sakura).", "isCorrect": true },
+			{ "description": "O festival das lanternas.", "isCorrect": false }
+		],
+		"source_explanation": "Hanami (literalmente \"ver flores\") é a prática cultural japonesa de observar as flores de cerejeira (Sakura) na primavera.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Hanami. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/hanami. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT020",
+		"category": "Cultura",
+		"level": "easy",
+		"question": "O que é a \"Caipirinha\"?",
+		"options": [
+			{ "description": "Um coquetel brasileiro oficial, feito com cachaça, limão, açúcar e gelo.", "isCorrect": true },
+			{ "description": "Uma dança típica do interior de São Paulo.", "isCorrect": false },
+			{ "description": "Um tipo de queijo mineiro.", "isCorrect": false },
+			{ "description": "Um personagem do folclore (Caipora).", "isCorrect": false }
+		],
+		"source_explanation": "A Caipirinha é o coquetel nacional do Brasil, definido por lei (Decreto nº 4.851/2003) como uma bebida à base de cachaça, limão e açúcar.",
+		"source_abnt": "BRASIL. *Decreto nº 4.851, de 2 de outubro de 2003*. Dispõe sobre o registro da cachaça e da caipirinha como produtos tipicamente brasileiros. Brasília, DF: Presidência da República, 2003."
+	},
+	{
+		"id": "CULT021",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "O que foi a \"Semana de Arte Moderna de 1922\"?",
+		"options": [
+			{ "description": "Um evento no Theatro Municipal de São Paulo que marcou o início do movimento Modernista no Brasil.", "isCorrect": true },
+			{ "description": "A fundação do Museu de Arte de São Paulo (MASP).", "isCorrect": false },
+			{ "description": "Uma exposição de arte barroca mineira.", "isCorrect": false },
+			{ "description": "O primeiro carnaval de rua do Rio de Janeiro.", "isCorrect": false }
+		],
+		"source_explanation": "A Semana de Arte Moderna, realizada em fevereiro de 1922 no Theatro Municipal de SP, foi o evento catalisador do Modernismo brasileiro, apresentando obras de Anita Malfatti, Mário de Andrade, Villa-Lobos, etc.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Modern Art Week. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/event/Modern-Art-Week. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT022",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "O que foi o movimento \"Tropicalismo\" (ou Tropicália) no Brasil?",
+		"options": [
+			{ "description": "Um movimento artístico e musical dos anos 60 (liderado por Caetano Veloso e Gilberto Gil) que misturava cultura pop e vanguarda.", "isCorrect": true },
+			{ "description": "Um movimento de arquitetura focado em casas de praia.", "isCorrect": false },
+			{ "description": "A revolução literária do século XIX.", "isCorrect": false },
+			{ "description": "Um movimento de proteção da floresta amazônica.", "isCorrect": false }
+		],
+		"source_explanation": "O Tropicalismo (Tropicália), de 1967-68, foi um movimento de ruptura cultural brasileiro que misturou rock psicodélico, Bossa Nova e cultura popular, liderado por Caetano Veloso e Gilberto Gil.",
+		"source_abnt": "FAVARETTO, Celso. *Tropicália: alegoria, alegria*. 3. ed. São Paulo: Ateliê Editorial, 2000."
+	},
+	{
+		"id": "CULT023",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "O que o \"Bumba Meu Boi\" do Maranhão celebra?",
+		"options": [
+			{ "description": "O ciclo de vida de um boi através de uma narrativa teatral que envolve escravidão, morte e ressurreição.", "isCorrect": true },
+			{ "description": "A independência do Brasil.", "isCorrect": false },
+			{ "description": "Uma batalha naval histórica.", "isCorrect": false },
+			{ "description": "A colheita do café.", "isCorrect": false }
+		],
+		"source_explanation": "O Complexo Cultural do Bumba Meu Boi do Maranhão, Patrimônio da UNESCO, é uma celebração que gira em torno da figura do boi, misturando teatro, dança e música.",
+		"source_abnt": "UNESCO. *Patrimônio Cultural Imaterial*. Cultural Complex of Bumba-meu-boi from Maranhão. Paris: UNESCO, 2019. Disponível em: https://ich.unesco.org/en/RL/cultural-complex-of-bumba-meu-boi-from-maranhao-01303. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT024",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "Qual é a principal diferença entre o Candomblé e a Umbanda?",
+		"options": [
+			{ "description": "O Candomblé é mais antigo e focado nos Orixás africanos; a Umbanda é mais nova (séc. XX) e sincrética (mistura Orixás, santos católicos e espiritismo).", "isCorrect": true },
+			{ "description": "O Candomblé é do Rio de Janeiro; a Umbanda é da Bahia.", "isCorrect": false },
+			{ "description": "O Candomblé usa atabaques; a Umbanda proíbe música.", "isCorrect": false },
+			{ "description": "Não há diferença, são a mesma religião.", "isCorrect": false }
+		],
+		"source_explanation": "O Candomblé é uma religião de matriz africana. A Umbanda, fundada no Brasil no início do século XX, é uma religião sincrética que mescla elementos africanos, católicos, indígenas e espíritas.",
+		"source_abnt": "PRANDI, Reginaldo. *Mitologia dos Orixás*. São Paulo: Companhia das Letras, 2001. (Introdução sobre as religiões afro-brasileiras)."
+	},
+	{
+		"id": "CULT025",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "O que é o \"Sonho Americano\" (American Dream)?",
+		"options": [
+			{ "description": "Um movimento artístico de Nova York.", "isCorrect": false },
+			{ "description": "O ideal de que qualquer pessoa nos EUA pode alcançar o sucesso e a prosperidade através do trabalho duro.", "isCorrect": true },
+			{ "description": "Um plano de aposentadoria do governo.", "isCorrect": false },
+			{ "description": "O desejo de se mudar para a Califórnia.", "isCorrect": false }
+		],
+		"source_explanation": "O termo foi cunhado por James Truslow Adams em 1931, definindo o \"sonho de uma terra em que a vida deveria ser melhor e mais rica e mais cheia para todos\".",
+		"source_abnt": "ADAMS, James Truslow. *The Epic of America*. Boston: Little, Brown, and Company, 1931."
+	},
+	{
+		"id": "CULT026",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "O que foi o \"Movimento Armorial\", liderado por Ariano Suassuna?",
+		"options": [
+			{ "description": "Um movimento militar para restaurar a monarquia no Brasil.", "isCorrect": false },
+			{ "description": "Um movimento artístico (literatura, música, dança) no Nordeste que buscava criar uma arte erudita a partir de raízes populares.", "isCorrect": true },
+			{ "description": "Uma escola de arquitetura modernista.", "isCorrect": false },
+			{ "description": "Um grupo de rock psicodélico.", "isCorrect": false }
+		],
+		"source_explanation": "O Movimento Armorial, lançado por Ariano Suassuna na década de 1970, buscava valorizar a cultura popular do Nordeste (como a literatura de cordel) e transformá-la em arte erudita.",
+		"source_abnt": "SUASSUNA, Ariano. *O Movimento Armorial*. 2. ed. Rio de Janeiro: José Olympio, 1987."
+	},
+	{
+		"id": "CULT027",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "O que é o \"Frevo\"?",
+		"options": [
+			{ "description": "Um gênero de dança e música elétrica e acelerada, com passos acrobáticos, típico do carnaval de Pernambuco.", "isCorrect": true },
+			{ "description": "Uma comida típica do Pará, feita com açaí.", "isCorrect": false },
+			{ "description": "O ritmo lento do samba-canção.", "isCorrect": false },
+			{ "description": "Um tipo de artesanato em cerâmica.", "isCorrect": false }
+		],
+		"source_explanation": "O Frevo, originário de Pernambuco, é Patrimônio Cultural Imaterial da UNESCO, conhecido por sua música acelerada (feita por bandas de metais) e sua dança acrobática (passistas).",
+		"source_abnt": "UNESCO. *Patrimônio Cultural Imaterial*. Frevo, performing arts of the Carnival of Recife. Paris: UNESCO, 2012. Disponível em: https://ich.unesco.org/en/RL/frevo-performing-arts-of-the-carnival-of-recife-00603. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT028",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "O que é o \"Sistema de Castas\" na Índia?",
+		"options": [
+			{ "description": "O sistema de votação parlamentar da Índia.", "isCorrect": false },
+			{ "description": "Uma antiga forma de estratificação social e religiosa no Hinduísmo (dividida em Brâmanes, Xátrias, Vaixás e Sudras).", "isCorrect": true },
+			{ "description": "Um estilo de arquitetura de templos.", "isCorrect": false },
+			{ "description": "Uma competição de música clássica indiana.", "isCorrect": false }
+		],
+		"source_explanation": "O sistema de castas (baseado em \"Varnas\") é uma forma histórica de estratificação social na Índia, com raízes no Hinduísmo. Embora ilegal, sua influência social persiste.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Caste (social differentiation). *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/caste-social-differentiation. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT029",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "O que foi o \"Cinema Novo\" no Brasil?",
+		"options": [
+			{ "description": "A inauguração das primeiras salas de cinema multiplex.", "isCorrect": false },
+			{ "description": "Um movimento cinematográfico (anos 60/70) focado no realismo social, com o lema \"uma câmera na mão e uma ideia na cabeça\".", "isCorrect": true },
+			{ "description": "O gênero de filmes de comédia (\"chanchadas\").", "isCorrect": false },
+			{ "description": "A primeira transmissão de cinema na TV.", "isCorrect": false }
+		],
+		"source_explanation": "O Cinema Novo foi um movimento (liderado por Glauber Rocha) que buscava criar um cinema autenticamente brasileiro, focado na \"estética da fome\" e na realidade social.",
+		"source_abnt": "ROCHA, Glauber. *Revisão Crítica do Cinema Brasileiro*. São Paulo: Cosac Naify, 2003."
+	},
+	{
+		"id": "CULT030",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "Qual sociólogo brasileiro cunhou o termo \"democracia racial\" para descrever a suposta harmonia racial no Brasil?",
+		"options": [
+			{ "description": "Darcy Ribeiro", "isCorrect": false },
+			{ "description": "Gilberto Freyre", "isCorrect": true },
+			{ "description": "Paulo Freire", "isCorrect": false },
+			{ "description": "Sérgio Buarque de Holanda", "isCorrect": false }
+		],
+		"source_explanation": "Embora o termo exato seja debatido, Gilberto Freyre, em \"Casa-Grande & Senzala\", propôs a tese da miscigenação como a base de uma sociedade \"luso-tropical\" harmoniosa.",
+		"source_abnt": "FREYRE, Gilberto. *Casa-Grande & Senzala*. 51. ed. São Paulo: Global Editora, 2006. (Publicado originalmente em 1933)."
+	},
+	{
+		"id": "CULT031",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "O que é o \"Maracatu\"?",
+		"options": [
+			{ "description": "Uma performance de dança e música afro-brasileira, típica de Pernambuco, com fortes laços com as \"nações\" africanas e as coroações de reis do Congo.", "isCorrect": true },
+			{ "description": "Um tipo de queijo produzido no Marajó.", "isCorrect": false },
+			{ "description": "Um barco de pesca tradicional do Ceará.", "isCorrect": false },
+			{ "description": "A versão brasileira do Halloween.", "isCorrect": false }
+		],
+		"source_explanation": "O Maracatu Nação (ou Baque Virado), centrado em Recife, é um cortejo real afro-brasileiro, reconhecido como Patrimônio Cultural do Brasil pelo IPHAN.",
+		"source_abnt": "IPHAN (INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL). *Maracatu Nação*. Brasília: IPHAN, 2014. (Dossiê de Registro)."
+	},
+	{
+		"id": "CULT032",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "O que é o \"Dia de Ação de Graças\" (Thanksgiving) nos EUA?",
+		"options": [
+			{ "description": "A celebração da independência da Grã-Bretanha (4 de Julho).", "isCorrect": false },
+			{ "description": "Um feriado que comemora a colheita dos Peregrinos (Pilgrims) e sua refeição com os Nativos Americanos.", "isCorrect": true },
+			{ "description": "O início oficial da temporada de compras de Natal (Black Friday).", "isCorrect": false },
+			{ "description": "Um dia de jejum e oração.", "isCorrect": false }
+		],
+		"source_explanation": "O Thanksgiving (Dia de Ação de Graças) é um feriado federal nos EUA que comemora a colheita de 1621 dos colonos de Plymouth.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Thanksgiving Day. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/Thanksgiving-Day. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT033",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "Quem foi Chiquinha Gonzaga na cultura brasileira?",
+		"options": [
+			{ "description": "A primeira mulher a entrar na Academia Brasileira de Letras.", "isCorrect": false },
+			{ "description": "Uma compositora, pianista e maestrina, pioneira do \"Choro\" e autora da primeira marchinha de carnaval (\"Ó Abre Alas\").", "isCorrect": true },
+			{ "description": "Uma pintora modernista da Semana de 22.", "isCorrect": false },
+			{ "description": "Uma líder abolicionista.", "isCorrect": false }
+		],
+		"source_explanation": "Chiquinha Gonzaga (1847-1935) foi uma figura central na formação da música popular brasileira (Choro) e a compositora de \"Ó Abre Alas\" (1899), a primeira marchinha de carnaval.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Chiquinha Gonzaga. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/biography/Chiquinha-Gonzaga. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT034",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "O que é o \"Círio de Nazaré\"?",
+		"options": [
+			{ "description": "Uma festa de Ano Novo em Copacabana.", "isCorrect": false },
+			{ "description": "Uma das maiores procissões religiosas católicas do mundo, realizada em Belém do Pará.", "isCorrect": true },
+			{ "description": "Um ritual de dança indígena do Xingu.", "isCorrect": false },
+			{ "description": "Um tipo de vela aromática usada no Candomblé.", "isCorrect": false }
+		],
+		"source_explanation": "O Círio de Nazaré, realizado em Belém (Pará) em homenagem a Nossa Senhora de Nazaré, é Patrimônio Cultural Imaterial da UNESCO.",
+		"source_abnt": "UNESCO. *Patrimônio Cultural Imaterial*. Círio de Nazaré in the city of Belém, Pará. Paris: UNESCO, 2013. Disponível em: https://ich.unesco.org/en/RL/cirio-de-nazare-the-feast-of-our-lady-of-nazareth-in-the-city-of-belem-para-00602. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT035",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "O que é a \"Cerimônia do Chá\" (Chanoyu) no Japão?",
+		"options": [
+			{ "description": "Um ritual estético e coreografado de preparar e servir o chá verde (matcha).", "isCorrect": true },
+			{ "description": "Um leilão das colheitas de chá.", "isCorrect": false },
+			{ "description": "Um tipo de luta marcial que usa o chá.", "isCorrect": false },
+			{ "description": "A prática de ler a sorte nas folhas de chá.", "isCorrect": false }
+		],
+		"source_explanation": "O Chanoyu (\"Caminho do Chá\") é uma atividade cultural japonesa que envolve a preparação e apresentação ritualística do matcha (chá verde em pó).",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Japanese tea ceremony. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/Japanese-tea-ceremony. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT036",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "O que é a \"Lei Rouanet\" (Lei Federal de Incentivo à Cultura) no Brasil?",
+		"options": [
+			{ "description": "Uma lei que proíbe a censura de obras de arte.", "isCorrect": false },
+			{ "description": "Uma lei que permite que empresas e cidadãos invistam parte do seu Imposto de Renda em projetos culturais.", "isCorrect": true },
+			{ "description": "A lei que define o que é Patrimônio Histórico.", "isCorrect": false },
+			{ "description": "Uma lei que financia exclusivamente o cinema (Lei do Audiovisual).", "isCorrect": false }
+		],
+		"source_explanation": "A Lei Federal nº 8.313/1991 (Lei Rouanet) instituiu o Programa Nacional de Apoio à Cultura (Pronac), que permite o incentivo fiscal (mecenato) a projetos culturais.",
+		"source_abnt": "BRASIL. *Lei nº 8.313, de 23 de dezembro de 1991*. Restabelece princípios da Lei nº 7.505 [...]. Brasília, DF: Presidência da República, 1991."
+	},
+	{
+		"id": "CULT037",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "O \"Samba de Roda do Recôncavo Baiano\" é uma expressão cultural que...",
+		"options": [
+			{ "description": "É a raiz do samba urbano moderno do Rio de Janeiro e é Patrimônio da UNESCO.", "isCorrect": true },
+			{ "description": "É dançado apenas por homens.", "isCorrect": false },
+			{ "description": "Foi inventado por Carmen Miranda.", "isCorrect": false },
+			{ "description": "Usa apenas instrumentos de sopro.", "isCorrect": false }
+		],
+		"source_explanation": "O Samba de Roda do Recôncavo Baiano foi o primeiro gênero musical brasileiro a ser reconhecido pela UNESCO como Patrimônio Imaterial (2005).",
+		"source_abnt": "UNESCO. *Patrimônio Cultural Imaterial*. Samba de Roda of the Recôncavo of Bahia. Paris: UNESCO, 2005. Disponível em: https://ich.unesco.org/en/RL/samba-de-roda-of-the-reconcavo-of-bahia-00101. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT038",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "Quem foi Heitor Villa-Lobos?",
+		"options": [
+			{ "description": "Um poeta modernista.", "isCorrect": false },
+			{ "description": "O compositor erudito mais importante do Brasil, famoso por misturar música clássica com temas do folclore brasileiro.", "isCorrect": true },
+			{ "description": "Um pintor do período Barroco Mineiro.", "isCorrect": false },
+			{ "description": "Um líder político da Era Vargas.", "isCorrect": false }
+		],
+		"source_explanation": "Villa-Lobos é o compositor erudito mais conhecido das Américas, famoso por obras como as \"Bachianas Brasileiras\".",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Heitor Villa-Lobos. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/biography/Heitor-Villa-Lobos. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT039",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "O que é o conceito cultural dinamarquês de \"Hygge\"?",
+		"options": [
+			{ "description": "Uma sensação de aconchego, conforto e bem-estar, apreciando as pequenas coisas da vida.", "isCorrect": true },
+			{ "description": "Um tipo de comida fermentada.", "isCorrect": false },
+			{ "description": "Uma competição de resistência ao frio.", "isCorrect": false },
+			{ "description": "A filosofia viking de batalha.", "isCorrect": false }
+		],
+		"source_explanation": "Hygge (pronuncia-se \"hoo-ga\") é um conceito central da cultura dinamarquesa que define uma atmosfera de aconchego e contentamento.",
+		"source_abnt": "WIKING, Meik. *O Livro do Hygge: o segredo dinamarquês para ser feliz*. Tradução de A. T. M. C. da Costa. Rio de Janeiro: Intrínseca, 2017."
+	},
+	{
+		"id": "CULT040",
+		"category": "Cultura",
+		"level": "medium",
+		"question": "Qual é a principal função do IPHAN (Instituto do Patrimônio Histórico e Artístico Nacional) no Brasil?",
+		"options": [
+			{ "description": "Promover shows e festivais de música.", "isCorrect": false },
+			{ "description": "Administrar os museus de arte moderna.", "isCorrect": false },
+			{ "description": "Preservar, proteger e fiscalizar o patrimônio cultural (material e imaterial) do Brasil.", "isCorrect": true },
+			{ "description": "Financiar produções de cinema (papel da Ancine).", "isCorrect": false }
+		],
+		"source_explanation": "O IPHAN é a autarquia federal (fundada em 1937) responsável pela proteção e preservação do patrimônio cultural brasileiro.",
+		"source_abnt": "IPHAN (INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL). *O que é o Iphan*. Brasília: IPHAN, [s.d.]. Disponível em: https://www.gov.br/iphan/pt-br/acesso-a-informacao/institucional/o-que-e-o-iphan. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT041",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "O que é o conceito de \"Antropofagia\" no Manifesto de Oswald de Andrade?",
+		"options": [
+			{ "description": "A rejeição total de qualquer influência cultural estrangeira.", "isCorrect": false },
+			{ "description": "A \"deglutição\" (absorção) da cultura estrangeira para digeri-la e transformá-la em algo autenticamente brasileiro.", "isCorrect": true },
+			{ "description": "A prática literal do canibalismo nas tribos Tupi.", "isCorrect": false },
+			{ "description": "O retorno à arte acadêmica clássica europeia.", "isCorrect": false }
+		],
+		"source_explanation": "O \"Manifesto Antropófago\" (1928), de Oswald de Andrade, é o texto central do Modernismo brasileiro. Sua tese é \"Só me interessa o que não é meu. Lei do homem. Lei do antropófago.\"",
+		"source_abnt": "ANDRADE, Oswald de. Manifesto Antropófago. *Revista de Antropofagia*, São Paulo, Ano 1, n. 1, p. 3-7, maio 1928."
+	},
+	{
+		"id": "CULT042",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "Qual sociólogo brasileiro escreveu \"Casa-Grande & Senzala\", propondo a tese da formação do Brasil pela miscigenação das três raças?",
+		"options": [
+			{ "description": "Sérgio Buarque de Holanda", "isCorrect": false },
+			{ "description": "Gilberto Freyre", "isCorrect": true },
+			{ "description": "Darcy Ribeiro", "isCorrect": false },
+			{ "description": "Florestan Fernandes", "isCorrect": false }
+		],
+		"source_explanation": "Em \"Casa-Grande & Senzala\" (1933), Gilberto Freyre analisou a formação da sociedade brasileira através da miscigenação (portuguesa, indígena e africana), cunhando o conceito de \"democracia racial\".",
+		"source_abnt": "FREYRE, Gilberto. *Casa-Grande & Senzala*. 51. ed. São Paulo: Global Editora, 2006. (Publicado originalmente em 1933)."
+	},
+	{
+		"id": "CULT043",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "O que foi o \"Manguebeat\" (ou Mangue Bit)?",
+		"options": [
+			{ "description": "Um movimento cultural de Recife (anos 90), liderado por Chico Science, que misturava rock e hip-hop com ritmos regionais (como o Maracatu).", "isCorrect": true },
+			{ "description": "Um projeto de restauração ecológica dos manguezais do Nordeste.", "isCorrect": false },
+			{ "description": "Um gênero de poesia popular de Manaus.", "isCorrect": false },
+			{ "description": "Um estilo de cinema da Bahia.", "isCorrect": false }
+		],
+		"source_explanation": "O manifesto \"Caranguejos com Cérebro\" (1991), de Fred Zero Quatro, e a música de Chico Science & Nação Zumbi definiram o Manguebeat, um movimento cultural de Recife.",
+		"source_abnt": "ZERO QUATRO, Fred. Caranguejos com Cérebro. *Jornal do Commercio*, Recife, 1991. (Manifesto)."
+	},
+	{
+		"id": "CULT044",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "O que é \"Orientalismo\", segundo o teórico cultural Edward Said?",
+		"options": [
+			{ "description": "A apreciação autêntica da cultura e arte do Leste Asiático.", "isCorrect": false },
+			{ "description": "A visão ocidental (europeia e americana) do \"Oriente\" como um estereótipo exótico, inferior e estático, usada para justificar o colonialismo.", "isCorrect": true },
+			{ "description": "Um estilo de arquitetura de mesquitas.", "isCorrect": false },
+			{ "description": "O estudo da filosofia confucionista.", "isCorrect": false }
+		],
+		"source_explanation": "Em \"Orientalismo\" (1978), Edward Said funda os estudos pós-coloniais ao argumentar que o \"Oriente\" é uma construção (estereótipo) do Ocidente.",
+		"source_abnt": "SAID, Edward W. *Orientalismo: o Oriente como invenção do Ocidente*. Tradução de Rosaura Eichenberg. São Paulo: Companhia das Letras, 2007."
+	},
+	{
+		"id": "CULT045",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "Qual destas expressões culturais brasileiras é reconhecida pela UNESCO como Patrimônio Cultural Imaterial da Humanidade?",
+		"options": [
+			{ "description": "A Roda de Capoeira", "isCorrect": true },
+			{ "description": "A Bossa Nova", "isCorrect": false },
+			{ "description": "O Futebol-arte", "isCorrect": false },
+			{ "description": "A Literatura de Cordel", "isCorrect": false }
+		],
+		"source_explanation": "A Roda de Capoeira foi inscrita na Lista Representativa do Patrimônio Cultural Imaterial da Humanidade pela UNESCO em 2014.",
+		"source_abnt": "UNESCO. *Patrimônio Cultural Imaterial*. Capoeira circle. Paris: UNESCO, 2014. Disponível em: https://ich.unesco.org/en/RL/capoeira-circle-00892. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT046",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "O que é o arquétipo do \"Homem Cordial\", conceito do sociólogo Sérgio Buarque de Holanda?",
+		"options": [
+			{ "description": "Um brasileiro que é sempre educado e segue as regras (o oposto).", "isCorrect": false },
+			{ "description": "A tese de que o brasileiro é dominado pela emoção (\"coração\"), tratando a esfera pública (Estado) com a informalidade da esfera privada (família).", "isCorrect": true },
+			{ "description": "O brasileiro como um guerreiro (o \"bandeirante\").", "isCorrect": false },
+			{ "description": "O brasileiro como um \"malandro\", que vive de expedientes.", "isCorrect": false }
+		],
+		"source_explanation": "No livro \"Raízes do Brasil\" (1936), Holanda define o \"homem cordial\" (do latim \"cor\", coração) como o brasileiro cuja emoção e relações pessoais se sobrepõem à impessoalidade da esfera pública.",
+		"source_abnt": "HOLANDA, Sérgio Buarque de. *Raízes do Brasil*. 26. ed. São Paulo: Companhia das Letras, 1995. (Capítulo 5: O Homem Cordial)."
+	},
+	{
+		"id": "CULT047",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "Qual a principal diferença entre o Maracatu Nação (Baque Virado) e o Maracatu Rural (Baque Solto)?",
+		"options": [
+			{ "description": "O Nação é de Olinda e o Rural é de Recife.", "isCorrect": false },
+			{ "description": "O Nação é um cortejo real africano com percussão pesada; o Rural tem ritmo frenético (Baque Solto) e o personagem \"Caboclo de Lança\".", "isCorrect": true },
+			{ "description": "O Nação usa sanfona; o Rural usa tambores.", "isCorrect": false },
+			{ "description": "O Nação é religioso; o Rural é profano.", "isCorrect": false }
+		],
+		"source_explanation": "O IPHAN registra as duas formas distintas: O Maracatu Nação (Baque Virado) de Recife, e o Maracatu Rural (Baque Solto) da Zona da Mata de PE, com sua figura icônica do Caboclo de Lança.",
+		"source_abnt": "IPHAN (INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL). *Maracatu Nação* (2014) e *Maracatu Rural* (2014). Brasília: IPHAN. (Dossiês de Registro)."
+	},
+	{
+		"id": "CULT048",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "O que é \"Hegemonia Cultural\", conceito do filósofo marxista Antonio Gramsci?",
+		"options": [
+			{ "description": "O domínio cultural de um país sobre outro através da música pop.", "isCorrect": false },
+			{ "description": "O processo pelo qual a classe dominante mantém o poder não pela força, mas fazendo com que suas ideias e valores (a \"cultura\") sejam aceitos como o \"senso comum\".", "isCorrect": true },
+			{ "description": "A mistura de todas as culturas em uma única \"cultura global\".", "isCorrect": false },
+			{ "description": "A superioridade da \"alta cultura\" (erudita) sobre a \"baixa cultura\" (popular).", "isCorrect": false }
+		],
+		"source_explanation": "Nos \"Cadernos do Cárcere\", Gramsci desenvolve o conceito de Hegemonia Cultural, onde a dominação se dá pelo consentimento (cultura, ideologia) e não apenas pela coerção (Estado).",
+		"source_abnt": "GRAMSCI, Antonio. *Cadernos do Cárcere*. Vol. 3. Tradução de Carlos Nelson Coutinho. Rio de Janeiro: Civilização Brasileira, 2000."
+	},
+	{
+		"id": "CULT049",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "O que são \"Sambaquis\" na arqueologia brasileira?",
+		"options": [
+			{ "description": "Pinturas rupestres encontradas na Serra da Capivara.", "isCorrect": false },
+			{ "description": "Montanhas (morros) artificiais, compostas de conchas e restos de peixes, usadas como cemitérios por povos pré-históricos do litoral.", "isCorrect": true },
+			{ "description": "As ruínas das missões jesuíticas.", "isCorrect": false },
+			{ "description": "Um tipo de cerâmica marajoara.", "isCorrect": false }
+		],
+		"source_explanation": "Sambaquis (\"amontoado de conchas\" em Tupi) são sítios arqueológicos litorâneos do Brasil pré-colonial, formados pelo acúmulo de conchas, ossos e artefatos.",
+		"source_abnt": "IPHAN (INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL). *Sambaquis*. Brasília: IPHAN, [s.d.]. Disponível em: https://www.gov.br/iphan/pt-br/assuntos/arqueologia/sambaquis. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT050",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "Qual o significado da pintura \"Abaporu\" (1928), de Tarsila do Amaral?",
+		"options": [
+			{ "description": "É um retrato realista de um trabalhador rural.", "isCorrect": false },
+			{ "description": "Iniciou o Movimento Antropofágico, simbolizando o \"homem que come\" (absorve) a cultura estrangeira para criar algo novo.", "isCorrect": true },
+			{ "description": "É uma crítica à industrialização de São Paulo.", "isCorrect": false },
+			{ "description": "Representa a independência do Brasil.", "isCorrect": false }
+		],
+		"source_explanation": "\"Abaporu\" (Tupi para \"homem que come gente\") foi o presente de Tarsila para Oswald de Andrade, que inspirou o Manifesto Antropofágico (1928).",
+		"source_abnt": "MALBA (MUSEO DE ARTE LATINOAMERICANO DE BUENOS AIRES). *Tarsila do Amaral: Abaporu*. Buenos Aires: MALBA, [s.d.]. Disponível em: https://www.malba.org.ar/en/obra/abaporu/. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT051",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "O que é \"Sincretismo Religioso\" no contexto brasileiro?",
+		"options": [
+			{ "description": "A fusão de elementos de diferentes religiões (ex: Orixás africanos associados a Santos católicos).", "isCorrect": true },
+			{ "description": "A proibição de todas as religiões, exceto uma.", "isCorrect": false },
+			{ "description": "O ateísmo de estado.", "isCorrect": false },
+			{ "description": "Uma religião que adora apenas a natureza.", "isCorrect": false }
+		],
+		"source_explanation": "O sincretismo (ex: Iemanjá e Nossa Senhora dos Navegantes; Ogum e São Jorge) foi uma estratégia de sobrevivência das religiões afro-brasileiras, misturando-as ao catolicismo.",
+		"source_abnt": "PRANDI, Reginaldo. *Mitologia dos Orixás*. São Paulo: Companhia das Letras, 2001. (Introdução sobre Sincretismo)."
+	},
+	{
+		"id": "CULT052",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "Quem foi o Aleijadinho (Antônio Francisco Lisboa)?",
+		"options": [
+			{ "description": "O líder da Inconfidência Mineira.", "isCorrect": false },
+			{ "description": "O arquiteto modernista que projetou Brasília.", "isCorrect": false },
+			{ "description": "O mestre escultor e arquiteto do Barroco Mineiro, famoso por suas obras em Congonhas (Os 12 Profetas).", "isCorrect": true },
+			{ "description": "Um poeta do Arcadismo.", "isCorrect": false }
+		],
+		"source_explanation": "Aleijadinho (séc. XVIII) é o maior expoente do Barroco Mineiro. Suas esculturas dos 12 Profetas em Congonhas são Patrimônio Mundial da UNESCO.",
+		"source_abnt": "UNESCO. *World Heritage List*. Sanctuary of Bom Jesus do Congonhas. Paris: UNESCO, 1985. Disponível em: https://whc.unesco.org/en/list/334. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT053",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "O que o sociólogo Roberto DaMatta define como o \"jeitinho brasileiro\"?",
+		"options": [
+			{ "description": "Um modo de navegação social que usa a informalidade e as relações pessoais para \"contornar\" a impessoalidade da lei.", "isCorrect": true },
+			{ "description": "A corrupção endêmica na política.", "isCorrect": false },
+			{ "description": "A criatividade na música e no futebol.", "isCorrect": false },
+			{ "description": "A preguiça e a procrastinação.", "isCorrect": false }
+		],
+		"source_explanation": "Em \"Carnavais, Malandros e Heróis\", DaMatta analisa o \"jeitinho\" como um mecanismo de mediação social entre o indivíduo (pessoal) e a lei (impessoal) no Brasil.",
+		"source_abnt": "DAMATTA, Roberto. *Carnavais, Malandros e Heróis: para uma sociologia do dilema brasileiro*. 6. ed. Rio de Janeiro: Rocco, 1997."
+	},
+	{
+		"id": "CULT054",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "O que foi a \"Jovem Guarda\"?",
+		"options": [
+			{ "description": "O movimento Tropicalista.", "isCorrect": false },
+			{ "description": "O primeiro movimento de rock 'n' roll brasileiro (anos 60), liderado por Roberto Carlos, Erasmo Carlos e Wanderléa.", "isCorrect": true },
+			{ "description": "A guarda presidencial durante a ditadura militar.", "isCorrect": false },
+			{ "description": "O grupo de poetas da Semana de 22.", "isCorrect": false }
+		],
+		"source_explanation": "A Jovem Guarda foi um movimento cultural e musical brasileiro (1965-1968), baseado no programa de TV homônimo, que introduziu o rock 'n' roll (iê-iê-iê) no Brasil.",
+		"source_abnt": "CALADO, Carlos. *A Divina Comédia Mutante: os Mutantes e o Tropicalismo*. São Paulo: Editora 34, 1996. (Capítulo sobre a Jovem Guarda)."
+	},
+	{
+		"id": "CULT055",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "O que é uma \"Língua Franca\"?",
+		"options": [
+			{ "description": "A língua oficial da França (Francês).", "isCorrect": false },
+			{ "description": "Uma língua adotada como linguagem comum entre falantes de diferentes línguas nativas (ex: o Inglês hoje).", "isCorrect": true },
+			{ "description": "Uma língua morta que não é mais falada (ex: Latim).", "isCorrect": false },
+			{ "description": "Um dialeto falado apenas em uma região.", "isCorrect": false }
+		],
+		"source_explanation": "Uma língua franca é uma língua-ponte usada para comunicação entre grupos que não compartilham uma língua nativa. O Inglês é a língua franca global atual.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Lingua franca. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/lingua-franca. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT056",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "Quem foi Paulo Freire na cultura brasileira?",
+		"options": [
+			{ "description": "Um arquiteto modernista.", "isCorrect": false },
+			{ "description": "Um educador e filósofo, mundialmente famoso por seu método de alfabetização (a \"Pedagogia do Oprimido\").", "isCorrect": true },
+			{ "description": "Um compositor de Bossa Nova.", "isCorrect": false },
+			{ "description": "Um jogador de futebol da seleção de 1970.", "isCorrect": false }
+		],
+		"source_explanation": "Paulo Freire (1921-1997) é um dos educadores mais influentes do século XX, autor da \"Pedagogia do Oprimido\", que propõe uma pedagogia crítica.",
+		"source_abnt": "FREIRE, Paulo. *Pedagogia do Oprimido*. 17. ed. Rio de Janeiro: Paz e Terra, 1987. (Publicado originalmente em 1968)."
+	},
+	{
+		"id": "CULT057",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "O que é \"Literatura de Cordel\"?",
+		"options": [
+			{ "description": "Romances policiais ambientados no cangaço.", "isCorrect": false },
+			{ "description": "Um gênero de poesia popular do Nordeste do Brasil, impresso em folhetos e pendurado em cordas (cordéis).", "isCorrect": true },
+			{ "description": "A troca de cartas entre autores modernistas.", "isCorrect": false },
+			{ "description": "Obras de teatro sobre a seca.", "isCorrect": false }
+		],
+		"source_explanation": "A Literatura de Cordel, que combina tradições orais e escritas em folhetos ilustrados com xilogravura, é registrada pelo IPHAN como Patrimônio Cultural do Brasil.",
+		"source_abnt": "IPHAN (INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL). *Literatura de Cordel*. Brasília: IPHAN, 2018. (Dossiê de Registro)."
+	},
+	{
+		"id": "CULT058",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "O que é a \"Hallyu\" (Onda Coreana)?",
+		"options": [
+			{ "description": "O tsunami que atingiu a Coreia em 2011.", "isCorrect": false },
+			{ "description": "O termo que descreve o aumento da popularidade global da cultura sul-coreana (K-Pop, K-Dramas, Cinema).", "isCorrect": true },
+			{ "description": "A filosofia de governo da Coreia do Norte.", "isCorrect": false },
+			{ "description": "Um estilo de culinária coreana (Churrasco Coreano).", "isCorrect": false }
+		],
+		"source_explanation": "Hallyu (Onda Coreana) é o termo que descreve a exportação global da cultura pop sul-coreana (música, TV, cinema) desde os anos 1990.",
+		"source_abnt": "ENCYCLOPÆDIA BRITANNICA. Korean Wave. *Encyclopædia Britannica*, 2024. Disponível em: https://www.britannica.com/topic/Korean-Wave. Acesso em: 6 nov. 2025."
+	},
+	{
+		"id": "CULT059",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "O que é o \"Carimbó\"?",
+		"options": [
+			{ "description": "Um ritual indígena do Xingu.", "isCorrect": false },
+			{ "description": "Uma dança e ritmo musical de origem indígena e africana, tradicional do estado do Pará.", "isCorrect": true },
+			{ "description": "Um prato à base de mandioca e camarão.", "isCorrect": false },
+			{ "description": "Um tipo de cerâmica do Amapá.", "isCorrect": false }
+		],
+		"source_explanation": "O Carimbó, uma expressão cultural do Pará que combina música e dança, é registrado pelo IPHAN como Patrimônio Cultural do Brasil.",
+		"source_abnt": "IPHAN (INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL). *Carimbó*. Brasília: IPHAN, 2014. (Dossiê de Registro)."
+	},
+	{
+		"id": "CULT060",
+		"category": "Cultura",
+		"level": "hard",
+		"question": "Quem foi Darcy Ribeiro?",
+		"options": [
+			{ "description": "Um jogador de futebol e técnico.", "isCorrect": false },
+			{ "description": "Um antropólogo, escritor e político, famoso por seus estudos sobre os povos indígenas brasileiros e a formação do \"povo brasileiro\".", "isCorrect": true },
+			{ "description": "Um compositor da Bossa Nova.", "isCorrect": false },
+			{ "description": "Um diretor do Cinema Novo.", "isCorrect": false }
+		],
+		"source_explanation": "Darcy Ribeiro foi um dos maiores intelectuais brasileiros, fundador da Universidade de Brasília (UnB) e autor da obra \"O Povo Brasileiro\", que analisa a formação cultural do Brasil.",
+		"source_abnt": "RIBEIRO, Darcy. *O Povo Brasileiro: a formação e o sentido do Brasil*. 2. ed. São Paulo: Companhia das Letras, 1995."
+	}
+]
